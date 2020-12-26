@@ -458,10 +458,10 @@ ID=328
 ลำดับการขยายช่องไม่ถูกต้อง
 
 ID=329
-「インベントリ拡張券」がないため、スロットを拡張できません。
+An "Inventory Expansion Ticket" is required to expand slots.
 
 ID=330
-「銀行倉庫拡張券」がないため\nスロットを拡張できません。
+An "Bank Expansion Ticket" is required to expand slots.
 
 ID=333
 {0} ใช้งานเรียบร้อย
@@ -488,7 +488,7 @@ ID=340
 ค่าใช้จ่ายในการขยาย: {0} Zenny
 
 ID=341
-拡張費用：{0}Y.P
+Expansion Cost: {0} Y.P
 
 ID=342
 คุณต้องการซื้อ {1} [{0}] จำนวน {2}?
@@ -611,10 +611,10 @@ ID=396
 {0}Y.P
 
 ID=397
-{0}ポイント
+{0} Point
 
 ID=398
-{0}マイレージ
+{0} Mileage
 
 ID=401
 เก็บของ
@@ -656,7 +656,7 @@ ID=413
 ย่อยของ
 
 ID=414
-ソケット管理
+Manage Sockets
 
 ID=415
 ซ่อมแซม
@@ -788,10 +788,10 @@ ID=471
 ความคืบหน้า
 
 ID=472
-{0}時間{1}分{2}秒{3}
+{0}ชั่วโมง{1}นาที{2}วินาที{3}
 
 ID=473
-{0}分{1}秒{2}
+{0}นาที{1}วินาที{2}
 
 ID=474
 รางวัลเสริมจากการซื้อ: {0} X {1}
@@ -875,7 +875,7 @@ ID=502
 โอนหัวหน้า
 
 ID=503
-パーティー追放
+คุณถูกเตะออกจากปาร์ตี้
 
 ID=504
 ออกจากปาร์ตี้
@@ -938,7 +938,7 @@ ID=525
 ปฏิเสธ
 
 ID=531
-OFFLINE
+ออฟไลน์
 
 ID=536
 あ
@@ -1205,7 +1205,7 @@ ID=653
 สมาชิก {0} ปฏิเสธการเข้าร่วมดันเจี้ยน
 
 ID=661
-まもなく次のエリアに移動します。\n(残り{0}秒)
+จะย้ายไปยังพื้นที่ถัดไปเร็ว ๆ นี้ \n (เหลืออีก {0} วินาที)
 
 ID=665
 คุณต้องการฟื้นฟูค่าความเหนื่อยหรือไม่?
@@ -1220,7 +1220,7 @@ ID=671
 ฟื้นฟู soul energy โดยธรรมชาติ
 
 ID=672
-力尽きました。町に移動します。
+ฉันเหนื่อย. ย้ายไปที่เมือง.
 
 ID=673
 ใช้[{0}]
@@ -1259,22 +1259,22 @@ ID=700
 สนทนา
 
 ID=701
-商店[{0}]
+Shop [{0}]
 
 ID=702
-銀行[{0}]
+Bank [{0}]
 
 ID=703
-強化[{0}]
+Enhance [{0}]
 
 ID=704
-合成[{0}]
+Synthesis [{0}]
 
 ID=705
 Auction House
 
 ID=706
-製作[{0}]
+Craft [{0}]
 
 ID=707
 Fashion (ในภายหลัง)
@@ -1304,16 +1304,16 @@ ID=715
 สนทนาเควส
 
 ID=716
-トップ[Q]
+Top[Q]
 
 ID=717
-戻る[E]
+กลับ[E]
 
 ID=718
 ถัดไป[Space]
 
 ID=719
-Skip [R]
+ข้าม [R]
 
 ID=720
 ปิด[ESC]
@@ -1343,31 +1343,32 @@ ID=728
 LV.{0}
 
 ID=729
-リサイクルショップ[{0}]
+ร้านรีไซเคิล{0}]
 
 ID=730
-オプション精錬機能[{0}]
+ฟังก์ชั่นปรับแต่งเพิ่มเติม[{0}]
 
 ID=731
 ที่{0}
 
 ID=732
-カジュアルレイド、別名「異常空白」は高難易度のメイズです。
+
+Casual Raids หรือที่เรียกว่า "Space Abnormalities" เป็นดันเจี้ยนที่มีความยากสูง
 
 ID=733
-「ゴールデンシタデル」は5つの地域を攻略するメイズです。黄金の災厄を突破してください。
+"Golden Citadel" คือดันเจี้ยนที่คุณพิชิต 5 พื้นที่ฝ่าความหายนะสีทองนี้
 
 ID=734
-極限の戦闘トレーニングシミュレーション「スチールグレイブ」で自らの限界に挑戦してください。1日に5回挑戦できます。
+ท้าทายขีด จำกัด ของคุณในการจำลองการฝึกการต่อสู้ที่รุนแรง "Steel Grave" คุณสามารถท้าทายสิ่งนี้ได้ถึง 5 ครั้งต่อวัน
 
 ID=735
-Normal
+ปกติ
 
 ID=736
 ยากมาก
 
 ID=737
-Expert
+เชี่ยวชาญ
 
 ID=738
 ปาร์ตี้ส่วนตัว
@@ -1418,7 +1419,7 @@ ID=753
 จำกัดเวลาฟื้นฟู(ส่วนบุคคล)
 
 ID=754
-エリア移動[{0}]
+Area Transfer [{0}]
 
 ID=755
 <font color='#0099FF'>ย่อยสลายได้</font>
@@ -1550,7 +1551,7 @@ ID=797
 แปลงโหมด Sniper
 
 ID=798
-(ネカフェ入場回数：残り{0})
+(Netcafe จำนวนผู้เข้าร่วม: เหลืออีก {0} รายการ)
 
 ID=799
 (Netcafe ผลประโยชน์เข้าชม: {0})
@@ -1571,7 +1572,7 @@ ID=804
 เปรียบเทียบผลของซ็อกเก็ต
 
 ID=805
-{0}Setting: 
+{0}ตั้งค่า: 
 
 ID=806
 Exp
@@ -1589,7 +1590,7 @@ ID=811
 ติดตั้ง Socket
 
 ID=812
-ソケットアイテム（ファミリア/ソウルストーン）を装着できます。
+คุณสามารถแนบ Socket Item (Familiar/Soulstone)
 
 ID=813
 คุณไม่มีเงินหรือไอเทม \n สำหรับการติดตั้ง Socket
@@ -1598,7 +1599,7 @@ ID=814
 ค่าใช้จ่าย
 
 ID=815
-ソケットアイテム（ファミリア/ソウルストーン）装着
+Attach Socket Item (Familiar/Soulstone)
 
 ID=816
 จำเป็นที่จะต้องปลดผนึก Socket เก่าเสียก่อน เพื่อดำเนินการใส่ Socket ใหม่
@@ -1607,25 +1608,26 @@ ID=817
 คุณสามารถติดตั้ง Socket ได้หลังจากปลด Socket item ปัจจุบัน
 
 ID=818
-対象ソケットに{0}を装着しますか？
+คุณต้องการติด {0} เข้ากับซ็อกเก็ตเป้าหมายหรือไม่
 
 ID=819
-ソケットアイテム（ファミリア/ソウルストーン）装着に成功しました。
+ประสบความสำเร็จในการติดตั้งไอเท็มซ็อกเก็ต (Familia/Soul Stone)
 
 ID=820
 จัดการรายการซ็อกเก็ต
 
 ID=821
-ソケットに装着中のソケットアイテム（ファミリア/ソウルストーン）を解除したり、\n新しいソケットを追加できます。
+
+คุณสามารถปลดล็อกไอเท็มซ็อกเก็ต (Familiar / Soulstone) ที่ติดอยู่กับซ็อกเก็ตหรือเพิ่มซ็อกเก็ตใหม่
 
 ID=822
 ท่านไม่มีไอเทม /n หรือค่าใช้จ่ายเพื่อปลดปล่อยไอเทม
 
 ID=823
-新規ソケット追加に必要なアイテム[インプラントスロット]が不足しています。
+You do not have the required item, "Implant Slot", to add a new Socket.
 
 ID=824
-ソケットアイテム（ファミリア/ソウルストーン）解除
+Remove Socket Item (Familiar/Soulstone)
 
 ID=825
 ช่อง Socket เสริม
@@ -1634,13 +1636,13 @@ ID=826
 แน่ใจหรือไม่ที่จะนำ Socket Item นี้ออก? /n (ไอเทมจะกลับสู่ช่องเก็บของ)
 
 ID=827
-新しいソケットを追加しますか？
+Are you sure you want to add a new Socket?
 
 ID=828
-ソケットアイテム（ファミリア/ソウルストーン）装着はソケットアイテム装着ポップアップで進行できます。\n(装着ポップアップはアイテム右クリックメニューから選択できます。)
+You can proceed in attaching Socket Item (Familiar/Soulstone) in the Attach Socket Item Pop-up\n(attachment pop-up can be selected from the item's right-click menu)
 
 ID=829
-選択したソケットアイテム（ファミリア/ソウルストーン）が解除されました。
+The Socket Item (Familiar/Soulstone) has been removed.
 
 ID=830
 ดำเนินการ Socket สู่ไอเทมเสร็จสิ้น
@@ -1688,7 +1690,7 @@ ID=854
 ดันเจี้ยน
 
 ID=855
-Portal
+พอร์ทัล
 
 ID=856
 NPC
@@ -1946,7 +1948,7 @@ ID=965
 การอัพเกรดไอเทมนี้มีโอกาสเสียหายได้เมื่อผิดพลาด (เมื่อไอเทมเสียหายจะไม่สามารถนำมาใช้งานได้อีก)
 
 ID=966
-破壊防止アイテムは、装備破壊可能性がある時に使用できます。
+สามารถใช้ไอเทมป้องกันการทำลายล้างเมื่ออุปกรณ์อาจถูกทำลาย
 
 ID=967
 อัพเกรด
@@ -2051,7 +2053,7 @@ ID=1000
 {0}{1} จำนวน {2}{3} คุณแน่ใจหรือว่าต้องการเปลี่ยนแปลงไอเทม
 
 ID=1001
-ソフトボブカット
+ผมบ๊อบนุ่มๆ
 
 ID=1002
 Short'n Wild
@@ -2204,7 +2206,7 @@ ID=1131
 คุณต้องการที่จะสร้างตัวละครในขณะนี้หรือไม่?
 
 ID=1132
-กรุณากรอก 2 ตัวอักษรหรือมากกว่าตัวอักษรของชื่อตัวละคร
+กรุณากรอก 2 ตัวละครหรือมากกว่าตัวละครของชื่อตัวละคร
 
 ID=1133
 โปรดตรวจสอบชื่อตัวละครอีกครั้ง
@@ -2888,7 +2890,7 @@ ID=3052
 กรุณากรอกชื่อร้านค้าส่วนตัว
 
 ID=3053
-[ชื่อร้านค้าส่วนบุคคลเกิน 20 ตัวอักษรที่สามารถป้อน]
+[ชื่อร้านค้าส่วนบุคคลเกิน 20 ตัวละครที่สามารถป้อน]
 
 ID=3054
 เสร็จสิ้นการแลกเปลี่ยน
@@ -3014,7 +3016,7 @@ ID=3117
 ซัพพอร์ต
 
 ID=3118
-キャッシュ
+Cash
 
 ID=3200
 ใช้แพคเกจ
@@ -3149,7 +3151,7 @@ ID=5051
 <Break skills>\nสามารถใช้กัดเซาะ
 
 ID=5053
-<ブレイクスキル>\n覚醒使用可能
+[Break Skill]\nAwakening Available
 
 ID=5100
 วิดีโอแนะนำ
@@ -3218,22 +3220,21 @@ ID=5308
 เริ่มเกม[ENTER]
 
 ID=5309
-ลบอักขระ
+ลบตัวละคร
 
 ID=5310
 สร้างตัวละครใหม่
 
 ID=5311
-ลบอักขระ
+ลบตัวละคร
 
 ID=5312
-キャラクターを削除すると、全てのデータが削除され復旧は行えません。\n今後同じキャラクター名が利用できなくなる場合があります。\n本当に削除しますか？
-
+หากคุณลบอักขระข้อมูลทั้งหมดจะถูกลบและไม่สามารถกู้คืนได้ \n ชื่ออักขระเดียวกันนี้อาจไม่สามารถใช้งานได้หลังจากนี้ \n คุณต้องการลบอักขระนี้จริงๆหรือ?
 ID=5313
-ลบตัวอักษรที่ไม่สามารถกู้คืน \nถ้ากิลด์กิลด์หลักเป็นแทน \nคุณต้องการลบอักขระ?
+ลบตัวละครที่ไม่สามารถกู้คืน \nถ้ากิลด์กิลด์หลักเป็นแทน \nคุณต้องการลบอักขระ?
 
 ID=5314
-ลบตัวอักษรที่ไม่สามารถกู้คืน \nนอกจากนี้ยังจะชื่องานการเลิกจ้างของนายกิลด์ \nคุณต้องการลบอักขระ?
+ลบตัวละครที่ไม่สามารถกู้คืน \nนอกจากนี้ยังจะชื่องานการเลิกจ้างของนายกิลด์ \nคุณต้องการลบอักขระ?
 
 ID=5315
 คุณสามารถลบอักขระที่สร้างขึ้นหลังจาก 24 ชม \nเหลือ: {0} เมื่อ {1} นาที
@@ -3311,7 +3312,7 @@ ID=5444
 อาวุธคือกีต้าร์ \nเรียกผีเล่นทำนองของการเสียชีวิต
 
 ID=5445
-使用武器は砲撃機能を持つハンマー。\n圧倒的火力で敵を制圧する。
+Uses a Artillery Bombardment functional hammer.\nControl over enemies with overwhelming fire power.
 
 ID=5470
 สาวแสดงให้เห็นถึงความสามารถที่แตกต่างกันความรู้สึกของการทำอะไรไม่ถูกที่ได้รับการลิดรอนของทั้งหมดที่จะไม่สามารถที่จะทำอะไรที่เป็นตัวกลาง ใบมีดขนาดใหญ่ควงสาวอ่อนโยนเดินทนทุกข์ทรมานจากการชดใช้และความสำนึกผิด
@@ -3329,7 +3330,7 @@ ID=5474
 หญิงสาวแสดงให้เห็นถึงความสามารถที่ต่างกันผ่านความเศร้าโศก ความไร้เดียงสาที่-ที่ก้าวของคุณเอง แต่เธอเล่นเมโลดี้ที่เต็มไป ด้วย pathos อย่างใด
 
 ID=5475
-憤怒を媒介に異能力を発揮する少女。この狂った世界に怒りを放つが、戻ってくるのは自分の声と虚無感だけだった。
+Uses a Artillery Bombardment functional hammer.\nControl over enemies with overwhelming fire power.
 
 ID=5500
 ดูตัวอย่าง
@@ -3380,7 +3381,7 @@ ID=5515
 ชื่อตัวละคร
 
 ID=5516
-ไม่เกิน 2-12 ตัวอักษร
+ไม่เกิน 2-12 ตัวละคร
 
 ID=5517
 คืนค่าเดิม
@@ -3389,7 +3390,7 @@ ID=5518
 สุ่ม
 
 ID=5519
-ตั้งค่ารูปแบบตัวอักษร
+ตั้งค่ารูปแบบตัวละคร
 
 ID=5800
 <font color='#FFFFFF'><font size="30">TIP：</font>อุปกรณ์พื้นฐานในแต่ละเมืองสามารถซื้อได้ที่ <font color='#00ff9c'>Jaito</font> จากร้านค้าอุปกรณ์
@@ -3440,7 +3441,7 @@ ID=5816
 <font color='#FFFFFF'><font size="30">TIP：</font>การตั้งค่าเกมทั่วไปคุณสามารถทำได้จากแท็บ <font color='#00ff9c'> [ESC] </font> ในส่วนของ <font color='#00D8FF'>[Preferences]</font>
 
 ID=5817
-<font color='#FFFFFF'><font size="30">TIP：</font>コミュニティーでは、<font color='#00D8FF'>[フレンド]</font>または<font color='#00D8FF'>[遮断]</font>に関連した機能を使用できます。
+<font color='#FFFFFF'><font size="30">TIP: </font>Pressing <font color='#00D8FF'>[O]</font> you can access to Community list. There you can manage your <font color='#00D8FF'>[Friend List]</font> and <font color='#00D8FF'>[Block List]</font>
 
 ID=5818
 <font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>[スキル][A.Rカード]</font>の使用は、ショートカットキー<font color='#00ff9c'>[K] [;]</font>やメニューでスキルウィンドウ活性化後、\nスキルスロットに登録すると使用できます。
@@ -3473,7 +3474,7 @@ ID=5827
 <font color='#FFFFFF'><font size="30">TIP：</font>เรียกใช้ปุ่ม<font color='#00ff9c'> [Alt] </font>เพื่อเปลี่ยนโหมดเมาส์
 
 ID=5828
-<font color='#FFFFFF'><font size="30">TIP：</font>Lv55到達後は、</font><font color='#00ff9c'>[ランク]</font>が適用されます。
+<font color='#FFFFFF' size='30'>TIP: </font>After reaching Lv55, <font color='#00D8FF'>[Rank]</font> will be applied.
 
 ID=5829
 <font color='#FFFFFF'><font size="30">TIP：</font>เมื่อ Channel ปัจจุบันไม่ว่างกรุณา\n<font color='#00D8FF'> ย้าย </font>ไปอีกช่องทางหนึ่งที่ช่องด้านบนของแผนที่
@@ -3758,7 +3759,7 @@ ID=6025
 ใช้ช่องบัตร A.R \nบัตร A.R ที่ได้มาไม่สามารถซื้อขาย
 
 ID=6026
-A.Rカードを使用して固有能力を獲得します。\n使用したA.Rカードはインベントリから削除されます。\nA.Rカードに登録されます。\n使用しますか？
+แน่ใจไหมว่าต้องการทำให้การ์ด A.R "{0}" ไม่ลงรอยกัน
 
 ID=6027
 A.R คุณไม่สามารถใช้รายการเพราะไม่มีพื้นที่ว่างบนบัตร
@@ -3896,37 +3897,37 @@ ID=6909
 คุณอาจมักจะไม่ตรงกัน และถูกจำกัดการใช้
 
 ID=6910
-進行中のマッチングを中止しますか？\n(頻繁にマッチング中止時、利用を制限されることがあります)
+คุณต้องการหยุดการจับคู่ที่อยู่ระหว่างดำเนินการหรือไม่ \n (เมื่อหยุดการจับคู่บ่อยๆการใช้งานอาจถูก จำกัด )
 
 ID=6911
-頻繁なマッチング中止により入場が制限されます。\n(残り：{0}分{1}秒)
+การรับเข้าถูก จำกัด เนื่องจากการยกเลิกการจับคู่บ่อยครั้ง \n (เหลือ: {0} นาที {1} วินาที)
 
 ID=6912
 สำหรับการจับคู่เสร็จสมบูรณ์ การจับคู่ไม่ถูกยกเลิก
 
 ID=6913
-ゲーム進行中の離脱が確認されました。\n該当試合は敗北処理され、\n一定時間、フリーマッチの入場が制限されます。\n(残り：{0}分{1}秒)
+ได้รับการยืนยันว่าเกมกำลังดำเนินอยู่ \n การแข่งขันจะพ่ายแพ้และ \n การเข้าร่วมการแข่งขันฟรีจะถูก จำกัด ในช่วงเวลาหนึ่ง \n (เหลือ: {0} นาที {1} วินาที)
 
 ID=6914
-試合中にゲーム終了時、試合は敗北となり\n一定時間ゲームの利用が制限されます。\n本当にゲームを終了しますか？
+ในตอนท้ายของเกมระหว่างการแข่งขันการแข่งขันจะพ่ายแพ้และ \n การใช้เกมจะถูก จำกัด ในช่วงเวลาหนึ่ง \n คุณต้องการจบเกมจริงๆหรือ?
 
 ID=6915
 {0} ได้ออกจากเกม
 
 ID=6916
-試合開始準備中です。\n{0}秒後に試合が始まります。
+กำลังเตรียมที่จะเริ่มเกม \n การแข่งขันจะเริ่มใน {0} วินาที
 
 ID=6917
-{0}ラウンドの準備中\n試合開始{1}秒前
+กำลังเตรียมพร้อมสำหรับ {0} รอบ \n การแข่งขันเริ่มขึ้น {1} วินาทีที่ผ่านมา
 
 ID=6918
-Round{0}
+รอบ{0}
 
 ID=6919
-{0}チームの勝利\n({1}秒後、次のラウンドが始まります)
+{0} ทีมชนะ \n ({1} วินาทีต่อมารอบต่อไปจะเริ่มขึ้น)
 
 ID=6920
-{0}チームの勝利\n({1}秒後、試合結果を集計します)
+{0} ทีมชนะ \n (หลังจากผ่านไป {1} วินาทีผลการแข่งขันจะถูกรวม)
 
 ID=6921
 ข้อมูลสมาชิกในทีม
@@ -3935,16 +3936,16 @@ ID=6922
 ผลการเล่นเกม
 
 ID=6923
-ラウンド記録：{0}勝{1}敗
+Round Record: {0} ชนะ {1} แพ้
 
 ID=6924
-進行時間：{0}分{1}秒
+เวลาดำเนินการ: {0} นาที {1} วินาที
 
 ID=6925
 โปรแกรมเกม
 
 ID=6926
-同じ条件でもう一度試合を進行します。\n(全員が申請すると試合が進行されます)
+การแข่งขันจะเล่นอีกครั้งภายใต้เงื่อนไขเดียวกัน \n (การแข่งขันจะดำเนินต่อไปเมื่อทุกคนสมัคร)
 
 ID=6927
 โปรแกรมประยุกต์เกมไม่ได้
@@ -3959,10 +3960,10 @@ ID=6930
 ออก
 
 ID=6931
-{0}が再試合を申請しました。\n同意の場合、再試合申請を押してください。
+{0} ได้สมัครเข้าร่วมการแข่งขันใหม่ \n หากคุณเห็นด้วยโปรดกด Rematch Request
 
 ID=6932
-全員が再試合を申請しました。\n{0}秒後、再試合を始めます。
+ทุกคนสมัครรีแมตช์ \n หลังจากผ่านไป {0} วินาทีการแข่งขันจะเริ่มขึ้น
 
 ID=7000
 ตัวอย่าง
@@ -4067,46 +4068,46 @@ ID=8202
 โอกาศ Invincible {0}%
 
 ID=8300
-ล็อกอินเช็ค
+เช็คอิน
 
 ID=8301
-連続出席報酬
+เข้าร่วมต่อเนื่อง
 
 ID=8302
-接続維持報酬
+รางวัลเวลาเล่น
 
 ID=8303
 รับ
 
 ID=8304
-出席報酬
+Attendance Reward
 
 ID=8305
-{0}月
+{0} เดือน
 
 ID=8306
-注意事項
+หมายเหตุ
 
 ID=8307
 เรียบร้อยแล้ว
 
 ID=8308
--連続出席報酬は毎日の出席時に獲得し、3日連続報酬を獲得すると1日目からになります。\n-月毎出席報酬は毎月1日にリセットされます。\n-出席報酬は毎日09：00にリセットされます。
+- รางวัลการเข้าร่วมแบบต่อเนื่องจะเริ่มต้นเมื่อเข้าสู่ระบบหลังจาก 3 วันมันจะเริ่มใหม่ตั้งแต่วันที่ 1 \n- รางวัลการเข้าร่วมรายเดือนจะถูกรีเซ็ตในวันที่ 1 ของทุกเดือน \n- การเข้าร่วมจะถูกรีเซ็ตเวลา 09.00 น. JST / 00:00 UTC.
 
 ID=8404
-30分
+30 นาที
 
 ID=8405
-60分
+60 นาที
 
 ID=8406
-90分
+90 นาที
 
 ID=8407
-{0}日目
+{0} วัน
 
 ID=8309
-接続時間達成時に報酬を獲得できます。
+คุณสามารถรับรางวัลได้หลังจากถึงโควต้าเวลาเล่นที่กำหนด
 
 ID=8310
 ตรวจสอบของรางวัล
@@ -4223,7 +4224,7 @@ ID=8347
 รางวัล \nเข้าสู่ระบบรายวัน
 
 ID=8348
-毎日ログインすると報酬を獲得できます。
+คุณสามารถรับรางวัลได้โดยเข้าสู่ระบบทุกวัน
 
 ID=8400
 ตาย
@@ -4235,7 +4236,7 @@ ID=8402
 ไม่ได้อยู่ที่นี่
 
 ID=8403
-OFFLINE
+ออฟไลน์
 
 ID=9000
 Season 1
@@ -4250,7 +4251,7 @@ ID=9100
 ห้อง
 
 ID=9101
-グラスカバーキャンプ
+Grasscover Camp
 
 ID=9102
 ห้อง
@@ -4316,7 +4317,7 @@ ID=9251
 Best Showtime
 
 ID=9252
-属性カジュアルレイド
+Attributed Casual Raid
 
 ID=9301
 Candus City
@@ -4430,85 +4431,85 @@ ID=9780
 Bandit Highway
 
 ID=9781
- Iron Castle
+Iron Castle
 
 ID=9782
 The Primal
 
 ID=9783
-光輝のラストカーニバル
+Last Carnival of Brilliance
 
 ID=9784
-悪念のラストカーニバル
+Last Carnival of Malice
 
 ID=9785
-冷静のラストカーニバル
+Last Carnival of Serenity
 
 ID=9786
-憎悪のラストカーニバル
+Last Carnival of Hatred
 
 ID=9787
-治癒のラストカーニバル
+Last Carnival of Healing
 
 ID=9788
-苦痛のラストカーニバル
+Last Carnival of Agony
 
 ID=9789
-光輝のジャンクハイブ
+Junk Hive of Brilliance
 
 ID=9790
-悪念のジャンクハイブ
+Junk Hive of Malice
 
 ID=9791
-冷静のジャンクハイブ
+Junk Hive of Serenity
 
 ID=9792
-憎悪のジャンクハイブ
+Junk Hive of Hatred
 
 ID=9793
-治癒のジャンクハイブ
+Junk Hive of Healing
 
 ID=9794
-苦痛のジャンクハイブ
+Junk Hive of Agony
 
 ID=9795
-光輝のバンディットハイウェイ
+Bandit Highway of Brilliance
 
 ID=9796
-悪念のバンディットハイウェイ
+Bandit Highway of Malice
 
 ID=9797
-冷静のバンディットハイウェイ
+Bandit Highway of Serenity
 
 ID=9798
-憎悪のバンディットハイウェイ
+Bandit Highway of Hatred
 
 ID=9799
-治癒のバンディットハイウェイ
+Bandit Highway of Healing
 
 ID=9800
-苦痛のバンディットハイウェイ
+Bandit Highway of Agony
 
 ID=9801
-光輝のアイアンキャッスル
+Iron Castle of Brilliance
 
 ID=9802
-悪念のアイアンキャッスル
+Iron Castle of Malice
 
 ID=9803
-冷静のアイアンキャッスル
+Iron Castle of Serenity
 
 ID=9804
-憎悪のアイアンキャッスル
+Iron Castle of Hatred
 
 ID=9805
-治癒のアイアンキャッスル
+Iron Castle of Healing
 
 ID=9806
-苦痛のアイアンキャッスル
+Iron Castle of Agony
 
 ID=9891
-緊急事態発生地
+Emergency Area
 
 ID=9981
 Rocco Town ทางลัด
@@ -4580,16 +4581,16 @@ ID=10025
 -
 
 ID=10031
-スタリーフォレスト連合加入のためのテストが\n行われる基礎体力訓練場で\n軽い戦闘テストが進行できる。
+Trial for Starry Forest League Membership\nComplete Basic Combat Training.\nProceed with the trial.
 
 ID=10032
-工事が中断されたロコタウンの建設現場。\nネッドカンパニーが地下に埋まるソウルを\n抽出しようと試みた工事現場。
+Rocco's City Construction has been suspended.\nThe Soul NED Company occupies the underground.\nAnnexation of construction site attempted.
 
 ID=10033
-ロコタウンの捨てられた7番街通り。\nエドガーの戦闘人形の襲撃を防ぎ、\n巨大自爆人形を食い止めて\n都市破壊を阻止せねばならない。
+The abandoned 7th Avenue of Rocco Town.\nProtect the town against Edgar's combat puppets,\nstop the giant exploding puppet,\nand prevent the destruction of Rocco Town.
 
 ID=10034
-狂気のヴェシ「エドガー」が\n国立病院内に自分だけのサーカス団\nを作り、人々を脅かしている。
+Edgar, the mad Veshi, has\nmade the hospital into his own personal circus\nand is a danger to everyone.
 
 ID=10035
 -
@@ -4598,43 +4599,43 @@ ID=10036
 -
 
 ID=10041
-ネッドカンパニーが秘密研究を進めていた\n極秘研究施設。現在はある事故により\n施設全体が閉鎖されている。
+NED Company has been conducting secret research in their secret research facility.\nIt has been shut down due to the recent incident.
 
 ID=10042
-ヴェシのラピッドフレイム勢力に占拠された\nカンダスシティ近郊の高速道路。\n現在スタリーフォレスト連合がこのエリアを奪還するため、ネッドカンパニーと共同作戦を繰り広げている。
+The Veshi's Rapid Flame faction has taken over the highways on the outskirts of Candus City.\nIn order to reclaim the occupied area, the Starry Forest League will execute a joint-operation with NED Company.
 
 ID=10043
-カンダスシティ内部にある\nネッドカンパニー西部支部ビル。現在\n緑風の魔女「ポイズン」を筆頭に\nラピッドフレイム勢力がここを\n占拠している。
+The western branch of NED Company is being occupied by the Rapid Flame faction led by the breezy witch named "Poison".
 
 ID=10044
-カンダスシティの撤収計画のためにネッド\nカンパニーが用意した巨大輸送機。\n巨大輸送機はカンダスシティの\n地下秘密格納庫で離陸準備中。
+A giant transport plane located underneath Candus City has been prepared by the NED Company for evacuation purposes.\nThe plane is currently ready to take off.
 
 ID=10051
-グレイスシティ外郭の小さな町。現在\nこの場所はラピッドフレイム勢力の新兵器によって\n焦土化された。スタリーフォレスト連合は偵察をしながら\n新兵器の正体を把握しようとしている。
+What used to be small town located outside the walls of Grace City.\nDue to the Rapid Flame faction's new weapon, it is now in ruin.\nThe Starry Forest League hopes to get a glimpse of the new weapon while scouting.
 
 ID=10052
-スタリーフォレスト連合とラピッドフレイム勢力の全面戦争が起こっている最前線。攻め込まれている\nスタリーフォレスト連合は、ここを奪還して反転攻勢にでようとしている。
+On the front lines of the all out war between the Starry Forest League and the Rapid Flame faction, the S.F.L hopes to recapture the area with a counter offensive.
 
 ID=10053
-グレイスシティ内部に設置されている地下排水路。スタリーフォレスト連合は、ここを利用してラビットフレイムの拠点を奇襲する作戦を進めている。
+The Starry Forest League plans to unleash a surprise attack on the Rapid Flame's location by using the underground sewers connecting from Grace City.
 
 ID=10054
-ネッドカンパニーの秘密軍事基地。スタリーフォレスト連合はネッドカンパニーとラピッドフレイム勢力の密約を明らかにし、\nこの場所を無力化させる作戦を展開中。
+The Starry Forest League has discovered the evident secret agreement between the NED Company and the Rapid Flame faction.\nThe S.F.L. is considering a plan to neutralize the NED military compound.
 
 ID=10061
-高性能AIルーシーが制御されているルインフォートレスの中央制御施設。スタリーフォレスト連合はこの場所を奪還し、ニアソウルワーカー捜索作戦に拍車をかけようとしている。
+The Starry Forest League is betting on encountering a Soulworker Replica by recapturing the Ruin Fortress, where the high performance AI Lucy is being suppressed.
 
 ID=10062
-ルインフォートレスのメイン動力源であるバスターコアが位置する場所。今は機能を停止したバスターコアを再稼動させ、ルインフォートレス内部の電力を取り戻さなければならない。
+The main power source of Ruin Fortress is called the Buster Core. The buster core must be reactivated in order to restore electric power to Ruin Fortress.
 
 ID=10063
-ルインフォートレス内部に位置する秘密研究施設。巨大ボーリング機械、ディグモンスターが地下に眠る何かを取り出そうとしている。スタリーフォレスト連合は、ディグモンスター阻止作戦を実行。
+Within Ruin Fortress lies a secret research facility. A giant bowling machine named “Dig Monster” is trying to remove something hidden underground. Starry Forest League has initiated the mission to stop this abomination.
 
 ID=10064
-ルインフォートレス外郭で秘密裏に建造中だった巨大艦船、アークシップに逃走したアベルとシオンを追撃する作戦が展開される。
+Operation to pursue Abel and Shion, who are trying to escape on the giant Ark Ship, which was constructed in secrecy at Ruin Fortress.
 
 ID=10081
-エドガーが撒いた狂気の戦雲は未だにロコタウンの上空を覆っていた。\nエドガーの人形軍団の総攻撃からRスクエアを死守せよ！
+Great Edgar has darkened the sky of Rocco Town with madness.\nDefend R Square from the incoming Doll Army attack!
 
 ID=10082
 0
@@ -4658,16 +4659,16 @@ ID=10088
 0
 
 ID=10089
-ロコタウン襲撃のフィナーレを飾る最後のパレードを準備するエドガー。しかし、エドガーの残酷な祭りもここで幕を閉じるだろう。
+Edgar is preparing his final assault on Rocco Town. His cruel parade will end here.
 
 ID=10090
-自爆装置のボタンを押した瞬間、N-102最後の脱出路が開いた。目の前に立ちはだかる強大な敵「ビホールダー」を倒して生きて脱出せよ。
+Use the last escape route in N-102 after activating the time bomb. Defeat the mighty "Beholder" blocking you to clear the way.
 
 ID=10091
-ネッドカンパニーの野望は生きている人を使った禁断の実験だった。\nソウルワーカー量産計画を阻止し、犠牲者に安息を与えよう。
+NED Company's ambition was a forbidden experiment on living people.\nLet's prevent their wretched plan of mass producing Soulworkers, and put all the victims to rest.
 
 ID=10092
-最強の無人ロボットが完成を待ち、眠っていたアケロンの別の侵入路。長い眠りから目覚めた無人ロボットを突破し、作戦を成功させなければならない。
+This is another passageway to Acheron, where the strongest unmanned robot was waiting to be completed. The unmanned robot that has woken up must be defeated, and the mission must be completed.
 
 ID=10093
 0
@@ -4682,7 +4683,7 @@ ID=10096
 0
 
 ID=10097
-生き残っていたソウルジャンクの群れとエドガーの人形部隊が再びロコタウンに襲い掛かる。濃い霧と火炎に包まれたロコタウンを最後まで守らなければならない。
+The remains of Soul Junk horde and Edgar's Puppet army has invaded Rocco Town yet again. Amidst the deep fog and flames, we must protect Rocco Town at all costs.
 
 ID=10098
 0
@@ -5075,25 +5076,25 @@ ID=10524
 Battle of Destiny
 
 ID=13000
-最下級
+Lowest Grade
 
 ID=13001
-下級
+Low Grade
 
 ID=13002
-中級
+Mid Grade
 
 ID=13003
-上級
+High Grade
 
 ID=13004
-最上級
+Highest Grade
 
 ID=13005
-システム点検中により、認証に失敗しました。
+Authentication failed due to ongoing system maintenance.
 
 ID=13006
-予期せぬエラーにより認証に失敗しました。\nお客様センターにお問い合わせください。\n[ErrorCode：{0}]
+Authentication failed due to an unexpected error.\nPlease contact the Customer Service Center.\n[ErrorCode: {0}]
 
 ID=14000
 Steel Grave
@@ -5219,196 +5220,196 @@ ID=14224
 Stage 25
 
 ID=15000
-スタリーフォレスト連合の隊員が戦闘能力を試す場所。\n試験用に改造されたロボットがスタリーフォレスト連合の隊員を待ち構える。
+The place where members of the Starry Forest League test their abilities.\nThe training robot lie in wait for the members of the Starry Forest League.
 
 ID=15001
-一人の子どもを助けるため、工事が中断されたボーリング現場に駆けつけるミリアム。だが、突如現れたソウルジャンクの襲撃で孤立してしまい…。
+To help the child, Miriam rushes to the unfinished drill site. But she was interrupted by waves of Souljunks that appeared out of nowhere...
 
 ID=15002
-ボーリング現場で動き回るソウルジャンク「ドレッド」。\nウォーレンの病院を破壊し、ロコタウンを伝染病の恐怖に\n突き落とした元凶。伝染病が流行る前に始末しよう。
+“Dread”, the Soul Junk which moves around the bowling site.\nThe main culprit destroyed a hospital in Warren, which in turn pushed Rocco Town over in fear of an infectious disease. I'll take care of it before it spreads.
 
 ID=15003
-ミリアムの頼みで来たボーリング現場。\nソウルジャンクによって孤立した生存者を探し出し、\n救出しなければならない。
+I have come to the bowling site by Miriam's request.\nI have to find and rescue the survivors who were isolated by the Soul Junk.
 
 ID=15004
-覚醒体が現れたという情報の真偽を確かめようと、\nリューが一人現場へ向かった。何が起こるかわからない。\n急いで彼と合流しよう。
+Ryu went to the site alone in order to verify the information which showed an awakening body. I don't know what's going to happen.\nI will join him quickly.
 
 ID=15005
-道化師の招待状が指す場所は捨てられた広場通り。\nそこにはどんなプレゼントが待っているのだろうか？
+The Clown's invitation leads toward the Street Plaza.\nWhat kind of present waits for me there?
 
 ID=15006
-広場の通りを埋め尽くすほどの人形。\n一時は人々の活気溢れる町だったが、\n今は感情のない人形が支配する町と化してしまった。
+The streets of the square are almost filled with dolls.\nWhat was once a vibrant town had now become a town dominated by emotionless dolls.
 
 ID=15007
-ビッグパペットの進撃を止めるためには、ネッドカンパニーが支援するヘリが必要。人形がヘリを破壊する前に奴らを止めなければならない。
+The NED Company support helicopter is needed to stop the advancement of the Big Puppet. I have to stop the dolls before they destroy the helicopter.
 
 ID=15008
-オペレーション[ザ・シールド]。ビッグパペットを直接おびき寄せ、防護壁内で自爆させるという危険な作戦。この作戦だけは必ず成功させなければならない。
+Operation [Shield]. The dangerous strategy which lures the Big Puppet out directly and makes it disintegrate itself in the safety shield. This strategy is a must in order to succeed.
 
 ID=15009
-新たに現れた人形たち。\nそれらを調査しに行った捜索隊が戻ってこない。\n嫌な予感がする…。
+New dolls appeared.\nThe search party that went on to investigate didn't return... which gives me an unpleasant hunch.
 
 ID=15010
-人形になってしまった人々、\nそして不気味な塔とせわしなく動く人形…。\n人形は、一体何のために塔を建てているのだろうか？
+People that became dolls, an eerie tower, and dolls that are moving restlessly...\nThese dolls... why on earth is a doll building a tower?
 
 ID=15011
-人間を人形へと変化させるのは、他ならぬあの塔だった。\nベンジャミンは被害の拡大を防ぐために塔の破壊を指示する。
+It was none other than the tower that changed humans into dolls.\nBenjamin directed the destruction of the tower to prevent harm from spreading.
 
 ID=15012
-喋る人形、コードネーム[ジャック・ザ・キング]。\n今この状況を打開する唯一の方法は、ジャック・ザ・キングを倒すことだけだ。
+The doll speaks of the code name [Jack King].\nThe only way to break through this situation is to beat the Jack King.
 
 ID=15013
-とうとう[青炎の道化師]の尻尾を掴んだ。\n彼が陣取った場所はロコタウンに近い、廃墟の病院だった。先発隊を探し、青炎の道化師を追跡しよう。
+I finally found the weak point of the [Clown of Blue Flame].\nHe set up camp in the Hospital Ruins near Rocco Town. I'll look for the advance party and chase down the Clown of Blue Flame.
 
 ID=15014
-青炎の道化師に辿り着くには特殊なバッジがなければ\nならないという情報を入手した。\nバッジは病院内の人形が持っている。
+I need a badge to reach the Clown of the Blue Flame, but there's no information of a particular badge. A doll in the hospital would probably have one. 
 
 ID=15015
-青炎の道化師がいる病棟に到着した。バッジにより磁気フィールドを中和させ、ようやく進めるようになった。
+We arrived at the ward where the Clown of the Blue Flame is located. I made them neutralize a magnetic field using a badge, and we could finally advance.
 
 ID=15016
-逃げた青炎の道化師「エドガー」は、最後の決戦の場所として病院の屋上にあるサーカステントを指定した。\nなんとしても奴を倒さなければ。
+“Edgar”, the Clown of Blue Flame who ran away, designated the circus tent on the roof of the hospital as the location of the last decisive battle.\nI have to beat him at all costs.
 
 ID=15017
-新しい都市に着くや否や息つく間もなく始まった作戦。カンダスシティの補給路を確保するため、海岸道路のソウルジャンクを始末しよう。
+I barely had time to catch my breath when I arrived at the new city where I was tasked with another mission. I have to dispose of the Soul Junks on the coastal road to secure Candus City's supply route.
 
 ID=15018
-ネッドカンパニーの傭兵の情報によって、まだ海岸道路に強力なソウルジャンクがいることが確認された。\nいつも怒っているらしいが…。
+Information by NED Company mercenaries confirmed that there is still a strong Soul Junk on the coastal road.\nThey always seem angry, but...
 
 ID=15019
-最近、海岸道路に不可解な地震が増えている。高架道路や建物が崩壊する危険があるので、原因を突き止めなければならない。
+There has been an increasing amount of mysterious earthquakes on the coastal road recently. Due to the risk of elevated roads and collapsed buildings, I have to find out the cause.
 
 ID=15020
-再び現れたソウルジャンクの群れ。アーロン中佐はカンダスシティ防衛のためにソウルジャンクの始末と、唯一の補給路である海岸トンネルの破壊を指示する。
+A group of Soul Junk appeared again. Commander Aaron directed the disposal of Soul Junk and the destruction of the coast tunnel, which is the only supply route, in order to defend Candus City.
 
 ID=15021
-ネッドカンパニーの許可をもらい入った地下水路。\n激しい悪臭により呼吸するのも辛い。\n確かにここには何かが存在するような感じがする…。
+I got permission from NED Company and entered the underground waterway. It's hard to\nbreathe due to the intense stench.\nIt certainly feels like something lives here....
 
 ID=15022
-都市の各所に、地下水路から出た悪臭が立ち込み始めた。\n悪臭の原因が地下水路にあることだけは明らかだが…。
+The bad smell from an underground waterway stands at various places by the city and has begun to spread.\nIt's clear that the only cause of the bad smell is in the underground waterway....
 
 ID=15023
-ネッドカンパニーから大勢の傭兵と研究員が地下水路に派遣された。不審に思ったブロックは彼らの監視を指示する。
+Mercenaries and researchers from NED Company were dispatched to an underground waterway, since it seems suspicious that Brock instructs their surveillance.
 
 ID=15024
-ジャンクナイトの出現はスタリーフォレスト連合全体に衝撃を与えた。ブロックは、ネッドカンパニーに責任を問うためにジャンクナイトのサンプル確保を指示した。
+The emergence of Junk Knight has shocked all of Starry Forest League. In order to question NED Company into holding responsibility, Brock has ordered to attain a sample of Junk Knight.
 
 ID=15025
-ネッドカンパニーが何かを運ぼうとした輸送船が、近くの屋敷に墜落したらしい。\n何を輸送しようとしていたのかを調査する必要がある。
+It seems like a carrier ship of NED Company has crashed into a house nearby.\nWe need to investigate exactly what they were trying to carry.
 
 ID=15026
-屋敷全体がソウルジャンクの巣窟になってしまった。\n強力な感染力を持つソウルジャンクがいるため、外に出る前に始末せねばならない。
+The entire house has become a den of Soul Junk.\nThere is a Soul Junk with a high contamination rate nearby; we need to get rid of it before it gets out.
 
 ID=15027
-ラルフの話から考えると、キャサリンは屋敷内部にいる可能性が高い。キャサリンを探しに屋敷の奥へ進んでみよう。
+According to Ralph's story, it seems highly likely that Katherine will be somewhere deep inside the house. Let's move deeper into the mansion to look for Katherine.
 
 ID=15028
-キャサリンをさらったアラクニスというソウルジャンクが、\n屋敷の地下の奥に隠れているという。\n急いでキャサリンを探しだそう。
+The Soul Junk named Arachnis that took Katherine away\nseems like it's hiding somewhere in the basement.\nLet's quickly find and rescue Katherine.
 
 ID=15029
-バキュームベインに感染したキャサリンを救うことができる唯一の解毒剤が、ネッドカンパニーの研究所内にある。\nしかし、研究所は既にソウルジャンクの巣窟となり…。
+The only antidote for Katherine's Vacuum Vein infection is at the research facility of NED Company.\nBut that research facility was already a den of Soul Junk...
 
 ID=15030
-第二研究所内部もやはりソウルジャンクの巣窟に…。一体何がこの場所であったのかはわからないが、今はキャサリンの解毒剤を確保することが優先だ。
+The second research facility was also crawling with Soul Junk.... We don't know what in the world happened here, but getting the antidote for Katherine is top priority.
 
 ID=15031
-ビクターはキャサリンのことへの罪悪感から解毒剤を探しに一人で研究所へと入っていった。\n彼がソウルジャンクに襲われる前に見つけ出そう。
+Out of guilt for Katherine, Victor has gone to the research facility to find the antidote by himself.\nFind him before the Soul Junk do.
 
 ID=15032
-ヘンリーは解毒剤を使用するためにはビホールダーの粘液が必要だと言い、さらに研究所の爆破も指示する。
+Henry says that in order to use the antidote, the slime from the Beholder is needed. He also ordered us to activate the explosion trigger to destroy the research facility.
 
 ID=15033
-ロコタウンから戻ると、カンダスシティはすさまじい数のソウルジャンクに襲撃されていた。人々を退避させるために防空壕の開閉装置を作動させなければならない。
+When we returned from Rocco Town, Candus City was under attack by Soul Junk. We need to trigger the opening switch for the refuge center for people to evacuate.
 
 ID=15034
-防空壕内部、輸送船に向かう道で多数のソウルジャンクが発見された。人々が攻撃されないよう先に処理しよう。
+A large number of Soul Junk has been discovered on the path to the transport ship located in the bomb shelter. For the safety of everyone, they must be dealt with.
 
 ID=15035
-住民の大部分を避難させ、残りはキャサリンと自分たちだけだった。しかしその時、乗る予定の輸送船に多くのソウルジャンクが向かうのを目撃した。
+Everyone has taken shelter except for Katherine and us. However, at that time, we discovered that there were a large number of Soul Junk near the transport ship.
 
 ID=15036
-カンダスシティからの脱出を開始した。\nしかし、ソウルジャンクの襲撃はしつこく、皆の不安は募るばかりだった。
+The escape from Grace City has commenced. However, the Soul Junk's unrelenting attacks are making everyone anxious.
 
 ID=15037
-ヘンリー追跡を優先したいところだが、ヴェシとの戦闘経験を積むための命令が下った。今は黙って動くしかない。
+I wanted to chase after Henry, but was ordered to gain some experience fighting against the Veshi. I have no choice but to follow the orders for now.
 
 ID=15038
-力のデザイアを崇拝するヴェシ「ラピッドフレイム」。その突撃部隊が高速道路からグレイスシティへ侵攻する隙を虎視眈々と狙っている。
+Rapid Flames, a brigade that reveres the greed for power, is looking for every opportunity to invade Grace City through the highway.
 
 ID=15039
-ヘンリーが乗っていたと思われる車輌が発見された。不明な点が山ほどあるが、今は彼の身柄を確保しなければならない。ヴェシにやられる前に…。
+The supposed vehicle carrying Henry has been spotted. The information is a bit unreliable, but he must be arrested at all costs. At least, before the Veshi get to him...
 
 ID=15040
-捜していたヘンリーは見当たらず、ラピッドフレイム勢力の幹部「スカー」が高速道路に姿を現した。 ヘンリーの行方を知るためには、スカーから討伐しなければならない。
+"Scar" of the Rapid Flame faction has appeared on the highway. In order to find out Henry's whereabouts, Scar must be defeated and interrogated.
 
 ID=15041
-ヘンリーがネッドカンパニーの本社に侵入後、\nラピッドフレイムの奇襲部隊が建物を占領した。\n気は進まないが、彼を救出しなければ…。
+The NED Company headquarters was raided by the Rapid Flame Faction after Henry sneaked inside.\nAlthough I'm reluctant to do so...\nHe must be rescued.
 
 ID=15042
-ネッドカンパニー内はラピッドフレイムの占拠によって\n電力供給が行き届いていない状況だ。
+NED Company's building was cut off from electricity\ndue to Rapid Flames taking over the building.
 
 ID=15043
-ネッドカンパニーの電力を復旧させるには、\n建物内の電力を手動で作動させなければならない。\nラピッドフレイムがその「カギ」を持っているらしい。
+In order to repair electricity for NED Company,\nit looks like one has to manually activate the switch inside the building.\nRapid Flames seem to have the key to activating the switch.
 
 ID=15044
-カンダスシティの事件の証拠を入手するためには、\nネッドカンパニー内部にあるセキュリティボックスの\n全データをコピーしなければならない。
+In order to retrieve evidence for the incident at Candus City,\nwe need to copy all the data\nfrom NED Company's security box.
 
 ID=15045
-第2高速道路を侵攻するラピッドフレイムの強襲部隊を討伐するための作戦「ウルフクライ」が発動されたら、ヒルブレイカーの射撃場所を確保しなければならない。
+In order to defeat the Rapid Flames coming in from the second highway, we need to take back the firing zone “Hill Breaker” for Operation Wolf Cry to commence.
 
 ID=15046
-作戦名「ウルフクライ」は、高周波を発生させるミサイル「ファイナルアリア」を上空に打ち上げ、強襲部隊の主力であるクイーンカルラを殲滅するという作戦だ。
+Operation Wolf Cry involves firing missiles called "Final Aria" which spreads strong radio waves in its vicinity. With this, we can exterminate Queen Carla, the main force of the assault brigade.
 
 ID=15047
-アリアミサイル発射ポイントまでヒルブレイカーが移動できない。スタリーフォレスト連合のソウルワーカー「ケインバレル」とラピッドフレイムの強襲部隊討伐に向かう。
+Heel Breaker cannot progress towards the Area Missile firing zone. With Starry Forest League's Soulworker "Kainbarrel", defeat the Rapid Flame's assault squad.
 
 ID=15048
-愛鳥のクイーンカルラに傷を負わせたので、ラピッドフレイムの強襲部隊長ファルコンが姿を現した。ついに出てきた相手に、感謝の気持ちすら湧き上がる。
+The Assault Captain of the Rapid Flames, Falcon, has finally showed his face after his precious bird Queen Karla has been damaged. To the target that has finally showed its head, we can almost feel grateful for it.
 
 ID=15049
-人はおらず静寂だけが町を覆う中、デーブタウンに降る冷たい雨が嫌な予感を感じさせていた。
+While the entire village was vacant and an eerie silence was all that was left, the rain falling down on Dave Town had a gloomy feeling.
 
 ID=15050
-グレイスシティ付近の小さな町「デーブタウン」は、戦場から離れていて自給自足できるという理由で、多くの市民が居住していた。
+"Dave Town", a town located near Grace City, is inhabited with many people due to the fact that it is away from the front lines and can therefore can sustain itself.
 
 ID=15051
-嫌な予感が当たらないように願う状況。デーブタウン内部でソウル経路を確認するため、「スピリットパスファインダー」の設置を急がなければならない。
+Situation where I hope for the best. To find the path for Souls within Dave Town, we need to install the "Spirit Pathfinder" as fast as possible.
 
 ID=15052
-嫌な予感は現実のものとなってしまった。これほどのことをしてまで彼らが求める物はなんなのだろうか？しかし、今は生存者を探すのが優先だ。
+The situation has turned for the worst. What is it that they are trying to accomplish with these acts? But for now, finding survivors is top priority.
 
 ID=15053
-ヘンリーとラピッドフレイム勢力との同盟が現実となった。非道の限りを尽くすヘンリーを捕まえ罪を償わせないといけない。
+The alliance between Henry and the Rapid Flame faction has become reality. Henry must pay for the crimes he has committed.
 
 ID=15054
-ラピッドフレイム勢力の本拠地だと思われていた場所は、ネッドカンパニーとラピッドフレイムがでっちあげた罠だった。
+The supposed stronghold for the Rapid Flame faction was a trap set up by the NED Company and the Rapid Flames.
 
 ID=15055
-ネッドカンパニーの罠によって、グレイスシティの多くの戦力が失われ、存立を脅かすほどの危機が訪れた。このままみんなを死なせるわけにはいかない。
+Due to the NED Company's trap, the majority of the forces at Grace City has been wiped out. This crisis has put the city's existence on the line. We cannot let everyone die.
 
 ID=15056
-ラピッドフレイム勢力の暗殺部隊が支援部隊救出を妨害している。一人でも多く救出するためにも妨害する敵を倒す必要がある。
+The Rapid Flame faction's Assassination Squad is hindering the rescuing process of backup. We need to defeat these enemies in order to rescue many people as possible.
 
 ID=15057
-ネッドカンパニーが軍事衛星インドラをハッキングした痕跡が見つかった。ハッキングの痕跡を辿って彼らの本当の本拠地を突き止めなければならない。
+The remnants of hacking on military satellite Indra by NED Company has been confirmed. We need to trace back through their hacking in order to learn their true motive.
 
 ID=15058
-グレイスシティ外郭山脈付近にネッドカンパニーの痕跡が残っていた。彼らに審判を下す時がきた。
+The NED Company's traces have led up to the mountains near Grace City. It is time for their judgement.
 
 ID=15059
-ヘンリーとラウファーの行方を捜すためには軍事衛星インドラを妨害する電波を除去しなければならない。
+In order to find Henry and Laufer, we need to find the source of the radio wave that is disrupting the military satellite, Indra.
 
 ID=15060
-インドラの施設内部をスキャンした結果、ヘンリーとラウファーと推定される生命反応を感知した。今こそ理想的な復讐をする時だ。
+We've detected life signals indicating Henry and Laufer within Indra. This is the most ideal time for revenge.
 
 ID=15061
-ソウルワーカーのために開発された仮想訓練装置。データベースに登録された敵を具現化し、実践同様の戦闘が可能。しかし、エナジー消費が激しいため頻繁には利用できない。
+A virtual training program designed for Soulworkers; it can simulate the monsters from the database, then an experience just like a real battle begins. However, since it spends a lot of energy, it cannot be used frequently.
 
 ID=15062
-空白によって完全に廃墟と化したエリア。持続的にソウルジャンクが発生しており、スタリーフォレスト連合は立入禁止区域に指定。民間人の立ち入りを禁止している。
+An area completely ravaged by the Void. Soul Junk constantly appear in the area, and the Starry Forest League has forbidden any civilians from entering.
 
 ID=15063
-突如発生した謎の歪みは、多くの人形をこの世へと解き放った。彼らが現れた理由を知る者は誰もいない。ただ、人形が持つ力と強烈なまでの敵意だけは明らかだった。
+A mysterious distortion that appeared out of nowhere released many puppets out into the world. No one knows why they appeared. However, they did know the power and the hostility that the puppets showed towards them.
 
 ID=16000
 Twisted Logic of the World
@@ -5426,22 +5427,22 @@ ID=16004
 LION GAMES PRESENT
 
 ID=16100
-見覚えのない場所。\n見知らぬ人々。\n聞きなれない会話。\n私の知っている世界はなくなっていた…。\nこれからどうなっちゃうんだろう……？
+Unfamiliar place.\nUnfamiliar people.\nUnfamiliar conversations.\nThe world that I once knew no longer exists.\nWhat do I do from now on...?
 
 ID=16200
-目覚めたら、世界は一変していた。\n怪物が徘徊し、人々が超能力を使う世界。\n俺が創ろうとしていた世界が…目の前に広がっていた。\nこれは…興奮するなっていう方がムリな話だよな。
+The world changed when I opened my eyes.\nMonsters crawling and people using special powers.\nThe world that I once sought to create...was now in front of me.\nThis...is too much to not get excited about.
 
 ID=16300
-今までの常識が通用しない世界…。\nでも…。\nわたくしは今まで、望むものは全て手に入れてきた。\nこの世界でも…今まで通りにするだけ。
+The world where all the knowledge I had until now was void...\nBut...\nI have claimed everything that I wanted with my own hands.\nI'll do the same in this world, too.
 
 ID=16400
-15年も眠っていた間に、世界は随分と変わってしまったようだ。\n生き残ることが優先される世界…。\nだが…オレは今までだって必死だった。\n人間らしく…情熱をもって生き続けることに…。
+The world has changed a lot during the 15 years I was asleep.\nA world where survival comes first.\nBut... I was still desperate to have passion... and to live like any human would.
 
 ID=16500
-いつの間にか15年経ってたみたい。\n冬眠したクマって、こんな感じなのかな…？\nみんな難しい話ばっかり…お腹ペコペコなのに…。\n…でも、みんながいるから寂しくない。
+Seems like 15 years flashed by.\nDo hibernating bears all feel this way...?\nStories too difficult to understand, and I'm really hungry.\nBut, since everyone is with me, I don't feel lonely.
 
 ID=16600
-もう、私が知ってる世界はない。\n全てが不慣れで窮屈で、一分一秒もここにいたくない。\nけど、我慢するしかない。\nもう、ここが私の世界であり…私が生きていくべき世界だから。\n我慢して我慢して、耐えるしか…。
+The world that I once knew was no more.\nI didn't want to stay for a minute, or even a second for that matter in this unfamiliar place.\nBut I have no choice but to hold it in.\nThis is my world now... The world that I must live in.\nThere is no choice but to hold it in as much as possible...
 
 ID=16550
 Junk
@@ -7970,7 +7971,7 @@ ID=22653
 สีพื้นหลัง
 
 ID=22654
-ขนาดตัวอักษร
+ขนาดตัวละคร
 
 ID=22655
 เพิ่มความโปร่งใส
@@ -10382,7 +10383,7 @@ ID=28008
 ใส่ชื่อกิลด์
 
 ID=28009
-คุณสามารถป้อนชื่อกิลด์ได้สูงสุด 8 ตัวอักษร
+คุณสามารถป้อนชื่อกิลด์ได้สูงสุด 8 ตัวละคร
 
 ID=28010
 ชื่อกิลด์พร้อมใช้งาน
@@ -10970,7 +10971,7 @@ ID=28204
 เพิ่มเติม ตำแหน่งไม่สามารถอนุญาตให้
 
 ID=28205
-ชื่อกิลด์คุณสามารถใช้อักขระถึง 2-8 ตัวอักษร
+ชื่อกิลด์คุณสามารถใช้อักขระถึง 2-8 ตัวละคร
 
 ID=28206
 ประกอบด้วยอักขระพิเศษ ห้ามคำหรือวลี
@@ -16928,7 +16929,7 @@ ID=45113
 คุณแน่ใจหรือว่าต้องการลบชุดที่เลือก?
 
 ID=45114
-ค้นหารายการที่คุณจำเป็นต้องใส่สองหรือมากกว่า 2 ตัวอักษร
+ค้นหารายการที่คุณจำเป็นต้องใส่สองหรือมากกว่า 2 ตัวละคร
 
 ID=45115
 สินค้าอื่นๆ ไม่ได้เข้า
@@ -19754,7 +19755,7 @@ ID=57026
 กิลด์นี้ค้างอยู่
 
 ID=57027
-ชื่อตำแหน่งงานสามารถนำมาใช้ 1-4 ตัวอักษร
+ชื่อตำแหน่งงานสามารถนำมาใช้ 1-4 ตัวละคร
 
 ID=57028
 เป็นหลักกิลด์
@@ -19772,7 +19773,7 @@ ID=57032
 ค้นหากิลด์ต้องการป้อนอักขระน้อย 2
 
 ID=57033
-ชื่อกิลด์คุณสามารถใช้อักขระถึง 2-8 ตัวอักษร
+ชื่อกิลด์คุณสามารถใช้อักขระถึง 2-8 ตัวละคร
 
 ID=57034
 มันเป็นไปไม่ได้ที่จะขับไล่ตัวเองจากกิลด์

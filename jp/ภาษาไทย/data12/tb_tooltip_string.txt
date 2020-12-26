@@ -16,7 +16,7 @@ The min. and max. damage you can deal to the enemy.
 
 ID=24
 Defense
-ลดพลังโจมตีที่ได้รับโดยขึ้นอยู่กับพลังโจมตีของศัตรู \n ลดพลังโจมตีจากศัตรูในระดับเดียวกัน: {0}%\n พลังโจมตีที่ลดลงขึ้นอยู่กับระดับของศัตรู
+ลดพลังโจมตีที่ได้รับโดยขึ้นอยู่กับพลังโจมตีของศัตรู <br> ลดพลังโจมตีจากศัตรูในระดับเดียวกัน: {0}%<br> พลังโจมตีที่ลดลงขึ้นอยู่กับระดับของศัตรู
 
 ID=26
 Accuracy
@@ -176,7 +176,7 @@ Equipment
 
 ID=20003
 Skill
-Displays the Skill Window.\nYou can register Skills and Gestures\nin the Quick Slots.
+Displays the Skill Window.<br>You can register Skills and Gestures<br>in the Quick Slots.
 
 ID=20008
 Quest
@@ -184,7 +184,7 @@ Quest
 
 ID=20016
 Status
-Displays the Status Window.\nYou can check your Character's Stats\nand set titles and profiles.
+Displays the Status Window.<br>You can check your Character's Stats<br>and set titles and profiles.
 
 ID=20023
 Community
@@ -204,11 +204,11 @@ Record Information
 
 ID=20045
 ค้นหา Party
-Displays the Party/Force Search window.\nYou can search Party and Force members.
+Displays the Party/Force Search window.<br>You can search Party and Force members.
 
 ID=20053
 Supporters
-แสดงหน้าต่าง Supporters ท่านสามารถที่จะเปลี่ยนลำดับของผู้ช่วย \nและไอเทมได้ที่นี่
+แสดงหน้าต่าง Supporters ท่านสามารถที่จะเปลี่ยนลำดับของผู้ช่วย <br>และไอเทมได้ที่นี่
 
 ID=20055
 Guild
@@ -272,7 +272,7 @@ Ether คือพลังงานที่ได้รับเมื่อ�
 
 ID=30005
 เกี่ยวกับ Soul Vapor
-Soul Vapor สามารถพบได้จาก Monster ที่ถูกจัดการหรือสิ่งของภายในแผนที่ \n (ใช้งานได้หลังจากผ่านภารกิจที่เกี่ยวข้อง)
+Soul Vapor สามารถพบได้จาก Monster ที่ถูกจัดการหรือสิ่งของภายในแผนที่ <br> (ใช้งานได้หลังจากผ่านภารกิจที่เกี่ยวข้อง)
 
 ID=30006
 เกี่ยวกับ Combo
@@ -280,7 +280,7 @@ ID=30006
 
 ID=30007
 เกี่ยวกับ Items 
-มีทั่วไป และหายาก หรือก้อนอื่น ๆ ใน cube \nคุณสามารถชนะบางรายการจากก้อนหนึ่ง
+มีทั่วไป และหายาก หรือก้อนอื่น ๆ ใน cube <br>คุณสามารถชนะบางรายการจากก้อนหนึ่ง
 
 ID=30008
 เกี่ยวกับ Break Skill
@@ -384,7 +384,7 @@ Familar
 
 ID=30033
 Craft Akashic Item
-You can craft higher grade A.R Cards\nby combining A.R Cards.
+You can craft higher grade A.R Cards<br>by combining A.R Cards.
 
 ID=30034
 Akashic
@@ -392,7 +392,7 @@ Register the A.R Card by using it.
 
 ID=30035
 Registering and Using Akashic
-Registered A.R Cards can be set to your Quick Slots\nwhere you can either use it in combat or\nreceive useful effects.
+Registered A.R Cards can be set to your Quick Slots<br>where you can either use it in combat or<br>receive useful effects.
 
 ID=30036
 สิ้นสุดเนื้อหา
@@ -432,19 +432,19 @@ Raid Records ปัจจุบัน: {0}%
 
 ID=21005
 Zenny
-The currency used in shops and exchange market in-game.\nYou can obtain it by defeating enemies or from rewards.
+The currency used in shops and exchange market in-game.<br>You can obtain it by defeating enemies or from rewards.
 
 ID=21006
 Ether
-The currency used to enhance and tune items.\nYou can obtain it by defeating enemies or through dismantling.
+The currency used to enhance and tune items.<br>You can obtain it by defeating enemies or through dismantling.
 
 ID=21007
 B.P
-The currency used to buy items in the B.P Shop.\nYou can obtain it by defeating powerful enemies or from rewards.
+The currency used to buy items in the B.P Shop.<br>You can obtain it by defeating powerful enemies or from rewards.
 
 ID=21008
 Y.P
-The currency used to buy items in the Item Mall.\nYou can obtain it by charging Y.P.
+The currency used to buy items in the Item Mall.<br>You can obtain it by charging Y.P.
 
 ID=11024
 Reindeer Transformation
@@ -512,7 +512,7 @@ Level EXP
 
 ID=1001
 Rank EXP
-{0}\n{1} / {2} ({3}%)
+{0}<br>{1} / {2} ({3}%)
 
 ID=1002
 Rank
@@ -564,7 +564,7 @@ Take a Nightmare gesture.
 
 ID=21023
 Mileage Point
-You can purchase some items with its corresponding Mileage.\nIt resets at 00:00 JST every first day of the month and can be used until 23:59 JST every last day of the month.
+You can purchase some items with its corresponding Mileage.<br>It resets at 00:00 JST every first day of the month and can be used until 23:59 JST every last day of the month.
 
 ID=11042
 Desireworker

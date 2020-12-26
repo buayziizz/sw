@@ -1,25 +1,25 @@
 ID=1
 Yomi
 [ความสนิทเพิ่มขึ้น]Yomi
-ขอบคุณมาก \nและยังมีเกรดคุณภาพของสินค้าที่ดีสำหรับลูกค้า ซื้อหลายท่าน
+ขอบคุณมาก <br>และยังมีเกรดคุณภาพของสินค้าที่ดีสำหรับลูกค้า ซื้อหลายท่าน
 Icon/Mail/SendImage_Systemmail01
 
 ID=2
 Zaito
 [ความสนิทเพิ่มขึ้น]Zaito
-As always, you have my thanks!\nSince my favorability level rose, I have been stocking up better goods. I'm heated up for sure!\nI'm looking forward to your patronage.
+As always, you have my thanks!<br>Since my favorability level rose, I have been stocking up better goods. I'm heated up for sure!<br>I'm looking forward to your patronage.
 Icon/Mail/SendImage_Systemmail02
 
 ID=3
 Trisha
 [ความสนิทเพิ่มขึ้น]Trisha
-You're using my services a lot huh? I'm so happy!\nMy favorability has risen, so I'll try to offer more various services!\nFrom now on, I wish you the best!
+You're using my services a lot huh? I'm so happy!<br>My favorability has risen, so I'll try to offer more various services!<br>From now on, I wish you the best!
 Icon/Mail/SendImage_Systemmail03
 
 ID=4
 Zenith
 [ความสนิทเพิ่มขึ้น]Zenith
-It seems I have gotten a better impression of you.\nBecause of that, I'll offer even better things than before! Don't have any?\nNo worries. I hope you come to expect more.
+It seems I have gotten a better impression of you.<br>Because of that, I'll offer even better things than before! Don't have any?<br>No worries. I hope you come to expect more.
 Icon/Mail/SendImage_Systemmail04
 
 ID=5
@@ -31,13 +31,13 @@ Icon/Mail/SendImage_System
 ID=6
 Chloe
 [ตลาด]ขายสินค้า
-{1} {0} were sold on the [Market].\nYou received {2} Zenny from the sale after deducing the charging fee.
+{1} {0} were sold on the [Market].<br>You received {2} Zenny from the sale after deducing the charging fee.
 Icon/Mail/SendImage_System
 
 ID=7
 Chloe
 [ตลาด]เรียกคืนไอเทม
-The item put up in the [Market] has been successfully withdrawn.\nPlease check the mail attachments for your item.
+The item put up in the [Market] has been successfully withdrawn.<br>Please check the mail attachments for your item.
 Icon/Mail/SendImage_System
 
 ID=8
@@ -49,13 +49,13 @@ Icon/Mail/SendImage_System
 ID=9
 Chloe
 [ระบบ]ของขวัญ
-To Soulworker,\nWe have prepared a special gift for you, please check the mail attachments.
+To Soulworker,<br>We have prepared a special gift for you, please check the mail attachments.
 Icon/Mail/SendImage_System
 
 ID=10
 Chloe
 [ระบบ]ค่าตอบแทน
-To Soulworker,\nWe are deeply regretful for this incident. We have attached the following compensatory items, please take this as a token of our apology. 
+To Soulworker,<br>We are deeply regretful for this incident. We have attached the following compensatory items, please take this as a token of our apology. 
 Icon/Mail/SendImage_System
 
 ID=11
@@ -79,13 +79,13 @@ Icon/Mail/SendImage_System
 ID=14
 Chloe
 [ระบบ]ค่าตอบแทน
-To Soulworker,\nWe are deeply regretful for this incident. We have attached the following compensatory items, please take this as a token of our apology. 
+To Soulworker,<br>We are deeply regretful for this incident. We have attached the following compensatory items, please take this as a token of our apology. 
 Icon/Mail/SendImage_System
 
 ID=15
 Azin
 [ความสนิทเพิ่มขึ้น]Azin
-I appreciate your business by using our Helicopter services.\nBecause my favorability level rose, you will now be provided with a more hospitable environment. We look forward to your business. 
+I appreciate your business by using our Helicopter services.<br>Because my favorability level rose, you will now be provided with a more hospitable environment. We look forward to your business. 
 Icon/Mail/SendImage_Systemmail05
 
 ID=16
@@ -103,7 +103,7 @@ Icon/Mail/SendImage_System
 ID=18
 Chloe
 [ตลาด]ขายสินค้า
-{1} {0} were sold on the [Market].\nYou received {2} Zenny from the sale.\nNo fee was charged because you have used a Trading Fee Exemption Ticket.
+{1} {0} were sold on the [Market].<br>You received {2} Zenny from the sale.<br>No fee was charged because you have used a Trading Fee Exemption Ticket.
 Icon/Mail/SendImage_System
 
 ID=19
@@ -121,19 +121,19 @@ Icon/Mail/SendImage_System
 ID=21
 Chloe
 [ไอเทม]คูปองรางวัล
-ส่งไปได้รับลงทะเบียนคูปอง \nตรวจสอบสิ่งที่แนบของ
+ส่งไปได้รับลงทะเบียนคูปอง <br>ตรวจสอบสิ่งที่แนบของ
 Icon/Mail/SendImage_System
 
 ID=22
 Chloe
 [ไอเทม]รางวัลผู้ใช้ใหม่
-โลกของ Soulworker ยินดีต้อนรับ \nเราได้เตรียมของขวัญ โปรดตรวจสอบสิ่งที่แนบ
+โลกของ Soulworker ยินดีต้อนรับ <br>เราได้เตรียมของขวัญ โปรดตรวจสอบสิ่งที่แนบ
 Icon/Mail/SendImage_System
 
 ID=23
 Chloe
 [ไอเทม]รางวัลผู้ส่งคืน
-ยินดีต้อนรับกลับบ้าน คุณกลับมาขอบคุณ ยินดีต้อนรับ \nเราได้เตรียมของขวัญ โปรดตรวจสอบสิ่งที่แนบ
+ยินดีต้อนรับกลับบ้าน คุณกลับมาขอบคุณ ยินดีต้อนรับ <br>เราได้เตรียมของขวัญ โปรดตรวจสอบสิ่งที่แนบ
 Icon/Mail/SendImage_System
 
 ID=24
@@ -187,277 +187,277 @@ Icon/Mail/SendImage_System
 ID=32
 Chloe
 [ไอเทม]รางวัลความสำเร็จ Lv10
-Lv10 ยินดีด้วย! \nเราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
+Lv10 ยินดีด้วย! <br>เราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
 Icon/Mail/SendImage_System
 
 ID=33
 Chloe
 [ไอเทม]รางวัลความสำเร็จ Lv11
-Lv11 ยินดีด้วย! \nเราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
+Lv11 ยินดีด้วย! <br>เราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
 Icon/Mail/SendImage_System
 
 ID=34
 Chloe
 [ไอเทม]รางวัลความสำเร็จ Lv12
-Lv12 ยินดีด้วย! \nเราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
+Lv12 ยินดีด้วย! <br>เราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
 Icon/Mail/SendImage_System
 
 ID=35
 Chloe
 [ไอเทม]รางวัลความสำเร็จ Lv13
-Lv13 ยินดีด้วย! \nเราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
+Lv13 ยินดีด้วย! <br>เราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
 Icon/Mail/SendImage_System
 
 ID=36
 Chloe
 [ไอเทม]รางวัลความสำเร็จ Lv14
-Lv14 ยินดีด้วย! \nเราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
+Lv14 ยินดีด้วย! <br>เราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
 Icon/Mail/SendImage_System
 
 ID=37
 Chloe
 [ไอเทม]รางวัลความสำเร็จ Lv15
-Lv15 ยินดีด้วย! \nเราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
+Lv15 ยินดีด้วย! <br>เราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
 Icon/Mail/SendImage_System
 
 ID=38
 Chloe
 [ไอเทม]รางวัลความสำเร็จ Lv16
-Lv16 ยินดีด้วย! \nเราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
+Lv16 ยินดีด้วย! <br>เราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
 Icon/Mail/SendImage_System
 
 ID=39
 Chloe
 [ไอเทม]รางวัลความสำเร็จ Lv17
-Lv17 ยินดีด้วย! \nเราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
+Lv17 ยินดีด้วย! <br>เราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
 Icon/Mail/SendImage_System
 
 ID=40
 Chloe
 [ไอเทม]รางวัลความสำเร็จ Lv18
-Lv18 ยินดีด้วย! \nเราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
+Lv18 ยินดีด้วย! <br>เราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
 Icon/Mail/SendImage_System
 
 ID=41
 Chloe
 [ไอเทม]รางวัลความสำเร็จ Lv19
-Lv19 ยินดีด้วย! \nเราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
+Lv19 ยินดีด้วย! <br>เราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
 Icon/Mail/SendImage_System
 
 ID=42
 Chloe
 [ไอเทม]รางวัลความสำเร็จ Lv20
-Lv20 ยินดีด้วย! \nเราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
+Lv20 ยินดีด้วย! <br>เราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
 Icon/Mail/SendImage_System
 
 ID=43
 Chloe
 [ไอเทม]รางวัลความสำเร็จ Lv21
-Lv21 ยินดีด้วย! \nเราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
+Lv21 ยินดีด้วย! <br>เราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
 Icon/Mail/SendImage_System
 
 ID=44
 Chloe
 [ไอเทม]รางวัลความสำเร็จ Lv22
-Lv22 ยินดีด้วย! \nเราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
+Lv22 ยินดีด้วย! <br>เราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
 Icon/Mail/SendImage_System
 
 ID=45
 Chloe
 [ไอเทม]รางวัลความสำเร็จ Lv23
-Lv23 ยินดีด้วย! \nเราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
+Lv23 ยินดีด้วย! <br>เราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
 Icon/Mail/SendImage_System
 
 ID=46
 Chloe
 [ไอเทม]รางวัลความสำเร็จ Lv24
-Lv24 ยินดีด้วย! \nเราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
+Lv24 ยินดีด้วย! <br>เราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
 Icon/Mail/SendImage_System
 
 ID=47
 Chloe
 [ไอเทม]รางวัลความสำเร็จ Lv25
-Lv25 ยินดีด้วย! \nเราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
+Lv25 ยินดีด้วย! <br>เราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
 Icon/Mail/SendImage_System
 
 ID=48
 Chloe
 [ไอเทม]รางวัลความสำเร็จ Lv26
-Lv26 ยินดีด้วย! \nเราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
+Lv26 ยินดีด้วย! <br>เราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
 Icon/Mail/SendImage_System
 
 ID=49
 Chloe
 [ไอเทม]รางวัลความสำเร็จ Lv27
-Lv27 ยินดีด้วย! \nเราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
+Lv27 ยินดีด้วย! <br>เราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
 Icon/Mail/SendImage_System
 
 ID=50
 Chloe
 [ไอเทม]รางวัลความสำเร็จ Lv28
-Lv28 ยินดีด้วย! \nเราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
+Lv28 ยินดีด้วย! <br>เราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
 Icon/Mail/SendImage_System
 
 ID=51
 Chloe
 [ไอเทม]รางวัลความสำเร็จ Lv29
-Lv29 ยินดีด้วย! \nเราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
+Lv29 ยินดีด้วย! <br>เราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
 Icon/Mail/SendImage_System
 
 ID=52
 Chloe
 [ไอเทม]รางวัลความสำเร็จ Lv30
-Lv30 ยินดีด้วย! \nเราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
+Lv30 ยินดีด้วย! <br>เราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
 Icon/Mail/SendImage_System
 
 ID=53
 Chloe
 [ไอเทม]รางวัลความสำเร็จ Lv31
-Lv31 ยินดีด้วย! \nเราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
+Lv31 ยินดีด้วย! <br>เราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
 Icon/Mail/SendImage_System
 
 ID=54
 Chloe
 [ไอเทม]รางวัลความสำเร็จ Lv32
-Lv32 ยินดีด้วย! \nเราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
+Lv32 ยินดีด้วย! <br>เราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
 Icon/Mail/SendImage_System
 
 ID=55
 Chloe
 [ไอเทม]รางวัลความสำเร็จ Lv33
-Lv33 ยินดีด้วย! \nเราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
+Lv33 ยินดีด้วย! <br>เราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
 Icon/Mail/SendImage_System
 
 ID=56
 Chloe
 [ไอเทม]รางวัลความสำเร็จ Lv34
-Lv34 ยินดีด้วย! \nเราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
+Lv34 ยินดีด้วย! <br>เราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
 Icon/Mail/SendImage_System
 
 ID=57
 Chloe
 [ไอเทม]รางวัลความสำเร็จ Lv35
-Lv35 ยินดีด้วย! \nเราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
+Lv35 ยินดีด้วย! <br>เราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
 Icon/Mail/SendImage_System
 
 ID=58
 Chloe
 [ไอเทม]รางวัลความสำเร็จ Lv36
-Lv36 ยินดีด้วย! \nเราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
+Lv36 ยินดีด้วย! <br>เราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
 Icon/Mail/SendImage_System
 
 ID=59
 Chloe
 [ไอเทม]รางวัลความสำเร็จ Lv37
-Lv37 ยินดีด้วย! \nเราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
+Lv37 ยินดีด้วย! <br>เราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
 Icon/Mail/SendImage_System
 
 ID=60
 Chloe
 [ไอเทม]รางวัลความสำเร็จ Lv38
-Lv38 ยินดีด้วย! \nเราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
+Lv38 ยินดีด้วย! <br>เราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
 Icon/Mail/SendImage_System
 
 ID=61
 Chloe
 [ไอเทม]รางวัลความสำเร็จ Lv39
-Lv39 ยินดีด้วย! \nเราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
+Lv39 ยินดีด้วย! <br>เราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
 Icon/Mail/SendImage_System
 
 ID=62
 Chloe
 [ไอเทม]รางวัลความสำเร็จ Lv40
-Lv40 ยินดีด้วย! \nเราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
+Lv40 ยินดีด้วย! <br>เราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
 Icon/Mail/SendImage_System
 
 ID=63
 Chloe
 [ไอเทม]รางวัลความสำเร็จ Lv41
-Lv41 ยินดีด้วย! \nเราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
+Lv41 ยินดีด้วย! <br>เราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
 Icon/Mail/SendImage_System
 
 ID=64
 Chloe
 [ไอเทม]รางวัลความสำเร็จ Lv42
-Lv42 ยินดีด้วย! \nเราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
+Lv42 ยินดีด้วย! <br>เราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
 Icon/Mail/SendImage_System
 
 ID=65
 Chloe
 [ไอเทม]รางวัลความสำเร็จ Lv43
-Lv43 ยินดีด้วย! \nเราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
+Lv43 ยินดีด้วย! <br>เราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
 Icon/Mail/SendImage_System
 
 ID=66
 Chloe
 [ไอเทม]รางวัลความสำเร็จ Lv44
-Lv44 ยินดีด้วย! \nเราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
+Lv44 ยินดีด้วย! <br>เราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
 Icon/Mail/SendImage_System
 
 ID=67
 Chloe
 [ไอเทม]รางวัลความสำเร็จ Lv45
-Lv45 ยินดีด้วย! \nเราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
+Lv45 ยินดีด้วย! <br>เราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
 Icon/Mail/SendImage_System
 
 ID=68
 Chloe
 [ไอเทม]รางวัลความสำเร็จ Lv46
-Lv46 ยินดีด้วย! \nเราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
+Lv46 ยินดีด้วย! <br>เราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
 Icon/Mail/SendImage_System
 
 ID=69
 Chloe
 [ไอเทม]รางวัลความสำเร็จ Lv47
-Lv47 ยินดีด้วย! \nเราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
+Lv47 ยินดีด้วย! <br>เราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
 Icon/Mail/SendImage_System
 
 ID=70
 Chloe
 [ไอเทม]รางวัลความสำเร็จ Lv48
-Lv48 ยินดีด้วย! \nเราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
+Lv48 ยินดีด้วย! <br>เราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
 Icon/Mail/SendImage_System
 
 ID=71
 Chloe
 [ไอเทม]รางวัลความสำเร็จ Lv49
-Lv49 ยินดีด้วย! \nเราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
+Lv49 ยินดีด้วย! <br>เราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
 Icon/Mail/SendImage_System
 
 ID=72
 Chloe
 [ไอเทม]รางวัลความสำเร็จ Lv50
-Lv50 ยินดีด้วย! \nเราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
+Lv50 ยินดีด้วย! <br>เราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
 Icon/Mail/SendImage_System
 
 ID=73
 Chloe
 [ไอเทม]รางวัลความสำเร็จ Lv51
-Lv51 ยินดีด้วย! \nเราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
+Lv51 ยินดีด้วย! <br>เราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
 Icon/Mail/SendImage_System
 
 ID=74
 Chloe
 [ไอเทม]รางวัลความสำเร็จ Lv52
-Lv52 ยินดีด้วย! \nเราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
+Lv52 ยินดีด้วย! <br>เราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
 Icon/Mail/SendImage_System
 
 ID=75
 Chloe
 [ไอเทม]รางวัลความสำเร็จ Lv53
-Lv53 ยินดีด้วย! \nเราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
+Lv53 ยินดีด้วย! <br>เราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
 Icon/Mail/SendImage_System
 
 ID=76
 Chloe
 [ไอเทม]รางวัลความสำเร็จ Lv54
-Lv54 ยินดีด้วย! \nเราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
+Lv54 ยินดีด้วย! <br>เราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
 Icon/Mail/SendImage_System
 
 ID=77
 Chloe
 [ไอเทม]รางวัลความสำเร็จ Lv55
-Lv55 ยินดีด้วย! \nเราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
+Lv55 ยินดีด้วย! <br>เราได้เตรียมรางวัลมันก็เป็นเรื่องเกี่ยวกับความรู้สึก โปรดดูรายการที่แนบ!
 Icon/Mail/SendImage_System
 
 ID=78
@@ -469,7 +469,7 @@ Icon/Mail/SendImage_System
 ID=100
 Chloe
 [Free match] Participation fee
-You have completed 5 daily free matches!\nIt may be minor, but here's a reward! Please check the attached items!
+You have completed 5 daily free matches!<br>It may be minor, but here's a reward! Please check the attached items!
 Icon/Mail/SendImage_System
 
 ID=149
@@ -655,13 +655,13 @@ Icon/Mail/SendImage_System
 ID=154
 Chloe
 [Operation: Dimension Shutter] Reward
-The [Operation: Dimension Shutter] Reward has been delivered.\n\nPlease check the attached items.
+The [Operation: Dimension Shutter] Reward has been delivered.<br><br>Please check the attached items.
 Icon/Mail/SendImage_System
 
 ID=155
 Chloe
 [Operation: Dimension Shutter] Ranking Reward
-The [Operation: Dimension Shutter] Ranking Reward has been delivered.\n\nIt is a reward for ranking #{0}.\nPlease check the attached items.
+The [Operation: Dimension Shutter] Ranking Reward has been delivered.<br><br>It is a reward for ranking #{0}.<br>Please check the attached items.
 Icon/Mail/SendImage_System
 
 ID=110
@@ -673,85 +673,85 @@ Icon/Mail/SendImage_System
 ID=112
 Chloe
 [Attendance] Connection Time Reward
-The condition for obtaining the Stage 1 Connection Time Reward has been achieved.\nPlease check the mail attachment.
+The condition for obtaining the Stage 1 Connection Time Reward has been achieved.<br>Please check the mail attachment.
 Icon/Mail/SendImage_System
 
 ID=113
 Chloe
 [Attendance] Connection Time Reward
-The condition for obtaining the Stage 2 Connection Time Reward has been achieved.\nPlease check the mail attachment.
+The condition for obtaining the Stage 2 Connection Time Reward has been achieved.<br>Please check the mail attachment.
 Icon/Mail/SendImage_System
 
 ID=114
 Chloe
 [Attendance] Connection Time Reward
-The condition for obtaining the Stage 3 Connection Time Reward has been achieved.\nPlease check the mail attachment.
+The condition for obtaining the Stage 3 Connection Time Reward has been achieved.<br>Please check the mail attachment.
 Icon/Mail/SendImage_System
 
 ID=115
 Chloe
 [Attendance] Attendance Check Reward
-The condition for the Attendance Check Reward has been achieved.\nPlease check the mail attachment.
+The condition for the Attendance Check Reward has been achieved.<br>Please check the mail attachment.
 Icon/Mail/SendImage_System
 
 ID=116
 Chloe
 [Mission] Achievement Reward
-The condition for obtaining the Mission Reward has been achieved.\nPlease check the mail attachment.\n※ Mission: Start Dash, 7-Days Missions, Festival
+The condition for obtaining the Mission Reward has been achieved.<br>Please check the mail attachment.<br>※ Mission: Start Dash, 7-Days Missions, Festival
 Icon/Mail/SendImage_System
 
 ID=117
 Chloe
 [Mission] Completion Reward
-All Missions have been completed, and the conditions for obtaining the rewards have been achieved.\nPlease check the mail attachment.\n※ Mission: Start Dash, 7-Days Missions, Festival
+All Missions have been completed, and the conditions for obtaining the rewards have been achieved.<br>Please check the mail attachment.<br>※ Mission: Start Dash, 7-Days Missions, Festival
 Icon/Mail/SendImage_System
 
 ID=119
 Chloe
 [World Event] World Reward
-The [Event] World Event Reward Item has been delivered.\nPlease check the mail attachment.
+The [Event] World Event Reward Item has been delivered.<br>Please check the mail attachment.
 Icon/Mail/SendImage_System
 
 ID=140
 Chloe
 [Attendance] Consecutive Attendance Reward
-[Consecutive Attendance] The condition for obtaining the Consecutive Attendance Reward for {0} days has been achieved.\nPlease check the mail attachment.
+[Consecutive Attendance] The condition for obtaining the Consecutive Attendance Reward for {0} days has been achieved.<br>Please check the mail attachment.
 Icon/Mail/SendImage_System
 
 ID=141
 Chloe
 [Attendance] Attendance Reward
-[Attendance] Achieved day {0} attendance.\nReward for the corresponding attendance data have been sent, please check the mail attachment.\n\n※ For Count Box items, the remaining time only decreases once they are received in the inventory.\n※ If you have multiple Count Boxes, the reuse time will be shared to all of them.
+[Attendance] Achieved day {0} attendance.<br>Reward for the corresponding attendance data have been sent, please check the mail attachment.<br><br>※ For Count Box items, the remaining time only decreases once they are received in the inventory.<br>※ If you have multiple Count Boxes, the reuse time will be shared to all of them.
 Icon/Mail/SendImage_System
 
 ID=142
 Chloe
 [Attendance] Connection Time Reward
-[Maintain Connection] Stayed connected for {0} minutes and achieved condition to obtain reward.\nPlease check the mail attachment.
+[Maintain Connection] Stayed connected for {0} minutes and achieved condition to obtain reward.<br>Please check the mail attachment.
 Icon/Mail/SendImage_System
 
 ID=143
 Chloe
 [Attendance] Consecutive Attendance Reward
-[Consecutive Attendance] The condition for obtaining the Consecutive Attendance Reward for {0} days has been achieved.\nPlease check the mail attachment.
+[Consecutive Attendance] The condition for obtaining the Consecutive Attendance Reward for {0} days has been achieved.<br>Please check the mail attachment.
 Icon/Mail/SendImage_System
 
 ID=144
 Chloe
 [Attendance] Attendance Reward
-[Attendance] Achieved day {0} attendance.\nReward for the corresponding attendance data have been sent, please check the mail attachment.\n\n※ For Count Box items, the remaining time only decreases once they are received in the inventory.\n※ If you have multiple Count Boxes, the reuse time will be shared to all of them.
+[Attendance] Achieved day {0} attendance.<br>Reward for the corresponding attendance data have been sent, please check the mail attachment.<br><br>※ For Count Box items, the remaining time only decreases once they are received in the inventory.<br>※ If you have multiple Count Boxes, the reuse time will be shared to all of them.
 Icon/Mail/SendImage_System
 
 ID=145
 Chloe
 [Attendance] Connection Time Reward
-[Maintain Connection] Stayed connected for {0} minutes and achieved condition to obtain reward.\nPlease check the mail attachment.
+[Maintain Connection] Stayed connected for {0} minutes and achieved condition to obtain reward.<br>Please check the mail attachment.
 Icon/Mail/SendImage_System
 
 ID=111
 Chloe
 The roulette item has arrived!
-[Event] You've won a prize on the roulette.\nPlease check the mail attachments.
+[Event] You've won a prize on the roulette.<br>Please check the mail attachments.
 Icon/Mail/SendImage_System
 
 ID=136
@@ -775,5 +775,5 @@ Icon/Mail/SendImage_System
 ID=190
 Chloe
 [System] Gift
-インベントリがいっぱいです！\n\n獲得できなかったアイテムはメールにて送信します。
+インベントリがいっぱいです！<br><br>獲得できなかったアイテムはメールにて送信します。
 Icon/Mail/SendImage_System

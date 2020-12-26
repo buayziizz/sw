@@ -90,17 +90,17 @@ Event Rewards
 
 ID=10021
 New Star's Hope
-Title given to players who achieved an integration level of 50 or higher during the event period.\nThank you for supporting Soulworker!
+Title given to players who achieved an integration level of 50 or higher during the event period.<br>Thank you for supporting Soulworker!
 Event Rewards
 
 ID=10022
 Ocean Awareness
-Title given to players who achieved an integration level of 100 or higher during the event period.\nThank you for supporting Soulworker!
+Title given to players who achieved an integration level of 100 or higher during the event period.<br>Thank you for supporting Soulworker!
 Event Rewards
 
 ID=10023
 Well Aware of
-Title given to players who achieved an integration level of 150 or higher during the event period.\nThank you for supporting Soulworker!
+Title given to players who achieved an integration level of 150 or higher during the event period.<br>Thank you for supporting Soulworker!
 Event Rewards
 
 ID=10024
@@ -130,7 +130,7 @@ Event Rewards
 
 ID=10029
 Quiz Lover
-問題が解けた時の快感っていうの？\nそれがたまんないよね。
+問題が解けた時の快感っていうの？<br>それがたまんないよね。
 Event Rewards
 
 ID=10030
@@ -145,7 +145,7 @@ Event Rewards
 
 ID=10032
 鬼ごっこ大好き
-付きまとってるんじゃないんです！\n追いかけてるだけなんです！！！
+付きまとってるんじゃないんです！<br>追いかけてるだけなんです！！！
 Event Rewards
 
 ID=10033
@@ -320,17 +320,17 @@ Event Rewards
 
 ID=20019
 Soul Master
-イベント期間中、統合レベル200以上を達成した者に与えられる称号。\nソウルワーカーを応援いただきありがとうございます！
+イベント期間中、統合レベル200以上を達成した者に与えられる称号。<br>ソウルワーカーを応援いただきありがとうございます！
 Event Rewards
 
 ID=20020
 Living in Dungeon's
-イベント期間中、統合レベル250以上を達成した者に与えられる称号。\nソウルワーカーを応援いただきありがとうございます！
+イベント期間中、統合レベル250以上を達成した者に与えられる称号。<br>ソウルワーカーを応援いただきありがとうございます！
 Event Rewards
 
 ID=20021
 Almighty
-イベント期間中、統合レベル275以上を達成した者に与えられる称号。\nソウルワーカーを応援いただきありがとうございます！
+イベント期間中、統合レベル275以上を達成した者に与えられる称号。<br>ソウルワーカーを応援いただきありがとうございます！
 Event Rewards
 
 ID=20022
@@ -625,7 +625,7 @@ Achievement [It looks pitiful now.] Completion Reward
 
 ID=101640
 Strong
-The title fits you perfectly.\nAlthough it is a sin in itself.
+The title fits you perfectly.<br>Although it is a sin in itself.
 Achievement [I seem to be strong] Completion Reward
 
 ID=101710
@@ -1045,12 +1045,12 @@ Enhanced
 
 ID=103820
 Golden
-金を見ていると胸が高鳴ります。\n近づくとよだれが垂れます。不思議です。
+金を見ていると胸が高鳴ります。<br>近づくとよだれが垂れます。不思議です。
 レコード[ゴールデンハッカー]獲得報酬
 
 ID=103910
 Next Time
-次はいける！\n次こそ本気出す！次なら負けない！
+次はいける！<br>次こそ本気出す！次なら負けない！
 レコード[失ったジェニーの価値]獲得報酬
 
 ID=103920
@@ -1145,27 +1145,27 @@ Zenny's
 
 ID=104810
 Zaito's
-武器商店を運営する商人組合所属の「ジャイト」。\nムードメーカーですが、筋肉大好きで抜けた性格の持ち主。
+武器商店を運営する商人組合所属の「ジャイト」。<br>ムードメーカーですが、筋肉大好きで抜けた性格の持ち主。
 レコード[これが常連…感激ッス！！]獲得報酬
 
 ID=104910
 Yumi's
-雑貨商店を運営する商人組合所属の「ヨミ」。\n落ち着いており、澄ましたように見えるが、実は情に厚い。
+雑貨商店を運営する商人組合所属の「ヨミ」。<br>落ち着いており、澄ましたように見えるが、実は情に厚い。
 レコード[必要なものがあったら用意しますよ]獲得報酬
 
 ID=105010
 Zenith's
-不法製作専門家の「ゼニス」。\n冷たいような態度に見えるが、実はツンデレ。
+不法製作専門家の「ゼニス」。<br>冷たいような態度に見えるが、実はツンデレ。
 レコード[お前といると全然飽きないんだよね]獲得報酬
 
 ID=105110
 Trisha's
-不法強化専門家の「トリシャ」。\n豪胆で愉快で少し抜けてるおねーさん。ロボット大好き。
+不法強化専門家の「トリシャ」。<br>豪胆で愉快で少し抜けてるおねーさん。ロボット大好き。
 レコード[もう友達だろう？何でも言ってよね！]獲得報酬
 
 ID=105210
 Azin's
-連合第6区域所属の士官「アジン」。\nサバサバとした性格で、仕事はしっかりこなす。特定の人物に会うとアタフタする。
+連合第6区域所属の士官「アジン」。<br>サバサバとした性格で、仕事はしっかりこなす。特定の人物に会うとアタフタする。
 レコード[最高のサービスをいたします]獲得報酬
 
 ID=105310
@@ -1995,7 +1995,7 @@ Zealot
 
 ID=203820
 Hacker
-サイバー世界の無法者！\nカッコいいけど、実際会ったらそうでもないかもー！！
+サイバー世界の無法者！<br>カッコいいけど、実際会ったらそうでもないかもー！！
 レコード[ゴールデンハッカー]獲得報酬
 
 ID=203910
@@ -2105,12 +2105,12 @@ Best Customer
 
 ID=205010
 Intriguing Person
-ゼニスにとって「そそられる」かどうかは仕事の質を左右する重要な指針。\nそういうアレじゃないんだからね！
+ゼニスにとって「そそられる」かどうかは仕事の質を左右する重要な指針。<br>そういうアレじゃないんだからね！
 レコード[お前といると全然飽きないんだよね]獲得報酬
 
 ID=205110
 Bad Influence
-トリシャにとって重要な人に使用される言葉。\n誤解しないでよね！
+トリシャにとって重要な人に使用される言葉。<br>誤解しないでよね！
 レコード[もう友達だろう？何でも言ってよね！]獲得報酬
 
 ID=205210
@@ -2250,7 +2250,7 @@ I'll destroy absolutely everything!
 
 ID=207910
 Solver
-I can solve everything, you know?\nThere's nothing that I can't resolve myself.
+I can solve everything, you know?<br>There's nothing that I can't resolve myself.
 The Primal's Clearance Reward
 
 ID=20024
@@ -3020,12 +3020,12 @@ ID=20121
 
 ID=10122
 水平線の
-ディプルス・ホライズンで危機を乗り越えた者達に与えられる称号。\n追撃の果てに辿り着いた。
+ディプルス・ホライズンで危機を乗り越えた者達に与えられる称号。<br>追撃の果てに辿り着いた。
 ディプルスレイド占有率報酬称号
 
 ID=20122
 追撃者
-ディプルス・ホライズンで危機を乗り越えた者達に与えられる称号。\n追撃の果てに辿り着いた。
+ディプルス・ホライズンで危機を乗り越えた者達に与えられる称号。<br>追撃の果てに辿り着いた。
 ディプルスレイド占有率報酬称号
 
 ID=10103

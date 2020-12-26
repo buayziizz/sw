@@ -2,77 +2,77 @@ ID=1
 Icon/League/Skill/Icon_League_Skill_MemberIncrease
 ขยายจำนวนสมาชิก 1
 League_Person_Extend_1
-ขยายจำนวนสูงสุดของสมาชิกในกิลด์ \nจำนวนสมาชิกสูงสุด: 25 คน
-Additional members: 5 members\nMaximum number: 30 members
+ขยายจำนวนสูงสุดของสมาชิกในกิลด์ <br>จำนวนสมาชิกสูงสุด: 25 คน
+Additional members: 5 members<br>Maximum number: 30 members
 
 ID=2
 Icon/League/Skill/Icon_League_Skill_MemberIncrease
 Member Expansion 2
 League_Person_Extend_2
-Extends the maximum number of guild members.\nMaximum number: 30 members
-Additional members: 5 members\nMaximum number: 35 members
+Extends the maximum number of guild members.<br>Maximum number: 30 members
+Additional members: 5 members<br>Maximum number: 35 members
 
 ID=3
 Icon/League/Skill/Icon_League_Skill_MemberIncrease
 Member Expansion 3
 League_Person_Extend_3
-Extends the maximum number of guild members.\nMaximum number: 35 members
-Additional members: 5 members\nMaximum number: 40 members
+Extends the maximum number of guild members.<br>Maximum number: 35 members
+Additional members: 5 members<br>Maximum number: 40 members
 
 ID=4
 Icon/League/Skill/Icon_League_Skill_MemberIncrease
 Member Expansion 4
 League_Person_Extend_4
-Extends the maximum number of guild members.\nMaximum number: 40 members
-Additional members: 5 members\nMaximum number: 45 members
+Extends the maximum number of guild members.<br>Maximum number: 40 members
+Additional members: 5 members<br>Maximum number: 45 members
 
 ID=5
 Icon/League/Skill/Icon_League_Skill_MemberIncrease
 Member Expansion 5
 League_Person_Extend_5
-Extends the maximum number of guild members.\nMaximum number: 45 members
-Additional members: 5 members\nMaximum number: 50 members
+Extends the maximum number of guild members.<br>Maximum number: 45 members
+Additional members: 5 members<br>Maximum number: 50 members
 
 ID=6
 Icon/League/Skill/Icon_League_Skill_MemberIncrease
 Member Expansion 6
 League_Person_Extend_6
-Extends the maximum number of guild members.\nMaximum number: 50 members
-Additional members: 5 members\nMaximum number: 55 members
+Extends the maximum number of guild members.<br>Maximum number: 50 members
+Additional members: 5 members<br>Maximum number: 55 members
 
 ID=7
 Icon/League/Skill/Icon_League_Skill_MemberIncrease
 Member Expansion 7
 League_Person_Extend_7
-Extends the maximum number of guild members.\nMaximum number: 55 members
-Additional members: 5 members\nMaximum number: 60 members
+Extends the maximum number of guild members.<br>Maximum number: 55 members
+Additional members: 5 members<br>Maximum number: 60 members
 
 ID=8
 Icon/League/Skill/Icon_League_Skill_MemberIncrease
 Member Expansion 8
 League_Person_Extend_8
-Extends the maximum number of guild members.\nMaximum number: 60 members
+Extends the maximum number of guild members.<br>Maximum number: 60 members
 LvMax
 
 ID=9
 Icon/League/Skill/Icon_League_Skill_StorageOpen
 Guild Storage 1
 League_Storage_1
-Be able to use the Guild Storage.\nAvailable storage slots: 48
-Additional slots: 48\nAvailable slots: 96
+Be able to use the Guild Storage.<br>Available storage slots: 48
+Additional slots: 48<br>Available slots: 96
 
 ID=10
 Icon/League/Skill/Icon_League_Skill_StorageOpen
 Guild Storage 2
 League_Storage_2
-Be able to use the Guild Storage.\nAvailable storage slots: 96
-Additional slots: 48\nAvailable slots: 144
+Be able to use the Guild Storage.<br>Available storage slots: 96
+Additional slots: 48<br>Available slots: 144
 
 ID=11
 Icon/League/Skill/Icon_League_Skill_StorageOpen
 Guild Storage 3
 League_Storage_3
-Be able to use the Guild Storage.\nAvailable storage slots: 144
+Be able to use the Guild Storage.<br>Available storage slots: 144
 LvMax
 
 ID=12
@@ -93,82 +93,82 @@ ID=14
 Icon/League/Skill/Icon_League_Skill_LeagueExpUp
 EXP Increase 1
 Exp_Up_1
-Increases the amount of EXP acquired.\nEXP Increase: 5%\nAcquisition Cost: 350,000
-EXP Increase: 5%\nTotal Increase: 10%\n\nAcquisition Cost: 2,700,000
+Increases the amount of EXP acquired.<br>EXP Increase: 5%<br>Acquisition Cost: 350,000
+EXP Increase: 5%<br>Total Increase: 10%<br><br>Acquisition Cost: 2,700,000
 
 ID=15
 Icon/League/Skill/Icon_League_Skill_LeagueExpUp
 EXP Increase 2
 Exp_Up_2
-Increases the amount of EXP acquired.\nEXP Increase: 10%
-EXP Increase: 5%\nTotal Increase: 15%\n\nAcquisition Cost: 7,500,000
+Increases the amount of EXP acquired.<br>EXP Increase: 10%
+EXP Increase: 5%<br>Total Increase: 15%<br><br>Acquisition Cost: 7,500,000
 
 ID=16
 Icon/League/Skill/Icon_League_Skill_LeagueExpUp
 EXP Increase 3
 Exp_Up_3
-Increases the amount of EXP acquired.\nEXP Increase: 15%
+Increases the amount of EXP acquired.<br>EXP Increase: 15%
 LvMax
 
 ID=17
 Icon/League/Skill/Icon_League_Skill_CredibilityUp
 Favorability Increase 1
 CraditRating_Grow_1
-Increases the favorability acquired.\nMaximum acquired favorability increase per day: 3\n\nAcquisition Cost: 550,000
-Maximum acquired favorability increase per day: 3\nTotal maximum acquired favorability increase per day: 6\n\nAcquisition Cost: 3,000,000
+Increases the favorability acquired.<br>Maximum acquired favorability increase per day: 3<br><br>Acquisition Cost: 550,000
+Maximum acquired favorability increase per day: 3<br>Total maximum acquired favorability increase per day: 6<br><br>Acquisition Cost: 3,000,000
 
 ID=18
 Icon/League/Skill/Icon_League_Skill_CredibilityUp
 Favorability Increase 2
 CraditRating_Grow_2
-Increases the favorability acquired.\nMaximum acquired favorability increase per day: 6
-Maximum acquired favorability increase per day: 4\nTotal maximum acquired favorability increase per day: 10\n\nAcquisition Cost: 10,500,000
+Increases the favorability acquired.<br>Maximum acquired favorability increase per day: 6
+Maximum acquired favorability increase per day: 4<br>Total maximum acquired favorability increase per day: 10<br><br>Acquisition Cost: 10,500,000
 
 ID=19
 Icon/League/Skill/Icon_League_Skill_CredibilityUp
 Favorability Increase 3
 CraditRating_Grow_3
-Increases the favorability acquired.\nMaximum acquired favorability increase per day: 10
+Increases the favorability acquired.<br>Maximum acquired favorability increase per day: 10
 LvMax
 
 ID=20
 Icon/League/Skill/Icon_League_Skill_RepairDiscount
 Repair Cost Discount 1
 Repair_Cost_Discount_1
-Reduces the repair costs.\nRepair cost reduction: 3%\n\nAcquisition Cost: 1,950,000
-Increase in reduction fee: 3%\nTotal increase in reduction fee: 6%\n\nAcquisition Cost: 6,500,000
+Reduces the repair costs.<br>Repair cost reduction: 3%<br><br>Acquisition Cost: 1,950,000
+Increase in reduction fee: 3%<br>Total increase in reduction fee: 6%<br><br>Acquisition Cost: 6,500,000
 
 ID=21
 Icon/League/Skill/Icon_League_Skill_RepairDiscount
 Repair Cost Discount 2
 Repair_Cost_Discount_2
-Reduces the repair costs.\nRepair cost reduction: 6%
-Increase in reduction fee: 4%\nTotal increase in reduction fee: 10%\n\nAcquisition Cost: 18,000,000
+Reduces the repair costs.<br>Repair cost reduction: 6%
+Increase in reduction fee: 4%<br>Total increase in reduction fee: 10%<br><br>Acquisition Cost: 18,000,000
 
 ID=22
 Icon/League/Skill/Icon_League_Skill_RepairDiscount
 Repair Cost Discount 3
 Repair_Cost_Discount_3
-Reduces the repair costs.\nRepair cost reduction: 10%
+Reduces the repair costs.<br>Repair cost reduction: 10%
 LvMax
 
 ID=23
 Icon/League/Skill/Icon_League_Skill_CommissionDiscount
 Exchange Market Sales Commission Discount 1
 CommissionDiscount_1
-Reduces sales commission of the exchange market.\nCommission reduction: 1%\n\nAcquisition Cost: 1,950,000
-Increase in reduction fee: 1%\nTotal increase in reduction fee: 2%\n\nAcquisition Cost: 9,000,000
+Reduces sales commission of the exchange market.<br>Commission reduction: 1%<br><br>Acquisition Cost: 1,950,000
+Increase in reduction fee: 1%<br>Total increase in reduction fee: 2%<br><br>Acquisition Cost: 9,000,000
 
 ID=24
 Icon/League/Skill/Icon_League_Skill_CommissionDiscount
 Exchange Market Sales Commission Discount 2
 CommissionDiscount_2
-Reduces sales commission of the exchange market.\nCommission reduction: 2%
-Increase in reduction fee: 1%\nTotal increase in reduction fee: 3%\n\nAcquisition Cost: 20,000,000
+Reduces sales commission of the exchange market.<br>Commission reduction: 2%
+Increase in reduction fee: 1%<br>Total increase in reduction fee: 3%<br><br>Acquisition Cost: 20,000,000
 
 ID=25
 Icon/League/Skill/Icon_League_Skill_CommissionDiscount
 Exchange Market Sales Commission Discount 3
 CommissionDiscount_3
-Reduces sales commission of the exchange market.\nCommission reduction: 3%
+Reduces sales commission of the exchange market.<br>Commission reduction: 3%
 LvMax

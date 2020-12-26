@@ -11000,10 +11000,10 @@ ID=28214
 Guild notice cancelled.
 
 ID=28215
-Are you sure you want to post the guild recruitment ad?
+ギルド募集告知内容に間違いはありませんか？
 
 ID=28216
-Guild Recruit Notice
+ギルド募集告知確認
 
 ID=28217
 การตั้งค่า
@@ -11021,7 +11021,7 @@ ID=28221
 {0}/{1}
 
 ID=28222
-Obtained when guild members consume fatigue.\nUp to 200 consumed fatigue per day.\nUp to {0} guild experience per day.
+ギルドメンバーの疲労度消費で獲得\n1人当たり一日最大200獲得\nギルド経験値一日最大{0}獲得
 
 ID=28223
 Lv
@@ -11030,7 +11030,7 @@ ID=28224
 {0}%
 
 ID=28225
-1% of Dungeon Clearing Rewards will go towards guild funds.
+ギルドメンバーのメイズクリア報酬ジェニーの1%積立
 
 ID=28226
 เงิน
@@ -11060,10 +11060,10 @@ ID=28234
 ตกแต่ง
 
 ID=28235
-To change the Guild Mark you need a Guild Mark Change Ticket. Are you sure you want to use it?
+ギルドマークを変更するには、ギルドマーク変更券が必要です。\n使用しますか？
 
 ID=28236
-You cannot change the Guild Mark without a Guild Mark Change Ticket.
+ギルドマーク変更券を持っていないため、ギルドマークを変更できません。
 
 ID=28237
 เครื่องหมายกิลด์ได้ถูกนำมาใช้
@@ -11090,22 +11090,22 @@ ID=28244
 ({0}GP)
 
 ID=28245
-Are you sure you want to learn {0}?\n[Cost: {1} GP and {2} Funds]
+{0}を習得しますか？\n[{1}GPと基金を{2}消費します]
 
 ID=28246
-Are you sure you want to raise {0}'s level?\nIt will cost {1} GP and {2} Funds
+{0}をレベルアップしますか？\n[{1}GPと基金を{2}消費します]
 
 ID=28247
 สมาคมกองทุนไม่เพียงพอ
 
 ID=28248
-Guild Warehouse settings has been applied.[{0} seconds]
+倉庫を更新中です。[{0}秒]
 
 ID=28249
-Are you sure you want to move {1} {0} in the Guild Storage?
+ギルド倉庫に{0}を{1}個移動しますか？
 
 ID=28250
-Are you sure you want to move {1} {0} in your inventory?
+インベントリに{0}を{1}個移動しますか？
 
 ID=28251
 เก็บของ
@@ -11114,43 +11114,43 @@ ID=28252
 นำของออกจากคลัง
 
 ID=28253
-Activation failed because the Guild Storage level is insufficient.
+ギルド倉庫のレベルが足りないため、活性化できませんでした。
 
 ID=28254
-Unavailable information to perform the operation on the item
+出庫するアイテムの情報がありません。
 
 ID=28255
-The information of the request being sent has been updated; please perform the action again.
+要請したアイテムの情報が異なります。
 
 ID=28256
-The warehouse is full.
+倉庫に空きがありません。
 
 ID=28257
-This item cannot be removed.
+入庫できないタイプのアイテムです。
 
 ID=28258
-You do not have access to the Guild Storage.
+ギルド倉庫の権限がありません。
 
 ID=28259
 GP
 
 ID=28260
-{0} stored {2} {1}.
+{0}が{1}を{2}個入庫しました。
 
 ID=28261
-{0} took {2} {1}.
+{0}が{1}を{2}個出庫しました。
 
 ID=28262
 ต้องการ GP
 
 ID=28263
-Are you sure you want to change the Guild Mark?
+ギルドマークを変更しますか？
 
 ID=28264
-Please select a basic pattern for the guild mark.
+ギルドマークの模様/基礎を選択してください。
 
 ID=28265
-This guild mark is identical to the previous one.
+以前のギルドマークと同じです。
 
 ID=28266
 ギルド加入状態の時のみ使用可能です。
@@ -11243,7 +11243,7 @@ ID=29026
 ยืนยันการสร้างห้อง
 
 ID=29027
-Creating a room costs 5,000 Zenny.\nAre you sure you want to create the room?\n(only one room can be created)
+マイルーム作成には5,000ジェニー必要です。\nマイルームを作成しますか？\n(マイルームは一つのみ作成できます)
 
 ID=29028
 เสร็จสิ้นการสร้างห้อง
@@ -11255,13 +11255,13 @@ ID=29030
 การสร้างห้องล้มเหลวเลเวลไม่เพียงพอ
 
 ID=29031
-You have yet to reach the level required to create a room.\nLevel requirement: Lv8
+マイルーム作成に必要なレベルに達していません。\n必要条件：Lv8
 
 ID=29032
 การสร้างห้องล้มเหลว Zenny ไม่เพียงพอ
 
 ID=29033
-Insuffiicient funds. Cannot create room.
+マイルーム作成費用が不足しています。
 
 ID=29034
 ห้อง
@@ -11270,46 +11270,46 @@ ID=29035
 ท่านต้องการเข้าไปที่ห้อง?
 
 ID=29036
-Confirm Buddy Room Entry
+相手のマイルーム入場案内
 
 ID=29037
-Are you sure you want to admit {0} to your room?
+{0}のマイルームに入場しますか？
 
 ID=29038
-Entering Room Guide
+ランダムマイルーム入場案内
 
 ID=29039
-Enter a random room?
+ランダムでマイルームに入場しますか？
 
 ID=29040
-Room Entry Denied
+マイルーム入場不可案内
 
 ID=29041
-Cannot enter {0}'s room.
+{0}のマイルームには入場できません。
 
 ID=29042
 การตั้งค่าคำแนะนำที่เหมาะสม
 
 ID=29043
-There were changes in the settings. Are you sure you want to close the window and lose all changes?
+設定に変更があります。ウィンドウを閉じますか？
 
 ID=29044
-The maximum number of guests have been reached.
+マイルーム入場メンバー超過案内
 
 ID=29045
-Cannot enter the room because the guest capacity limit was reached.
+マイルーム入場メンバーが超過しているため入場できません。
 
 ID=29046
-Confirm Kick Guest
+マイルーム強制退場対象案内
 
 ID=29047
-Are you sure you want to kick {0} from your room?
+{0}をマイルームから追放しますか？
 
 ID=29048
-Kick Guest Prompt
+マイルーム追放案内
 
 ID=29049
-{0} has been kicked from your room.
+{0}のマイルームから追放されました。
 
 ID=29050
 เข้าสู่โหมดจัดตำแหน่ง
@@ -11324,7 +11324,7 @@ ID=29053
 แน่ใจหรือไม่ว่าคุณต้องการที่จะออกจากโหมดจัดตำแหน่ง?
 
 ID=29054
-Your room publicity settings have been reverted to their defaults.
+以前のマイルーム公開/ローカル状態に自動転換します。
 
 ID=29055
 ปรับมุมกล้อง
@@ -11348,7 +11348,7 @@ ID=29061
 ใช้
 
 ID=29062
-{0} will be sent to your furniture inventory.
+{0}が家具インベントリに保管されます。
 
 ID=29063
 สามารถใช้งานได้เฉพาะในเมือง
@@ -11426,37 +11426,37 @@ ID=29087
 รับ
 
 ID=29088
-Ranking and Recommended Info reset at 09:00 JST/00:00 UTC every 1st day of the month. (Ranking Info is updated every day at 09:00 JST)
+毎月1日の朝9時にランキング及び推薦情報が初期化されます。(毎朝9時にランキング情報更新)
 
 ID=29089
-Information is updated every day at 09:00 JST/00:00 UTC.
+毎朝9時に情報が更新されます。
 
 ID=29090
 รายการรางวัลการจัดอันดับ
 
 ID=29091
-Basic Participation
+基本参加
 
 ID=29092
-You'll receive a basic reward in your mail if you have more than 1 praises.
+推薦数が1以上の場合、基本報酬がメールで支給されます。
 
 ID=29093
-You can create another room notice in {0} minutes.
+掲示板作成の待機時間残り{0}分。
 
 ID=29094
-You cannot create while not being in your room.
+マイルームがないと作成できません。
 
 ID=29095
-You cannot receive the reward.
+報酬を受け取れません。
 
 ID=29096
-Please enter at least one character.
+1文字以上入力してください。
 
 ID=29097
 ลบรายการโปรดหรือไม่?
 
 ID=29098
-Received rank rewards.\nPlease check your account mail.
+ランキング報酬を支給しました。\nアカウントメールを確認してください。
 
 ID=29121
 マイルーム情報を読込中です。\n読込が完了するとこのメッセージは自動に消えます。\n\n時間が1分以上かかる場合には「確認」ボタンを押して街に戻る事が出来ます。
@@ -11495,115 +11495,115 @@ ID=30105
 ไม่อยู่
 
 ID=31000
-Only the leader can invite.
+招待はリーダーのみ可能です。
 
 ID=31001
-You cannot invite any more members to the Party.
+パーティーの最大人員を超過しました。
 
 ID=31002
-[{0}] is in another Party.
+[{0}]は他のパーティーに加入しています。
 
 ID=31003
-[{0}] currently be invited because you are in dungeon.
+現在[{0}]はメイズにいるため招待できません。
 
 ID=31004
-[{0}] has refused the invitation.
+[{0}]が招待を拒否しました。
 
 ID=31005
-[{0}] is not logged in or cannot be found.
+[{0}]は検索できないかログイン状態ではありません。
 
 ID=31006
-Already being invited to a Party.
+すでにパーティー招待をしています。
 
 ID=31007
-The target is already being invited to a Party.
+他のパーティーに加入するか検討中です。
 
 ID=31008
-The target cannot be invited; they blocked all party requests.
+遮断対象のため招待できません。
 
 ID=31009
-The Party was disbanded.
+パーティーが解散しました。
 
 ID=31010
-Cannot join because the Party is in a dungeon.
+パーティーがメイズにいるため合流できません。
 
 ID=31011
-You cannot join the Party.
+該当パーティーに加入できません。
 
 ID=31012
-You cannot invite any more members to the Party.
+パーティーの最大人員を超過しました。
 
 ID=31013
-[{0}] has refused the Party invitation.
+[{0}]がパーティー招待を拒否しました。
 
 ID=31014
-[{0}] has joined the Party.
+[{0}]がパーティーに合流しました。
 
 ID=31015
-You have joined the Party.
+パーティーに合流しました。
 
 ID=31016
-[{0}] has been kicked from the Party.
+[{0}]がパーティーから追放されました。
 
 ID=31017
-You have been kicked from the Party.
+パーティーから追放されました。
 
 ID=31018
-[{0}] has left the Party.
+[{0}]がパーティーから離脱しました。
 
 ID=31019
-You have left the Party.
+パーティーを離脱しました。
 
 ID=31020
-[{0}] is now the Party leader.
+[{0}]がパーティーリーダーになりました。
 
 ID=31021
-[{0}] appointed you as the Party leader.
+[{0}]がパーティーリーダーを委任しました。
 
 ID=31022
-[{0}] has been removed from the Party due to time restraints.
+時間制限により、[{0}]がパーティーから追放されました。
 
 ID=31023
-Cannot enter because a party party member does not meet the level requirements.
+入場レベルに達していないメンバーがいるため、入場できません。
 
 ID=31024
-Cannot enter the area with the current Party.
+パーティー状態では入場できないエリアです。
 
 ID=31025
-Not enough members required to proceed to the next area.
+次のエリアへの移動に必要なメンバーが不足しています。
 
 ID=31026
-Only Party members in the same town may enter a dungeon together.
+パーティーのメイズ入場時に、同じ町にいる場合のみ合流できます。
 
 ID=31027
-Cannot enter because a party party member does not have a Soul Weapon equipped.
+ソウルウェポンを装備してないメンバーがいるため、入場できません。
 
 ID=31028
-You can enter only the same dungeon as the leader.
+リーダーと同じメイズにのみ入場できます。
 
 ID=31029
-Cannot enter a different dungeon than your party members.
+メンバーが入場中のメイズにのみ合流できます。
 
 ID=31030
-Cannot join due to current state.
+今の状態では途中合流できません。
 
 ID=31031
-Cannot enter because {0} {1} {2} is in District 6.
+{0} {1} {2}は第6区域にいるため、入場できません。
 
 ID=31032
-{0} is in an area that cannot receive invitations.
+{0}は招待不可エリアにいます。
 
 ID=31033
-Cannot join Party here.
+ここではパーティーには合流できません。
 
 ID=31034
-Cannot leave the Party here.
+ここではパーティーを離脱できません。
 
 ID=31035
-Cannot remove {0} right now.
+今は{0}を追放できません。
 
 ID=31036
-Cannot enter the dungeon because {0} {1} {2} logged out in a different town or area.
+{0} {1} {2}は同じ町でなく別の場所でログアウトしたため、メイズに入場できません。
 
 ID=31037
 สมาชิก {0} ปฏิเสธการเข้าร่วมดันเจี้ยน
@@ -11621,22 +11621,22 @@ ID=31041
 ออกจากปาร์ตี้
 
 ID=31042
-Request Entry
+入場要請
 
 ID=31043
-Cancel Request
+入場要請待機
 
 ID=31044
-Change Party Leader
+パーティーリーダー委任
 
 ID=31045
-You have been kicked from the Party
+パーティー追放
 
 ID=31046
 การเข้าดันเจี้ยนถูกปฏิเสธ
 
 ID=31047
-Ready
+準備完了
 
 ID=31048
 EPISODE
@@ -11645,46 +11645,46 @@ ID=31049
 ค้นหาแมตช์
 
 ID=31050
-Auto-Matching disabled
+オートマッチング使用不可
 
 ID=31051
-Auto-Matching Search Cancelled
+オートマッチング検索不可
 
 ID=31052
-Auto-Matching In-Progress
+オートマッチング進行選択
 
 ID=31053
-Auto-Matching forced to exit
+オートマッチング強制退場
 
 ID=31054
-Auto-Matching Ended
+オートマッチング終了
 
 ID=31055
-Auto-Matching cannot be used in a Party.
+パーティー加入中は、オートマッチングは使用できません。
 
 ID=31056
-Unable to find a party within the time limit.
+時間内に検索できませんでした。
 
 ID=31057
-Are you sure you want to proceed with this party?\nWill automatically continue if no input is given.\n({0} seconds remaining)
+メンバーが不足していますが、このまま進行しますか？\n時間内に選択しなかった場合は、自動で入場します。\n(残り時間：{0}秒)
 
 ID=31058
-Since you have not confirmed the dungeon entry, you have been kicked out of the Party.
+パーティー進行可否を選択しなかったため強制退場となりました。
 
 ID=31059
-Are you sure you want to cancel Auto-Matching?
+オートマッチングを終了しますか？
 
 ID=31060
-You cannot use [{0}] Auto-Matching for {1} minutes.
+ペナルティ発生により、[{0}]分[{1}]秒間オートマッチングを使用できません。
 
 ID=31061
 เวลาการค้นหาที่เหลือ
 
 ID=31062
-Deciding on Party entry...
+パーティー進行可否選択中
 
 ID=31063
-Select Party Leader
+パーティーリーダー選定中…
 
 ID=31064
 เข้าสู่ดันเจี้ยน
@@ -11702,19 +11702,19 @@ ID=31068
 ออก
 
 ID=31069
-Proceed
+進行
 
 ID=31070
-Standby
+待機
 
 ID=31071
-Party / Force Search
+パーティー/フォース検索
 
 ID=31072
-Standby List
+待機者リスト
 
 ID=31073
-Party Request
+パーティー申請
 
 ID=31074
 โพสต์แนะนำ
@@ -11723,13 +11723,13 @@ ID=31075
 パーティー/フォース申請者
 
 ID=31076
-Party recruitment
+パーティー募集
 
 ID=31077
 ร้องขอ
 
 ID=31078
-Recruitment Time
+募集登録時間
 
 ID=31079
 {0} นาที
@@ -11756,7 +11756,7 @@ ID=31086
 โพสต์
 
 ID=31087
-Cancel Search
+待機解除
 
 ID=31088
 ปฏิเสธ
@@ -11795,7 +11795,7 @@ ID=31099
 ชื่อ
 
 ID=31100
-Recruiting Members
+メンバー急募
 
 ID=31101
 เลือก
@@ -11813,19 +11813,19 @@ ID=31105
 อิสระ
 
 ID=31106
-Recruiting for 30mins.
+30分間募集します。
 
 ID=31107
-When removing your recruitment ad, you cannot re-register until a cooldown period has elapsed.\nAre you sure you want to remove your ad? 
+時間内に選択解除時、募集制限時間が終了するまでは \n再登録できません。募集を解除しますか？
 
 ID=31108
-Cannot apply because the Party is full.
+パーティーに空きがないため登録できません。
 
 ID=31109
-Please select the Party purpose.
+パーティーの目的を選択してください。
 
 ID=31110
-Your party recruitment ad lasts for [{0}]m [{1}]s.
+募集制限時間[{0}]分[{1}]秒が経過すると募集登録ができます。
 
 ID=31111
 パーティー/フォース申請が完了しました。\nパーティー/フォース申請は30分後に自動で削除されます。\n(残り申請可能回数：{0}回)
@@ -11840,43 +11840,43 @@ ID=31114
 申請をしたパーティー/フォースがありません。
 
 ID=31115
-Applied already.
+すでに申請しています。
 
 ID=31116
-There are too many requests. Please try again later.
+申請者がいっぱいです。しばらくしてからもう一度申請してください。
 
 ID=31117
-The advertisement will last for 10 minutes. Are you sure you want to post it?
+10分間待機登録されます。登録しますか？
 
 ID=31118
-Are you sure you want to remove your party search request advertisement?
+登録を解除しますか？
 
 ID=31119
-<Party Recruitment> {0}/Purpose: {1}/Party Leader: {2}/Members: {3}/4
+<パーティー募集>{0}/目的：{1}/パーティーリーダー：{2}/メンバー：{3}/4
 
 ID=31120
-You can apply for a party in {0} seconds.
+{0}秒後にパーティー申請ができます。
 
 ID=31121
-Find party request registered.
+待機登録が完了しました。
 
 ID=31122
-Find party request cancelled.
+待機登録を解除しました。
 
 ID=31123
-Party Recruitment advertisement registered.
+募集広告完了
 
 ID=31124
-Party Recruitment advertisement creation cancelled.
+募集選択解除
 
 ID=31125
-The Party Recruitment advertisement was cancelled.
+募集登録不可
 
 ID=31126
-Party Recruitment advertisement cancelled.
+募集設定不可
 
 ID=31127
-Party Recruitment advertisement re-registration cancelled.
+募集再登録不可
 
 ID=31128
 パーティー/フォース申請完了
@@ -11891,7 +11891,7 @@ ID=31131
 申請済みのパーティー/フォースなし
 
 ID=31132
-The party application has been sent already.
+重複申請
 
 ID=31133
 申請パーティー/フォース混雑状態
@@ -11900,52 +11900,52 @@ ID=31134
 โพสต์
 
 ID=31135
-Cancel Search
+待機解除
 
 ID=31136
-Register
+登録
 
 ID=31137
 ปล่อย
 
 ID=31138
-The Party has been formed.
+パーティーを結成しました。
 
 ID=31139
-Are you sure you want to request to retry the dungeon?\n({0} seconds remaining)
+メイズ再挑戦をメンバーに要請しますか？\n(残り時間：{0}秒)
 
 ID=31140
-The leader {0} has requested a dungeon retry.\nWill you accept the request?\n({1} seconds remaining)
+リーダーの{0}がメイズ再挑戦を要請しています。\n要請に応じますか？\n(残り時間：{1}秒)
 
 ID=31141
-Request
+要請
 
 ID=31142
-Waiting for members to respond.\n(Click “Cancel” if you do not want to retry)
+メンバーの応答を待っています。\n(再挑戦したくない場合は「中止」をクリック)
 
 ID=31143
-Declined {0} retry request.
+{0}がメイズ再開申請を拒否しました。
 
 ID=31144
-Are you sure you want to reattempt the dungeon?
+メイズに再挑戦しますか？
 
 ID=31145
-You may not enter the dungeon again as a party member has left.
+メイズを離脱したメンバーがいるため、再挑戦できません。
 
 ID=31146
-Cannot re-enter the dungeon because you do not have enough fatigue.
+疲労度が不足しているため、メイズに再挑戦できません。
 
 ID=31147
-Cannot re-enter the dungeon because {0} does not have enough fatigue.
+{0}の疲労度が不足しているため、メイズに再挑戦できません。
 
 ID=31148
-The dungeon has a re-entry cooldown of {0} seconds.
+メイズ再挑戦までの待機時間：{0}秒
 
 ID=31149
-The leader cancelled the request to join {0} dungeon.
+リーダーの{0}がメイズ入場を中止しました。
 
 ID=31150
-Cancel Dungeon Entry
+メイズ入場中止
 
 ID=31151
 เป้าหมาย
@@ -11954,55 +11954,55 @@ ID=31152
 {0}：{1}
 
 ID=31153
-Cannot use Auto-Matching for [{0}] minutes [{1}] seconds because you were in a Party formed by Auto-Matching.
+オートマッチングにより構成されたパーティーであるため、[{0}]分[{1}]秒間はオートマッチングを使用できません。
 
 ID=31154
-Leave Auto-Matching
+オートマッチング退場
 
 ID=31155
-You may enter the dungeon after it has been cleared.
+現在進行中のメイズ終了後に入場できます。
 
 ID=31156
 メイズ離脱後5分経過したため、合流できません。
 
 ID=31157
-You may not join the Party while the party is fighting a boss.
+パーティーがボスと戦闘している場合は合流できません。
 
 ID=31158
-Unjoin
+合流不可
 
 ID=31159
-Time Left
+残り登録時間
 
 ID=31160
-Auto-Matching Withdrawal
+オートマッチング離脱案内
 
 ID=31161
-When withdrawing from the current Party, there will be a time limit for Auto-Matching.\nAre you sure you want to leave?
+現在のパーティーから離脱すると、オートマッチング利用に制限がかかります。\n本当に離脱しますか？
 
 ID=31162
-This player is not registered in the waitlist.
+待機者リストに登録されていないプレイヤーです。
 
 ID=31163
 คำเตือน
 
 ID=31164
-This player's level is not high enough for Party request.
+パーティー申請できるレベルではありません。
 
 ID=31165
-Party matching was stopped
+パーティーマッチング中止
 
 ID=31166
-Members have cancelled the matching.
+マッチング中のメンバーがキャンセルしました。
 
 ID=31167
-The Party is in combat. Are you sure you want to join?\n({0} seconds remaining)
+パーティーが戦闘中です。合流しますか？\n(残り時間：{0}秒)
 
 ID=31168
-Party Join Request Ad
+目的地を選択してください。
 
 ID=31169
-Since party members left, the enemies have weakened.
+メンバーの離脱により、敵が弱体化されます。
 
 ID=31170
 พื้นที่
@@ -12011,16 +12011,16 @@ ID=31171
 โพสต์หาปาร์ตี้
 
 ID=31172
-Cannot apply to join the Party because the other Party is in a lawless zone.
+相手が無法地帯にいるため、パーティー要請ができません。
 
 ID=31173
-Cannot apply to join a Party from a lawless zone.
+無法地帯ではパーティー要請ができません。
 
 ID=31174
 その他のエラーによる終了状態のため、合流が行えます。\nボスとの戦闘など合流が行えない場合もあります。\n合流しますか？-残り時間：{0}秒-
 
 ID=31175
-You cannot rejoin if you quit the game on purpose.\nYou can only rejoin if the game has ended due to an unexpected error.
+意図的に終了をした場合は合流できません。\nその他のエラーによる終了の場合は合流できます。
 
 ID=31176
 パーティー状態の時のみ使用可能です。
@@ -12347,7 +12347,7 @@ ID=32105
 อัตราแลกเปลี่ยน
 
 ID=32106
-Y.P Shop
+Y.P商店
 
 ID=32107
 เข้าสู่ระบบ
@@ -12380,7 +12380,7 @@ ID=33002
 -レポート：アマリリス-\n\n1．SJ-DS-01にソウルエナジー耐性機能を追加。状態はとても不安定。\n\n2．SJ-DS-01は、ソウルエナジーの宿主である人間に寄生できることが判明。\n寄生対象となった人間は、ソウルエナジーを持続的に奪われ、皮膚が石膏のように固まってSJ-DS-01の食料となる。\n\n3．SJ-DS-01をディグニティースナッチャーと名付ける。ディグニティースナッチャーの内部に蓄えられているソウルエナジーの総量が存在することが明らかになる。しかし、平凡な人間は該当総量を全て満たす程のソウルエナジーを持ち合わせていない。現在の総量は測定不可。
 
 ID=33003
-- Report on Tempest.\n1. Precise machinery. Reproduction unfeasible.\n2. High-density firing gun.\n3. Special wire and nail with heavyduty grip as a weapon. Weaker than main one.\n4. Soul Energy storage and transfer possible by a special wire.
+-レポート：テンペスト-\n1. 精密な機械で構成されている。ラピッドフレイムの技術レベルを根拠に検討した結果、ラピッドフレイム自体では製作不可能であるという結論。外部の支援があったと判断。\n\n2. 武装は、高密度のデザイアエナジーを発射する主砲。\n\n3. 特殊ワイヤーと握力700kgの爪が特殊武装として装着。\nしかし、武装としての性能は期待できない水準。\n\n4. 特殊ワイヤーは、ソウルエナジーの保管及び移動を可能にした特殊材料で構成。
 
 ID=33004
 -ある雲った日。\nあの子の暴走は予想していた。むしろ、それを「災い」呼ぶ者たちを理解できなかった。我々は罪を犯し、それを償う時がやって来た…ただそれだけだ。他の子らの代わりに、裁きを下しに来たのだ。それがもし復讐という名を持っていたとしても、私は甘んじて受け入れる。\n\n-ある雪の日。\nあの子は愚かな人間たちによって再び眠りについた。彼らは、あの子が眠れば全て終わるという甘い考えに染まっていた。ネッドカンパニーが我々を助けてくれるなどという愚かな考えに腹が立った。彼らはきっと、真実を知る者全てを葬り去るだろう。何事もなかったかのように。\n\n-ある晴れた日。\nこの施設の閉鎖が決まり、首脳部を除く全ての人間はこの地獄へ取り残されることになった。おそらく、そう長くは保たないだろう。罪深き我々の最後にはお似合いだ。…不思議な気分だ。あれほど怖がっていた死が、今はまったく怖くない。
@@ -12554,10 +12554,10 @@ ID=33553
 Calamity's Prelude
 
 ID=33554
-Predator's Cry
+捕食者の叫び
 
 ID=33555
-Predator's Traces
+捕食者の痕跡
 
 ID=34000
 กระถางดอกไม้ 1
@@ -12608,7 +12608,7 @@ ID=34022
 คุณต้องการที่จะใช้ {0}?
 
 ID=34023
-Stop Cultivation
+栽培中止
 
 ID=34024
 พืชที่ไม่สามารถปลูกได้
@@ -12656,7 +12656,7 @@ ID=34038
 คุณต้องการที่จะเริ่มต้นการเพาะปลูกหรือไม่?
 
 ID=34039
-{0} helped people\nCultivation time -{1}%
+{0}人のヘルプ\n栽培時間{1}%減少
 
 ID=35000
 ทั่วไป
@@ -12749,16 +12749,16 @@ ID=35115
 คุณไม่สามารถแชทได้ 60 วินาที ว่าด้วยเรื่องมารยาทการพูดคุย \n(เหลือ: {0} วินาที)
 
 ID=35116
-Dealt {1} damaged to {0}.
+{0}に{1}ダメージ与えました。
 
 ID=35117
-Received {1} damage from {0}.
+{0}に{1}ダメージ受けました。
 
 ID=35200
-{0} won, obtained {1} BP.
+{0}に勝利して、BPを{1}獲得しました。
 
 ID=35201
-{0} has lost, earned {1} BP.
+{0}に敗北して、BPが{1}減少しました。
 
 ID=35202
 BP ที่ได้รับ {0}
@@ -12806,31 +12806,31 @@ ID=36012
 ย้าย
 
 ID=37001
-Emergency! A Void Fissure has appeared in District 6! Requesting support!
+緊急！第6区域に空白の亀裂発生！応援を求む！
 
 ID=37002
-The Void Fissures have been eliminated.
+空白の亀裂を除去できました。
 
 ID=37003
-The Void Fissures in the Emergency Area have disappeared.
+緊急事態発生地の空白の亀裂が突然姿を消しました。
 
 ID=37004
-Code name [The Thing] has appeared in the center of the Emergency Area.
+緊急事態発生地の中心部にコードネーム[ザ・シング]が出現しました。
 
 ID=37005
-The supreme Soulworker! {0} has defeated The Thing.
+最高のソウルワーカー！{0}によって、ザ・シングが討伐されました。
 
 ID=37006
-The Thing has suddenly disappeared from the Emergency Area.
+緊急事態発生地のザ・シングが突然姿を消しました。
 
 ID=37007
 緊急事態が発生しました。\nLｖ.65から支援可能です。\nアイコンをクリックして支援をお願いします！\n\n亀裂消滅まで：残り{0}分
 
 ID=37008
-The Vacuum Cube has disappeared, unable to obtain any items.
+バキュームキューブが消滅し、アイテムを獲得できませんでした。
 
 ID=37009
-The power surrounding the The Primal is weakened, you can get closer now.\n({0} minutes remaining)
+ザ・プライマルを取り巻く力が弱まったので、接近できます。\n残り：{0}分
 
 ID=37010
 วันจันทร์
@@ -12866,7 +12866,7 @@ ID=37020
 ชั่วโมงค่าเข้าชม
 
 ID=37021
-[The Thing's] energy source is gathering towards the center of the Emergency Area. The encounter is expected to begin in a minute.
+緊急事態発生地の中心部に移動中の[ザ・シング]のエナジー感知。1分後に遭遇する見込みです。
 
 ID=37025
 該当チャンネルのワールドボスが討伐されました。\n\n緊急事態終了まで：残り{0}分
@@ -12917,10 +12917,10 @@ ID=37515
 ▼
 
 ID=37516
-※ Dungeons\n- earn points for each normal entry and clear\n- earn points for each Very Hard clear\n- earn points for solo clear\n- earn points for not using revivals\n- earn points for not using items\n\n※ Steel Grave\n- earn points for entry\n- earn points for each cleared chapter\n\n※ Raid\n- earn points for entry\n- earn points for clear
+#メイズ \n-各メイズのノーマル入場及びクリア時、点数付与(差等付与)\n-各メイズのベリーハードクリア時、点数付与(差等付与)\n-1人でメイズクリア時、ボーナス点数付与\n-復活アイテム不使用時、ボーナス点数付与\n-獲得アイテム不使用時、ボーナス点数付与\n\n#スチールグレイブ \n-スチールグレイブ入場時、点数付与\n-それぞれのスチールグレイブのチャプタークリア時、点数付与(差等付与)\n\n#レイド\n-レイド入場時、点数付与\n-それぞれのカジュアルレイドクリア時、点数付与(差等付与)
 
 ID=37517
-Period: Monday 9 AM ~ Sunday 9 PM (7 days, every week)\n\nResults announcement: every Sunday 10 PM\n\nBonus Points (normal dungeons)\n- no Party\n- no recovering potions\n- no buff potions\n\n※ For Steel Grave and Casual Raid, the bonus points are higher than the clearing points of normal dungeons.
+期間：月曜日09:00～日曜日21:00(7日間、毎週進行)\n\n結果発表：毎週日曜日22時00分\n\nボーナス点数項目(ノーマルメイズ)\n -パーティー禁止\n -回復ポーション使用禁止\n -バフポーション使用禁止\n\n#スチールグレイブ及びカジュアルレイドには\nボーナス点数はなく、ノーマルメイズのクリア点数が高い。
 
 ID=37518
 รางวัลส่วนตัว
@@ -12980,7 +12980,7 @@ ID=37541
 ค่าตอบแทนพิเศษ
 
 ID=37542
-Dungeon entry and clear {0} + solo play {1} + no revivals + {2} + no recovering potions {3}
+メイズ入場及びクリア{0}+1人プレイ{1}+復活禁止{2}+回復ポーション禁止{3}
 
 ID=37543
 วิธีการดำเนินการ

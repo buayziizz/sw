@@ -18767,22 +18767,22 @@ ID=52320
 Since this item is non-giftable, it cannot be gifted.
 
 ID=52321
-Items that are owned already cannot be purchased again.
+สินค้าที่มีเจ้าของแล้วไม่สามารถซื้อได้อีก
 
 ID=52322
-Sale period has ended. You cannot purchase this item anymore.
+ระยะเวลาการขายสิ้นสุดลงแล้ว คุณไม่สามารถซื้อสินค้านี้ได้อีกต่อไป
 
 ID=52323
-You cannot purchase this item anymore.
+คุณไม่สามารถซื้อสินค้านี้ได้อีกต่อไป
 
 ID=52324
-Cannot open the Market nor the Item Mall in the current area.
+ไม่สามารถเปิด Market หรือ Item Mall ในพื้นที่ปัจจุบันได้
 
 ID=52325
-Cannot be re-purchased.
+ไม่สามารถซื้อซ้ำได้
 
 ID=52401
-Player is already trading.
+ผู้เล่นมีการซื้อขายแล้ว
 
 ID=52402
 The request was cancelled. You are too far from the target.
@@ -20174,7 +20174,7 @@ ID=60103
 การจัดอันดับประจำสัปดาห์จะรีเซ็ตไหม่ในแต่ละสัปดาห์
 
 ID=60104
-Ranking Reward
+รางวัลอันดับ
 
 ID=60105
 Raid
@@ -22310,7 +22310,7 @@ ID=60547
 Operation
 
 ID=60548
-Ranking Reward
+รางวัลอันดับ
 
 ID=60549
 จำนวนการมีส่วนร่วม

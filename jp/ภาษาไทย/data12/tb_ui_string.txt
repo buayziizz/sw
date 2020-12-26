@@ -5075,25 +5075,25 @@ ID=10524
 Battle of Destiny
 
 ID=13000
-最下級
+Lowest Grade
 
 ID=13001
-下級
+Low Grade
 
 ID=13002
-中級
+Mid Grade
 
 ID=13003
-上級
+High Grade
 
 ID=13004
-最上級
+Highest Grade
 
 ID=13005
-システム点検中により、認証に失敗しました。
+Authentication failed due to ongoing system maintenance.
 
 ID=13006
-予期せぬエラーにより認証に失敗しました。\nお客様センターにお問い合わせください。\n[ErrorCode：{0}]
+Authentication failed due to an unexpected error.\nPlease contact the Customer Service Center.\n[ErrorCode: {0}]
 
 ID=14000
 Steel Grave
@@ -5219,196 +5219,196 @@ ID=14224
 Stage 25
 
 ID=15000
-スタリーフォレスト連合の隊員が戦闘能力を試す場所。\n試験用に改造されたロボットがスタリーフォレスト連合の隊員を待ち構える。
+The place where members of the Starry Forest League test their abilities.\nThe training robot lie in wait for the members of the Starry Forest League.
 
 ID=15001
-一人の子どもを助けるため、工事が中断されたボーリング現場に駆けつけるミリアム。だが、突如現れたソウルジャンクの襲撃で孤立してしまい…。
+To help the child, Miriam rushes to the unfinished drill site. But she was interrupted by waves of Souljunks that appeared out of nowhere...
 
 ID=15002
-ボーリング現場で動き回るソウルジャンク「ドレッド」。\nウォーレンの病院を破壊し、ロコタウンを伝染病の恐怖に\n突き落とした元凶。伝染病が流行る前に始末しよう。
+“Dread”, the Soul Junk which moves around the bowling site.\nThe main culprit destroyed a hospital in Warren, which in turn pushed Rocco Town over in fear of an infectious disease. I'll take care of it before it spreads.
 
 ID=15003
-ミリアムの頼みで来たボーリング現場。\nソウルジャンクによって孤立した生存者を探し出し、\n救出しなければならない。
+I have come to the bowling site by Miriam's request.\nI have to find and rescue the survivors who were isolated by the Soul Junk.
 
 ID=15004
-覚醒体が現れたという情報の真偽を確かめようと、\nリューが一人現場へ向かった。何が起こるかわからない。\n急いで彼と合流しよう。
+Ryu went to the site alone in order to verify the information which showed an awakening body. I don't know what's going to happen.\nI will join him quickly.
 
 ID=15005
-道化師の招待状が指す場所は捨てられた広場通り。\nそこにはどんなプレゼントが待っているのだろうか？
+The Clown's invitation leads toward the Street Plaza.\nWhat kind of present waits for me there?
 
 ID=15006
-広場の通りを埋め尽くすほどの人形。\n一時は人々の活気溢れる町だったが、\n今は感情のない人形が支配する町と化してしまった。
+The streets of the square are almost filled with dolls.\nWhat was once a vibrant town had now become a town dominated by emotionless dolls.
 
 ID=15007
-ビッグパペットの進撃を止めるためには、ネッドカンパニーが支援するヘリが必要。人形がヘリを破壊する前に奴らを止めなければならない。
+The NED Company support helicopter is needed to stop the advancement of the Big Puppet. I have to stop the dolls before they destroy the helicopter.
 
 ID=15008
-オペレーション[ザ・シールド]。ビッグパペットを直接おびき寄せ、防護壁内で自爆させるという危険な作戦。この作戦だけは必ず成功させなければならない。
+Operation [Shield]. The dangerous strategy which lures the Big Puppet out directly and makes it disintegrate itself in the safety shield. This strategy is a must in order to succeed.
 
 ID=15009
-新たに現れた人形たち。\nそれらを調査しに行った捜索隊が戻ってこない。\n嫌な予感がする…。
+New dolls appeared.\nThe search party that went on to investigate didn't return... which gives me an unpleasant hunch.
 
 ID=15010
-人形になってしまった人々、\nそして不気味な塔とせわしなく動く人形…。\n人形は、一体何のために塔を建てているのだろうか？
+People that became dolls, an eerie tower, and dolls that are moving restlessly...\nThese dolls... why on earth is a doll building a tower?
 
 ID=15011
-人間を人形へと変化させるのは、他ならぬあの塔だった。\nベンジャミンは被害の拡大を防ぐために塔の破壊を指示する。
+It was none other than the tower that changed humans into dolls.\nBenjamin directed the destruction of the tower to prevent harm from spreading.
 
 ID=15012
-喋る人形、コードネーム[ジャック・ザ・キング]。\n今この状況を打開する唯一の方法は、ジャック・ザ・キングを倒すことだけだ。
+The doll speaks of the code name [Jack King].\nThe only way to break through this situation is to beat the Jack King.
 
 ID=15013
-とうとう[青炎の道化師]の尻尾を掴んだ。\n彼が陣取った場所はロコタウンに近い、廃墟の病院だった。先発隊を探し、青炎の道化師を追跡しよう。
+I finally found the weak point of the [Clown of Blue Flame].\nHe set up camp in the Hospital Ruins near Rocco Town. I'll look for the advance party and chase down the Clown of Blue Flame.
 
 ID=15014
-青炎の道化師に辿り着くには特殊なバッジがなければ\nならないという情報を入手した。\nバッジは病院内の人形が持っている。
+I need a badge to reach the Clown of the Blue Flame, but there's no information of a particular badge. A doll in the hospital would probably have one. 
 
 ID=15015
-青炎の道化師がいる病棟に到着した。バッジにより磁気フィールドを中和させ、ようやく進めるようになった。
+We arrived at the ward where the Clown of the Blue Flame is located. I made them neutralize a magnetic field using a badge, and we could finally advance.
 
 ID=15016
-逃げた青炎の道化師「エドガー」は、最後の決戦の場所として病院の屋上にあるサーカステントを指定した。\nなんとしても奴を倒さなければ。
+“Edgar”, the Clown of Blue Flame who ran away, designated the circus tent on the roof of the hospital as the location of the last decisive battle.\nI have to beat him at all costs.
 
 ID=15017
-新しい都市に着くや否や息つく間もなく始まった作戦。カンダスシティの補給路を確保するため、海岸道路のソウルジャンクを始末しよう。
+I barely had time to catch my breath when I arrived at the new city where I was tasked with another mission. I have to dispose of the Soul Junks on the coastal road to secure Candus City's supply route.
 
 ID=15018
-ネッドカンパニーの傭兵の情報によって、まだ海岸道路に強力なソウルジャンクがいることが確認された。\nいつも怒っているらしいが…。
+Information by NED Company mercenaries confirmed that there is still a strong Soul Junk on the coastal road.\nThey always seem angry, but...
 
 ID=15019
-最近、海岸道路に不可解な地震が増えている。高架道路や建物が崩壊する危険があるので、原因を突き止めなければならない。
+There has been an increasing amount of mysterious earthquakes on the coastal road recently. Due to the risk of elevated roads and collapsed buildings, I have to find out the cause.
 
 ID=15020
-再び現れたソウルジャンクの群れ。アーロン中佐はカンダスシティ防衛のためにソウルジャンクの始末と、唯一の補給路である海岸トンネルの破壊を指示する。
+A group of Soul Junk appeared again. Commander Aaron directed the disposal of Soul Junk and the destruction of the coast tunnel, which is the only supply route, in order to defend Candus City.
 
 ID=15021
-ネッドカンパニーの許可をもらい入った地下水路。\n激しい悪臭により呼吸するのも辛い。\n確かにここには何かが存在するような感じがする…。
+I got permission from NED Company and entered the underground waterway. It's hard to\nbreathe due to the intense stench.\nIt certainly feels like something lives here....
 
 ID=15022
-都市の各所に、地下水路から出た悪臭が立ち込み始めた。\n悪臭の原因が地下水路にあることだけは明らかだが…。
+The bad smell from an underground waterway stands at various places by the city and has begun to spread.\nIt's clear that the only cause of the bad smell is in the underground waterway....
 
 ID=15023
-ネッドカンパニーから大勢の傭兵と研究員が地下水路に派遣された。不審に思ったブロックは彼らの監視を指示する。
+Mercenaries and researchers from NED Company were dispatched to an underground waterway, since it seems suspicious that Brock instructs their surveillance.
 
 ID=15024
-ジャンクナイトの出現はスタリーフォレスト連合全体に衝撃を与えた。ブロックは、ネッドカンパニーに責任を問うためにジャンクナイトのサンプル確保を指示した。
+The emergence of Junk Knight has shocked all of Starry Forest League. In order to question NED Company into holding responsibility, Brock has ordered to attain a sample of Junk Knight.
 
 ID=15025
-ネッドカンパニーが何かを運ぼうとした輸送船が、近くの屋敷に墜落したらしい。\n何を輸送しようとしていたのかを調査する必要がある。
+It seems like a carrier ship of NED Company has crashed into a house nearby.\nWe need to investigate exactly what they were trying to carry.
 
 ID=15026
-屋敷全体がソウルジャンクの巣窟になってしまった。\n強力な感染力を持つソウルジャンクがいるため、外に出る前に始末せねばならない。
+The entire house has become a den of Soul Junk.\nThere is a Soul Junk with a high contamination rate nearby; we need to get rid of it before it gets out.
 
 ID=15027
-ラルフの話から考えると、キャサリンは屋敷内部にいる可能性が高い。キャサリンを探しに屋敷の奥へ進んでみよう。
+According to Ralph's story, it seems highly likely that Katherine will be somewhere deep inside the house. Let's move deeper into the mansion to look for Katherine.
 
 ID=15028
-キャサリンをさらったアラクニスというソウルジャンクが、\n屋敷の地下の奥に隠れているという。\n急いでキャサリンを探しだそう。
+The Soul Junk named Arachnis that took Katherine away\nseems like it's hiding somewhere in the basement.\nLet's quickly find and rescue Katherine.
 
 ID=15029
-バキュームベインに感染したキャサリンを救うことができる唯一の解毒剤が、ネッドカンパニーの研究所内にある。\nしかし、研究所は既にソウルジャンクの巣窟となり…。
+The only antidote for Katherine's Vacuum Vein infection is at the research facility of NED Company.\nBut that research facility was already a den of Soul Junk...
 
 ID=15030
-第二研究所内部もやはりソウルジャンクの巣窟に…。一体何がこの場所であったのかはわからないが、今はキャサリンの解毒剤を確保することが優先だ。
+The second research facility was also crawling with Soul Junk.... We don't know what in the world happened here, but getting the antidote for Katherine is top priority.
 
 ID=15031
-ビクターはキャサリンのことへの罪悪感から解毒剤を探しに一人で研究所へと入っていった。\n彼がソウルジャンクに襲われる前に見つけ出そう。
+Out of guilt for Katherine, Victor has gone to the research facility to find the antidote by himself.\nFind him before the Soul Junk do.
 
 ID=15032
-ヘンリーは解毒剤を使用するためにはビホールダーの粘液が必要だと言い、さらに研究所の爆破も指示する。
+Henry says that in order to use the antidote, the slime from the Beholder is needed. He also ordered us to activate the explosion trigger to destroy the research facility.
 
 ID=15033
-ロコタウンから戻ると、カンダスシティはすさまじい数のソウルジャンクに襲撃されていた。人々を退避させるために防空壕の開閉装置を作動させなければならない。
+When we returned from Rocco Town, Candus City was under attack by Soul Junk. We need to trigger the opening switch for the refuge center for people to evacuate.
 
 ID=15034
-防空壕内部、輸送船に向かう道で多数のソウルジャンクが発見された。人々が攻撃されないよう先に処理しよう。
+A large number of Soul Junk has been discovered on the path to the transport ship located in the bomb shelter. For the safety of everyone, they must be dealt with.
 
 ID=15035
-住民の大部分を避難させ、残りはキャサリンと自分たちだけだった。しかしその時、乗る予定の輸送船に多くのソウルジャンクが向かうのを目撃した。
+Everyone has taken shelter except for Katherine and us. However, at that time, we discovered that there were a large number of Soul Junk near the transport ship.
 
 ID=15036
-カンダスシティからの脱出を開始した。\nしかし、ソウルジャンクの襲撃はしつこく、皆の不安は募るばかりだった。
+The escape from Grace City has commenced. However, the Soul Junk's unrelenting attacks are making everyone anxious.
 
 ID=15037
-ヘンリー追跡を優先したいところだが、ヴェシとの戦闘経験を積むための命令が下った。今は黙って動くしかない。
+I wanted to chase after Henry, but was ordered to gain some experience fighting against the Veshi. I have no choice but to follow the orders for now.
 
 ID=15038
-力のデザイアを崇拝するヴェシ「ラピッドフレイム」。その突撃部隊が高速道路からグレイスシティへ侵攻する隙を虎視眈々と狙っている。
+Rapid Flames, a brigade that reveres the greed for power, is looking for every opportunity to invade Grace City through the highway.
 
 ID=15039
-ヘンリーが乗っていたと思われる車輌が発見された。不明な点が山ほどあるが、今は彼の身柄を確保しなければならない。ヴェシにやられる前に…。
+The supposed vehicle carrying Henry has been spotted. The information is a bit unreliable, but he must be arrested at all costs. At least, before the Veshi get to him...
 
 ID=15040
-捜していたヘンリーは見当たらず、ラピッドフレイム勢力の幹部「スカー」が高速道路に姿を現した。 ヘンリーの行方を知るためには、スカーから討伐しなければならない。
+"Scar" of the Rapid Flame faction has appeared on the highway. In order to find out Henry's whereabouts, Scar must be defeated and interrogated.
 
 ID=15041
-ヘンリーがネッドカンパニーの本社に侵入後、\nラピッドフレイムの奇襲部隊が建物を占領した。\n気は進まないが、彼を救出しなければ…。
+The NED Company headquarters was raided by the Rapid Flame Faction after Henry sneaked inside.\nAlthough I'm reluctant to do so...\nHe must be rescued.
 
 ID=15042
-ネッドカンパニー内はラピッドフレイムの占拠によって\n電力供給が行き届いていない状況だ。
+NED Company's building was cut off from electricity\ndue to Rapid Flames taking over the building.
 
 ID=15043
-ネッドカンパニーの電力を復旧させるには、\n建物内の電力を手動で作動させなければならない。\nラピッドフレイムがその「カギ」を持っているらしい。
+In order to repair electricity for NED Company,\nit looks like one has to manually activate the switch inside the building.\nRapid Flames seem to have the key to activating the switch.
 
 ID=15044
-カンダスシティの事件の証拠を入手するためには、\nネッドカンパニー内部にあるセキュリティボックスの\n全データをコピーしなければならない。
+In order to retrieve evidence for the incident at Candus City,\nwe need to copy all the data\nfrom NED Company's security box.
 
 ID=15045
-第2高速道路を侵攻するラピッドフレイムの強襲部隊を討伐するための作戦「ウルフクライ」が発動されたら、ヒルブレイカーの射撃場所を確保しなければならない。
+In order to defeat the Rapid Flames coming in from the second highway, we need to take back the firing zone “Hill Breaker” for Operation Wolf Cry to commence.
 
 ID=15046
-作戦名「ウルフクライ」は、高周波を発生させるミサイル「ファイナルアリア」を上空に打ち上げ、強襲部隊の主力であるクイーンカルラを殲滅するという作戦だ。
+Operation Wolf Cry involves firing missiles called "Final Aria" which spreads strong radio waves in its vicinity. With this, we can exterminate Queen Carla, the main force of the assault brigade.
 
 ID=15047
-アリアミサイル発射ポイントまでヒルブレイカーが移動できない。スタリーフォレスト連合のソウルワーカー「ケインバレル」とラピッドフレイムの強襲部隊討伐に向かう。
+Heel Breaker cannot progress towards the Area Missile firing zone. With Starry Forest League's Soulworker "Kainbarrel", defeat the Rapid Flame's assault squad.
 
 ID=15048
-愛鳥のクイーンカルラに傷を負わせたので、ラピッドフレイムの強襲部隊長ファルコンが姿を現した。ついに出てきた相手に、感謝の気持ちすら湧き上がる。
+The Assault Captain of the Rapid Flames, Falcon, has finally showed his face after his precious bird Queen Karla has been damaged. To the target that has finally showed its head, we can almost feel grateful for it.
 
 ID=15049
-人はおらず静寂だけが町を覆う中、デーブタウンに降る冷たい雨が嫌な予感を感じさせていた。
+While the entire village was vacant and an eerie silence was all that was left, the rain falling down on Dave Town had a gloomy feeling.
 
 ID=15050
-グレイスシティ付近の小さな町「デーブタウン」は、戦場から離れていて自給自足できるという理由で、多くの市民が居住していた。
+"Dave Town", a town located near Grace City, is inhabited with many people due to the fact that it is away from the front lines and can therefore can sustain itself.
 
 ID=15051
-嫌な予感が当たらないように願う状況。デーブタウン内部でソウル経路を確認するため、「スピリットパスファインダー」の設置を急がなければならない。
+Situation where I hope for the best. To find the path for Souls within Dave Town, we need to install the "Spirit Pathfinder" as fast as possible.
 
 ID=15052
-嫌な予感は現実のものとなってしまった。これほどのことをしてまで彼らが求める物はなんなのだろうか？しかし、今は生存者を探すのが優先だ。
+The situation has turned for the worst. What is it that they are trying to accomplish with these acts? But for now, finding survivors is top priority.
 
 ID=15053
-ヘンリーとラピッドフレイム勢力との同盟が現実となった。非道の限りを尽くすヘンリーを捕まえ罪を償わせないといけない。
+The alliance between Henry and the Rapid Flame faction has become reality. Henry must pay for the crimes he has committed.
 
 ID=15054
-ラピッドフレイム勢力の本拠地だと思われていた場所は、ネッドカンパニーとラピッドフレイムがでっちあげた罠だった。
+The supposed stronghold for the Rapid Flame faction was a trap set up by the NED Company and the Rapid Flames.
 
 ID=15055
-ネッドカンパニーの罠によって、グレイスシティの多くの戦力が失われ、存立を脅かすほどの危機が訪れた。このままみんなを死なせるわけにはいかない。
+Due to the NED Company's trap, the majority of the forces at Grace City has been wiped out. This crisis has put the city's existence on the line. We cannot let everyone die.
 
 ID=15056
-ラピッドフレイム勢力の暗殺部隊が支援部隊救出を妨害している。一人でも多く救出するためにも妨害する敵を倒す必要がある。
+The Rapid Flame faction's Assassination Squad is hindering the rescuing process of backup. We need to defeat these enemies in order to rescue many people as possible.
 
 ID=15057
-ネッドカンパニーが軍事衛星インドラをハッキングした痕跡が見つかった。ハッキングの痕跡を辿って彼らの本当の本拠地を突き止めなければならない。
+The remnants of hacking on military satellite Indra by NED Company has been confirmed. We need to trace back through their hacking in order to learn their true motive.
 
 ID=15058
-グレイスシティ外郭山脈付近にネッドカンパニーの痕跡が残っていた。彼らに審判を下す時がきた。
+The NED Company's traces have led up to the mountains near Grace City. It is time for their judgement.
 
 ID=15059
-ヘンリーとラウファーの行方を捜すためには軍事衛星インドラを妨害する電波を除去しなければならない。
+In order to find Henry and Laufer, we need to find the source of the radio wave that is disrupting the military satellite, Indra.
 
 ID=15060
-インドラの施設内部をスキャンした結果、ヘンリーとラウファーと推定される生命反応を感知した。今こそ理想的な復讐をする時だ。
+We've detected life signals indicating Henry and Laufer within Indra. This is the most ideal time for revenge.
 
 ID=15061
-ソウルワーカーのために開発された仮想訓練装置。データベースに登録された敵を具現化し、実践同様の戦闘が可能。しかし、エナジー消費が激しいため頻繁には利用できない。
+A virtual training program designed for Soulworkers; it can simulate the monsters from the database, then an experience just like a real battle begins. However, since it spends a lot of energy, it cannot be used frequently.
 
 ID=15062
-空白によって完全に廃墟と化したエリア。持続的にソウルジャンクが発生しており、スタリーフォレスト連合は立入禁止区域に指定。民間人の立ち入りを禁止している。
+An area completely ravaged by the Void. Soul Junk constantly appear in the area, and the Starry Forest League has forbidden any civilians from entering.
 
 ID=15063
-突如発生した謎の歪みは、多くの人形をこの世へと解き放った。彼らが現れた理由を知る者は誰もいない。ただ、人形が持つ力と強烈なまでの敵意だけは明らかだった。
+A mysterious distortion that appeared out of nowhere released many puppets out into the world. No one knows why they appeared. However, they did know the power and the hostility that the puppets showed towards them.
 
 ID=16000
 Twisted Logic of the World
@@ -5426,22 +5426,22 @@ ID=16004
 LION GAMES PRESENT
 
 ID=16100
-見覚えのない場所。\n見知らぬ人々。\n聞きなれない会話。\n私の知っている世界はなくなっていた…。\nこれからどうなっちゃうんだろう……？
+Unfamiliar place.\nUnfamiliar people.\nUnfamiliar conversations.\nThe world that I once knew no longer exists.\nWhat do I do from now on...?
 
 ID=16200
-目覚めたら、世界は一変していた。\n怪物が徘徊し、人々が超能力を使う世界。\n俺が創ろうとしていた世界が…目の前に広がっていた。\nこれは…興奮するなっていう方がムリな話だよな。
+The world changed when I opened my eyes.\nMonsters crawling and people using special powers.\nThe world that I once sought to create...was now in front of me.\nThis...is too much to not get excited about.
 
 ID=16300
-今までの常識が通用しない世界…。\nでも…。\nわたくしは今まで、望むものは全て手に入れてきた。\nこの世界でも…今まで通りにするだけ。
+The world where all the knowledge I had until now was void...\nBut...\nI have claimed everything that I wanted with my own hands.\nI'll do the same in this world, too.
 
 ID=16400
-15年も眠っていた間に、世界は随分と変わってしまったようだ。\n生き残ることが優先される世界…。\nだが…オレは今までだって必死だった。\n人間らしく…情熱をもって生き続けることに…。
+The world has changed a lot during the 15 years I was asleep.\nA world where survival comes first.\nBut... I was still desperate to have passion... and to live like any human would.
 
 ID=16500
-いつの間にか15年経ってたみたい。\n冬眠したクマって、こんな感じなのかな…？\nみんな難しい話ばっかり…お腹ペコペコなのに…。\n…でも、みんながいるから寂しくない。
+Seems like 15 years flashed by.\nDo hibernating bears all feel this way...?\nStories too difficult to understand, and I'm really hungry.\nBut, since everyone is with me, I don't feel lonely.
 
 ID=16600
-もう、私が知ってる世界はない。\n全てが不慣れで窮屈で、一分一秒もここにいたくない。\nけど、我慢するしかない。\nもう、ここが私の世界であり…私が生きていくべき世界だから。\n我慢して我慢して、耐えるしか…。
+The world that I once knew was no more.\nI didn't want to stay for a minute, or even a second for that matter in this unfamiliar place.\nBut I have no choice but to hold it in.\nThis is my world now... The world that I must live in.\nThere is no choice but to hold it in as much as possible...
 
 ID=16550
 Junk
@@ -5567,10 +5567,10 @@ ID=16821
 ชื่อไอเทม
 
 ID=16822
-数
+หน่วย
 
 ID=16823
-総額
+รวม
 
 ID=16824
 ราคา/1 ชิ้น
@@ -5591,19 +5591,19 @@ ID=16829
 ยกเลิก
 
 ID=16830
-出品
+รายการ
 
 ID=16831
-期間
+ระยะเวลา
 
 ID=16832
-登録
+ลงทะเบียน
 
 ID=16833
-出品待機登録
+Register Product
 
 ID=16834
-直近の取引状況
+ประวัติการขาย
 
 ID=16835
 สถานะ
@@ -5645,19 +5645,19 @@ ID=16850
 {0}
 
 ID=16851
-統合検索は検索オプションを設定できません。
+The following search parameters are not applicable.
 
 ID=16852
-出品待機中の{0} {1}個を回収しますか？\n(回収したアイテムはメールで送られます)
+Withdraw {1} {0} from sale?\n(returned items will be sent by mail)
 
 ID=16853
-出品中の{0} {1}個を回収しますか？\n(回収したアイテムはメールで送られます)
+Are you sure you want to withdraw {1} of {0} from the item showcase?\n(the recovered items will be sent by mail)
 
 ID=16854
-期間満了の{0} {1}個を回収しますか？\n(回収したアイテムはメールで送られます)
+Are you sure you want to withdraw {1} of {0}?\n(the recovered items will be sent by mail)
 
 ID=16855
-検索オプションが変更されました。変更した内容で再検索しますか？\n(キャンセル時、以前の検索オプションに変更後、ページが移動します)
+Search options have been changed. Are you sure you want to refresh the page with current searching options?\n(Page will be moved and search options will change if cancelled.)
 
 ID=16856
 จำเป็นต้องเพิ่มอย่างน้อย 1 อินพุต
@@ -5666,10 +5666,10 @@ ID=16857
 ขีดจำกัดราคาสินค้าอยู่ที่ 999,999,999
 
 ID=16858
-選択したアイテム数より多く出品することはできません。
+Unable to sell more items than possessed.
 
 ID=16859
-出品アイテム数より多く購入することはできません。
+You cannot buy more items than what are put up on the market.
 
 ID=16860
 ไม่สามารถซื้อไอเทมที่ตนวางขายเองได้
@@ -5684,34 +5684,34 @@ ID=16863
 ค่าลงทะเบียน
 
 ID=16864
-最近の出品リスト
+Recent Item Entry
 
 ID=16865
-最近の出品リストは10個まで表示されます。
+Up to 10 listings are shown at a time.
 
 ID=16866
 ข้อมูลของระบบวีไอพี
 
 ID=18000
-強化回数を使い切ったため、これ以上強化できません。
+Since the enhancing limit was reached, you cannot enhance this equipment any further.
 
 ID=18001
-強化に失敗し、アイテムが破壊されました。
+Failed to enhance the item, the item has been broken.
 
 ID=18002
-破壊状態の装備は着用できません。
+คุณไม่สามารถใส่สิ่งของที่แตกหักได้
 
 ID=18003
-破壊状態の装備は取引できません。
+คุณไม่สามารถแลกเปลี่ยนอุปกรณ์ที่พังได้
 
 ID=18004
-破壊状態の装備が復元されました。
+The broken equipment has been restored.
 
 ID=18005
-{0}を復元しますか？\n復元回数は{1}回です。
+Are you sure you want to restore {0}'s condition?\nRestoration Limit: {1}.
 
 ID=18006
-復元
+คืนค่า
 
 ID=18007
 แตกหัก
@@ -5720,49 +5720,49 @@ ID=18008
 リバイブセル
 
 ID=18009
-復元
+คืนค่า
 
 ID=18010
-復元可能です。
+สามารถเรียกคืนได้
 
 ID=18011
 เสร็จสิ้นการคืนค่า
 
 ID=18012
-ブローチ合成
+Brooch Synthesis 
 
 ID=18013
 ผสม
 
 ID=18014
-ブローチ合成完了
+Brooch synthesis completed
 
 ID=18015
-登録したブローチを本当に合成しますか？
+Are you sure you want to synthesize the brooch?
 
 ID=18016
-ブローチを合成できます。
+You can synthesize the brooch.
 
 ID=18017
-合成にはブローチが5個必要です。
+You need 5 brooches for synthesis.
 
 ID=18018
-これ以上登録できません。
+You cannot register anymore items.
 
 ID=18019
-一度に20個まで分解できます。
+You can only dismantle up to 20 items at a time.
 
 ID=18020
-取引されたアイテムが最大10個表示されます。
+Displays the last 10 sold items.
 
 ID=18021
-販売時、総販売価格の{0}%が手数料となります。
+A fee of {0}% will be applied after the item is sold.
 
 ID=18022
-売却するアイテムは<font color='#A566FF'>価値の高いアイテム</font>です。売却時、{0}を獲得できます。売却しますか？
+The item is a <font color='#A566FF'>high-grade item</font>.\nYou will earn {0} from the sale.\nAre you sure you want to sell it?
 
 ID=18023
-分解するアイテムは<font color='#A566FF'>価値の高いアイテム</font>です。一度分解すると、復元できなくなります。分解しますか？
+The item is a <font color='#A566FF'>high-grade item</font>.\nDismantled items cannot be recovered.\nAre you sure you want to dismantle it?
 
 ID=18026
 ตราประทับ
@@ -5777,13 +5777,13 @@ ID=18029
 ปิดผนึกแสตมป์
 
 ID=18030
-{0}を封印しますか？\n封印回数は{1}回です。
+Are you sure you want to seal {0}?\nSeal Limit: {1}.
 
 ID=18031
 ซ่อมแซม
 
 ID=18032
-装備の必要レベルよりファミリアの必要レベルが高いので登録できません。
+You cannot register a familiar who's level is higher than the equipment.
 
 ID=18033
 ตราประทับ
@@ -5792,10 +5792,10 @@ ID=18034
 ประทับตราเสร็จสิ้น
 
 ID=18035
-Q.B.D[強化保護]を適用して強化すると、Q.B.D[強化保護]を1個消費し、強化するアイテムが破壊状態になるのを防ぐことができます。\nアイテムを強化しますか？
+You can prevent an equipment piece from being destroyed by using 1 Q.B.D[Enhancement Protector] on the equipment being enhanced.\nAre you sure you want to continue enhancing?
 
 ID=18036
-現在使用中の機能に登録されたアイテムがあるため\n整列することができません。
+You are in an operation mode, therefore you cannot organize your inventory. 
 
 ID=18037
 เวลาที่เหลือ
@@ -5816,7 +5816,7 @@ ID=18042
 จำนวนรายการ
 
 ID=18043
-{0}、{1}、{2}が出品されます。続行しますか？
+{0}, {1}, {2} will be showcased. Are you sure you want to continue?
 
 ID=18044
 {0} วัน
@@ -5837,10 +5837,10 @@ ID=18049
 ใช้สินค้า
 
 ID=18050
-期間制アイテム「{0}」の使用期間が残っています。{0}を破棄すると、アイテムモールに返却処理され、該当アイテムに対する補償は行われません。\n破棄しますか？
+There is still time remaining on "{0}". If {0} is destroyed, it will be returned to the Item Mall and there will be no rewards.\nAre you sure you want to destroy the item?
 
 ID=18051
-期間制アイテム「{0}」が返却処理されました。詳細はメールを確認してください。
+Temporary item "{0}" has been refunded. Please check your mail for more details.
 
 ID=18052
 {0} ปี {1} เดือน {2} วัน {3} สถาน {4} นาที หรือจนกว่า
@@ -5855,79 +5855,79 @@ ID=18055
 ตั้งค่ารอบระยะเวลา
 
 ID=18056
-<font color='#47C83E'>ビット</font>、<font color='#4374D9'>キロ</font>等級ブローチ合成可能
+Only <font color='#47C83E'>Bit</font>, <font color='#4374D9'>Kilo</font> grade brooches can be used
 
 ID=18057
-<font color='#E0B94F'>メガ</font>、<font color='#F15F5F'>ギガ</font>、<font color='#8041D9'>テラ</font>等級ブローチ合成可能
+Only <font color='#E0B94F'>Mega</font>,<font color='#F15F5F'>Giga</font>,<font color='#8041D9'>Tera</font> grade brooches can be used
 
 ID=18058
-{0}の強化回数を{1}回減少させます。\n確認を押すと、強化回数が減少し、{2}を1個消費します。\n\n強化回数を減少させますか？
+The remaining number of enhancements of {0} {1} will decrease.\nUpon confirmation, one {2} will be used.\n\nAre you sure you want to continue?
 
 ID=18059
-{0}の封印回数を{1}回減少させます。\n確認を押すと、封印回数が減少し、{2}を1個消費します。\n\n封印回数を減少させますか？
+The remaining number of sealings of {0} {1} will decrease.\nUpon confirmation, one {2} is used up.\n\nAre you sure you want to continue?
 
 ID=18060
-{0}の復元回数を{1}回減少させます。\n確認を押すと、復元回数が減少し、{2}を1個消費します。\n\n復元回数を減少させますか？
+The remaining number of restorations of {0} {1} will decrease.\nUpon confirmation, one {2} is used up.\n\nAre you sure you want to continue?
 
 ID=18061
-{0}の強化回数が{1}減少しました。
+Remaining enhances {0} dropped by {1}.
 
 ID=18062
-{0}の復元回数が{1}減少しました。
+Remaining restorations {0} dropped by {1}.
 
 ID=18063
-{0}の封印回数が{1}減少しました。
+Remaining seals {0} dropped by {1}.
 
 ID=18064
-{0}：{1}入場回数が残っているため使用できません。
+{0}: {1} are unusable because they still have entry uses left.
 
 ID=18068
-入場情報が初期化されました。{0}：{1}へ入場可能です。
+Dungeon limits have reset. You can enter {0}: {1}.
 
 ID=18069
-{0}を使用して入力したキャラクター名に変更しますか？確認を押すと、{0}を1個消費します。
+Are you sure you want to use 1 {1} to change your character name to "{0}"?
 
 ID=18071
-アイテム購入失敗：ジェニー不足
+Failed to purchase item: Insufficient Zenny
 
 ID=18072
-アイテム購入失敗：BP不足
+Failed to purchase item: Insufficient BP
 
 ID=18073
-使用時、設定していた全てのスキルが初期化されます。\n本当に使用しますか？
+When used, all your skills will be reset.\nAre you sure you want to use?
 
 ID=18074
-インベントリにあるアイテムのみ封印できます。
+Item can only be sealed in the inventory. 
 
 ID=18075
-耐久度が減少したアイテムは封印できません。
+Items in non-pristine condition cannot be sealed.
 
 ID=18076
-<font color='#FFFFFF'>(シールデリーター</font><font color='#6799FF'>使用可能</font><font color='#FFFFFF'>)</font>
+<font color='#FFFFFF'>(Unsealer</font><font color='#6799FF'> Usable</font><font color='#FFFFFF'>)</font>
 
 ID=18077
-<font color='#FFFFFF'>(シールデリーター</font><font color='#F15F5F'>使用不可</font><font color='#FFFFFF'>)</font>
+<font color='#FFFFFF'>(Unsealer</font><font color='#F15F5F'> Unusable</font><font color='#FFFFFF'>)</font>
 
 ID=18078
-一度に売却できる個数は10個までです。
+You can only sell up to 10 pieces at a time.
 
 ID=18079
-ソケットアイテムはインベントリにある時のみ装着できます。
+You can only attach a Socket Item from within your inventory.
 
 ID=18080
-全てのカジュアルレイド入場回数が0回のため使用できません。
+All daily Casual Raid entries have been used.
 
 ID=18081
-今までに入場したカジュアルレイドの回数は下記の通りです。 \nラストカーニバル：{0}/2\nジャンクハイブ：{1}/2\nバンディットハイウェイ：{2}/2\nアイアンキャッスル：{3}/2\n全てのカジュアルレイド入場回数を1回ずつ減少させますか？\n(0回の場合は減少しません)
+Current number of entries available are as follows.\nLast Carnival: {0}/2\nJunk Hive: {1}/2\nIron Castle: {3}/2\nAre you sure you want to reduce the number of entries by 1?\n(cannot be decreased below 0)
 
 ID=18082
-全てのカジュアルレイド入場回数が1回ずつ減少しました。
+All daily counted Casual Raid entries have been reduced by one.
 
 ID=18083
-家具インベントリに新しい家具が{0}個保管されます。
+{0} new furniture pieces were added to your Furniture Inventory.
 
 ID=18172
-ファミリア/ソウルストーンソケット最大{0}個付与
+{0} Familiar/Soulstone sockets
 
 ID=18173
 เพิ่มเติม
@@ -5939,7 +5939,7 @@ ID=18175
 ตัวเลือกการตั้งค่าข้อมูล
 
 ID=18176
-ファミリア/ソウルストーン
+Familiar/Soulstone
 
 ID=18177
 อัพเกรด
@@ -5963,22 +5963,22 @@ ID=18183
 ตัวเลือกการอัพเกรด
 
 ID=18184
-着用ソケットアイテムなし
+No Socket Item attached.
 
 ID=18185
-ソケットアイテム（ファミリア/ソウルストーン）ソケット拡張可能
+Socket Item (Familiar/Soulstone)\nSocket extensible
 
 ID=18186
-ブローチソケット{0}個付与({1}個拡張可能)
+{0} brooch sockets ({1} extensible)
 
 ID=18187
-ジェスチャー「{0}」使用可能
+Gesture "{0}" enabled
 
 ID=18188
 ไม่พบรายการ
 
 ID=18189
-アイテム購入失敗：ヨミの秘蔵庫ポイント不足
+Failed to purchase item: Insufficient Yomi's Treasury Points
 
 ID=18190
 เพิ่มประสิทธิภาพ
@@ -5990,16 +5990,16 @@ ID=18192
 ตัวเลือกการอัพเกรด
 
 ID=18193
-強化時、オプションを獲得できません。
+Enhancing will not attach an extra option.
 
 ID=18194
-オプション精錬
+Option Tuning
 
 ID=18195
 ตัวเลือกการแก้ไขจำนวนครั้ง
 
 ID=18196
-精錬
+Tune Item
 
 ID=18197
 เมื่อคลิกยืนยันจะเปลี่ยนแปลงตัวเลือกของ {0} \nคุณต้องการที่จะเปลี่ยนแปลงตัวเลือก?
@@ -6008,31 +6008,31 @@ ID=18198
 ไม่มีตัวเลือก
 
 ID=18199
-現在の累積プレイ時間は{0}時間です。
+Total playtime is {0} hours.
 
 ID=18200
-現在、疲労プレイ状態です。\nゲーム収益は正常値の50％に減少します。\nご自身の健康のために、ゲームを終了し\n適度な休憩をお取りください。
+Currently, you are in a fatigued play state.\nGame earnings will be reduced to 50% of the normal value.\nFor the sake of your own health, please take an appropriate amount of rest from the game.
 
 ID=18201
-現在、不健康プレイ状態です。\nご自身の健康のために、ゲームを終了し\n適度な休憩をお取りください。\nゲームを終了されない場合、体に悪影響を及ぼします。\nゲーム収益は0に減少されており、\n累積オフライン状態で5時間経過後、\n再入場時、正常にゲームをプレイできます。
+Currently, you are in an unhealthy play state.\nGame earnings will be reduced to 0% of the normal value.\nFor the sake of your own health, please take an appropriate amount of rest from the game.\nIf you don't close the game it will have a negative effect on your body.\nAfter 5 hours of continuous offline state you will be able to re-enter and play the game successfully.
 
 ID=18202
-ブローチ全抽出
+Extract All Brooches
 
 ID=18203
-<font color='#FFFFFF'>{0}</font>を使用しない場合、抽出費用から<font color='#FF0000'>{1}</font>ジェニーが差し引かれます。\n<font color='#FFFFFF'>{2}</font>を使用する場合は、差し引かれません。\n抽出しますか？
+If you do not use <font color='#FFFFFF'>{0}</font>, {1} Zenny will be deducted for the extraction cost.\nIf you use <font color='#FFFFFF'>{2}</font>, no Zenny will be deducted.\nAre you sure you want to extract?
 
 ID=18204
-ブローチの抽出に成功しました。\nインベントリを確認してください。
+Brooch extraction was successful.\nPlease check your inventory.
 
 ID=18205
-<font color='#FF3636'>{0}</font>ジェニー不足しているため抽出に失敗しました。  
+Insufficient Zenny to extract <font color='#FF3636'>{0}</font>.  
 
 ID=18206
-エクストラインベントリに空きがないため抽出できません。
+You cannot extract because there is not enough space in the "Extra" inventory.
 
 ID=18207
-一般インベントリに空きがないため抽出できません。
+You cannot extract because there is not enough space in the "General" inventory.
 
 ID=18208
 การติดตั้ง
@@ -6041,313 +6041,313 @@ ID=18209
 ใช้สินค้า
 
 ID=18210
-ジェニー使用
+Use Zenny
 
 ID=18211
-{0}から{1}個のブローチを抽出します。
+Extract {1} brooches out of {0} item parts.
 
 ID=18212
-ブローチ抽出に必要な{0}が不足しています。
+Insufficient {0} for the brooch extraction.
 
 ID=18213
-等級精錬
+Grade Tuning
 
 ID=18214
-等級精錬時、登録されたアイテムの等級が低くなる場合があります。
+Tuning doesn't guarantee a higher grade.
 
 ID=18215
-該当アイテムは破壊されません。
+The target item will not be destroyed.
 
 ID=18300
-該当アバターにはブローチが登録されています。<font color='#A566FF'>破棄すると登録されているブローチも破棄</font>されます。本当に破棄しますか？
+There is a brooch in the target avatar.\n<font color='#A566FF'>Discarding the avatar will destroy the brooch.</font>\nAre you sure you want to discard it?
 
 ID=18500
-ファストブレード
+Fast Blade
 
 ID=18501
-ピアスステップ
+Pierce Step
 
 ID=18502
-スピンカッター
+Spin Cutter
 
 ID=18503
-ブローアップ
+Blow Up
 
 ID=18504
-ブレードクエイク
+Blade Quake
 
 ID=18505
-ブレードウォール
+Blade Wall
 
 ID=18506
-パワースラッシュ
+Power Slash
 
 ID=18507
-リープアタック
+Leap Attack
 
 ID=18508
-アリーナラッシュ
+Arena Rush
 
 ID=18509
-フラッシュステップ
+Flash Step
 
 ID=18510
-クロスストライク
+Cross Strike
 
 ID=18511
-ウィンドブレイク
+Wind Break
 
 ID=18512
-ブレードシャワー
+Blade Shower
 
 ID=18513
-ブレイクイロージョン
+Break Erosion
 
 ID=18514
-スカイハイ
+Sky High
 
 ID=18515
-ラピッドファイア
+Rapid Fire
 
 ID=18516
-スライドステップ
+Slide Step
 
 ID=18517
-テイクエイム
+Take Aim
 
 ID=18518
-フォーカスショット
+Focus Shot
 
 ID=18519
-ガンコンビネーション
+Gun Combination
 
 ID=18520
-コンバットマスター
+Combat Master
 
 ID=18521
-ガイデッドショット
+Guided Shot
 
 ID=18522
-エレクトリックショット
+Electric Shot
 
 ID=18523
-ナパームボム
+Napalm Bomb
 
 ID=18524
-スプリンター
+Sprinter
 
 ID=18525
-ハイドアンドシーク
+Hide and Seek
 
 ID=18526
-ソウルランチャー
+Soul Launcher
 
 ID=18527
-ブレイクイロージョン
+Break Erosion
 
 ID=18528
-イビルスラッシュ
+Evil Slash
 
 ID=18529
-スピニングデビル
+Spinning Devil
 
 ID=18530
-サイスカッター
+Scythe Cutter
 
 ID=18531
-グリムカウントダウン
+Grim Countdown
 
 ID=18532
-フィアチェーン
+Fear Chain
 
 ID=18533
-デスグラインダー
+Death Grinder
 
 ID=18534
-デスサイス
+Death Scythe
 
 ID=18535
-クルエルスラッシュ
+Cruel Slash
 
 ID=18536
-グリムリーパー
+Grim Reaper
 
 ID=18537
-フォースリージョン
+Force Region
 
 ID=18538
-デストルネード
+Death Tornado
 
 ID=18539
-イビルトリニティ
+Evil Trinity
 
 ID=18540
-デスギロチン
+Death Guillotine 
 
 ID=18541
-ブレイクイロージョン
+Break Erosion
 
 ID=18542
-カウンターアタック
+Counter Attack
 
 ID=18543
-グローリーアッパー
+Glory Upper
 
 ID=18544
-ハンマーキック
+Hammer Kick
 
 ID=18545
-パーフェクトコンビネーション
+Perfect Combination
 
 ID=18546
-スピリットサージ
+Spirit Surge
 
 ID=18547
-グラビティツイスター
+Gravity Twister
 
 ID=18548
-スピリットエクスプロージョン
+Spirit Explosion
 
 ID=18549
-スピリットシューター
+Spirit Shooter
 
 ID=18550
-クアドラブロー
+Quadra Blow
 
 ID=18551
-ヘビードロップ
+Heavy Drop
 
 ID=18552
-フュージョンアーマー
+Fusion Armor
 
 ID=18553
-ラピッドパンチャー
+Rapid Puncher
 
 ID=18554
-ファイナルフィスト
+Final Fist
 
 ID=18555
-ブレイクイロージョン
+Break Erosion
 
 ID=18556
-ワールダンス
+Whirl Dance
 
 ID=18557
-ファントムリリース
+Phantom Release
 
 ID=18558
-トラブルパス
+Treble Pass
 
 ID=18559
-ヒステリックショック
+Hysteric Shock
 
 ID=18560
-ビーストフォーレイド
+Beast Parade
 
 ID=18561
-ビーズプレイ
+Beads Play
 
 ID=18562
-ディケードパルス
+Decayed Pulse
 
 ID=18563
-ソウルスクリーム
+Soul Scream
 
 ID=18564
-ツイストプル
+Twist Pull
 
 ID=18565
-ビーストパーティー
+Beast Party
 
 ID=18566
-ベストテンポ
+Best Tempo
 
 ID=18567
-ブラックモーラス
+Black Morass
 
 ID=18568
-ベースアタック
+Bass Attack
 
 ID=18569
-ブレイクイロージョン
+Break Erosion
 
 ID=18570
-ハンマークラッシュ
+Hammer Crush
 
 ID=18571
-キャメルスピン
+Camel Spin
 
 ID=18572
-アサルトダイブ
+Assault Dive
 
 ID=18573
-ファイアサマーソルト
+Fire Somersault 
 
 ID=18574
-スパイラルピアス
+Spiral Pierce
 
 ID=18575
-エターナルアビス
+Eternal Abyss
 
 ID=18576
-パルスファイア
+Pulse Fire
 
 ID=18577
-リミットブレイク
+Limit Break
 
 ID=18578
-バレットストーム
+Bullet Storm
 
 ID=18579
-フルバースト
+Full Burst
 
 ID=18580
-アースクエイク
+Earthquake
 
 ID=18581
-エレクトリックキャノン
+Electric Cannon
 
 ID=18582
-イクシードドライバー
+Exceed Driver
 
 ID=18583
 Erosion
 
 ID=18600
-ダメージ量：{0}%
+Damage: {0}%
 
 ID=18601
-クールタイム：{0}%
+Cooldown: {0}%
 
 ID=18602
-SA破壊力：{0}%
+SA Break: {0}%
 
 ID=18603
-SG吸収量：{0}%
+SG Absorption: {0}%
 
 ID=18650
-クーポン使用完了
+You have used the coupon
 
 ID=18651
-クーポン使用失敗
+Failed to use the coupon
 
 ID=18652
-{0}クーポンの使用が完了しました。HEMS(メール)でプレゼントを確認してください。
+{0}Your coupon has been used. Please check your HEMS (mail).
 
 ID=18653
-存在しないコードです。もう一度ご確認ください。
+Code does not exist. Please try again.
 
 ID=18654
-すでに使用されたクーポンです。
+This coupon has already been used.
 
 ID=18655
 すでに参加済みのイベントです。(同一アカウント1回制限)
 
 ID=18656
-クーポンの使用期間が満了しました。
+This coupon has expired.
 
 ID=18657
-クーポン入力
+Enter Coupon
 
 ID=18700
 ไม่จำกัด
@@ -6368,7 +6368,7 @@ ID=18705
 กระซิบ
 
 ID=18706
-サーバー
+เซิฟเวอร์
 
 ID=18707
 ระบบ
@@ -6380,10 +6380,10 @@ ID=18709
 คำเตือน
 
 ID=18710
-拡声器
+Loudspeaker
 
 ID=18711
-シネマ
+Cinema
 
 ID=18712
 Force
@@ -6404,16 +6404,16 @@ ID=18754
 サーバーが混雑しています。\nしばらくしてから、もう一度お試しください。\n初めてお越し方は、別のサーバーをご利用ください。
 
 ID=18755
-キャラクター購入制限
+Character Purchase Limit
 
 ID=18756
-アカウント購入制限
+Account Purchase Limit
 
 ID=18757
 サーバー許容人数超過
 
 ID=18758
-<font color='#FFC000'>[{0}]サーバーは混雑状態です。</font> \n<font color='#00B0F0'>接続待機順序：{1}</font> \n\n自動接続待機中
+<font color='#FFC000'>[{0}]Server is full. </font>\n<font color='#00B0F0'>Connection queue: {1}</font> \n\nWaiting to reconnect
 
 ID=18759
 キャラクター購入限度を超過しました。
@@ -6422,181 +6422,181 @@ ID=18760
 アカウント購入限度を超過しました。
 
 ID=18810
-1周年記念
+1 Year Anniversary
 
 ID=18811
-TwitterEVENT
+Twitter EVENT
 
 ID=18812
-接続障害補償
+Connection Failure Compensation
 
 ID=18813
-接続障害補償
+Connection Failure Compensation
 
 ID=18814
-4gamer_アップデート延期補償
+4gamer Update Delay Compensation
 
 ID=18815
-公式Twitterフォロワー1000人突破
+Exceed 10000 Official Twitter Followers
 
 ID=18816
-ネッドカンパニー試供品シリアルコード
+NED Company Free Sample Serial Code
 
 ID=18817
-シルバーWチャンス
+Silver W-chance
 
 ID=18818
-ゴールドWチャンス
+Gold W-chance
 
 ID=19000
-<font color='#47C83E'>攻撃力3%/攻撃失敗時ダメージ5%増加</font>
+<font color='#47C83E'>+3% Attack / +5% Missed Attack Dmg</font>
 
 ID=19001
-<font color='#4374D9'>攻撃力5%/攻撃失敗時ダメージ7%増加</font>
+<font color='#4374D9'>+5% Attack / +7% Missed Attack Dmg</font>
 
 ID=19002
-<font color='#E0B94F'>攻撃力7%/攻撃失敗時ダメージ10%増加</font>
+<font color='#E0B94F'>+7% Attack / +10% Missed Attack Dmg</font>
 
 ID=19003
-<font color='#F15F5F'>攻撃力10%/攻撃失敗時ダメージ14%増加/敵防御度貫通3%</font>
+<font color='#F15F5F'>+10% Attack / +14% Missed Attack Dmg / +3% Penetration</font>
 
 ID=19004
-<font color='#8041D9'>攻撃力15%/攻撃失敗時ダメージ20%増加/敵防御度貫通5%</font>
+<font color='#8041D9'>+15% Attack / +20% Missed Attack Dmg / +5% Penetration</font>
 
 ID=19005
-<font color='#47C83E'>攻撃力240/防御度12%/HP12%増加</font>
+<font color='#47C83E'>+240 Attack / +12% Defense / +12% HP</font>
 
 ID=19006
-<font color='#4374D9'>攻撃力340/防御度17%/HP17%増加</font>
+<font color='#4374D9'>+340 Attack / +17% Defense / +17% HP</font>
 
 ID=19007
-<font color='#E0B94F'>攻撃力490/防御度25%/HP25%増加</font>
+<font color='#E0B94F'>+490 Attack / +25% Defense / +25% HP</font>
 
 ID=19008
-<font color='#F15F5F'>攻撃力700/防御度35%/HP35%増加</font>
+<font color='#F15F5F'>+700 Attack / +35% Defense / +35% HP</font>
 
 ID=19009
-<font color='#8041D9'>攻撃力1000/防御度50%/HP50%増加</font>
+<font color='#8041D9'>+1000 Attack / +50% Defense / +50% HP</font>
 
 ID=19010
-<font color='#47C83E'>回避度24/クリティカル抵抗1%</font>
+<font color='#47C83E'>+24 Evasion / +1% Critical Resistance</font>
 
 ID=19011
-<font color='#4374D9'>回避度34/クリティカル抵抗2%</font>
+<font color='#4374D9'>+34 Evasion / +2% Critical Resistance</font>
 
 ID=19012
-<font color='#E0B94F'>回避度49/クリティカル抵抗3%</font>
+<font color='#E0B94F'>+49 Evasion / +3% Critical Resistance</font>
 
 ID=19013
-<font color='#F15F5F'>回避度70/クリティカル抵抗4%/ダメージ減少4%</font>
+<font color='#F15F5F'>+70 Evasion / +4% Critical Resistance / +4% Dmg Reduction</font>
 
 ID=19014
-<font color='#8041D9'>回避度100/クリティカル抵抗5%/ダメージ減少5%</font>
+<font color='#8041D9'>+100 Evasion / +5% Critical Resistance / +5% Dmg Reduction</font>
 
 ID=19015
-<font color='#47C83E'>スタミナ5/攻撃速度1%</font>
+<font color='#47C83E'>+5 Stamina / +1% Attack Speed</font>
 
 ID=19016
-<font color='#4374D9'>スタミナ8/攻撃速度2%</font>
+<font color='#4374D9'>+8 Stamina / +2% Attack Speed</font>
 
 ID=19017
-<font color='#E0B94F'>スタミナ11/攻撃速度3%</font>
+<font color='#E0B94F'>+11 Stamina / +3% Attack Speed</font>
 
 ID=19018
-<font color='#F15F5F'>スタミナ14/攻撃速度4%/移動速度3%</font>
+<font color='#F15F5F'>+14 Stamina / +4% Attack Speed / +3% Movement Speed</font>
 
 ID=19019
-<font color='#8041D9'>スタミナ17/攻撃速度5%/移動速度4%</font>
+<font color='#8041D9'>+17 Stamina / +5% Attack Speed / +4% Movement Speed</font>
 
 ID=19020
-<font color='#47C83E'>命中度28/クリティカルダメージ600</font>
+<font color='#47C83E'>+28 Accuracy / +600 Critical Dmg</font>
 
 ID=19021
-<font color='#4374D9'>命中度41/クリティカルダメージ700</font>
+<font color='#4374D9'>+41 Accuracy / +700 Critical Dmg</font>
 
 ID=19022
-<font color='#E0B94F'>命中度58/クリティカルダメージ800</font>
+<font color='#E0B94F'>+58 Accuracy / +800 Critical Dmg</font>
 
 ID=19023
-<font color='#F15F5F'>命中度84/クリティカルダメージ900/クリティカル1%</font>
+<font color='#F15F5F'>+84 Accuracy / +900 Critical Dmg / +1% Critical</font>
 
 ID=19024
-<font color='#8041D9'>命中度120/クリティカルダメージ1000/クリティカル2%</font>
+<font color='#8041D9'>+120 Accuracy / +1000 Critical Dmg / +2% Critical</font>
 
 ID=19025
-<font color='#47C83E'>攻撃力3%</font>
+<font color='#47C83E'>+3% Attack</font>
 
 ID=19026
-<font color='#4374D9'>攻撃力5%</font>
+<font color='#4374D9'>+5% Attack</font>
 
 ID=19027
-<font color='#E0B94F'>攻撃力10%</font>
+<font color='#E0B94F'>+10% Attack</font>
 
 ID=19028
-<font color='#F15F5F'>攻撃力20%</font>
+<font color='#F15F5F'>+20% Attack</font>
 
 ID=19029
-<font color='#8041D9'>攻撃力25%</font>
+<font color='#8041D9'>+25% Attack</font>
 
 ID=19030
-<font color='#47C83E'>クリティカル1%</font>
+<font color='#47C83E'>+1% Critical</font>
 
 ID=19031
-<font color='#4374D9'>クリティカル2%</font>
+<font color='#4374D9'>+2% Critical</font>
 
 ID=19032
-<font color='#E0B94F'>クリティカル3%</font>
+<font color='#E0B94F'>+3% Critical</font>
 
 ID=19033
-<font color='#F15F5F'>クリティカル4%</font>
+<font color='#F15F5F'>+4% Critical</font>
 
 ID=19034
-<font color='#8041D9'>クリティカル5%</font>
+<font color='#8041D9'>+5% Critical</font>
 
 ID=19035
-<font color='#47C83E'>スーパーアーマー破壊力3%</font>
+<font color='#47C83E'>+3% SA Break</font>
 
 ID=19036
-<font color='#4374D9'>スーパーアーマー破壊力7%</font>
+<font color='#4374D9'>+7% SA Break</font>
 
 ID=19037
-<font color='#E0B94F'>スーパーアーマー破壊力12%</font>
+<font color='#E0B94F'>+12% SA Break</font>
 
 ID=19038
-<font color='#F15F5F'>スーパーアーマー破壊力18%</font>
+<font color='#F15F5F'>+18% SA Break</font>
 
 ID=19039
-<font color='#8041D9'>スーパーアーマー破壊力25%</font>
+<font color='#8041D9'>+25% SA Break</font>
 
 ID=19040
-<font color='#47C83E'>攻撃速度1%/移動速度1%</font>
+<font color='#47C83E'>+1% Attack Speed/+1% Movement Speed</font>
 
 ID=19041
-<font color='#4374D9'>攻撃速度2%/移動速度2%</font>
+<font color='#4374D9'>+2% Attack Speed/+2% Movement Speed</font>
 
 ID=19042
-<font color='#E0B94F'>攻撃速度3%/移動速度3%</font>
+<font color='#E0B94F'>+3% Attack Speed/+3% Movement Speed</font>
 
 ID=19043
-<font color='#F15F5F'>攻撃速度5%/移動速度5%</font>
+<font color='#F15F5F'>+5% Attack Speed / +5% Movement Speed</font>
 
 ID=19044
-<font color='#8041D9'>攻撃速度6%/移動速度6%</font>
+<font color='#8041D9'>+6% Attack Speed/+6% Movement Speed</font>
 
 ID=19045
-<font color='#47C83E'>クリティカルダメージ700</font>
+<font color='#47C83E'>+700 Critical Dmg</font>
 
 ID=19046
-<font color='#4374D9'>クリティカルダメージ850</font>
+<font color='#4374D9'>+850 Critical Dmg</font>
 
 ID=19047
-<font color='#E0B94F'>クリティカルダメージ1000</font>
+<font color='#E0B94F'>+1000 Critical Dmg</font>
 
 ID=19048
-<font color='#F15F5F'>クリティカルダメージ1350</font>
+<font color='#F15F5F'>+1350 Critical Dmg</font>
 
 ID=19049
-<font color='#8041D9'>クリティカルダメージ1700</font>
+<font color='#8041D9'>+1700 Critical Dmg</font>
 
 ID=19400
 Standard
@@ -6620,28 +6620,28 @@ ID=19504
 ภาคฤดูร้อน
 
 ID=19505
-バニー・インザ・フォレスト
+Bunny in the Forest
 
 ID=19506
-クリスマス
+Christmas
 
 ID=19507
-和の心得
+Knowledge of Japanese culture
 
 ID=19508
-韓服
+Hanbok
 
 ID=19511
-キャンディナイト
+Candy Knight
 
 ID=19512
-スチームパンク
+Steampunk
 
 ID=19513
-ブライトサンシャイン
+Bright Sunshine
 
 ID=19514
-マリンマリン
+Marine Marine
 
 ID=19516
 もう一つの和の心得
@@ -6722,10 +6722,10 @@ ID=20090
 ว่าง
 
 ID=20091
-何だかアイドルになった気分。
+I felt like becoming some kind of idol.
 
 ID=20092
-{0}が得意気にポーズを取ります。
+{0} proudly poses.
 
 ID=20100
 เมจ
@@ -6734,163 +6734,163 @@ ID=20101
 พ่อบ้าน
 
 ID=20102
-サービングの練習をしています。
+Currently practicing to serve.
 
 ID=20103
-{0}がサービングの練習をしています。
+{0} practices serving.
 
 ID=20111
-ビーチボール
+Beach Ball
 
 ID=20112
-ビーチボールで遊びます。
+Playing with the beach ball.
 
 ID=20113
-{0}がビーチボールで遊びます。
+{0} is playing with the beach ball.
 
 ID=20124
-サンベッド
+Sunbed
 
 ID=20125
-サンベッドでくつろぎます。
+Relaxing on a sunbed.
 
 ID=20126
-{0}がサンベッドでくつろぎます。
+{0} is relaxing on a sunbed.
 
 ID=20127
-スクール水着
+School Swimsuit
 
 ID=20128
-いかがですか？
+How is it?
 
 ID=20129
-{0}を見てください。
+Please look at {0}.
 
 ID=20130
-バニー
+Bunny
 
 ID=20131
-レッツバニー。
+Posing as a play bunny.
 
 ID=20132
-{0}がレッツバニーをします。
+{0} is a play bunny.
 
 ID=20133
-クリスマス
+Christmas
 
 ID=20134
-メリークリスマス。
+Merry Christmas!
 
 ID=20135
-{0}がクリスマスを満喫しています。
+{0} is enjoying Christmas.
 
 ID=20136
-和の心得
+Knowledge of Japanese culture
 
 ID=20137
-和の心得を楽しく表現します。
+Show off your knowledge about Japanese culture.
 
 ID=20138
-{0}が和の心得を楽しく表現しています。
+{0} shows off their knowledge about Japanese culture.
 
 ID=20139
-韓服
+Hanbok
 
 ID=20140
-ポーズを取ります。
+Take a pose.
 
 ID=20141
-{0}がポーズを取っています。
+{0}takes a pose.
 
 ID=20142
-ショコラティア
+Chocolatier
 
 ID=20143
-チョコ…あげる。
+I'm giving you... chocolate.
 
 ID=20144
-{0}がチョコを渡しています。
+{0} gives chocolate.
 
 ID=20145
-セクシーケモ耳メイド1
+Sexy Animal Ear Maid 1
 
 ID=20146
-第一悩殺ポーズ！
+First bewitching pose!
 
 ID=20147
-{0}が第一悩殺ポーズを取っています。
+{0} takes a first bewitching pose.
 
 ID=20148
-セクシーケモ耳メイド2
+Sexy Animal Ear Maid 2
 
 ID=20149
-第二悩殺ポーズ！
+Second bewitching pose!
 
 ID=20150
-{0}が第二悩殺ポーズを取っています。
+{0} takes a second bewitching pose.
 
 ID=20151
-ホワイトデイ
+White Day
 
 ID=20152
-お返しをお届けに参りました。
+You've come to return the favor.
 
 ID=20153
-{0}がお返しをしています。
+{0} is returning the favor.
 
 ID=20154
-スチームパンク
+Steampunk
 
 ID=20155
-見よ！これぞオーバーテクノロジー。
+Behold! This is Over Technology!
 
 ID=20156
-{0}がオーバーテクノロジーを披露しています。
+{0} Is showing off Over Technology!
 
 ID=20157
-マリンマリン
+Marine Marine
 
 ID=20158
-ポーズを取ります。
+Take a pose.
 
 ID=20159
-{0}がポーズを取ります。
+{0} takes a pose.
 
 ID=20300
-このCHは非常に混雑しているため、設置できません。他のCHをご利用ください。
+Cannot join channel due to congestion. Please use another one.
 
 ID=20301
-設置スペースが不足または設置不可エリアです。
+The operation cannot be done due to insufficient space or an invalid area.
 
 ID=20302
-設置スペースが不足または設置不可エリアです。
+The operation cannot be done due to insufficient space or an invalid area.
 
 ID=20303
-設置スペースがありません。
+There is no enough space for the placement.
 
 ID=20304
-残り時間：{0}分
+Time Left: {0}m
 
 ID=20305
-使用を中止しますか？
+Are you sure you want to stop the usage?
 
 ID=20306
-既存設置アイテムは除去されます。実行しますか？
+Existing furniture will be removed. Are you sure you want to proceed?
 
 ID=20307
-使用中のアイテムが消失しました。
+The used item has disappeared.
 
 ID=20308
-設置されたソーシャルアイテムがありません。
+The furniture item doesn't exist.
 
 ID=20309
-使用中のアイテムではありません。
+The item is currently inactive.
 
 ID=20310
-設置されたアイテムの解除権限がありません。
+You have no dismantling permission for the selected item.
 
 ID=20400
-疲労度回復中…
+Recovering Fatigue...
 
 ID=20401
 น้อยกว่า 1 นาที
@@ -6899,10 +6899,10 @@ ID=20402
 ในระหว่างการหยุดพัก...
 
 ID=21000
-{0}の好感度が{1}増加しました。
+{0}'s favorability has increased by {1}.
 
 ID=21001
-{0}に対する顧客等級Lv{1}を達成しました。段階による特典が付与されます。
+{0}'s favorability level has increased to Lv{1}. The level bonus was unlocked.
 
 ID=21002
 ความสนิท [Lv{0}]
@@ -6923,61 +6923,61 @@ ID=21007
 - {0} x{1}
 
 ID=21008
-修理費用が{0}{1}減少
+Repair cost is reduced by {0}{1}
 
 ID=21009
-製作費用が{0}{1}減少
+Crafting cost is reduced by {0}{1}
 
 ID=21010
-製作に必要な材料数が{0}%減少
+Number of crafting materials are reduced by {0}%
 
 ID=21011
-強化費用が{0}{1}減少
+Enhancing cost is reduced by {0}{1}
 
 ID=21012
-強化確率が{0}{1}増加
+Enhancing success chance is increased by {0}{1}
 
 ID=21013
-乗り物利用料が{0}{1}減少
+Transportation cost is reduced by {0}{1}
 
 ID=21014
-特殊アイテム[{0}]購入可能
+Special item [{0}] can be purchased
 
 ID=21015
-{0}が販売する特殊アイテムの一日購入個数が2倍に増加
+Doubles the number of special items you can purchase per day from {0}
 
 ID=21016
-乗り物利用時、30分間攻撃力/防御度が{0}{1}増加
+While mounted, +{0} Attack, +{1} Defense for 30m
 
 ID=21017
 สามารถทำเควสผู้ซัพพอร์ตได้แล้ว [ผู้ซัพพอร์ต:Hugh]
 
 ID=21018
-サポータークエスト遂行可能[サポーター：リュー]
+Can do Supporter Quest [Supporter: Ryu]
 
 ID=21019
-サポータークエスト遂行可能[サポーター：ハイディンガー]
+Can do Supporter Quest [Supporter: Haidinger]
 
 ID=21020
 สามารถทำเควสผู้ซัพพอร์ตได้แล้ว [ผู้ซัพพอร์ต:Miriam]
 
 ID=21021
-サポータークエスト遂行可能[サポーター：オートパニッシャー]
+Can do Supporter Quest [Supporter: Auto Punisher]
 
 ID=21022
-サポータークエスト遂行可能[サポーター：クリーニー]
+Can do Supporter Quest [Supporter: Cleany]
 
 ID=21023
-サポータークエスト遂行可能[サポーター：マクシム]
+Can do Supporter Quest [Supporter: Maxim]
 
 ID=21024
-サポータークエスト遂行可能[サポーター：ルーシー]
+Can do Supporter Quest [Supporter: Lucy]
 
 ID=21025
-サポータークエスト遂行可能[サポーター：ラルフ]
+Can do Supporter Quest [Supporter: Ralph]
 
 ID=21026
-サポータークエスト遂行可能[サポーター：センスン]
+Can do Supporter Quest [Supporter: Sensen]
 
 ID=21027
 ความสำเร็จ
@@ -6992,25 +6992,25 @@ ID=21030
 ซื้อเกินจำนวนครั้งใน 1 วัน
 
 ID=21031
-{0}との交流で1日に獲得できる好感度を全て獲得したため、これ以上蓄積されません。\n[午前9:00初期化]
+You cannot gain any more favorability from {0} today.\n[Resets at 09:00 JST/00:00 UTC]
 
 ID=21032
-疲労度が不足しているため、メイズに入場できません。
+Cannot enter the dungeon because you do not have enough fatigue.
 
 ID=21033
-{0}の疲労度が不足しているため、メイズに入場できません。
+Cannot enter the dungeon because {0} does not have enough fatigue.
 
 ID=21034
 疲労度が足りないため、このエピソードではパーティー検索機能を使用できません。
 
 ID=21035
-基本疲労度状態でのみ使用できます。
+Cannot be used when your basic fatigue is at maximum (200).
 
 ID=21036
-1日の使用回数を超えました。{0}時間後に使用できます。
+The usage limit has been reached. You can use it again in {0} hours.
 
 ID=21037
-アイテム使用で回復する疲労度が基本疲労度の総量を超過します。使用しますか？
+Using this fatigue recovery item will exceed the total amount of your basic fatigue (max 200). Are you sure you want to use it?
 
 ID=21038
 ตัวละครที่เล่นอยู่ไม่สามารถใช้ไอเทมนี้ได้
@@ -7019,34 +7019,34 @@ ID=21039
 เลเวลไม่เพียงพอที่จะใช้ไอเทม
 
 ID=21040
-デイリー使用制限：[{0}/{1}]
+Daily Usage Limit: [{0}/{1}]
 
 ID=21041
-基本疲労度(200)がMAXの状態ではアイテムを使用できません。
+Cannot be used when your basic fatigue is at maximum (200).
 
 ID=21051
-HPがMAXの状態ではアイテムを使用できません。
+This item cannot be used because your HP is maxed.
 
 ID=21052
-SGがMAXの状態ではアイテムを使用できません。
+This item cannot be used because your SG is maxed.
 
 ID=21053
-STがMAXの状態ではアイテムを使用できません。
+This item cannot be used because your ST is maxed.
 
 ID=21054
-HP比率回復ポーション2段階購入可能
+HP Recovery Potion stage 2 is available for purchase
 
 ID=21055
-HP比率回復ポーション2～3段階購入可能
+HP Recovery Potion stages 2 to 3 are available for purchase
 
 ID=21056
-HP比率回復ポーション2～4段階購入可能
+HP Recovery Potion stages 2 to 4 are available for purchase
 
 ID=21057
-SG比率50%回復ポーション購入可能
+SG 50% Recovery Potion is available for purchase
 
 ID=21058
-SG比率100%回復ポーション購入可能
+SG 100% Recovery Potion is available for purchase
 
 ID=21400
 ขึ้นเครื่อง
@@ -7121,10 +7121,10 @@ ID=21520
 ใช้ลูกไฟป้องกัน 20%
 
 ID=21521
-攻撃のオーブ[キャラクター攻撃力20%適用]で支援登録しますか？
+Are you sure you want to register the [+20% Supporter Attack] Aid orb?
 
 ID=21522
-防御のオーブ[キャラクター防御度20%適用]で支援登録しますか？
+Are you sure you want to register the [+20% Supporter Defense] Aid orb?
 
 ID=21523
 ข้อมูล
@@ -7157,10 +7157,10 @@ ID=21532
 สวมใส่
 
 ID=21533
-{0}({1})が解除され、消滅しました。新しい支援装備を着用できます。
+{0} ({1}) was canceled and has disappeared. You can equip another Aid.
 
 ID=21534
-メイズ離脱によりサポーターの召喚が解除されました。
+The Supporters have withdrawn because you have left the dungeon.
 
 ID=21535
 หมายเรียกของ {0} ได้ถูกยกเลิกแล้ว
@@ -7196,7 +7196,7 @@ ID=21545
 ดวงไฟป้องกัน
 
 ID=21546
-召喚中のサポーターを解除すると、着用中のオーブが消滅します。このまま続けますか？
+Releasing this Supporter will have its equipped orb disappear. Are you sure you want to continue?
 
 ID=21547
 รับการสนับสนุน
@@ -7403,7 +7403,7 @@ ID=22210
 ข้อมูลความเสียหายในปาร์ตี้
 
 ID=22211
-対象ダメージ情報
+Ally Damage Info
 
 ID=22212
 กล้อง
@@ -7463,7 +7463,7 @@ ID=22230
 ดูรายละเอียด
 
 ID=22231
-スクリーンショット並びにゲーム設定初期化
+ภาพหน้าจอและการตั้งค่าเกม
 
 ID=22232
 ที่อยู่ของภาพหน้าจอ
@@ -7484,7 +7484,7 @@ ID=22237
 รายละเอียดการต่อสู้ในปาร์ตี้
 
 ID=22238
-階級表示
+Show Rank
 
 ID=22300
 กราฟิก
@@ -7529,7 +7529,7 @@ ID=22313
 Gamma [เต็มจอเท่านั้น]
 
 ID=22314
-浸透効果
+Permeation Effect
 
 ID=22315
 Afterimage เอฟเฟกต์
@@ -7667,7 +7667,7 @@ ID=22530
 ตอบกระซิบ
 
 ID=22531
-相互作用
+ปฏิสัมพันธ์
 
 ID=22532
 ยืนยันชื่อไอเทม
@@ -7913,10 +7913,10 @@ ID=22634
 ประกาศ
 
 ID=22635
-NPCセリフ
+NPC Lines
 
 ID=22636
-シネマ
+Cinema
 
 ID=22637
 สีข้อความของระบบ
@@ -7970,7 +7970,7 @@ ID=22653
 สีพื้นหลัง
 
 ID=22654
-ขนาดตัวอักษร
+ขนาดตัวละคร
 
 ID=22655
 เพิ่มความโปร่งใส
@@ -7985,10 +7985,10 @@ ID=22658
 คืนค่าเริ่มต้นการตั้งค่าแชท
 
 ID=22659
-【{0}】キーは別の操作キーで使用しています。\nこの操作キーの設定を変更しますか？
+[{0}]key is being used for other controls.\nAre you sure you want to overwrite the key settings?
 
 ID=22660
-【{0}】キーはショートカットキーに使用できません。\n別のキーを指定してください。
+[{0}]key cannot be used as a shortcut.\nPlease assign other keys for use.
 
 ID=22661
 ของที่ระลึก
@@ -8021,7 +8021,7 @@ ID=22670
 ※คุณภาพลดลง จะสามารถเล่นได้อย่างราบรื่น
 
 ID=22671
-アンチエイリアス効果は、ゲームを再起動すると適用されます。
+Anti-aliasing will be applied on the next startup.
 
 ID=22672
 ปุ่มควบคุม
@@ -8030,10 +8030,10 @@ ID=22673
 เรียก Supporters
 
 ID=22674
-サポーター召喚クールタイムです。\n({0}秒)
+Supporter Call is on cooldown.\n({0} sec)
 
 ID=22675
-STARTボタンとの組み合わせはできません。
+You cannot assign combined key bind with START button.
 
 ID=22676
 คุณภาพของเอฟเฟกต์
@@ -8045,43 +8045,43 @@ ID=22678
 เก็บไอเทมอัตโนมัติ
 
 ID=22679
-{0}キーとの組み合わせは設定できません。
+You cannot assign combined key bind with {0}.
 
 ID=22680
-{0}キーと組み合わせた設定をしてください。
+Please assign the key bind combined with {0}.
 
 ID=22681
 พื้นผิว
 
 ID=22682
-テクスチャーはゲームを再起動、またはローディング後に適用されます。
+Texture changes will be applied on the next startup or after loading.
 
 ID=22683
-乗り物召喚
+Summon Vehicle
 
 ID=22684
-乗り物ウィンドウ開く/閉じる
+Open/Close Vehicle's Window
 
 ID=23000
-基本疲労度が全回復しました。
+Basic fatigue level was completely restored.
 
 ID=23001
-ボーナス疲労度{0}
+Bonus FP {0}
 
 ID=23002
-獲得戦闘EXP10%増加
+EXP Gain +10%
 
 ID=23003
-疲労度{0}
+FP {0}
 
 ID=23004
-疲労度情報
+FP Information
 
 ID=23005
-ネカフェ疲労度{0}
+Net Café FP {0}
 
 ID=24000
-所持金
+Zenny
 
 ID=24001
 อาวุธ
@@ -8099,7 +8099,7 @@ ID=24005
 อุปกรณ์
 
 ID=24006
-装備登録
+เลือกอุปกรณ์
 
 ID=24007
 อุปโภค
@@ -8144,7 +8144,7 @@ ID=24020
 เพาะปลูก
 
 ID=24021
-乗り物
+ยานพาหนะ
 
 ID=24250
 Zenny
@@ -8273,28 +8273,28 @@ ID=24291
 ชุดชั้นใน
 
 ID=24292
-上衣+下衣一体型
+Top+Bottom Integrated
 
 ID=24293
-目+口一体型
+Eyes & Mouth Set
 
 ID=24294
-髪+帽子+目一体型
+Hair & Hat & Eyes Set
 
 ID=24295
-上衣+背一体型
+Top & Back Set
 
 ID=24296
-下衣+靴一体型
+Bottom + Shoe Set
 
 ID=24297
-下衣+尻尾一体型
+Bottom & Tail Set
 
 ID=24298
-背+尻尾一体型
+Back & Tail Set
 
 ID=24299
-靴+タイツ一体型
+Shoes & Stocking Set
 
 ID=24300
 คำนำหน้า
@@ -8384,10 +8384,10 @@ ID=24328
 พืชผล
 
 ID=24329
-ソウルストーン
+Soulstone
 
 ID=24330
-先知者の破片
+Prophet's Fragments
 
 ID=24499
 บุ๊คเกอร์พอยต์
@@ -8492,10 +8492,10 @@ ID=24532
 เรียกคืนไอเทมที่ถูกทำลาย
 
 ID=24533
-ブローチ合成
+Brooch Synthesis 
 
 ID=24534
-ソケットアイテム（ファミリア/ソウルストーン）ソケット追加
+Socket Item (Familiar/Soulstone) added
 
 ID=24535
 เพิ่มซ็อกเก็ต Avatar
@@ -8507,10 +8507,10 @@ ID=24537
 บัตรขยายช่องเก็บของ
 
 ID=24538
-銀行倉庫拡張券
+Bank Expansion Ticket
 
 ID=24539
-スキルデッキ拡張券
+Skill Deck Expansion Ticket
 
 ID=24540
 ตั๋วขยายช่องตัวละคร
@@ -8522,13 +8522,13 @@ ID=24542
 ฟีเวอร์
 
 ID=24543
-インフォメーションアイテム
+ข้อมูลรายการ
 
 ID=24544
 กำลังเปิดร้านค้าส่วนบุคคล
 
 ID=24545
-アーティファクトスロット拡張券
+Artifact Slot Expansion Ticket
 
 ID=24546
 ทรงผม
@@ -8609,28 +8609,28 @@ ID=24571
 ชุดชั้นใน
 
 ID=24572
-上衣+下衣一体型
+Top+Bottom Integrated
 
 ID=24573
-目+口一体型
+Eyes & Mouth Set
 
 ID=24574
-髪+帽子+目一体型
+Hair & Hat & Eyes Set
 
 ID=24575
-上衣+背一体型
+Top & Back Set
 
 ID=24576
-下衣+靴一体型
+Bottom + Shoe Set
 
 ID=24577
-下衣+尻尾一体型
+Bottom & Tail Set
 
 ID=24578
-背+尻尾一体型
+Back & Tail Set
 
 ID=24579
-靴+タイツ一体型
+Shoes & Stocking Set
 
 ID=24580
 คำนำหน้า
@@ -8873,10 +8873,10 @@ ID=24659
 จักรยาน
 
 ID=24670
-ソケットアイテム抽出機
+Socket Item Extractor
 
 ID=24672
-エナジーコンバーターパーツ
+Energy Converter Parts
 
 ID=24750
 ทั่วไป
@@ -9173,7 +9173,7 @@ ID=24847
 My room package
 
 ID=24848
-Y.Pパッケージ
+Y.P Package
 
 ID=24881
 Sword
@@ -9209,10 +9209,10 @@ ID=24891
 ชิ้นส่วน
 
 ID=24892
-ヨミの秘蔵庫ポイント
+Yomi's treasured point
 
 ID=24893
-ハンマー
+Hammer
 
 ID=24900
 Haru
@@ -9239,7 +9239,7 @@ ID=25001
 ออกจาก Tutorial
 
 ID=25002
-チュートリアルをスキップしてフィールドに進みます。
+ข้ามบทช่วยสอนและไปที่ฟิลด์
 
 ID=25003
 CLICK
@@ -9269,13 +9269,13 @@ ID=25200
 combo โจมตีปกติ
 
 ID=25201
-通常攻撃の連続使用で連係攻撃(コンボ)ができます。\n基本攻撃マスタリーレベルを上げると、\n新たな連係攻撃を習得できます。
+You may combo your basic attacks.\nImproving your Basic Attack Mastery will\nallow you perform new combos.
 
 ID=25210
 สนทนากับ NPC
 
 ID=25211
-NPCの近くで【F】キーを押してください。\nNPCとの会話を通してクエストを進めたり、\n商店などの機能を利用できます。
+กรุณากด [F] ใกล้ NPC\คุณสามารถใช้ร้านค้าหรือ\รับเควส
 
 ID=25212
 Main quest
@@ -9287,112 +9287,112 @@ ID=25220
 Object interaction
 
 ID=25221
-オブジェクトに向かって「F」キー長押しで\n扉を開けたり、装置を起動することができます。
+You can open doors or activate objects by moving near them and holding the [F] key.
 
 ID=25222
-起動完了までクリックしたままにする
+Hold down the mouse button until it has fully activated.
 
 ID=25230
 ทำลายวัตถุ
 
 ID=25231
-一部のオブジェクトは破壊できます。\n近づいて攻撃してみてください。
+You can destroy some objects.\nPlease go near the object and try to destroy it.
 
 ID=25240
 ความสามารถเฉพาะ
 
 ID=25241
-右クリックで特殊能力を発動できます。\nハルの特殊能力は、\n周囲の敵を宙に浮かせる能力です。\n浮かせた敵はゆっくり落下します。
+You can activate special abilities through Right-Click. nHaru's special ability is to launch enemies into the air.\nEnemies will slowly fall down.
 
 ID=25242
-右クリックで特殊能力を発動できます。\nアーウィンの特殊能力は、\nトラップを設置する能力です。\nトラップにかかった敵は少しの間動きが遅くなります。
+You can activate special abilities through Right-Click.\nErwin's special ability is to install traps.\nEnemies that step on the traps are temporarily slowed.
 
 ID=25243
-右クリックで特殊能力を発動できます。\nリリーの特殊能力は、前方に素早く移動し\n触れた敵を鈍化させます。\nボタン長押しでチャージでき、移動距離が増加します。
+You can activate special abilities through Right-Click.\nLily's special ability is to dash forward.\nEnemies that you touch will be slowed.\nHold the mouse button to charge the skill and increase the distance traveled.
 
 ID=25244
-右クリックで特殊能力を発動できます。\nジンの特殊能力は、地面に衝撃を与え周囲の敵を攻撃する能力です。\n近くにいる敵は衝撃により気絶状態になります。
+You can activate the special ability using right click.\nJin's special ability hits the ground and surrounding enemies.\nEnemies are stunned on impact.
 
 ID=25245
-右クリックで特殊能力を使用できます。\nステラの特殊能力は、\n一部のスキル効果を変化させる能力です。\nもう一度特殊能力を使用すると、元の効果に戻ります。
+You can activate special abilities through Right-Click.\nStella's special ability to to change the properties of her skills.\nUsing the special ability will return to the previous effect.
 
 ID=25246
-右クリックで特殊能力を発動できます。\nイリスの特殊能力は、SG回復と持続ダメージ能力です。
+Right-Click to activate a special ability.\nIris' special abilities are SG recovery and sustained damage ability.
 
 ID=25270
 หลบ
 
 ID=25271
-SHIFTキーと方向キーを一緒に押すか、\n方向キーを2回連続で入力すると\n相手の攻撃を回避できます。
+การกด SHIFT ขณะเคลื่อนที่หรือกดปุ่มการเคลื่อนไหวสองครั้งจะช่วยให้คุณสามารถหลบการโจมตีที่เข้ามาได้
 
 ID=25280
 เหตุฉุกเฉิน
 
 ID=25281
-全ての敵を倒した後に、時々新しい敵が\n襲ってくることがあります。\nこのような状況はミニマップに表示されます。
+หลังจากเอาชนะศัตรูทั้งหมดในพื้นที่แล้วศัตรูใหม่จะปรากฏขึ้น \n มินิแผนที่จะได้รับการอัปเดตตามนั้น
 
 ID=25290
 Sector clear
 
 ID=25291
-全ての敵を倒し、全てのオブジェクトを起動して\nクエストを進めると次のエリアに移動できます。
+ด้วยการเอาชนะศัตรูทั้งหมดทำตามวัตถุประสงค์ทั้งหมดและดำเนินการตามภารกิจคุณสามารถไปยังพื้นที่ถัดไปได้
 
 ID=25300
 Soul gauge
 
 ID=25301
-[ハル]のSGは、攻撃命中時に回復します。
+[Haru] จะฟื้นฟู SG เมื่อโจมตี
 
 ID=25302
-[アーウィン]のSGは、攻撃成功またはスキルを連携して使用時に回復します。
+[Erwin] When you land a successful attack or use a skill successfully, you recover SG.
 
 ID=25303
-[リリー]のSGは、攻撃命中時に回復し、一定の数値を越えると狂気モードになります。
+[Lily] will recover SG during attacks when she enters Madness mode after a certain combo threshold.
 
 ID=25304
-[ジン]のSGは、非戦闘状態中に回復し、攻撃及びカウンター成功時には大幅に回復します。
+Jin's SG recovers out of combat and will recover a substantial amount when attacking and countering.
 
 ID=25305
-[ステラ]のSGは自動で素早く回復し、SGが少ないほど回復量が増加します。
+[Stella] She will quickly recover her SG when her SG is low.
 
 ID=25306
-イリスのSGは攻撃成功時に回復します。
+Iris' SG recovers on successful attack.
 
 ID=25311
-攻撃命中時回復
+Attack Recovery
 
 ID=25312
-スキル使用時減少
+Get Up and Dodge
 
 ID=25313
-スキル使用時減少
+Get Up and Dodge
 
 ID=25314
-攻撃及びスキル連携時回復
+Chain Attacks and Skills
 
 ID=25315
-攻撃命中時回復
+Attack Recovery
 
 ID=25316
-100%を超えると狂気モード
+Going over 100% will activate the Madness mode
 
 ID=25317
-非戦闘状態で回復
+Out of combat recovery
 
 ID=25318
-カウンター成功時、大幅に回復
+On counter, great recovery
 
 ID=25319
-自動で回復
+Automatic Recovery.
 
 ID=25320
-SGが低いほど回復量が増加
+SG will recover faster when low.
 
 ID=25330
-起床&回転起床
+Slide & Roll
 
 ID=25331
-敵の攻撃によりダウンした場合、SHIFT+方向キーで\n回転起床、SPACEキーで素早く起き上がれます。
+If you are knocked down by enemies, you can SHIFT + Directional Key to roll back up or press SPACE to get up quickly.
 
 ID=25400
 การใช้งานสกิล
@@ -9629,7 +9629,7 @@ ID=26069
 ความเสียหายเพิ่มขึ้น: ทั่วไป[%]
 
 ID=26070
-敵追加ダメージ：ボス/ネームド[%]
+ความเสียหายเพิ่มขึ้น: Boss/Named [%]
 
 ID=26071
 ความเสียหายเพิ่มขึ้น: ระยะใกล้[%]
@@ -9647,7 +9647,7 @@ ID=26075
 ความเสียหายลดลง: ทั่วไป[%]
 
 ID=26076
-ダメージ減少：ボス/ネームド[%]
+ความเสียหายลดลง: Boss/Named [%]
 
 ID=26077
 ความเสียหายลดลง: ระยะใกล้[%]
@@ -9677,7 +9677,7 @@ ID=26085
 ท่าทาง:Idol dance
 
 ID=26086
-ダメージを受けた時のエフェクト変更_オプション表示しない[ツールチップ]
+Change effect when receiving damage_Turn off Options menu[Tooltip]
 
 ID=26087
 ผลบังคับใช้:ฟื้น HP
@@ -9779,7 +9779,7 @@ ID=26119
 ความเสียหายลดลง: บนพื้น[%]
 
 ID=26120
-命中効果：スタミナ回復[%]
+Hit Effect: Stamina Recovery[%]
 
 ID=26121
 ผลกระทบ: บัฟ
@@ -9797,10 +9797,10 @@ ID=26125
 ความเร็วในการโจมตี[%]
 
 ID=26126
-ゴールデンシタデル勢力追加ダメージ[%]
+Add'l. Dmg: Golden Citadel [%]
 
 ID=26127
-ゴールデンシタデル勢力ダメージ減少[%]
+Dmg Reduction: Golden Citadel [%]
 
 ID=26128
 ความเสียหายเพิ่มเติมกับ Primal[%]
@@ -9809,40 +9809,40 @@ ID=26129
 ลดความเสียหายจาก Primal[%]
 
 ID=26130
-[光輝]攻撃力
+[Brilliance] Attack
 
 ID=26131
-[悪念]攻撃力
+[Evil] Attack
 
 ID=26132
-[冷静]攻撃力
+[Serenity] Attack
 
 ID=26133
-[憎悪]攻撃力
+[Hatred] Attack
 
 ID=26134
-[治癒]攻撃力
+[Healing] Attack
 
 ID=26135
-[苦痛]攻撃力
+[Agony] Attack
 
 ID=26136
-[光輝]抵抗力
+[Brilliance] Defence
 
 ID=26137
-[悪念]抵抗力
+[Evil] Defence
 
 ID=26138
-[冷静]抵抗力
+[Serenity] Defence
 
 ID=26139
-[憎悪]抵抗力
+[Hatred] Defence
 
 ID=26140
-[治癒]抵抗力
+[Healing] Defence
 
 ID=26141
-[苦痛]抵抗力
+[Agony] Defence
 
 ID=26201
 พลังโจมตีครั้งสุดท้าย
@@ -9863,46 +9863,46 @@ ID=26300
 5% ของจำนวน {0}% สะท้อนความเสียหาย
 
 ID=26301
-ラピッドフレイム勢力からの攻撃で中毒時、10%の確率でHP{0}回復
+When poisoned by Rapid Flame faction foes, 10% chance of +{0} HP
 
 ID=26302
-人形勢力から50%の確率で{0}%ダメージ減少
+50% chance of reducing {0}% damage from Puppet Forces
 
 ID=26303
-スキル使用時、50%の確率で10秒間、回避度{0}上昇
+On skill use, 50% chance of +{0} Evasion for 10s
 
 ID=26304
-ジェニー獲得時、50%の確率で{0}ジェニー追加獲得
+When gaining zenny, 50% chance of gaining additional zenny
 
 ID=26305
-攻撃命中時、5%の確率でHP{0}回復
+On hit, 5% chance of +{0} HP
 
 ID=26306
 พลังโจมตีสูงสุดเพิ่ม HP {0}%
 
 ID=26307
-攻撃を受けた時にHPが50%未満の場合、5秒間、攻撃力{0}%増加
+When hit under 50% HP, +{0}% Attack for 5s
 
 ID=26308
-人形勢力討伐時、10秒間、攻撃力{0}%増加
+After defeating a Puppet faction enemy, +{0}% Attack for 10s
 
 ID=26309
 เมื่อใช้สกิลคูลดาวน์ลดลง {0}%
 
 ID=26310
-回避使用時、HP{0}%回復
+On dodge, +{0}% HP
 
 ID=26311
-スキル使用時、5%の確率でクールタイム{0}%減少
+When using a skill, 5% chance of -{0}% cooldown
 
 ID=26312
 ฟื้นฟู {0}% เวลาตาย
 
 ID=26313
-クリティカル攻撃を受けた時、10秒間クリティカル抵抗{0}増加
+When critically hit, +{0}% Critical Resistance for 10s
 
 ID=26314
-ボスクラスの敵から攻撃を受けた時、3秒間、最大スタミナ{0}増加
+When hit by boss monsters, +{0} Maximum Stamina for 3s
 
 ID=26315
 เมื่อโจมตีมีโอกาส 3% พลังโจมตีเพิ่มขึ้น {0}% เวลา 3 วินาที
@@ -9911,94 +9911,94 @@ ID=26316
 เมื่อโจมตีมีโอกาส 1% พลังโจมตีเพิ่มขึ้น {0}% เวลา 5 วินาที
 
 ID=26317
-クリティカル時、5%の確率で3秒間敵防御度貫通{0}%
+On critical, 5% chance of +{0}% Penetration for 3s
 
 ID=26318
-クリティカル時、3%の確率で5秒間敵防御度貫通{0}%
+On critical, 3% chance of +{0}% Penetration for 5s
 
 ID=26319
-攻撃を受けた時、15%の確率で3秒間回避度{0}増加
+When hit, 15% chance of +{0} Evasion for 3s
 
 ID=26320
-回避時、10%の確率で10秒間攻撃失敗ダメージ{0}%増加
+When evaded, 10% chance of +{0}% Missed Attack Dmg for 10s
 
 ID=26321
-クリティカル攻撃を受けた時、50%の確率でHP{0}回復
+When critically hit, 50% chance of +{0} HP
 
 ID=26322
-命中時、5%の確率で5秒間、スーパーアーマー破壊力{0}%増加
+On hit, 5% chance of +{0}% SA Break for 5s
 
 ID=26323
-町での移動速度{0}%増加
+In town, +{0}% Movement Speed
 
 ID=26324
-ボスから攻撃を受けた時、10%の確率で5秒間ダメージ{0}%減少
+When hit by a boss, 10% chance of +{0}% Dmg Reduction for 5s
 
 ID=26325
-回避時、次の攻撃の攻撃力{0}%増加
+When evaded, next attack deals +{0}% Attack
 
 ID=26326
-回避時、10%の確率でHP{0}回復
+When evaded, 10% chance to recover {0} HP
 
 ID=26327
-命中時、2%の確率でスタミナ{0}回復
+On hit, 2% chance of +{0} Stamina
 
 ID=26328
-戦闘エリアでの移動速度{0}%増加
+In battle area, Movement Speed +{0}%
 
 ID=26329
-攻撃を受けた時、15%の確率で5秒間防御度{0}%増加
+When hit, 15% chance of +{0}% Defense for 5s
 
 ID=26330
-攻撃を受けた時、8%の確率で10秒間クリティカル抵抗{0}%増加
+When hit, 8% chance of +{0}% Critical Resistance for 10s
 
 ID=26331
-攻撃を受けた時、20%の確率でダメージ量{0}%反射
+When hit, 20% chance to reflect {0}% damage
 
 ID=26332
-攻撃を受けた時、20%の確率で2秒間スーパーアーマー効果
+When hit, 20% chance of Super Armor for 2s
 
 ID=26333
-攻撃を受けた時、20%の確率で4秒間スーパーアーマー効果
+When hit, 20% chance of Super Armor for 4s
 
 ID=26334
-攻撃を受けた時、20%の確率で8秒間スーパーアーマー効果
+When hit, 20% chance of SA effect for 8s
 
 ID=26335
-攻撃を受けた時、20%の確率で10秒間スーパーアーマー効果
+When hit, 20% chance of SA effect for 10s
 
 ID=26336
-攻撃を受けた時、20%の確率で12秒間スーパーアーマー効果
+When hit, 20% chance of SA effect for 12s
 
 ID=26337
-回避時、5秒間ダメージ減少{0}%
+When evaded, +{0}% Dmg Reduction for 5s
 
 ID=26338
-エアリアルダメージを受けた時、5秒間ダメージ減少{0}%
+When hit mid-air, +{0}% Dmg Reduction for 5s.
 
 ID=26339
-ダウンダメージを受けた時、5秒間ダメージ減少{0}%
+When hit while down, +{0}% Dmg Reduction for 5s
 
 ID=26340
-攻撃を受けた時にHPが50%未満の場合、10%の確率で5秒間防御度{0}%増加
+When being hit under 50% HP, 10% chance of +{0}% Defense for 5s
 
 ID=26341
-回避使用時、15%の確率でHP{0}%回復
+On dodge, 15% chance to recover {0}% HP
 
 ID=26342
-回避使用時、10%の確率でHP{0}%回復
+On dodge, 10% chance to recover {0}% HP
 
 ID=26343
-ダッシュ使用時、15%の確率で5秒間移動速度{0}%増加
+When dashing, 15% chance of +{0}% Movement Speed for 5s
 
 ID=26344
-スキル使用時、2%の確率でクールタイム{0}%減少
+On skill use, 2% chance of -{0}% Cooldown
 
 ID=26345
-クリティカル命中時、5%の確率で5秒間、攻撃力{0}%増加
+On critical hit, 5% chance of +{0]% Attack for 5s
 
 ID=26346
-命中時、5%の確率で3秒間、クリティカルダメージ{0}増加
+On hit, 5% chance of +{0} Critical Dmg for 3s
 
 ID=26347
 クリティカル攻撃を受けた時、50%の確率で1秒間、攻撃力{0}%増加

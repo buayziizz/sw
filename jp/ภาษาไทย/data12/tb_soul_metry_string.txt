@@ -1,71 +1,71 @@
 ID=1032
-もう少し待ってくれ
+Wait a bit longer
 
 ID=1033
-夢は億万長者
+Millionaire Dream
 
 ID=1035
-困難に立ち向かう力
+Resillience
 
 ID=1034
-一緒に動物園に行こう
+Let's Go to the Zoo
 
 ID=1041
-今この瞬間
+This Moment
 
 ID=1042
-大好きなマイタウン
+Favorite Town
 
 ID=1043
-忘れられない想い
+Unforgettable Emotion
 
 ID=1044
-苦渋の選択
+Bitter Choice
 
 ID=1045
-いってらっしゃい
+Take Care
 
 ID=1051
-大黒柱
+Central Pillar
 
 ID=1052
-不要な人材の行く末
+Unnecessary Fate of a Capable Person
 
 ID=1053
-ロマンス！？
+Romance!?
 
 ID=1054
-星より輝いていた父
+A Father Brighter Than the Stars
 
 ID=1055
-映画はフィクション
+Fictitious Movie
 
 ID=1056
-絶対服従
+Absolute Obedience
 
 ID=1057
-君に会えたら…
+If Only I Had Met You...
 
 ID=1058
-あなたと一緒なら…
+If Only I Were With You
 
 ID=1059
-何だか心配…
+A Bit Concerning
 
 ID=1060
-何だか機嫌が悪い
+Bad Mood
 
 ID=1061
-罪の重さ
+Weight of Sins
 
 ID=1062
-いつか抜けだしてやる！
+I'll Unplug You One Day!
 
 ID=1063
-夢の船
+Dream Ship
 
 ID=2032
-男は人一倍努力してきたが、世の中はチャンスすら与えなかった。 \n失望と虚しさで心が折れた男は、ついに努力する気持ちさえ無くなってしまった。\n長い時間を男と共に過ごした一人の女は、変わり果てた彼に黙ってはいられなかった。\n\nこれは、世に失望した男と彼を支える一人の女の話。
+The man worked hard but she wouldn't give him the opportunity.\nEventually, filled with disappointment and emptiness his heart broke.\nThe woman who accompanied him all this time silently watched him change.\n\nThis is the story of a man disappointed with the world and a woman who was there supporting him.
 
 ID=2033
 青年の夢は億万長者。 同級生が大学受験の時は稼げる仕事を探し回り、\n友人が遊んでいる時は商売するための資本金作りに精を出した。\n全ては億万長者になるために…。\n\n金の亡者だと非難する者もいたが、彼は全く気にならない。\n金のために命を懸けろ言われても、彼はためらわないだろう。 \nそれで億万長者になれるのであれば…。\n\nこれは、億万長者なることに全てを賭ける青年の話。
@@ -131,241 +131,241 @@ ID=2063
 少女は限られた空間に生まれた日、父は最愛の妻を失った。\nある日、灰色のガウン姿の人々が父親のもとを訪ね、こう言った。\n「子どもが憎くないか？子どもを世界に役立つ仕事に参加させてみないか？」\n彼は最愛の妻が残した贈り物を手放すことはできず、その提案を拒否した。\nその代わりに、少女は制限された空間と規則の下で生活するようになった。\n彼はそんな少女を気の毒に思ったが、それが少女が生き延びる唯一の方法だった。\n彼に残されたたった一つの夢…\nそれは「夢の船」を完成させて、少女をここから脱出させること…。\n\nこれは、監獄ならぬ監獄で生きる少女とその父親の話。
 
 ID=8111
-安全帽
+Safety Helmet
 
 ID=8121
-花輪
+Wealth
 
 ID=8131
-レンガセット
+Renga Set
 
 ID=8141
-患者用ベッド
+Patient's Bed
 
 ID=8211
-麦わら帽子
+Straw Hat
 
 ID=8221
-パイプ管
+Pipe Tube
 
 ID=8231
-アンティークな鏡
+Antique Mirror
 
 ID=8241
-キャビネット
+Cabinet
 
 ID=8251
-キャリアバッグ
+Carrier Bag
 
 ID=8311
-ロードローラー
+Road Roller
 
 ID=8321
-加湿器
+Humidifier
 
 ID=8331
-注油器
+Lubricator
 
 ID=8341
-ネオンサインの看板
+Neon Sign
 
 ID=8351
-窓クリーナー
+Window Cleaner
 
 ID=8361
-モニター
+Monitor 
 
 ID=8112
-ジャックハンマー
+Junk Hammer
 
 ID=8122
-空気人形
+Atmosphere Puppet
 
 ID=8132
-スコップ
+Scoop
 
 ID=8142
-車椅子
+Wheelchair
 
 ID=8212
-クーラーボックス
+Cooler Box
 
 ID=8222
-懐中電灯
+Flashlight
 
 ID=8232
-アンティークな椅子
+Antique Chair
 
 ID=8242
-業務用の机
+Business Desk
 
 ID=8252
-酸素呼吸器
+Respiratory Organ
 
 ID=8312
-バリケード
+Barricade
 
 ID=8322
-大きいボックス
+Big Box
 
 ID=8332
-消火器
+Fire Extinguisher
 
 ID=8342
-ハシゴ
+Ladder
 
 ID=8352
-命綱
+Lifeline
 
 ID=8362
-シュレッダー
+Shredder 
 
 ID=8113
-工具箱
+Toolbox
 
 ID=8123
-メニュー表
+Menu Table
 
 ID=8133
-セメント袋
+Cement Bag
 
 ID=8143
-大きいクマの人形
+Big Bear Puppet
 
 ID=8213
-浮き輪
+Swimming Float
 
 ID=8223
-ラバーカップ
+Plunger
 
 ID=8233
-アンティークなランタン
+Antique Lantern
 
 ID=8243
-アルミニウムのゴミ箱
+Aluminum Garbage Bin
 
 ID=8253
-救命胴衣
+Life Vest
 
 ID=8313
-コーン
+Corn
 
 ID=8323
-本棚
+Bookshelf
 
 ID=8333
-オイルタンク
+Oil Tank
 
 ID=8343
-ケーブル
+Cable
 
 ID=8353
-窓洗い椅子
+Window Cleaner's Chair
 
 ID=8363
-一人用の机
+Personal Desk
 
 ID=8314
-ハンマー
+Hammer
 
 ID=8324
-ストーブ
+Stove
 
 ID=8334
-プラスチックのほうき
+Plastic Broom
 
 ID=8344
-ヘルメット
+Helmet
 
 ID=8354
-洗剤の缶
+Can of Detergent
 
 ID=8364
-座布団
+Floor Cushion
 
 ID=8411
-ルーシーのフィギュア
+Lucy Figure
 
 ID=8412
-ルーシーのブロマイド
+Lucy Pic
 
 ID=8413
-ルーシーの抱き枕
+Lucy Pillow
 
 ID=8414
-ルーシーの特大パネル
+Large Lucy Panel
 
 ID=8421
-モップ
+Mop
 
 ID=8422
-はたき
+Duster
 
 ID=8423
-掃除機
+Vaccuum
 
 ID=8424
-霧吹き
+Spray
 
 ID=8431
-つるはし
+Pickaxe
 
 ID=8432
-ダイナマイト
+Dynamite 
 
 ID=8433
-ライト付きヘルメット
+Flashlight Helmet
 
 ID=8434
-トロッコ
+Trolley
 
 ID=8441
-セントリープラモデル
+Plastic Sentry Model
 
 ID=8442
-溶接機
+Welding Machine
 
 ID=8443
-溶接マスク
+Welding Mask
 
 ID=8444
-溶接手袋
+Welding Glove
 
 ID=8451
-小型冷蔵庫
+Small Fridge
 
 ID=8452
-ハードリーダーキー
+Hard Leader Key
 
 ID=8453
-ノートPC
+Note PC
 
 ID=8454
-スタンドライト
+Standlight
 
 ID=8461
-無線機
+Radio
 
 ID=8462
-警棒
+Baton
 
 ID=8463
-鉄製の盾
+Iron Made Shield
 
 ID=8464
-ショットガン
+Shotgun
 
 ID=8471
-のこぎり
+Saw
 
 ID=8472
-角材の束
+Timber Bundle
 
 ID=8473
-ゴムボート
+Rubber Boat
 
 ID=8474
-アークシップの模型
+Model Ark Ship
 
 ID=5111
 シンプルな安全帽。だが、これをかぶっている時ほど、心強いものはない。\nそう、世間の風潮も他人の視線も、恐れる物は何もないんだ。

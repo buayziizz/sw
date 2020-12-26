@@ -1875,172 +1875,172 @@ ID=4007001
 ปราบ The primal 100 ครั้ง
 
 ID=4000111
-これはもう生活必需品
-消費アイテムを25600回使用
+These are already daily necessities
+Use 25,600 consumables
 
 ID=4000211
-買いすぎはありがたいですね！
-商店でアイテムを15000回購入
+I am grateful for over-buying!
+Buy 15,000 items at a store
 
 ID=4000311
-維持費がかかりすぎる！
-累積修理費550000ジェニー達成
+The maintenance cost is too much!
+Spend 550,000 Zenny on repairs
 
 ID=4000411
-足が震える…
-戦闘不能回数2400回達成
+My legs are shaking...
+Be incapacitated in battle 2,400 times
 
 ID=4000511
-お前ら弱すぎ！
-敵討伐回数1000000回達成
+You guys are too weak!
+Defeat 1,000,000 enemies
 
 ID=4000611
-数えてられない！
-最も弱く見える敵を53000回討伐
+I cannot count!
+Defeat 53,000 weak-looking enemies
 
 ID=4000711
-そんなに…？
-平凡に見える敵を32000回討伐
+This much...?
+Defeat 32,000 average-looking enemies
 
 ID=4000811
-相手にならないな
-強そうに見える敵を13000回討伐
+Not much of an opponent
+Defeat 13,000 strong-looking enemies
 
 ID=4000911
-負ける気がしない
-中ボス級の敵を6300回討伐
+I do not feel like losing
+Defeat 6,300 mid-grade bosses
 
 ID=4001011
-本物のボスはどこ？
-ボスを3800回討伐
+Where is the real boss?
+Defeat 3,800 bosses
 
 ID=4001811
-伝説の破壊神
-アーマーブレイカー使用80000回達成
+Legendary Destruction God
+Use Armor Breaker 80,000 times
 
 ID=4002111
-目瞑っても周回できるわ
-メイズ累積クリア7500回達成
+I can go around even with my eyes closed
+Clear 7,500 dungeons
 
 ID=4002211
-音楽一曲より短いな
-メイズを3分以内にクリア1500回達成
+It is even shorter than a music piece
+Clear 1,500 dungeons in less than 3 minutes
 
 ID=4002311
-世紀の凄腕プレイヤー
-メイズクリアランクSSを1250回達成
+Distinguished player of the century
+Clear 1,250 dungeons with SS rank
 
 ID=4002411
-自分なりには頑張ったのに…
-メイズクリアランクFを1250回達成
+Even though I did my best in my own way...
+Clear 1,250 dungeons with F rank
 
 ID=4002511
-今日から大金持ち
-ドロップジェニー獲得量16820000達成
+A wealthy person from this day forth
+Pick up 16,820,000 Zenny
 
 ID=4002611
-エーテル富豪
-エーテル獲得量4215000達成
+Ether Millionaire
+Acquire 4,215,000 Ether
 
 ID=4002811
-戦闘教官
-BP獲得量60000達成
+Battle Instructor
+Acquire 60,000 BP
 
 ID=4002906
-Lv60達成！
+Tip of the Iceberg 6
 Lv60 สำเร็จ
 
 ID=4003011
-200日の記念日
-累積プレイタイム4800時間達成
+200th-day anniversary
+Accumulate 4,800 hours of playtime
 
 ID=4003111
-強化はこのようにするんだ
-強化700回挑戦
+Enhancing is done like this
+Attempt enhancing 700 times
 
 ID=4003211
-人生は厳しい…
-強化400回失敗
+Life is harsh...
+Fail enhancing 400 times
 
 ID=4003311
-製作は芸術
-製作700回挑戦
+Crafting is an art
+Attempt crafting 700 times
 
 ID=4003411
-分解は生きる意味
-分解1250回挑戦
+Dismantling is a meaning of life
+Attempt dismantling 1,250 times
 
 ID=4003511
-買い物の神様降臨！
-取引所で1500回購入成功
+The Shopping God`s advent
+Successfully purchase at the exchange market 1,500 times
 
 ID=4004406
-グルトン絶滅の危機
-グルトン750回討伐
+A crisis of Glutton extinction
+Defeat 750 Gluttons
 
 ID=4004506
-毎日がミッション
-デイリーミッション2000回クリア
+Every day is a mission
+Clear 2,000 daily missions
 
 ID=4004606
-隠したって無駄だ！
-シークレットイベント2000回クリア
+Hiding is futile!
+Clear 2,000 secret events
 
 ID=4004706
-仮想世界の熟練者
-スチールグレイブ300回挑戦
+An expert of the virtual world
+Clear Steel Grave 300 times
 
 ID=4004806
-マイレージはいくら？
-スカイクラフト150回利用
+How much is the mileage?
+Use Skycraft 150 times
 
 ID=4008001
-空虚の経験者
-アルター・オブ・ヴォイド[ベリーハード]1回クリア
+공허를 넘어온 자
+알터 오브 보이드 [하드] 난이도 1회 클리어
 
 ID=4008002
-空虚の制圧者
-アルター・オブ・ヴォイド[ベリーハード]10回クリア
+공허를 제압한 자
+알터 오브 보이드 [하드] 난이도 10회 클리어
 
 ID=4008003
-空虚の破壊者
-アルター・オブ・ヴォイド[ベリーハード]20回クリア
+공허를 파괴한 자
+알터 오브 보이드 [하드] 난이도 20회 클리어
 
 ID=4008004
-空虚の支配者
-アルター・オブ・ヴォイド[ベリーハード]30回クリア
+공허를 지배한 자
+알터 오브 보이드 [하드] 난이도 30회 클리어
 
 ID=4008005
-空虚の征服者
-アルター・オブ・ヴォイド[ベリーハード]50回クリア
+공허를 정복한 자
+알터 오브 보이드 [하드] 난이도 50회 클리어
 
 ID=4008101
-空虚の怪物を制圧
-アルター・オブ・ヴォイド[エキスパート]1回クリア
+공허의 괴물을 제압하다
+알터 오브 보이드 [매니악] 난이도 1회 클리어
 
 ID=4008102
-空虚の怪物を帰し
-アルター・オブ・ヴォイド[エキスパート]10回クリア
+공허의 괴물을 돌려보내다
+알터 오브 보이드 [매니악] 난이도 10회 클리어
 
 ID=4008103
-空虚の怪物を封印
-アルター・オブ・ヴォイド[エキスパート]20回クリア
+공허의 괴물을 봉인하다
+알터 오브 보이드 [매니악] 난이도 20회 클리어
 
 ID=4008104
-空虚の怪物を蚕食
-アルター・オブ・ヴォイド[エキスパート]30回クリア
+공허의 괴물을 잠식하다
+알터 오브 보이드 [매니악] 난이도 30회 클리어
 
 ID=4008105
-空虚の怪物を刺殺
-アルター・オブ・ヴォイド[エキスパート]50回クリア
+공허의 괴물을 척살하다
+알터 오브 보이드 [매니악] 난이도 50회 클리어
 
 ID=4009001
-ワイワイ夏休みI
-[なんか凄いノア]50回討伐
+왁자지껄 여름 휴가 
+럼블 베케이션 노아 50회 처치
 
 ID=4009002
-ワイワイ夏休みII
-[やたら自信満々のエノック]50回討伐
+시끌벅적 여름 휴가 
+럼블 베케이션 에녹 50회 처치
 
 ID=4008201
 隠れ家の追跡者

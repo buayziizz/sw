@@ -8,10 +8,10 @@ ID=3
 ร้านของเบ็ดเตล็ด
 
 ID=4
-Y.P商店
+Y.P Shop
 
 ID=5
-リサイクル商店
+Recycle Shop
 
 ID=7
 ร้าน BP
@@ -35,7 +35,7 @@ ID=21
 แฟชั่น (ทั่วไป)
 
 ID=22
-ファッション（Y.P）
+Fashion (Y.P)
 
 ID=31
 ของใช้
@@ -365,7 +365,7 @@ ID=1603
 โพชั่นคลาส
 
 ID=1604
-タグ
+Tag
 
 ID=2100
 เฟอร์นิเจอร์
@@ -458,7 +458,7 @@ ID=3106
 เหงือก
 
 ID=3107
-食品
+Food
 
 ID=3200
 Blueprint
@@ -524,13 +524,13 @@ ID=771
 ทั้งหมด
 
 ID=800
-イベント
+Event
 
 ID=801
-限定称号
+Limited Title
 
 ID=802
-カプセル
+Capsule
 
 ID=4000
 อาวุธโซล
@@ -551,7 +551,7 @@ ID=4005
 ถุงมือ
 
 ID=4006
-ハンマー
+Hammer
 
 ID=4100
 เกราะ
@@ -611,7 +611,7 @@ ID=4156
 เท้า
 
 ID=4157
-スーツ
+Suit
 
 ID=4201
 ดาบ
@@ -647,13 +647,13 @@ ID=4303
 Lily
 
 ID=4304
-ジン
+Jin
 
 ID=4305
 Stella
 
 ID=4306
-イリス
+Iris
 
 ID=4400
 อุปกรณ์สนับสนุน
@@ -674,22 +674,22 @@ ID=4700
 ソウルストーン
 
 ID=4701
-光輝のソウルストーン
+Soulstone of Brilliance
 
 ID=4702
-悪念のソウルストーン
+Soulstone of Malice
 
 ID=4703
-冷静のソウルストーン
+Soulstone of Serenity
 
 ID=4704
-憎悪のソウルストーン
+Soulstone of Hatred
 
 ID=4705
-治癒のソウルストーン
+Soulstone of Healing
 
 ID=4706
-苦痛のソウルストーン
+Soulstone of Agony
 
 ID=4707
 Event I
@@ -704,25 +704,25 @@ ID=4710
 Event IV
 
 ID=4800
-先知者の破片
+Prophet's Fragment
 
 ID=4801
-光輝の破片
+Fragment of Brilliance
 
 ID=4802
-悪念の破片
+Fragment of Malice
 
 ID=4803
-冷静の破片
+Fragment of Serenity
 
 ID=4804
-憎悪の破片
+Fragment of Hatred
 
 ID=4805
-治癒の破片
+Fragment of Healing
 
 ID=4806
-苦痛の破片
+Fragment of Agony
 
 ID=5000
 ของใช้
@@ -737,7 +737,7 @@ ID=5004
 การ์ด A.R
 
 ID=5005
-乗り物
+Vehicle
 
 ID=5100
 ฟื้นฟูความเมื่อยล้า
@@ -770,7 +770,7 @@ ID=5109
 รองเท้า
 
 ID=5110
-パーツ
+Part
 
 ID=6000
 สถานะ
@@ -782,7 +782,7 @@ ID=6002
 Stamina
 
 ID=6003
-パーツ
+Part
 
 ID=3998
 ฟื้นฟู HP
@@ -800,28 +800,28 @@ ID=4603
 Brooch
 
 ID=4604
-機能性
+Function
 
 ID=7000
-オプション精錬
+Option Tuning
 
 ID=7001
-等級精錬
+Grade Tuning
 
 ID=7002
-タグ精錬
+Tag Tuning
 
 ID=7100
-ゴールデンパッケージ
+Golden Package
 
 ID=7101
-スペシャルチケット
+Special Ticket
 
 ID=1010
-イベント
+Event
 
 ID=1020
-コスチューム
+Costume
 
 ID=1030
 การ์ด A.R
@@ -830,10 +830,10 @@ ID=1040
 Brooch
 
 ID=1050
-利便性
+Convenience
 
 ID=1060
-ビューティー
+Beauty
 
 ID=1070
 ห้อง
@@ -845,7 +845,7 @@ ID=1021
 แพ็กเกจ
 
 ID=1022
-上/下衣
+Top/Bottom
 
 ID=1023
 แจ็คเก็ต
@@ -878,7 +878,7 @@ ID=1044
 FOT
 
 ID=1051
-機能性
+Function
 
 ID=1052
 อุปโภค
@@ -902,7 +902,7 @@ ID=1072
 เฟอร์นิเจอร์
 
 ID=1073
-玄関
+Entrance
 
 ID=1074
 หน้าต่าง
@@ -911,52 +911,52 @@ ID=1075
 วอลล์เปเปอร์
 
 ID=1076
-フロア
+Floor
 
 ID=1077
-機能性
+Function
 
 ID=7102
-PvP装備
+PvP Equipment
 
 ID=9000
-クエスト
+Quest
 
 ID=9001
-一般
+General
 
 ID=9100
-ギアファミリア
+Gear Familiar
 
 ID=9101
-Aタイプ
+A-Type
 
 ID=9102
-Bタイプ
+B-Type
 
 ID=9200
 ฟังก์ชัน
 
 ID=9201
-エナジーコンバーター
+Energy Converter
 
 ID=8007
-タグ
+Tag
 
 ID=8008
-攻撃型タグ
+Attack-type Tag
 
 ID=8009
-防御型タグ
+Defense-type Tag
 
 ID=4007
-刀
+Katana
 
 ID=4207
-刀
+Katana
 
 ID=4307
-チイ
+Chii
 
 ID=4900
 วัสดุ
@@ -965,22 +965,22 @@ ID=4901
 วัสดุ
 
 ID=5098
-シーズンI
+Season I
 
 ID=5097
-シーズンII
+Season II
 
 ID=5096
-シーズンIII
+Season III
 
 ID=4008
-スピア
+Spear
 
 ID=4208
-スピア
+Spear
 
 ID=4308
-エフネル
+Ephnel
 
 ID=8031
-交換所
+Exchange

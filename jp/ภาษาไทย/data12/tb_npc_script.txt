@@ -1055,7 +1055,7 @@ ID=101239
 เด็กลึกลับ
 
 ID=201160
-ギルド管理将校
+Guild Management Officer
 
 ID=101240
 Mixmaster Ver.W
@@ -1064,19 +1064,19 @@ ID=101241
 Mixmaster Ver.B
 
 ID=201240
-万能型マシン
+Universal Machine
 
 ID=101249
 Shion
 
 ID=101250
-グルトン
+Glutton
 
 ID=101272
 เด็กลึกลับ
 
 ID=201250
-Sコインショップ
+S Coin Shop
 
 ID=101311
 My Room Keeper
@@ -1091,19 +1091,19 @@ ID=201253
 เด็กลึกลับ
 
 ID=201254
-戦闘補給兵
+Battle Supplies Soldier
 
 ID=201255
-ゼノコイン交換兵
+Xeno Coin Exchange Soldier
 
 ID=101257
-コスチューム染色器
+Costume Dye Tool
 
 ID=201262
-コスチューム染色ショップ
+Costume Dye Shop
 
 ID=101251
-テネブリス
+Tenebris
 
 ID=101252
 Martin
@@ -1121,61 +1121,61 @@ ID=101256
 Ralph
 
 ID=101258
-影
+Shadow
 
 ID=101259
-影
+Shadow
 
 ID=101260
-影
+Shadow
 
 ID=101261
-影
+Shadow
 
 ID=101262
-影
+Shadow
 
 ID=101263
-影
+Shadow
 
 ID=201256
-伝説のソウルワーカー
+Legendary Soulworker
 
 ID=201257
-異常空白調査チーム指揮官
+Void Abnormality Investigation Commander
 
 ID=201258
-異常空白調査チーム班長
+Void Abnormality Investigation Squad Leader
 
 ID=201259
-フォーチュン部隊
+Fortune Trooper
 
 ID=201260
-強気の無線兵
+Confident Radio Soldier
 
 ID=201261
-傭兵
+Mercenary
 
 ID=201263
-ハルの姿をした者
+Person Resembling Haru
 
 ID=201264
-？？？
+???
 
 ID=201265
-アーウィンの姿をした者
+Person Resembling Erwin
 
 ID=201266
-リリーの姿をした者
+Person Resembling Lily
 
 ID=201267
-ジンの姿をした者
+Person Resembling Jin
 
 ID=201268
-ステラの姿をした者
+Person Resembling Stella
 
 ID=201269
-イリスの姿をした者
+Person Resembling Iris
 
 ID=101310
 Kainbarrel
@@ -1184,241 +1184,241 @@ ID=101312
 Sedurin
 
 ID=101313
-E.S.P部隊兵士
+E.S.P Trooper
 
 ID=101314
-E.S.P部隊兵士
+E.S.P Trooper
 
 ID=101315
-E.S.P部隊兵士
+E.S.P Trooper
 
 ID=101316
 Sora
 
 ID=101317
-Sunsun
+Sensun
 
 ID=101318
-ロード
+Road
 
 ID=101319
 Kainbarrel
 
 ID=201270
-力を失ったソウルワーカー
+Strength Deprived Soulworker
 
 ID=201271
-空白捜索部隊研究員
+Void Search Researcher
 
 ID=201272
-負傷者
+Injured Person
 
 ID=201273
-負傷者
+Injured Person
 
 ID=201274
-精神異常者
+Mentally Unstable Person
 
 ID=201275
-フォーチュン部隊空白支援チーム
+Fortune Void Support Team
 
 ID=201276
-ทหารผ่านศึก
+Combat Veteran
 
 ID=201277
-倒れたデザイアワーカー
+Collapsed Desire Worker
 
 ID=201278
-憤怒の指揮官
+Angry Commander
 
 ID=201279
-危機に立ち向かう作戦兵
+Tactician facing a crisis
 
 ID=201280
-ソウルジャンクの虐殺者
+Souljunk Slaughterer
 
 ID=201281
-捕らわれたヴェシの少女
+Captured Veshi Girl
 
 ID=101242
 Shion
 
 ID=101330
-アクアグルトン
+Aqua Glutton
 
 ID=201282
-ランブルバケーション進行グルトン
+Glutton to Move to Rumble Vacation
 
 ID=100000
-？？？
+???
 
 ID=101338
-テネブリスの幻影
+Tenebris' Phantom
 
 ID=101339
-汚れた本棚
+Stained Bookcase
 
 ID=101341
-赤く光る古書
+Old Shining Red Book
 
 ID=101342
-菫色の古書
+Old Violet Book
 
 ID=201338
-伝説のソウルワーカー？
+Legendary Soulworker?
 
 ID=201339
-本棚の幻影
+Bookcase's Phantom
 
 ID=201341
-本の幻影
+Book's Phantom
 
 ID=101343
-ハル
+Haru
 
 ID=101344
-アーウィン
+Erwin
 
 ID=101345
-リリー
+Lily
 
 ID=101346
-ジン
+Jin
 
 ID=101347
-ステラ
+Stella
 
 ID=101348
-イリス
+Iris
 
 ID=101349
-カント
+Kent
 
 ID=101350
-レルペンヌ
+Lerfenne
 
 ID=101351
-Katherine
+Catherine
 
 ID=101391
-グルーウェル
+Gruwell
 
 ID=201391
-反乱軍行動隊長
+Rebel Army Behaviour Captain
 
 ID=201392
-憤怒で燃え上がる指揮官
+Commander Burning with Anger
 
 ID=201393
-転倒
+Reverse
 
 ID=201405
-フォースストライク指揮官
+Force Strike Commander
 
 ID=201406
-フォースストライク作戦兵
+Force Strike Tactician
 
 ID=201407
-戦場のアイドル
+Battlefield's Idol
 
 ID=201408
-戦場のカメラマン
+Battlefield's Photographer
 
 ID=201409
-派遣された聖職者
+Dispatched Clergyman
 
 ID=201410
-民間の支援者
+Civilian Supporters
 
 ID=201411
-ネッドカンパ二ーを懐かしがる秘書
+Nostalgic NED Company Secretary
 
 ID=101404
-商人連合ワーカー支援機器
+Merchant Support Device
 
 ID=201404
-取引及び、依頼進行
+Trade and Commission
 
 ID=101323
-ベネリス
+Benelis
 
 ID=201323
-真実のソウルワーカー
+True Soulworker
 
 ID=101417
-衣類
+Clothing
 
 ID=201417
-底に散乱している衣類
+Clothes scattered on the ground
 
 ID=100003
-なし
+None
 
 ID=201418
-隠れる場所を探す男
+Man looking for a place to hide
 
 ID=201419
-楽園を夢見る女
+Woman dreaming of paradise
 
 ID=101329
-アルア
+Arua
 
 ID=101401
-アキュラス
+Aquilas
 
 ID=101402
-ニヒルキングダムの兵士
+Nihil Kingdom Soldier
 
 ID=101403
-影
+Shadow
 
 ID=201420
-アルエルの姿をした者
+Person Resembling Aruel
 
 ID=101471
-フランマ
+Flamma
 
 ID=101472
-Rossca
+Rosca
 
 ID=101473
-チイ
+Chii
 
 ID=101477
-デルティス
+Deltis
 
 ID=201459
-謎の敵
+Mysterious Enemy
 
 ID=201462
-正義の何者
+Righteous Person
 
 ID=201463
-感情を失った観察者
+Aloof Observer
 
 ID=201464
-フォーチュン部隊戦争支援チーム
+Fortune War Support Team
 
 ID=201465
-フォースストライク総指揮官
+Force Strike Commander-in-chief
 
 ID=201466
-戦争調査班長
+War Investigation Squad Leader
 
 ID=201467
-頑張っているヴェシ少女
+Stubborn Veshi Girl
 
 ID=201468
-狙われる科学者
+Targeted Scientist
 
 ID=101478
-スミス
+Smith
 
 ID=101479
-スミス
+Smith
 
 ID=101482
-ジェイン
+Jane
 
 ID=101483
 Robert
@@ -1427,64 +1427,64 @@ ID=101484
 Robert
 
 ID=101485
-商人連合ワーカー支援機器
+Merchant Support Device
 
 ID=201478
-さぼってる兵士
+Rogue Soldier
 
 ID=201479
-工兵部隊兵長
+Military Corporal
 
 ID=201482
-工兵部隊新入り
+Military Rookie
 
 ID=201483
-真面目な青年
+Serious Young Man
 
 ID=201484
-失意の青年
+Disappointed Young Man
 
 ID=201485
-取引及び、依頼進行
+Trade and Commission
 
 ID=101488
-商人連合支援機器
+Merchant Support Device
 
 ID=201488
-イベントマシーン
+Event Machine
 
 ID=101494
-グルトン自販機
+Glutton Vending Machine
 
 ID=201494
-グルトンの姿をした自販機
+Vending Machine shaped like a Glutton
 
 ID=101431
-青色の古書
+Old Blue Book
 
 ID=101432
-黄色の古書
+Old Yellow Book
 
 ID=101444
-ヨルハカ
+YorhaKha
 
 ID=201444
-空虚の怪物
+Monster of Void
 
 ID=101447
-バーバル
+Verbal
 
 ID=101448
-影
+Shadow
 
 ID=101486
 Poison
 
 ID=201486
-ラピッドフレイムの脱走ヴェシ
+Defected Rapid Flame Veshi
 
 ID=101489
-影
+Shadow
 
 ID=201489
-エフネルの姿を持つ者
+Person Resembling Ephnel

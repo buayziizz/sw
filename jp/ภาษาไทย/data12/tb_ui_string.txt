@@ -13037,7 +13037,7 @@ ID=38003
 Trading fee reduced by {0}%
 
 ID=38004
-Add'l. FP {0}
+追加疲労度{0}
 
 ID=38005
 อัตราความสำเร็จเพิ่มขึ้น {0}%
@@ -13064,13 +13064,13 @@ ID=38012
 Stamina เพิ่มขึ้น {0}
 
 ID=38013
-Net Café-exclusive +200 FP
+ネットカフェ専用疲労度200増加
 
 ID=38014
-+1 special dungeon entry count
+特殊メイズ入場回数1増加
 
 ID=38015
-+{0}% Result EXP Reward
+結果報酬EXP{0}%増加
 
 ID=38016
 รางวัลเงิน Zenny เพิ่มขึ้น {0}%
@@ -13274,10 +13274,10 @@ ID=40104
 สนทนากับ Miriam
 
 ID=40105
-Please proceed.
+移動してください。
 
 ID=40106
-Accompany and talk to Miriam.
+ミリアムについて行き、会話してください。
 
 ID=40107
 สนทนากับ Benjamin.
@@ -13610,298 +13610,298 @@ ID=40220
 Please dodge the bomb shuttle.
 
 ID=40221
-Enemies will be summoned soon.\nActivate the switch and defeat the enemies.
+間もなく敵が召喚されます。\nスイッチを作動させて、敵の召喚を止めてください。
 
 ID=40222
-More enemies will be summoned soon.
+間もなく敵が召喚されます。
 
 ID=40223
-A wide-area attack will soon be fired.\nActivate the switch and stop the wide-area attack.
+間もなく広域攻撃が発動します。\nスイッチを作動させて、広域攻撃発動を止めてください。
 
 ID=40224
-Enemies will be summoned soon.\nDestroy the center control device and stop the enemies. 
+間もなく敵が召喚されます。\n中央の制御装置を破壊し、召喚を止めてください。
 
 ID=40225
-Continuous enemies will be summoned.\nTo stop the summoning, destroy the summoning device.
+間もなく敵が持続的に召喚されます。\n敵の召喚を止めるには、召喚装置を破壊する必要があります。
 
 ID=40226
-The interpersonal defense system will be activated when the equipment is running as long as the 4 stage security system is deactivated.
+セキュリティーは4段階にわたり解除され、装置作動時は対人防御システムが発動します。
 
 ID=40227
-Out of the two security devices, one is a dummy trap.\nThe other one will open the door to the next area.
+2個のセキュリティ装置中、1個はトラップが設置されています。\n正しいセキュリティ装置を作動させると扉が開きます。
 
 ID=40228
-New enemies will be summoned soon.\nPlease be careful.
+間もなく新しい敵が召喚されます。\n注意してください。
 
 ID=40229
-Incoming shuttle.\nPlease avoid.
+シャトルが通過します。\n安全な場所へ避難してください。
 
 ID=40230
-Elevator intruder alarm has been activated.\nDefeat all enemies, or stop the alarm system by turning off the switch.
+エレベーター侵入者警報装置が作動しました。\n敵をすべて討伐するか、スイッチを操作することで警報装置を止めることができます。
 
 ID=40235
-The enemy is restoring HP to the cocoon.\nPlease neutralize them quickly.
+ヒールコクーンは敵のHPを回復させます。\n優先的に除去してください。
 
 ID=40236
-Energy charging will stop if even 1 of the 2 under the Starry Forest League's protection are destroyed.
+2個のスタリーフォレスト連合保護対象中、一つでも破壊されると、エナジーチャージが止まります。
 
 ID=40237
-After a certain amount of time, enemies will stop appearing.
+一定時間、敵の出現が止まります。
 
 ID=40238
-In the east area, enemies appeared.
+東側エリアに敵が出現します。
 
 ID=40239
-In the west area, enemies appeared.
+西側エリアに敵が出現します。
 
 ID=40240
-The enemies in the east area have cleared out.\nAfter a certain time, the enemies will respawn.
+東側エリアの敵出現が止まりました。\n一定時間後、別の敵が出現します。
 
 ID=40241
-The enemies in the west area have cleared out.\nAfter a certain time, the enemies will respawn.
+西側エリアの敵出現が止まりました。\n一定時間後、別の敵が出現します。
 
 ID=40242
-The damage dealing mucus has disappeared.
+ダメージを与える粘液が消えます。
 
 ID=40243
-Please investigate the Starry Forest League vehicles on the east and west sides.
+東側及び西側に配置されたスタリーフォレスト連合車両を調査してください。
 
 ID=40244
-Please defeat the last Mad Beholder occupying the laboratory.\nFailure to do so will cause the anti-intruder defense system to activate.
+制限時間内に最後の実験室を占拠しているマッドビホールダーを討伐してください。\n失敗時、侵入者警報装置が作動します。
 
 ID=40245
-Destroy the laser trap within 60 seconds.
+60秒以内にレーザートラップを破壊してください。
 
 ID=40246
-The trap can be used for combat purposes depending on its type.
+トラップの種類によって戦闘に利用できます。
 
 ID=40247
-Please be aware of the magnetic field.
+周期的に発生する磁気フィールドに注意してください。
 
 ID=40248
-The magnetic field was generated recently.
+磁気フィールド発生5秒前
 
 ID=40249
-You will incur damage from leaving the arena by the magnetic field.
+非常アリーナの外に出ると磁気フィールドによるダメージを受けます。
 
 ID=40250
-When the controller is activated, 1 to 15 enemies will appear.
+コントローラー作動時、1～15体の敵が出現します。
 
 ID=40251
-When Heavy Cell appears, it will generate an area that reduces Movement Speed.
+ヘビーセルは、出現時に移動速度を減少させるエリアを発生させます。
 
 ID=40252
-The main EMP will attack everything; it will be activated when you approach it.
+EMPマインは、プレイヤーと敵の全てを攻撃します。プレイヤー接近時に作動します。
 
 ID=40253
-The 4 devices will emit a very powerful poisonous gas at random intervals.
+4個のデバイスは、ランダムで強力な毒ガスを噴出します。
 
 ID=40254
-When the controller is activated, enemies will slowly appear.
+コントローラー作動時、敵が順番に出現します。
 
 ID=40255
-When the cube is destroyed, all players will be paralyzed and a magnetic field will be generated.
+キューブ破壊時、強力な磁気フィールドが発生し敵とプレイヤー全てを麻痺させます。
 
 ID=40256
-The 2 devices will raise the nearby enemy's strength in sequential order.
+2個のデバイスは、敵を強化するエリアを順番に発生させます。
 
 ID=40257
-When the controller is activated, enemies will appear.
+コントローラー作動時、敵が出現します。
 
 ID=40258
-A powerful enemy will soon appear.
+間もなく強力な敵が出現します。
 
 ID=40259
-Controllers will be summoned after defeating enemies.\nPlease activate all 3 controllers.
+敵を倒すと、コントローラーが召喚されます。\n3個のコントローラーを全て起動してください。
 
 ID=40260
-Controller 1 has been activated
+1番コントローラー作動開始
 
 ID=40261
-Controller 2 has been activated
+2番コントローラー作動開始
 
 ID=40262
-All controllers have been activated.\nThe final enemies will be summoned.
+全てのコントローラーを起動しました。 \n間もなく最後の敵が出現します。
 
 ID=40263
-When the controller is activated, a strengthening buff will be granted. 
+コントローラー作動時、強化効果が付与されます。
 
 ID=40264
-When the controller is activated, attack is increased.
+コントローラー作動時、攻撃力増加効果が付与されます。
 
 ID=40265
-When the controller is activated, defense is increased.
+コントローラー作動時、防御度増加効果が付与されます。
 
 ID=40266
-One controller will be summoned every 20 seconds.
+20秒ごとに1個のコントローラーが召喚されます。
 
 ID=40267
-When the controller is activated, a laser beam will be fired.\nPlease note that the laser will attack all enemies and players.
+コントローラー作動時、レーザービームが発射されます。\nレーザービームは、敵とプレイヤーの全てを攻撃してくるので注意してください。
 
 ID=40268
-Every 20 seconds, a total of 2 controllers will appear.\nActivate both controllers to fire the laser canon.
+20秒ごとに1個ずつ、全部で2個のコントローラーが召喚されます。\n2個起動時、支援レーザーキャノンが発射されます。
 
 ID=40269
-Confirmed laser canon firing request.\nThe cannon will soon be fired.
+レーザーキャノン発射要請を確認。\n間もなくキャノンが発射されます。
 
 ID=40270
-After defeating the land crusher, the controller will be summoned.
+ランドクラッシャーを倒すと、コントローラーが召喚されます。
 
 ID=40271
-When the 2 controllers are activated, a web will appear and drastically reduce Warlike's defense.
+2個のコントローラー作動時、ウォーライクの防御度を大幅減少させるウェーブが発生します。
 
 ID=40272
-When the controller is activated, support fire from the Gatling gun is possible. It can only be used once.
+コントローラー作動時、ガトリング砲の支援射撃を受けることができます。\nガトリング砲は1回使用すると壊れます。
 
 ID=40273
-30 seconds after activating the controller, a powerful laser cannon will be fired.\nThe laser canon will attack everything and deals 90% of Maximum HP as damage.
+30秒後に生成されるコントローラー作動時、強力なレーザーキャノンが発射されます。\nレーザーキャノンは全てを攻撃し、最大HPの90%のダメージを与えます。
 
 ID=40274
-The Laser Cannon will be fired soon.
+間もなくレーザーキャノンが発射されます。
 
 ID=40275
-When the cube is destroyed, you will recover HP.
+キューブ破壊時、HPを回復できます。
 
 ID=40276
-Crawler will self-destruct and recover the enemy's HP.
+クローラーは、敵のHPを回復させる自爆攻撃をします。
 
 ID=40277
-Every 1 Vacuum Vein will increase the attack and defense of the Dark Worm.
+バキュームベインは、1体ごとにダークワームの攻撃力と防御度を増加させます。
 
 ID=40278
-Defeat the enemies and the controller will be summoned.
+敵を倒すと、コントローラーが召喚されます。
 
 ID=40279
-When the controller is activated, the right barrier will release.
+コントローラー作動時、右側の遮断壁ロックが解除されます。
 
 ID=40280
-When the controller is activated, the left barrier will release.
+コントローラー作動時、左側遮断壁のロックが解除されます。
 
 ID=40281
-At set intervals, an enemy damaging electric field will appear.
+一定時間ごとに敵にダメージを与える磁気フィールドが発生します。
 
 ID=40282
-Enemy will be slowed when the cube breaks.
+キューブ破壊時、敵に移動速度減少効果を付与できます。
 
 ID=40283
-Cube has been summoned. Attack will increase upon its destruction.
+キューブが召喚されました。破壊時、攻撃力増加効果が付与されます。
 
 ID=40284
-Cube has been summoned. Defense will increase upon its destruction.
+キューブが召喚されました。破壊時、防御度増加効果が付与されます。
 
 ID=40285
-Cube has been summoned. Destroy it to fully restore HP.
+キューブが召喚されました。破壊時、HPが全回復します。
 
 ID=40286
-4 Cubes have been summoned. A powerful effect will be granted upon cube destruction.
+キューブが4個召喚されました。キューブ破壊時、強力な力が付与されます。
 
 ID=40287
-When the controller is activated, special enemies will appear.
+コントローラー作動時、特殊な敵が召喚されます。
 
 ID=40288
-When the Habitant is less than 60% HP, the enemy will self-destruct and damage all players.
+ハビタントはHPが60%以下になると、敵とプレイヤー全てにダメージを与える自爆攻撃をします。
 
 ID=40289
-When the S-00 falls below 60% HP, both the player & enemy's HP will be fully restored.
+S-00はHPが60%以下になると、敵とプレイヤー全てのHPを回復させるスキルを使用します。
 
 ID=40290
-When the controller is activated, enemies will appear.
+コントローラー作動時、敵が出現します。
 
 ID=40291
-Periodically, every 30 seconds, the player will be inflicted by a heavy-damaging debuff.\nDestroy the cubes to remove the debuff.
+30秒に1回、強力なダメージを与えるデバフがプレイヤーに付与されます。\n生成されたキューブ破壊時、該当デバフは解除されます。
 
 ID=40292
-Every 15 seconds, magnetic waves may appear at various areas and damage the player.
+15秒ごとに、各エリアでプレイヤーにダメージを与える磁気フィールドウェーブが発生します。
 
 ID=40293
-Glutton has appeared.\nYou can earn various rewards by defeating glutton.
+グルトンが出現しました。\nグルトンを倒すと、様々な報酬を獲得できます。
 
 ID=40294
-Al Lucy is operating a defensive device.\nStop the device and defeat all enemies to proceed.
+AIルーシーによって防御装置が作動しています。\n左区域の敵を全て討伐すると防御装置が停止します。
 
 ID=40295
-The obstacles near the door have been removed.
+遮断ドアが解除されました。
 
 ID=40296
-Al Lucy is operating a defensive device.\nStop the device and kill all enemies to proceed.\nWith time, additional defenses will be added.
+AIルーシーによって防御装置が作動しています。\n時間の経過とともに防御レベルが増加し、磁気フィールドが追加発生します。
 
 ID=40297
-Al Lucy is operating a defensive device.\nHit the switch, so you can stop the magnetic fields.
+AIルーシーによって防御装置が作動しています。\nドア解除スイッチを活用し、磁気フィールド発生を阻止できます。
 
 ID=40298
-Equipment used to disable the trap is located behind the gate\nPlease activate the switch in front of the gate.
+ゲートの後ろに、トラップを解除するための装置があります。\nゲート前のスイッチを作動させてください。
 
 ID=40299
-The magnetic fields have been deactivated.
+磁気フィールドが除去されました。
 
 ID=40300
-Steel Grave is composed of 5 stages, you are able to challenge it 5 times a day.
+スチールグレイブは5ステージで構成されており、1日5回挑戦できます。
 
 ID=40301
-Activate the controller to spawn the enemies.
+コントローラーを操作すると、敵が出現します。
 
 ID=40302
-Use the supporter summoning equipment to summon a Supporter that will help you in battle.
+サポーター召喚装置を操作すると、戦闘を支援してくれる仲間が出現します。
 
 ID=40303
-Defeat the enemy to spawn the controllers.
+敵を討伐すると、コントローラーが生成されます。
 
 ID=40304
-Pass the cube barricade by activating the switch and using the floating board.
+コントローラーを作動させると、キューブバリケードを通過できるフローティングボードが生成されます。
 
 ID=40305
-Deactivate the floor traps by activating the controller on north side of the map.
+マップ上部にあるコントローラーを作動させると、フロアトラップが停止します。
 
 ID=40306
-Pass the cube barricade by defeating the enemies and using the floating board.
+敵を討伐すると、キューブバリケードを通過できるフローティングボードが生成されます。
 
 ID=40307
-Operate the controller to generate floating boards, they can be used to access the floating area.
+コントローラーを作動させると、フローティングエリアに移動できるフローティングボードが生成されます。
 
 ID=40308
-Use the controller on the floating area to summon the enemy.
+フローティングエリアにあるコントローラーを作動させると、敵が召喚されます。
 
 ID=40309
-Cube has been summoned. Attack will increase upon its destruction.
+キューブが召喚されました。破壊時、攻撃力増加効果が付与されます。
 
 ID=40310
-Cube has been summoned. Defense will increase upon its destruction.
+キューブが召喚されました。破壊時、防御度増加効果が付与されます。
 
 ID=40311
-Cube has been summoned. Destroy it to fully restore HP.
+キューブが召喚されました。破壊時、HPが全回復します。
 
 ID=40312
-Disable the floor trap by activating the controller on the floating area.
+フローティングエリアにあるコントローラーを作動させると、フロアトラップが停止します。
 
 ID=40313
-After Poison's HP drops below a certain point, wide-area attacks will be launched.
+ポイズンのHPが一定数値になると狂暴化し、広域攻撃を繰り出します。
 
 ID=40314
-When all controllers are activated, the cube-shaped barricades will be cleared.
+コントローラーを全て作動させると、キューブバリケードが解除されます。
 
 ID=40315
-The Flame Tempest Forces will perform a wide-area attack every 30 seconds.
+フレイムテンペストは、30秒ごとに持続的な広域攻撃を繰り出します。
 
 ID=40316
-Every 10 seconds, 2 red hoods will be summoned.\nAt set intervals, the red hoods will create a damage area above the map.
+10秒ごとにレッドフード2体が召喚されます。\nレッドフードは一定間隔でマップ上にダメージエリアを生成します。
 
 ID=40317
-Every 10 seconds, powerful laser beams will sequentially fire.\nLaser beams will only damage the player.
+10秒ごとに強力なレーザービームが順番に発射されます。\nレーザービームはプレイヤーにのみダメージを与えます。
 
 ID=40318
-Destroying the cube on the north side of the map will grant a movement speed increase.
+マップ上部にあるキューブを破壊すると、移動速度増加効果が付与されます。
 
 ID=40319
-An ally will be summoned shortly and will provide support fire.\nThe support fire will damage both the players and enemies, please be careful.
+間もなく仲間が召喚されます。仲間は召喚と同時に支援射撃を行います。\n支援射撃はプレイヤーと敵全てにダメージを与えるので注意してください。
 
 ID=40320
-Use the controller to stop the wide-area attacks. The Flame Tempest Forces will be put into a 10-second paralysis state.
+コントローラーを作動させると、広域攻撃が停止し、フレイムテンペストは10秒間麻痺状態になります。
 
 ID=40321
-Some of the floating areas are not visible but you can stand on them.
+一部のフローティングエリアは見えませんが、乗ることができます。
 
 ID=40401
-More enemies will be summoned soon. Please be careful.
+間もなく敵が召喚されます。注意してください。
 
 ID=40402
 床の火炎トラップは周期的に発生します。\n火炎トラップを避けながら人形を討伐してください。
@@ -13910,25 +13910,25 @@ ID=40403
 火炎トラップは一定時間毎に火柱を生成し、回避で避けることはできません。\nタイミングを見計らい、火炎トラップを避けてください。
 
 ID=40404
-To damage the red central temptation stone, please defeat all the enemies summoned by the blue/green temptation stone.
+中央の赤いテンプテーションストーンにダメージを与えるには、青いテンプテーションストーンと召喚された敵を全て殲滅してください。
 
 ID=40405
-Please defeat Edgar or one after another, more enemies will appear.
+エドガーを倒してください。エドガーを倒さない限り次々と敵が召喚されます。
 
 ID=40406
 時限爆弾の爆発を避けながら全ての人形を退治してください。\n時限爆弾は全ての敵が倒れるまで生成されます。
 
 ID=40407
-The next enemy will appear after all current enemies are defeated.
+敵を全て討伐すると次の敵が現れます。
 
 ID=40408
-The traps will be activated soon.
+間もなくトラップが発動します。
 
 ID=40409
-Destroying the central red temptation stone will allow you to proceed to the next area.\nThe blue/green temptation stone has been successfully destroyed. You may attack the red temptation stone in 15 seconds.
+中央の赤いテンプテーションストーンを破壊すると次のエリアに移動できます。\n青いテンプテーションストーンが破壊されました。15秒間、赤いテンプテーションストーンを攻撃できます。
 
 ID=40410
-All enemies summoned by the blue/green temptation stone have been exterminated.\nThe red temptation stone can be attacked.
+青いテンプテーションストーンと召喚された全ての敵を殲滅しました。\n赤いテンプテーションストーンを攻撃できます。
 
 ID=40411
 人形たちの守護を受けている為、エドガはダメージを受けません。\n全ての人形を退治すると人形たちの守護が消えます。
@@ -13940,19 +13940,19 @@ ID=40421
 大形のソウルジャンクが現れました。\nソウルジャンク殲滅装置を保護してください。
 
 ID=40422
-Until the magnetic-field generating device has fully charged, please defend it from oncoming enemies.
+磁気フィールド発生装置のチャージが完了するまで、チャージ装置を敵から守ってください。
 
 ID=40423
-Because a charging device was destroyed, the maximum charge capacity has decreased and the completion time has increased.
+チャージ装置が破壊されたためチャージ量が減少し、完了までの時間が増加しました。
 
 ID=40424
-All charging devices have been destroyed. You cannot progress anymore.
+チャージ装置が全て破壊されたため作戦が失敗しました。これ以上進行できません。
 
 ID=40425
-The magnetic field charging device has fully charged.\nRetreat back to the safety zone before the field is generated.
+磁気フィールド装置のチャージが完了しました。\n磁気フィールドが発生する前に安全区域に戻ってください。
 
 ID=40426
-The magnetic fields will discharge.
+磁気フィールドが発生します。
 
 ID=40427
 [A-1] [B-1] [C-1]研究室にあるセキュリティーロックを全部解除すれば、特殊実験体隔離室への移動が可能となります。
@@ -13961,10 +13961,10 @@ ID=40428
 特殊実験体隔離室のセキュリティーロック解除。
 
 ID=40429
-Upon activating the switch in the left hand side of the A-1 Laboratory, the player's attack will rise significantly.
+左のA-1研究室のスイッチを作動させると、プレイヤーの攻撃力が大幅に増加します。
 
 ID=40430
-The switches can be activated after defeating all the enemies.
+すべての敵を倒すと、スイッチを作動させられます。
 
 ID=40431
 セキュリティーNo.A-1のロックが解除されました。
@@ -13976,13 +13976,13 @@ ID=40433
 セキュリティーNo.C-1のロックが解除されました。
 
 ID=40434
-If you disable the central power source, the defense system will be disabled.
+中央のサブAIコア動力源を遮断すると、防御システムが無力化されます。
 
 ID=40441
-Access road has been blocked by huge debris. You can destroy it by activating the detonator.
+進入路が巨大な瓦礫で塞がれています。起爆装置を作動させると破壊できます。
 
 ID=40442
-The bomb will explode shortly!
+間もなく設置された爆弾が爆発します！
 
 ID=40443
 遠距離砲撃用テンペスト保護のため、敵の援軍が到着しました。
@@ -13991,43 +13991,43 @@ ID=40444
 ラピッドゲートから続けて援軍が召喚されます。ラピッドゲートは攻撃して破壊できます。
 
 ID=40445
-The immobile tank is blocking the path. Destroy it using other tanks.
+故障した戦車が進入路を塞いでいます。無事な戦車を動かすと破壊できます。
 
 ID=40446
-A container has blocked the road. Please use the switch to move the container away with a crane.
+コンテナが進入路を塞いでいます。クレーンのスイッチを作動させ、どかしてください。
 
 ID=40447
-Bombardment by the Tempest Forces from the outer vicinity will begin.
+外郭エリアからのテンペストによる砲撃が始まります。
 
 ID=40448
-The bombardment of the Rapid Flames Faction will begin, please evacuate immediately.
+ラピッドフレイムの砲撃が始まります。急いで避難してください。
 
 ID=40449
-The bombardment has resulted in the fallen containers blocking the road, please destroy them to get through.
+砲撃により落下したコンテナが道を塞いでいます。破壊して進んでください。
 
 ID=40450
-Activating the 2 detonators will make the bomb explode. The explosion will hit both allies and enemies.
+起爆装置を2つとも作動させると、爆弾が爆発します。爆発は敵味方を区別しません。
 
 ID=40451
-The road is blocked by a barrier. It can be destroyed by activating the C4 bomb.
+遮断壁が道を塞いでいます。C4爆弾を作動させることで、破壊できます。
 
 ID=40452
-Tempest's bombardament will begin shortly. Charging the EMP generator will suppress Tempest.
+テンペストの砲撃が始まります。EMP発生装置をチャージし作動させるとテンペストを制圧できます。
 
 ID=40453
-25% charge acquired.
+25%チャージ完了。
 
 ID=40454
-50% charge acquired.
+50%チャージ完了。
 
 ID=40455
-75% charge acquired.
+75%チャージ完了。
 
 ID=40456
-100% charge acquired. EMP Generator is activating.
+100%チャージ完了。 EMP発生装置が作動します。
 
 ID=40457
-To deploy the 2nd EMP generator, it must be charged for 30 seconds.
+2番目のEMP発生装置は30秒後にチャージが完了し、作動させられます。
 
 ID=40458
 フレイムテンペストの長距離砲撃が始まります。
@@ -14036,181 +14036,181 @@ ID=40459
 フレイムテンペストの長距離砲撃が始まる前にシールド発生装置が投下され、砲撃を阻むシールドが自動で展開します。
 
 ID=40460
-EMP generator charge is complete.
+EMP発生装置のチャージが完了しました。
 
 ID=40461
-The shield generator has arrived, when it is activated, you can prevent the enemies' attacks from reaching.
+シールド発生装置が到着しました。作動時、敵の攻撃を無効化するシールドが発生します。
 
 ID=40471
-The Land Bison can be activated from the device.\nOnly the Land Bison can destroy the enclosing walls.
+デバイスを操作すると、ランドバイソンが作動します。\n障壁はランドバイソンでしか破壊できません。
 
 ID=40472
-Land Bison's durability has been reduced to 50%. Its performance has been reduced.
+ランドバイソンの耐久度、残り50%です。性能が低下します。
 
 ID=40473
-Land Bison's durability has been reduced to 20%. The mission will fail if Land Bison is destroyed.
+ランドバイソンの耐久度、残り20%です。\nランドバイソン破壊時、作戦は失敗となります。
 
 ID=40474
-The land bison has been destroyed. It is not possible to proceed.\nThe mission has been failed.
+ランドバイソン破壊。これ以上は進行できません。\n作戦は失敗です。
 
 ID=40475
-Upon activating the switch, the elevator can be used.
+スイッチを作動させると、エレベーターが作動します。
 
 ID=40476
-The elevator has stopped because of an incoming enemy attack.\nAfter all enemies are defeated you can activate the switch.
+敵の襲撃により、エレベーターが停止しました。\n敵を全て討伐すると、スイッチを作動させられます。
 
 ID=40477
-The Main Core's defense system has been activated.\nDestroy the Main Core to deactivate the defense system.
+メインコアによる防御システムが作動しました。\nメインコアを破壊し、防御システムを停止させてください。
 
 ID=40478
-Please activate the power controller to proceed to the Ark Ship's deck.
+アークシップの甲鈑に移動するために、動力制御装置を作動させてください。
 
 ID=40479
-The intruder elimination program activated because of an error.\nPlease destroy the powered sphere before the power source explodes.
+操作ミスにより侵入者排除プログラムが作動しました。\n動力源が爆発する前に、動力球体を破壊してください。
 
 ID=40480
-Activating the switch will start the elevator.
+スイッチを作動させると、エレベーターが作動し甲鈑に移動できます。
 
 ID=40481
-Activate the defense capsule to generate a barrier that protects players.
+防御カプセルを作動させると、一定時間プレイヤーを保護するバリアを生成します。
 
 ID=40482
-The ark ship's defense systems have gone wild due to its broken power source.\nThe laser cannon will face the ships hulls and hit randomly.
+動力源の破壊により、アークシップの防御機能が暴走しました。\nレーザー攻撃がランダムでアークシップ甲鈑に向かって放たれます。
 
 ID=40483
-The blue laser lowers all player stats and also lowers the enemy defense.
+青のレーザーはプレイヤーの全ての能力値を下げますが、敵の防御度も減少させます。
 
 ID=40484
-The red laser can only damage players.\nIt also creates a hot zone that burns the players.
+赤のレーザーはプレイヤーにのみダメージを与えます。\nまた、高熱地帯を生成しプレイヤーを火傷状態にします。
 
 ID=40485
-The Sieg Prototype have taken over the Ark Ship's main gun.\nBombardment to the first-grade plate will begin promptly.
+ジークプロトゼロがアークシップ主砲制御に成功しました。\n甲鈑への無差別砲撃が開始されます。
 
 ID=40486
-The elevator's operation has stopped due to an attack.\nYou must defeat all enemies to open the elevator's door.
+敵の襲撃によりエレベーターが停止しました。\n全ての敵を制圧すると、エレベーターの扉が開きます。
 
 ID=40487
-In order to open the gate, the switch must be activated.
+ゲートを開くためにはスイッチを作動させる必要があります。
 
 ID=40488
-The gate switch to the next area is turned off.
+次のエリアに行くための遮断ゲート解除スイッチがオフになっています。
 
 ID=40489
-The switch can be used when the condensers at the back are destroyed.
+エリアの奥にあるコンデンサーを破壊すればスイッチを使用できます。
 
 ID=40490
-Neutralization of the condenser was successful; you can now use the gate deactivation switches.
+コンデンサー破壊により、遮断ゲート解除スイッチの使用が可能になりました。
 
 ID=40491
-Upon neutralizing the condenser, you can prevent it from defensive functions.
+コンデンサーを破壊すると、コンデンサーの電力で稼動している防御機能を解除できます。
 
 ID=40492
-You will incur a shocked state if you touch the cable from the electric ball
+エレキボールから出ているケーブルに触れると、感電状態になります。
 
 ID=40493
 エリア内には、トラップを解除するためのスイッチが2つ隠されています。
 
 ID=40494
-The gate-closing switches have been activated; therefore entry to the next area is impossible.\nDestroy the condenser to the left to deactivate them.
+次のエリアに行くための遮断ゲート解除スイッチが停止状態です。\n左側エリアのアークシップコンデンサーを破壊すると、スイッチを使用できます。
 
 ID=40495
-The condenser has been destroyed, you can now use the gate deactivator switches.
+コンデンサーが全て破壊され、遮断ゲート解除スイッチの使用が可能になりました。
 
 ID=40496
-The Main Core detects danger!\nThe system's defense level rises. Enemy reinforcements have arrived.
+メインコアが危険を感知！\n防御レベルが上昇し、敵の増援が到着しました。
 
 ID=40497
-Destroy the condenser to prevent retaliatory fire from enemies.
+コンデンサーを破壊すると、稼動中の防御機能を解除できます。
 
 ID=40498
-The Main Core detects danger; it has raised the system's defense level.
+メインコアが危険を感知して、防御レベルを引き上げました。
 
 ID=40499
-Defensive forces will appear to prevent you from entering the Ark Ship's command room.
+アークシップ甲板への進入を防ぐため、防御兵力が持続的に投入されます。
 
 ID=40500
-Upon turning on the switch, the elevator can be used to move to the Ark Ship's command room.
+スイッチを作動させると、アークシップ甲板まで移動できるエレベーターを利用できます。
 
 ID=40501
-The floating platform has been activated. Please wait.
+フローティングスクエアが稼働中です。しばらくお待ちください。
 
 ID=40502
-The buster core has stopped.
+バスターコア防御装置が停止しました。
 
 ID=40503
-The floating bridge has been activated. Please wait.
+フローティングブリッジが稼働中です。しばらくお待ちください。
 
 ID=40504
-A powerful intoxicating gas has been discharged from the ventilation opening.\nPlease be careful to not touch it as your HP will drop quickly.
+換気口から強力な中毒ガスが噴き出しています。\nガスに触れると、HPが急激に低下するので気を付けてください。
 
 ID=40505
-The stream of gas has stopped.
+ガスの噴出が止まりました。
 
 ID=40506
-While entering the area affected by the magnetic field, your HP will be reduced overtime.\nWhen the switch is turned off, the magnetic field is cancelled.
+地面の磁気フィールドエリアに入ると、HPが持続的に減少します。\nスイッチを作動させて、磁気フィールドを解除できます。
 
 ID=40507
-The shuttles will return periodically.\nDefeat the enemy to stop the shuttles.
+シャトルが周期的に出現します。\nシャトルを避けて、敵を倒してください。
 
 ID=40508
-The door's mechanism has been unlocked.
+ドア開閉装置が活性化されました。
 
 ID=40509
-Destroy the Buff Bomb to receive a buff.
+バフボンベを破壊すると、強化効果が付与されます。
 
 ID=40510
-Area of Effect attack has been cancelled.
+広域攻撃が停止しました。
 
 ID=40511
-The elevator is falling.
+エレベーターが落下しています。
 
 ID=40512
-New Domineer Zeros will be be summoned unless the servant kernel is destroyed.
+前方のスレイブコアを無力化できない場合、持続的にドミニアゼロが召喚されます。
 
 ID=40513
-A Domineer Zero will be summoned shortly.\nPlease destroy the servant kernel beforehand.
+間もなくドミニアゼロが再召喚されます。\n前方にあるスレイブコアを先に無力化してください。
 
 ID=40514
-Please destroy the spawning control device in the center to prevent continuous waves of spawn.
+中央のスポーン制御装置が敵を持続的に召喚するのを阻止してください。
 
 ID=40515
-The spawning control device was destroyed.\nPrevent the Grasper from repairing it.
+スポーン制御装置が破壊されました。\nグラスパーがスポーン制御装置を修理するのを阻止してください。
 
 ID=40516
-The elevator will stop soon.
+間もなくエレベーターが止まります。
 
 ID=40601
-After defeating all enemies in the 4th area, unseal the door to continue.
+4つのエリアにいる敵を全て討伐すると、終末の館へと続くポータルが開きます。
 
 ID=40602
-After releasing the crystal's seal, a battle will commence.
+クリスタルの封印を解除すると、戦闘が始まります。
 
 ID=40603
-[Eternity] will appear soon after all enemies have been killed. Defeat it.
+間もなく敵が現れます。全て討伐するとエターニティが登場します。
 
 ID=40604
-[Juggernaut] will appear soon after all enemies have been killed. Defeat it.
+間もなく敵が現れます。全て討伐するとジャガーノートが登場します。
 
 ID=40605
-[Apocalypse] will appear soon after all enemies have been killed. Defeat it.
+間もなく敵が現れます。全て討伐するとアポカリプスが登場します。
 
 ID=40606
-[Pandemonia] will appear soon after all enemies have been killed. Defeat it.
+間もなく敵が現れます。全て討伐するとパンデモニアが登場します。
 
 ID=40607
-Please secure the house of eternity and then proceed to the house of premonition.
+永劫の館をクリアしました。予兆の館に移動してください。
 
 ID=40608
-Please secure the house of conflict and then proceed to the house of premonition.
+激突の館をクリアしました。予兆の館に移動してください。
 
 ID=40609
-Please secure the house of calamity and then proceed to the house of premonition.
+災厄の館をクリアしました。予兆の館に移動してください。
 
 ID=40610
-Please secure the house of disorder and then proceed to the house of premonition.
+混沌の館をクリアしました。予兆の館に移動してください。
 
 ID=40611
-The house of endings has been cleared. You may now proceed to town from the house of premonition.
+終末の館をクリアしました。予兆の館から町に移動できます。
 
 ID=40612
 保温装置を起動すると、40秒間氷結抵抗効果が付与されます。
@@ -14219,7 +14219,7 @@ ID=40613
 保温装置を起動すると、40秒間保温装置が氷結状態になり使用できなくなります。
 
 ID=40614
-Destroy the Flame Crystal appearing in the golden pedestals to stop the lava from flowing.
+金の台座に現れるフレイムクリスタルを破壊すると、溶岩の噴出を止めることができます。
 
 ID=40615
 しばらくするとヘキサスピアーが、10秒間氷結状態を誘発する回避不可の吹雪を発生させます。\n出来る限りアポカリプスの攻撃範囲から離れてください。
@@ -14231,31 +14231,31 @@ ID=40617
 3つのベノムフラワーはパンデモニアを強化させます。\nベノムフラワーを全て破壊すると、パンデモニアはスタン状態になります。
 
 ID=40618
-The battle will begin after you leave the safety area.
+安全エリアを出るとすぐに戦闘が始まります。
 
 ID=40619
 プライマルに捕まると汚染状態になります。\n汚染状態はプレイヤーの能力値を大幅に弱体化させます。
 
 ID=40620
-The Primal is inhaling a deep breath.
+プライマルが深く息を吸います。
 
 ID=40621
-Upon entering the special type of void, you are able to enter with a maximum of 4 people inside The Primal.\nSpecial type of voids disappear in 30 seconds.
+特異型空白に入ると、プライマルの内部に最大4人まで進入できます。\n特異型空白は30秒後に消えます。
 
 ID=40622
-The core of The Primal will periodically produce an unstable gas that deals damage.
+プライマルの核は不安定なガスを周期的に発生させ、ダメージを与えます。
 
 ID=40623
-Defeating all summoned core's guardians will grant temporary immunity to The Primal's interior unstable gas.
+召喚された核の守護者を全て討伐すると、\n一定時間、不安定なガスに対する免疫効果が\nプライマル内部に発生します。
 
 ID=40624
-The powerful core's guardian will be summoned soon.\nThe guardian won't disappear until the core is defeated.
+間もなく強力な核の守護者が召喚されます。\n核を討伐するまで守護者は消えません。
 
 ID=40625
 浄化装置を使用すると、活力状態になり、周期的にHPを回復します。
 
 ID=40626
-The Primal begins a final desperate attempt upon being severely injured.\nContaminated blood is spreading towards your feet, it will inflict continuous damange.
+深手を負ったプライマルが最後の足掻きを始めます。\n持続的にダメージを与える汚染された血が足元に広がっています。
 
 ID=40627
 Primal พยายามที่จะจับวัตถุที่คุณอยู่ในด้านหน้า
@@ -14264,7 +14264,7 @@ ID=40628
 警告！\n活力状態になれなかった場合、攻略が困難になる可能性があります。
 
 ID=40629
-Members are loading.
+メンバーがローディング中です。
 
 ID=40630
 プライマルの巨大な腕が召喚されました。\n巨大な腕は、一定距離内に敵がいないと強力なスキルを使用します。
@@ -14306,37 +14306,37 @@ ID=40643
 憤怒！虐殺！破壊！
 
 ID=40701
-A supporting attack from the Tank Squad will soon begin.\nPlease withstand the enemy's assault until the reinforcements arrive.
+間もなくタンク部隊による支援攻撃が始まります。\n支援攻撃まで敵の強襲に耐えてください。
 
 ID=40702
-The supporting attack from the Tank Squad began.\nRemaining enemies will be defeated.
+タンク部隊の支援攻撃が始まりました。\n残りの敵を殲滅します。
 
 ID=40703
-Please escort Katherine to the designated area.
+指定された位置までキャサリンを護衛し移動してください。
 
 ID=41000
-Day {0}
+{0}日目
 
 ID=41001
-Day 1
+1日目
 
 ID=41002
-Day 2
+2日目
 
 ID=41003
-Day 3
+3日目
 
 ID=41004
-Day 4
+4日目
 
 ID=41005
-Day 5
+5日目
 
 ID=41006
-Day 6
+6日目
 
 ID=41007
-Day  7
+7日目
 
 ID=41100
 これからだ！
@@ -14456,310 +14456,310 @@ ID=41138
 ロマン溢れる店Ⅱ
 
 ID=41200
-Clear R Square EP4 Normal 
+RスクエアEP4ノーマルクリア
 
 ID=41201
-Level up 1 skill
+スキル強化1回
 
 ID=41202
-Dismantle item for 3 times
+アイテム分解3回
 
 ID=41203
-Clear Best Showtime EP4 Normal
+ベストショータイムEP4ノーマルクリア
 
 ID=41204
-Level up 3 skills
+スキル強化3回
 
 ID=41205
-Create A.R card for 1 time
+A.Rカード製作1回
 
 ID=41206
-Item enhancing challenge for 4 times
+アイテム強化4回挑戦
 
 ID=41207
-Dismantle item for 6 times
+アイテム分解6回
 
 ID=41208
-Use S coin shop for 1 time
+Sコインショップ利用回数1回
 
 ID=41209
-Clear Concrete Jungle EP4 Normal 
+コンクリートジャングルEP4ノーマルクリア
 
 ID=41210
-Level up 5 skills
+スキル強化5回
 
 ID=41211
 スチールグレイブプレイ2回
 
 ID=41212
-Item enhancing challenge for 6 times
+アイテム強化6回挑戦
 
 ID=41213
-Dismantle item for 9 times
+アイテム分解9回
 
 ID=41214
-Create item for 3 times
+アイテム製作3回
 
 ID=41215
-Clear Junk Pool EP4 Normal 
+ジャンクプールEP4ノーマルクリア
 
 ID=41216
-Level up 7 skills
+スキル強化7回
 
 ID=41217
 スチールグレイブ4回プレイ
 
 ID=41218
-Create A.R Card for 2 times
+A.Rカード製作2回
 
 ID=41219
-Item enhancing challenge for 8 times
+アイテム強化8回挑戦
 
 ID=41220
-Dismantle item for 12 times
+アイテム分解12回
 
 ID=41221
-Use S coin shop for 2 times
+Sコインショップ利用回数2回
 
 ID=41222
-Clear The Big Mouth EP4 Normal 
+ザ・ビッグマウスEP4ノーマルクリア
 
 ID=41223
-Level up 9 skills
+スキル強化9回
 
 ID=41224
 スチールグレイブ6回プレイ
 
 ID=41225
-Synthesize brooch once
+ブローチ合成1回
 
 ID=41226
-Item enhancing challenge for 10 times
+アイテム強化10回挑戦
 
 ID=41227
-Dismantle item for 15 times
+アイテム分解15回
 
 ID=41228
-Create item for 5 times
+アイテム製作5回
 
 ID=41229
-Clear N-102 EP4 Normal
+N-102EP4ノーマルクリア
 
 ID=41230
-Level up 10 skills
+スキル強化10回
 
 ID=41231
 スチールグレイブ8回プレイ
 
 ID=41232
-Create A.R card for 3 times
+A.Rカード製作3回
 
 ID=41233
-Item enhancing challenge for 12 times
+アイテム強化12回挑戦
 
 ID=41234
-Dismantle item for 18 times
+アイテム分解18回
 
 ID=41235
-Use S coin shop for 3 times
+Sコインショップ利用回数3回
 
 ID=41236
-Clear Breakout EP4 Normal 
+ブレイクアウトEP4ノーマルクリア
 
 ID=41237
-Level up 10 skills
+スキル強化10回
 
 ID=41238
 スチールグレイブ10回プレイ
 
 ID=41239
-Create A.R card for 4 times
+A.Rカード製作4回
 
 ID=41240
-Synthesize brooch 2 times
+ブローチ合成2回
 
 ID=41241
-Item enhancing challenge for 16 times
+アイテム強化16回挑戦
 
 ID=41242
-Dismantle item for 21 times
+アイテム分解21回
 
 ID=41243
-Create item for 7 times
+アイテム製作7回
 
 ID=41244
-Use S coin shop for 4 times
+Ｓコインショップ利用回数4回
 
 ID=41245
-Create A.R card for 1 time
+A.Rカード製作1回
 
 ID=41246
-Dismantle item for 3 times
+アイテム分解3回
 
 ID=41247
 スチールグレイブ2回プレイ
 
 ID=41248
-Item enhancing challenge for 4 times
+アイテム強化4回挑戦
 
 ID=41249
-Dismantle item for 6 times
+アイテム分解6回
 
 ID=41250
-Use S coin shop for 1 time
+Sコインショップ利用回数1回
 
 ID=41251
 スチールグレイブ4回プレイ
 
 ID=41252
-Create A.R Card for 2 times
+A.Rカード製作2回
 
 ID=41253
-Item enhancing challenge for 6 times
+アイテム強化6回挑戦
 
 ID=41254
-Dismantle item for 9 times
+アイテム分解9回
 
 ID=41255
-Create item for 3 times
+アイテム製作3回
 
 ID=41256
 スチールグレイブ6回プレイ
 
 ID=41257
-Item enhancing challenge for 8 times
+アイテム強化8回挑戦
 
 ID=41258
-Dismantle item for 12 times
+アイテム分解12回
 
 ID=41259
-Use S coin shop for 2 times
+Sコインショップ利用回数2回
 
 ID=41260
 スチールグレイブ8回プレイ
 
 ID=41261
-Create A.R card for 3 times
+A.Rカード製作3回
 
 ID=41262
-Synthesize brooch once
+ブローチ合成1回
 
 ID=41263
-Item enhancing challenge for 10 times
+アイテム強化10回挑戦
 
 ID=41264
-Dismantle item for 15 times
+アイテム分解15回
 
 ID=41265
-Create item for 5 times
+アイテム製作5回
 
 ID=41266
 スチールグレイブ10回プレイ
 
 ID=41267
-Item enhancing challenge for 12 times
+アイテム強化12回挑戦
 
 ID=41268
-Dismantle item for 18 times
+アイテム分解18回
 
 ID=41269
-Use S coin shop for 3 times
+Sコインショップ利用回数3回
 
 ID=41270
 スチールグレイブ12回プレイ
 
 ID=41271
-Create A.R card for 4 times
+A.Rカード製作4回
 
 ID=41272
-Synthesize brooch 2 times
+ブローチ合成2回
 
 ID=41273
-Item enhancing challenge for 16 times
+アイテム強化16回挑戦
 
 ID=41274
-Dismantle item for 21 times
+アイテム分解21回
 
 ID=41275
-Create item for 7 times
+アイテム製作7回
 
 ID=41276
-Use Scoin shop 4 times
+Sコインショップ利用回数4回
 
 ID=41300
-Character achieves {0} LV
+キャラクター{0}LV達成
 
 ID=41301
-Clear Disastrous Giant for {0} times
+災厄の巨人{0}回クリア
 
 ID=41302
-Level up {0} skills
+スキル{0}回強化
 
 ID=41303
 スチールグレイブ{0}回プレイ
 
 ID=41304
-Create A.R card for {0} times
+A.Rカード製作{0}回
 
 ID=41305
-Synthesize brooch {0} times
+ブローチ{0}回合成
 
 ID=41306
-Enhance item for {0} times
+アイテム{0}回強化
 
 ID=41307
-Dismantle item for {0} times
+アイテム{0}回分解
 
 ID=41308
-Create item for {0} times
+アイテム{0}回製作
 
 ID=41309
-Use S coin shop for {0} times
+Sコインショップ{0}回利用
 
 ID=41310
 ディストリクトでPvPのBP{0}獲得
 
 ID=41311
-Participate in The Thing Raid
+ザ・シングレイド参加
 
 ID=41312
 日を越えても以前のクエストを完了させることができます。
 
 ID=41313
-Let's! Soulworker!!
+レッツ！ソウルワーカー！！
 
 ID=41314
 รับ
 
 ID=41315
-Receive final reward
+最終報酬受け取り
 
 ID=41316
-Let's Start!
+レッツスタート!!
 
 ID=41317
-There are missions that have not been completed.
+完了してないミッションがあります。
 
 ID=41318
 เสร็จสิ้น
 
 ID=41319
-Clear Lunatic Dance in the Moonlight for {0} times
+月下の狂舞{0}回クリア
 
 ID=41320
-Clear Beautiful Predator for {0} times
+麗しき捕食者{0}回クリア
 
 ID=41321
-Clear Skies of Grief for {0} times
+嘆きの空{0}回クリア
 
 ID=41322
-{0}Year{1}Month{2}Day{3}  Event ends.
+{0}年{1}月{2}日{3}イベントが終了します。
 
 ID=41323
-Summer Weekly Mission
+サマーウィークリーミッション
 
 ID=41324
-Summer Weekly Mission
+サマーウィークリーミッション
 
 ID=41325
 2周年ウィークリーチャレンジ！

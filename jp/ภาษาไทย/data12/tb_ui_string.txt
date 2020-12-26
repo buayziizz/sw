@@ -10001,19 +10001,19 @@ ID=26346
 On hit, 5% chance of +{0} Critical Dmg for 3s
 
 ID=26347
-クリティカル攻撃を受けた時、50%の確率で1秒間、攻撃力{0}%増加
+When critically hit, 50% chance of +{0}% Attack for 1s
 
 ID=26348
-攻撃を受けた時、15%の確率で3秒間、攻撃力{0}増加
+When hit, 15% chance of +{0} Attack for 3s
 
 ID=26349
-回避時、10%の確率で3秒間、クリティカル{0}%増加
+When evaded, 10% chance of +{0}% Critical for 3s
 
 ID=26350
-回避時、10%の確率で5秒間、クリティカルダメージ{0}増加
+When evaded, 10% chance of +{0} Critical Dmg for 5s
 
 ID=26351
-討伐時、1秒間、攻撃力{0}増加
+On kill, +{0} Attack for 1s
 
 ID=26352
 HPが10%以下の時、10秒間、攻撃力{0}増加
@@ -10025,58 +10025,58 @@ ID=26354
 HPが5%以下の時に攻撃成功時、10%の確率で1秒無敵
 
 ID=26355
-討伐時、5%の確率で1秒間、スーパーアーマー効果
+On kill, 5% chance of Super Armor for 1s.
 
 ID=26356
-討伐時、5%の確率で2秒間、スーパーアーマー効果
+On kill, 5% chance of Super Armor for 2s.
 
 ID=26357
-討伐時、5%の確率で3秒間、スーパーアーマー効果
+On kill, 5% chance of Super Armor for 3s.
 
 ID=26358
-討伐時、5%の確率で4秒間、スーパーアーマー効果
+On kill, 5% chance of Super Armor for 4s.
 
 ID=26359
-討伐時、5%の確率で5秒間、スーパーアーマー効果
+On kill, 5% chance of Super Armor for 5s.
 
 ID=26360
 スーパーアーマーブレイク発動時、5秒間、クリティカル{0}%増加
 
 ID=26361
-攻撃失敗時、10%の確率で3秒間、クリティカルダメージ{0}増加
+On evaded hit, 10% chance of +{0} Critical Dmg for 3s
 
 ID=26362
-スタミナが10%以下の時に攻撃時、攻撃力{0}増加
+On hit with 10% Stamina or less, +{0}% Attack
 
 ID=26363
-攻撃を受けた時、30%の確率で5秒間、攻撃力{0}増加
+When hit, 30% chance of +{0} Attack for 5s
 
 ID=26364
-攻撃を受けた時、30%の確率で5秒間、命中度{0}増加
+When hit, 30% chance of +{0} Accuracy for 5s
 
 ID=26365
-攻撃を受けた時、30%の確率で5秒間、クリティカルダメージ{0}増加
+When hit, 30% chance of +{0} Critical Dmg for 5s
 
 ID=26366
-攻撃を受けた時、30%の確率で5秒間、攻撃失敗時のダメージ{0}%増加
+When hit, 30% chance of +{0}% Missed Attack Dmg for 5s
 
 ID=26367
-攻撃を受けた時、30%の確率で5秒間、スーパーアーマー破壊力{0}%増加
+When hit, 30% chance of +{0}% SA Break for 5s
 
 ID=26368
-回避時、30%の確率で5秒間、攻撃力{0}増加
+On evasion, 30% chance of +{0}% Attack for 5s
 
 ID=26369
-回避時、30%の確率で5秒間、命中度{0}増加
+On evasion, 30% chance of {0} Accuracy for 5s
 
 ID=26370
-回避時、30%の確率で5秒間、クリティカルダメージ{0}増加
+When evaded, 30% chance of +{0} Critical Dmg for 5s
 
 ID=26371
-回避時、30%の確率で5秒間、攻撃失敗時のダメージ{0}%増加
+When evaded, 30% chance of +{0}% Missed Attack Dmg for 5s
 
 ID=26372
-回避時、30%の確率で5秒間、スーパーアーマー破壊力{0}%増加
+On evasion, 30% chance of +{0}% SA Break for 5s
 
 ID=26373
 スキル使用時、10%の確率で5秒間、攻撃力{0}増加
@@ -10085,22 +10085,22 @@ ID=26374
 スキル使用時、10%の確率で5秒間、命中度{0}増加
 
 ID=26375
-スキル使用時、3%の確率で5秒間、クリティカルダメージ{0}増加
+On skill use, 30% chance of +{0}% Missed Attack Dmg for 5s
 
 ID=26376
 ダッシュ使用時、30%の確率で5秒間、攻撃力{0}増加
 
 ID=26377
-ダッシュ使用時、10%の確率で5秒間、スーパーアーマー破壊力{0}%増加
+On dash use, 10% chance of +{0}% SA Break for 5s
 
 ID=26378
-ダッシュ使用時、10%の確率で5秒間、敵防御度貫通{0}%増加
+On dash use, 10% chance of +{0}% Penetration for 5s
 
 ID=26379
-討伐効果：5秒間、攻撃力{0}増加
+On kill Effect: +{0} Attack for 5s
 
 ID=26380
-討伐効果：5秒間、スーパーアーマー破壊力{0}%増加
+On kill Effect: +{0} SA Break for 5s
 
 ID=26381
 討伐効果：5秒間、敵の防御度貫通{0}%増加
@@ -10109,250 +10109,250 @@ ID=26382
 回避時、30％の確率で5秒間攻撃力{0}増加
 
 ID=26500
-敵討伐時、30秒間、敵の防御度貫通{0}%増加
+On enemy death, +{0}% Penetration for 30s
 
 ID=27000
 เมื่อโจมตีมีโอกาส 5% พลังโจมตีเพิ่มขึ้น {0}% เวลา 3 วินาที
 
 ID=27001
-攻撃を受けた時、20%の確率で5秒間防御度が{0}%増加
+When hit, 20% chance of +{0}% Defense for 5s
 
 ID=27002
-クリティカル命中時、7%の確率で3秒間クリティカル攻撃力が{0}%増加
+On critical hit, 7% chance of +{0}% Critical Attack for 3s
 
 ID=27500
-ジェニー獲得時、獲得量の{0}%HP回復
+When gaining zenny, +{0}% HP of gained amount
 
 ID=27700
-敵討伐時、ソウルベイパー{0}%獲得
+On enemy death, +{0}% Soul Vapor
 
 ID=27701
-敵討伐時、ソウルベイパー{0}%追加獲得
+On enemy death, additional +{0}% Soul Vapor
 
 ID=27702
-命中時、スキル倍率{0}%増加
+On hit, +{0}% Skill Damage
 
 ID=27800
-命中時、2%の確率でSV{0}獲得
+On hit, 2% chance of +{0} SV
 
 ID=27801
-エアリアル命中時、2秒間、攻撃力{0}%増加
+On mid-air hit, +{0}% Attack for 2s.
 
 ID=27802
-エアリアルを受けた時、2秒間、防御度{0}%増加
+When hit mid-air, +{0}% Defense for 2s
 
 ID=27803
-攻撃を受けた時にHPが50%以上の時、2秒間、防御度{0}%増加
+When hit with at least 50% HP, +{0}% Defense for 2s
 
 ID=27804
-一般モンスターに命中時、10%の確率で2秒間、攻撃力{0}%増加
+On hitting general monsters, 10% chance of +{0}% Attack for 2s
 
 ID=27805
-一般モンスターから攻撃を受けた時、4秒間、防御度{0}%増加
+When hit by general monsters, +{0}% Defense for 4s
 
 ID=27806
-ボス級のモンスターに命中時、10%の確率で2秒間、攻撃力{0}%増加
+On hitting boss monsters, 10% chance of +{0}% Attack for 2s
 
 ID=27807
-ボス級のモンスターから攻撃を受けた時、4秒間、防御度{0}%増加
+When hit by boss monsters, +{0}% Defense for 4s
 
 ID=27808
-命中時、対象のHPが50%以上の時、攻撃力{0}%増加(命中時解除)
+On hit with at least 50% HP, +{0}% Attack (cancelled on hit)
 
 ID=27809
-命中時、対象のHPが20%未満の時、攻撃力{0}%増加(命中時解除)
+On hitting target with 20% HP or less, +{0}% Attack (cancelled on hit)
 
 ID=27810
-攻撃を受けた時、HPが30%未満の時、50%の確率で防御度{0}%増加(攻撃を受けると解除)
+When hit with 30% HP or less, 50% chance of +{0}% Defense (cancelled on hit)
 
 ID=27811
-第6区域で攻撃力{0}%増加
+In District 6, +{0}% Attack
 
 ID=27812
-第6区域で防御度{0}%増加
+In District 6, +{0}% Defense
 
 ID=27813
-討伐時、5%の確率で5秒間、攻撃力{0}%増加
+On kill, 5% chance of +{0}% Attack for 5s
 
 ID=27814
-討伐時、5%の確率で10秒間、防御度{0}%増加 
+On kill, 5% chance of +{0}% Defense for 10s 
 
 ID=27815
-ジェニー獲得時、10秒間、獲得量の{0}%防御度増加
+When gaining zenny, +{0}% Defense of gained amount for 10s
 
 ID=27816
-ジェニー獲得時、10秒間、獲得量の{0}%攻撃力増加
+When gaining zenny, +{0}% Attack of gained amount for 10s
 
 ID=27817
-エーテル獲得時、10秒間、獲得量の{0}%防御度増加
+When gaining ether, +{0}% Defense of gained amount for 10s
 
 ID=27818
-エーテル獲得時、10秒間、獲得量の{0}%攻撃力増加
+When gaining ether, +{0}% Attack of gained amount for 10s
 
 ID=27819
-スキル使用時、5%の確率でSV{0}獲得
+On skill use, 5% chance of +{0} SV
 
 ID=27820
-スキル使用時、5%の確率でSG{0}%回復
+On skill use, 5% chance of +{0}% SG
 
 ID=27821
-30%の確率で、受けたダメージ量の{0}%反射
+30% chance to reflect {0}% damage received
 
 ID=27822
-一般モンスターに命中時、4秒間、命中度{0}増加
+On hitting general monsters, +{0} Accuracy for 4s
 
 ID=27823
-ボス級のモンスターに命中時、3秒間、命中度{0}増加
+On hitting boss monsters, +{0} Accuracy for 3s
 
 ID=27824
-一般モンスターから攻撃を受けた時、8秒間、回避度{0}増加
+When hit by general monsters, +{0} Evasion for 8s
 
 ID=27825
-ボス級のモンスターから攻撃を受けた時、6秒間、回避度{0}増加
+When hit by boss monsters, +{0} Evasion for 6s
 
 ID=27826
-攻撃を受けた時、10%の確率で命中度{0}増加(クリティカルを受けると解除)
+When hit, 10% chance of +{0} Accuracy (cancelled when critically hit)
 
 ID=27827
-攻撃を受けた時、10%の確率で回避度{0}増加(回避成功時解除)
+When hit, 10% chance of +{0} Evasion (cancelled on evasion
 
 ID=27828
-第6区域で命中度{0}増加
+In District 6, +{0} Accuracy
 
 ID=27829
-第6区域で回避度{0}増加
+In District 6, +{0} Evasion
 
 ID=27830
-討伐時、5%の確率で命中度{0}増加(クリティカル命中時解除)
+On kill, 5% chance of +{0} Accuracy (cancelled on critical hit)
 
 ID=27831
-討伐時、5%の確率で回避度{0}増加(クリティカル命中時解除)
+On kill, 5% chance of +{0} Evasion (cancelled on critical hit)
 
 ID=27832
-エーテル獲得時、命中度が獲得量の{0}%増加
+When gaining ether, +{0}% Accuracy of gained amount
 
 ID=27833
-エーテル獲得時、回避度が獲得量の{0}%増加
+When gaining ether, +{0}% Evasion of gained amount
 
 ID=27834
-ジェニー獲得時、命中度が獲得量の{0}%増加
+When gaining zenny, +{0}% Accuracy of gained amount
 
 ID=27835
-ジェニー獲得時、回避度が獲得量の{0}%増加
+When gaining zenny, +{0}% Evasion of gained amount
 
 ID=27836
-攻撃を受けた時、5%の確率でSV{0}獲得
+When hit, 5% chance of +{0} SV
 
 ID=27837
 ジャンプ攻撃時、5%の確率でクリティカル{0}%増加(クリティカル命中時解除)
 
 ID=27838
-回避使用時、5%の確率でSG{0}%回復
+On dodge, 5% chance of +{0}% SG
 
 ID=27839
-クリティカル命中時、10%の確率でSG{0}%回復
+On critical hit, 10% chance of +{0}% SG
 
 ID=27840
-スーパーアーマーブレイク発生時、10%の確率で3秒間、クリティカルダメージ{0}増加
+On SA Break, 10% chance of +{0} Critical Dmg for 3s
 
 ID=27841
 スキル使用時、5%の確率で4秒間、クリティカル{0}%増加
 
 ID=27842
-攻撃を受けた時、次の攻撃力{0}%増加(命中時解除)
+When hit, +{0}% Attack (cancelled on hit)
 
 ID=27843
-攻撃を受けた時、5%の確率でHP{0}%回復
+When hit, 5% chance of +{0}% HP
 
 ID=27844
 第6区域でクリティカル{0}%増加
 
 ID=27845
-第6区域で最大HP{0}%増加
+In District 6, +{0}% Maximum HP
 
 ID=27846
-第6区域でクリティカルダメージ{0}増加
+In District 6, +{0} Critical Dmg
 
 ID=27847
-HPが70%以上の敵にクリティカルダメージ{0}増加(クリティカル命中時解除)
++{0} Critical Dmg to enemies with at least 70% HP (cancelled on critical hit)
 
 ID=27848
-攻撃を受けた時、HPが20%未満の場合、20%の確率でHP{0}回復
+When hit with 20% HP or less, 20% chance of +{0} HP
 
 ID=27849
-エーテル獲得時、10%の確率で獲得量の{0}%HP回復
+When gaining ether, 10% chance of +{0}% HP of gained amount
 
 ID=27850
-ジェニー獲得時、10%の確率で獲得量の{0}%HP回復
+When gaining zenny, 10% chance of +{0}% HP of gained amount
 
 ID=27851
 命中時、対象のHPが50%以上の時、クリティカル{0}%増加(命中時解除)
 
 ID=27852
-命中時、対象のHPが50%未満の時、クリティカルダメージ{0}増加(クリティカル命中時解除)
+On hit, +{0} Critical Dmg to enemies with less than 50% HP (cancelled on critical hit)
 
 ID=27853
-討伐時、5%の確率でSV{0}獲得
+On kill, 5% chance of +{0} SV
 
 ID=27854
-クリティカルを受けた時、20%の確率で2秒間、ダメージ減少{0}増加
+When critically hit, 20% chance of +{0} Dmg Reduction for 2s
 
 ID=27855
-HP回復時、10%の確率で3秒間、攻撃力{0}増加
+On HP recovery, 10% chance of +{0} Attack for 3s
 
 ID=27856
-SV回復時、10%の確率で3秒間、攻撃力{0}増加
+On SV recovery, 10% chance of +{0} Attack for 3s
 
 ID=27857
-HP回復時、10%の確率で3秒間、移動速度{0}%増加
+On HP recovery, 10% chance of +{0}% Movement Speed for 3s
 
 ID=27858
-SV回復時、10%の確率で3秒間、移動速度{0}%増加
+On SV recovery, 10% chance of +{0}% Movement Speed for 3s
 
 ID=27859
-スーパーアーマーブレイク発生時、50%の確率で5秒間、防御度貫通{0}%増加
+On SA Break, 50% chance of +{0}% Penetration for 5s
 
 ID=27860
-命中時、スーパーアーマーゲージが50%以上の時、スーパーアーマー破壊力{0}%増加
+On hit with at least 50% SA Gauge, +{0}% SA Break
 
 ID=27861
-町での移動速度{0}%増加
+In town, +{0}% Movement Speed
 
 ID=27862
-HP回復時、10%の確率で4秒間、攻撃速度{0}%増加
+On HP recovery, 10% chance of +{0}% Attack Speed for 4s
 
 ID=27863
-SV回復時、10%の確率で4秒間、攻撃速度{0}%増加
+On SV recovery, 10% chance of +{0}% Attack Speed for 4s
 
 ID=27864
-エーテル獲得時、10秒間、攻撃速度{0}%増加
+When gaining ether, +{0}% Attack Speed for 10s
 
 ID=27865
-エーテル獲得時、10秒間、移動速度{0}%増加
+When gaining ether, +{0}% Movement Speed for 10s
 
 ID=27866
-ジェニー獲得時、10秒間、攻撃速度{0}%増加
+When gaining zenny, +{0}% Attack Speed for 10s
 
 ID=27867
-ジェニー獲得時、10秒間、移動速度{0}%増加
+When gaining zenny, +{0}% Movement Speed for 10s
 
 ID=27868
-HP回復時、10%の確率で3秒間、防御度{0}増加
+On HP recovery, 10% chance fo {0} Defense for 3s
 
 ID=27869
-SV回復時、10%の確率で3秒間、防御度{0}増加
+On SV recovery, 10% chance fo {0} Defense for 3s
 
 ID=27870
-乗り物搭乗時、移動速度{0}
+While mounted, {0} Movement Speed
 
 ID=27871
-乗り物ブースター{0}秒
+Vehicle Boost {0}s
 
 ID=27872
-乗り物搭乗時、移動速度{0}増加
+While mounted, +{0} Movement Speed
 
 ID=27873
-乗り物ブースター{0}秒増加
+Vehicle Boost +{0}s
 
 ID=28000
 ก่อตั้งกิลด์
@@ -10361,7 +10361,7 @@ ID=28001
 รายชื่อกิลด์
 
 ID=28002
-ギルドを設立するためには、以下の条件を満たす必要があります。
+In order to establish a guild, the following conditions must be satisfied.
 
 ID=28003
 เลเวลกิลด์
@@ -10370,10 +10370,10 @@ ID=28004
 ไม่สามารถสร้างกิลด์ได้
 
 ID=28005
-レベルが低いため、ギルドを設立できません。\nギルド設立可能レベル：20
+Insufficient level to create a guild.\nThe minimum level requirement is 20.
 
 ID=28006
-費用が足りないため、ギルドを設立できません。\nギルド設立費用：100,000ジェニー
+Insufficient funds to create a guild.\n100,000 Zenny is required.
 
 ID=28007
 กรอกข้อมูลเสร็จสิ้น
@@ -10382,19 +10382,19 @@ ID=28008
 ใส่ชื่อกิลด์
 
 ID=28009
-คุณสามารถป้อนชื่อกิลด์ได้สูงสุด 8 ตัวอักษร
+คุณสามารถป้อนชื่อกิลด์ได้สูงสุด 8 ตัวละคร
 
 ID=28010
 ชื่อกิลด์พร้อมใช้งาน
 
 ID=28011
-ギルド名：{0}は使用可能です。
+ชื่อกิลด์ "{0}" สามารถใช้ได้
 
 ID=28012
 ชื่อกิลด์ไม่พร้อมใช้งาน
 
 ID=28013
-ギルド名：{0}は他のギルドで使用されています。
+ใช้ชื่อกิลด์ "{0}" แล้ว เลือกชื่อกิลด์อื่น
 
 ID=28014
 ก่อตั้งกิลด์ยืนยันครั้งสุดท้าย
@@ -10418,28 +10418,28 @@ ID=28020
 ดำเนินการก่อตั้งกิลด์เสร็จสิ้น
 
 ID=28021
-設立が完了しました。\n創設ギルド名：{0}\nマスター：{1}
+Guild created.\nGuild name: "{0}"\nGuild Master: "{1}"
 
 ID=28022
-ギルド[{0}]が設立されました。
+Guild "{0}" established.
 
 ID=28023
 ไม่สามารถสร้างกิลด์ได้
 
 ID=28024
-ギルド解散ペナルティにより\n{0}日間設立できません。
+Guild cannot be created.\nYou disbanded a Guild {0} days ago.
 
 ID=28025
 ยุบกิลด์
 
 ID=28026
-ギルド解散時、ギルド倉庫に保管されているアイテムは全て削除されます。\nギルド解散は慎重に進めてください。
+All the items from the guild storage will be deleted upon disbanding the guild.\nGive it a second thought.
 
 ID=28027
 ไม่ใช่กิลด์แทน
 
 ID=28028
-ギルドの構成メンバーがいない時のみ、ギルド解散を進行できます。
+When there are no remaining guild members, you may disband the guild.
 
 ID=28029
 ปิดใช้รหัสผ่านกิลด์
@@ -10460,13 +10460,13 @@ ID=28034
 โทษการยุบกิลด์
 
 ID=28035
-1.ギルド解散時、設立費用は返却されません。\n2.7日間、ギルドを再設立できません。
+1. When the guild has disbanded, guild establishment fees will not be refunded.\n2. A guild cannot be re-made for 7 days.
 
 ID=28036
 กิลด์ยกเลิกการยืนยันครั้งสุดท้าย
 
 ID=28037
-解散するギルドが合っているか確認してください。
+Please make sure the guild to be disbanded is correctly inputted.
 
 ID=28038
 สิ้นสุดการยุบกิลด์
@@ -10478,22 +10478,22 @@ ID=28040
 ดำเนินการยุบกิลด์
 
 ID=28041
-解散が完了しました。\n解散ギルド名：{0}\nマスター：{1}
+Guild successfully disbanded.\nDisbanded Guild: "{0}"\nGuild Master: "{1}"
 
 ID=28042
-ギルド[{0}]が解散しました。
+Guild "{0}" was disbanded.
 
 ID=28043
 กิลด์ไม่สามารถมอบหมาย
 
-ID=28044
-ギルド委任条件を満たしていません。\nギルドレベル：2以上\nギルド構成メンバー：2名以上
+ID=28043
+Guild mastership cannot be transferred.
 
 ID=28045
 คณะผู้แทนสมาคม
 
 ID=28046
-ギルドマスターを委任すると、再度\nギルドマスターの委任を受けることはできません。
+You cannot transfer Guild Mastership again.\nThe Guild Mastership was recently transferred.
 
 ID=28047
 คณะผู้แทนสมาคม
@@ -10520,10 +10520,10 @@ ID=28054
 เสร็จสิ้นคณะผู้แทนสมาคม
 
 ID=28055
-ギルド委任が完了しました。\n前マスター：{0}\n委任者：{1}
+Successfully transferred guild ownership.\nFrom: "{1}"\nTo: "{0}"
 
 ID=28056
-{0}から{1}にギルドマスターが委任されました。
+"{0}" has delegated "{1}" as the new Guild Master.
 
 ID=28057
 ป้อนข้อมูลตำแหน่ง
@@ -10532,139 +10532,139 @@ ID=28058
 ตำแหน่งปลดล็อค
 
 ID=28059
-{0}の職位を解除しますか？
+Are you sure you want to reset {0}'s rank?
 
 ID=28060
-{0}が新たに作成されました。
+"{0}" has been established.
 
 ID=28061
-{0}が{1}に修正されました。
+{0}'s rank was changed to {1}.
 
 ID=28062
-{0}が{1}に任命されました。
+{0} has been appointed to {1} rank.
 
 ID=28063
-{0}の職位が解除されました。
+{0}'s rank has been reset.
 
 ID=28064
-{0}の権限を保存しますか？
+Are you sure you want to save the guild permissions for {0}'s rank?
 
 ID=28065
 บันทึก
 
 ID=28066
-{0}の権限設定が完了しました。
+Completed permission changes for {0}.
 
 ID=28067
-作成完了時間になっていません。\n{0}分後に作成できます。
+Cannot create a Guild Announcement.\nTry again in {0} minutes.
 
 ID=28068
 สร้างที่ประกาศไม่ใช่กิลด์
 
-ID=28069
-ギルド告知内容はこれでいいですか？
+ID=28068
+Cancel Guild Announcement
 
 ID=28070
 ประกาศสมาคมได้รับการยืนยัน
 
 ID=28071
-ギルド告知内容を確認してください。
+Please check your guild's notice contents.
 
 ID=28072
-新たなギルド告知が追加されました。\n内容を確認してください。
+New guild notices have been posted.\nCheck it out.
 
 ID=28073
-ギルド告知作成を完了せずに中止しますか？
+Are you sure you want to cancel the guild notice being made?
 
 ID=28074
 ยกเลิกประกาศของกิลด์
 
 ID=28075
-{0}分後に掲示板を作成できます。
+You can create another bulletin notice in {0} minutes.
 
 ID=28076
 กระดานข่าวสมาคมสร้างไม่ได้
 
 ID=28077
-すでに{0}は他のギルドに加入しています。
+{0} is already in a Guild.
 
 ID=28078
-{0}は他のギルド招待要請を確認中です。
+{0} is still reviewing another Guild's invitation.
 
 ID=28079
-すでに{0}にはギルド招待要請を送っています。
+{0} has already received a Guild invitation.
 
 ID=28080
 {0} ไม่ได้อยู่ในระบบขณะนี้
 
 ID=28081
-{0}は現在町にいません。
+{0} is currently not in town.
 
 ID=28082
-ギルドに加入できるメンバー数を超過しました。
+The maximum number of guild members has been reached.
 
 ID=28083
-{0}は脱退ペナルティ適用中のため、ギルドに加入できません。
+{0} cannot join due to Guild withdrawal penalty.
 
 ID=28084
-{0}から[{1}]への加入要請が届きました。承諾しますか？\n承諾時間：{2}秒
+{0} sent a request to join "{1}". Do you accept it?\n({2} seconds remaining)
 
 ID=28085
 กิลด์เชิญแนะนำ
 
 ID=28086
-{0}がギルド招待を拒否しました。
+{0} refused to accept the Guild invitation.
 
 ID=28087
-ギルド招待拒否案内
+Guild Invite Refusal
 
 ID=28088
-ギルドメンバー数を超過したため、加入できません。
+Guild is full. Cannot be joined.
 
 ID=28089
-ギルド加入案内
+Guild Info
 
 ID=28090
-{0}に加入申請しますか？
+Are you sure you want to apply to {0}?
 
 ID=28091
-ギルド加入申請
+Guild Application
 
 ID=28092
-ギルドが存在しないか、申請ができない状態です。
+Guild does not exist. Cannot apply.
 
 ID=28093
-ギルド加入申請不可
+Guild application failed
 
 ID=28094
-ギルド脱退ペナルティにより、\n{0}時間ギルドに加入できません。
+Because of the Guild withdrawal penalty\nyou are unable join a guild for {0} hours.
 
 ID=28095
-ギルド脱退ペナルティ
+Guild withdrawal penalty
 
 ID=28096
-{0}のギルド加入申請を承諾しますか？
+Are you sure you want to accept {0}'s request to join the Guild?
 
 ID=28097
-ギルド加入可否
+Guild Applicant
 
 ID=28098
-加入申請者が存在しないか、\n他のギルドに加入している状態です。
+Guild applicant no longer exists or is in a guild already.
 
 ID=28099
-ギルド加入不可
+Cannot join guild
 
 ID=28100
-{0}のギルド加入申請を拒否しますか？
+Are you sure you want to reject {0}'s request to join the Guild?
 
 ID=28101
-ギルド拒否可否
+Reject Member
 
 ID=28102
-加入申請が混み合っているため、現在申請ができません。
+The Guild Application List is full, you cannot apply right now.
 
 ID=28103
-ギルド加入申請超過
+The guild is full; no more can be accepted.
 
 ID=28104
 {0} วันที่ผ่านมา
@@ -10682,61 +10682,61 @@ ID=28108
 {0} ได้เข้าร่วมกิลด์ [{1}]
 
 ID=28109
-ギルドを脱退する場合、現在のギルドと関連する情報が全て初期化され、1日間ギルドに加入できません。\n脱退しますか？
+If you leave the guild, you may not join a new one for 1 day.\nAre you sure you want to leave?
 
 ID=28110
-ギルド脱退案内
+Leave Guild
 
 ID=28111
-ギルド脱退が完了しました。\nこれから1日間[ギルド加入]ができません。
+Guild withdrawal is complete.\nYou cannot join a new one for 24 hours.
 
 ID=28112
-ギルド脱退完了
+Guild withdrawal complete
 
 ID=28113
-{0}から脱退しました。
+Left {0}.
 
 ID=28114
-{0}がギルドから脱退しました。
+{0} has left the Guild.
 
 ID=28115
-{0}をギルドから追放しますか？
+Are you sure you want to eject {0} from the Guild?
 
 ID=28116
-ギルド追放案内
+Confirm Expel Member
 
 ID=28117
-{0}をギルドから追放しました。
+{0} was expelled from the Guild.
 
 ID=28118
-ギルド追放完了
+Expel Member
 
 ID=28119
-{0}がギルドから追放されました。
+{0} has been expelled from the Guild.                                                            
 
 ID=28120
-{0}から追放されました。
+You were expelled from {0}.
 
 ID=28121
-追放権限を持つプレイヤー同士では追放できません。
+You cannot expel this member; they have higher authority.
 
 ID=28122
-ギルド追放不可
+Failed to kick from guild
 
 ID=28123
-ギルドレベルが{0}になりました。
+Guild has become level {0}.
 
 ID=28124
-ギルドスキル案内
+Guild skills info
 
 ID=28125
-ギルド銀行にジェニーが足りないため、スキルを習得できません。
+Cannot learn guild skills; insufficient guild funds.
 
 ID=28126
-ギルド銀行にジェニーが足りないため、スキルを強化できません。
+Insufficient guild funds. Could not enhance guild skill levels.
 
 ID=28127
-ギルド委任者選択
+Modify Rank
 
 ID=28128
 ชื่อ
@@ -10901,10 +10901,10 @@ ID=28181
 ยุบ
 
 ID=28182
-ギルド名を使用するには、重複の確認が必要です。
+Please check the guild name again for possible duplications.
 
 ID=28183
-ギルド名が入力されていません。ギルド名を入力してください。
+The guild name was not entered; please enter a guild name.
 
 ID=28184
 20
@@ -10970,7 +10970,7 @@ ID=28204
 เพิ่มเติม ตำแหน่งไม่สามารถอนุญาตให้
 
 ID=28205
-ชื่อกิลด์คุณสามารถใช้อักขระถึง 2-8 ตัวอักษร
+ชื่อกิลด์คุณสามารถใช้อักขระถึง 2-8 ตัวละคร
 
 ID=28206
 ประกอบด้วยอักขระพิเศษ ห้ามคำหรือวลี
@@ -10994,16 +10994,16 @@ ID=28212
 แจ้งให้ทราบล่วงหน้าการรับสมัครกิลด์
 
 ID=28213
-作成後、{0}分後から作成可能です。
+Another ad can be created after {0} minutes.
 
 ID=28214
-ギルド募集告知作成不可
+Guild notice cancelled.
 
 ID=28215
-ギルド募集告知内容に間違いはありませんか？
+Are you sure you want to post the guild recruitment ad?
 
 ID=28216
-ギルド募集告知確認
+Guild Recruit Notice
 
 ID=28217
 การตั้งค่า
@@ -11021,7 +11021,7 @@ ID=28221
 {0}/{1}
 
 ID=28222
-ギルドメンバーの疲労度消費で獲得\n1人当たり一日最大200獲得\nギルド経験値一日最大{0}獲得
+Obtained when guild members consume fatigue.\nUp to 200 consumed fatigue per day.\nUp to {0} guild experience per day.
 
 ID=28223
 Lv
@@ -11030,7 +11030,7 @@ ID=28224
 {0}%
 
 ID=28225
-ギルドメンバーのメイズクリア報酬ジェニーの1%積立
+1% of Dungeon Clearing Rewards will go towards guild funds.
 
 ID=28226
 เงิน
@@ -11060,10 +11060,10 @@ ID=28234
 ตกแต่ง
 
 ID=28235
-ギルドマークを変更するには、ギルドマーク変更券が必要です。\n使用しますか？
+To change the Guild Mark you need a Guild Mark Change Ticket. Are you sure you want to use it?
 
 ID=28236
-ギルドマーク変更券を持っていないため、ギルドマークを変更できません。
+You cannot change the Guild Mark without a Guild Mark Change Ticket.
 
 ID=28237
 เครื่องหมายกิลด์ได้ถูกนำมาใช้
@@ -11090,22 +11090,22 @@ ID=28244
 ({0}GP)
 
 ID=28245
-{0}を習得しますか？\n[{1}GPと基金を{2}消費します]
+Are you sure you want to learn {0}?\n[Cost: {1} GP and {2} Funds]
 
 ID=28246
-{0}をレベルアップしますか？\n[{1}GPと基金を{2}消費します]
+Are you sure you want to raise {0}'s level?\nIt will cost {1} GP and {2} Funds
 
 ID=28247
 สมาคมกองทุนไม่เพียงพอ
 
 ID=28248
-倉庫を更新中です。[{0}秒]
+Guild Warehouse settings has been applied.[{0} seconds]
 
 ID=28249
-ギルド倉庫に{0}を{1}個移動しますか？
+Are you sure you want to move {1} {0} in the Guild Storage?
 
 ID=28250
-インベントリに{0}を{1}個移動しますか？
+Are you sure you want to move {1} {0} in your inventory?
 
 ID=28251
 เก็บของ
@@ -11114,43 +11114,43 @@ ID=28252
 นำของออกจากคลัง
 
 ID=28253
-ギルド倉庫のレベルが足りないため、活性化できませんでした。
+Activation failed because the Guild Storage level is insufficient.
 
 ID=28254
-出庫するアイテムの情報がありません。
+Unavailable information to perform the operation on the item
 
 ID=28255
-要請したアイテムの情報が異なります。
+The information of the request being sent has been updated; please perform the action again.
 
 ID=28256
-倉庫に空きがありません。
+The warehouse is full.
 
 ID=28257
-入庫できないタイプのアイテムです。
+This item cannot be removed.
 
 ID=28258
-ギルド倉庫の権限がありません。
+You do not have access to the Guild Storage.
 
 ID=28259
 GP
 
 ID=28260
-{0}が{1}を{2}個入庫しました。
+{0} stored {2} {1}.
 
 ID=28261
-{0}が{1}を{2}個出庫しました。
+{0} took {2} {1}.
 
 ID=28262
 ต้องการ GP
 
 ID=28263
-ギルドマークを変更しますか？
+Are you sure you want to change the Guild Mark?
 
 ID=28264
-ギルドマークの模様/基礎を選択してください。
+Please select a basic pattern for the guild mark.
 
 ID=28265
-以前のギルドマークと同じです。
+This guild mark is identical to the previous one.
 
 ID=28266
 ギルド加入状態の時のみ使用可能です。
@@ -11243,7 +11243,7 @@ ID=29026
 ยืนยันการสร้างห้อง
 
 ID=29027
-マイルーム作成には5,000ジェニー必要です。\nマイルームを作成しますか？\n(マイルームは一つのみ作成できます)
+Creating a room costs 5,000 Zenny.\nAre you sure you want to create the room?\n(only one room can be created)
 
 ID=29028
 เสร็จสิ้นการสร้างห้อง
@@ -11255,13 +11255,13 @@ ID=29030
 การสร้างห้องล้มเหลวเลเวลไม่เพียงพอ
 
 ID=29031
-マイルーム作成に必要なレベルに達していません。\n必要条件：Lv8
+You have yet to reach the level required to create a room.\nLevel requirement: Lv8
 
 ID=29032
 การสร้างห้องล้มเหลว Zenny ไม่เพียงพอ
 
 ID=29033
-マイルーム作成費用が不足しています。
+Insuffiicient funds. Cannot create room.
 
 ID=29034
 ห้อง
@@ -11270,46 +11270,46 @@ ID=29035
 ท่านต้องการเข้าไปที่ห้อง?
 
 ID=29036
-相手のマイルーム入場案内
+Confirm Buddy Room Entry
 
 ID=29037
-{0}のマイルームに入場しますか？
+Are you sure you want to admit {0} to your room?
 
 ID=29038
-ランダムマイルーム入場案内
+Entering Room Guide
 
 ID=29039
-ランダムでマイルームに入場しますか？
+Enter a random room?
 
 ID=29040
-マイルーム入場不可案内
+Room Entry Denied
 
 ID=29041
-{0}のマイルームには入場できません。
+Cannot enter {0}'s room.
 
 ID=29042
 การตั้งค่าคำแนะนำที่เหมาะสม
 
 ID=29043
-設定に変更があります。ウィンドウを閉じますか？
+There were changes in the settings. Are you sure you want to close the window and lose all changes?
 
 ID=29044
-マイルーム入場メンバー超過案内
+The maximum number of guests have been reached.
 
 ID=29045
-マイルーム入場メンバーが超過しているため入場できません。
+Cannot enter the room because the guest capacity limit was reached.
 
 ID=29046
-マイルーム強制退場対象案内
+Confirm Kick Guest
 
 ID=29047
-{0}をマイルームから追放しますか？
+Are you sure you want to kick {0} from your room?
 
 ID=29048
-マイルーム追放案内
+Kick Guest Prompt
 
 ID=29049
-{0}のマイルームから追放されました。
+{0} has been kicked from your room.
 
 ID=29050
 เข้าสู่โหมดจัดตำแหน่ง
@@ -11324,7 +11324,7 @@ ID=29053
 แน่ใจหรือไม่ว่าคุณต้องการที่จะออกจากโหมดจัดตำแหน่ง?
 
 ID=29054
-以前のマイルーム公開/ローカル状態に自動転換します。
+Your room publicity settings have been reverted to their defaults.
 
 ID=29055
 ปรับมุมกล้อง
@@ -11348,7 +11348,7 @@ ID=29061
 ใช้
 
 ID=29062
-{0}が家具インベントリに保管されます。
+{0} will be sent to your furniture inventory.
 
 ID=29063
 สามารถใช้งานได้เฉพาะในเมือง
@@ -11426,37 +11426,37 @@ ID=29087
 รับ
 
 ID=29088
-毎月1日の朝9時にランキング及び推薦情報が初期化されます。(毎朝9時にランキング情報更新)
+Ranking and Recommended Info reset at 09:00 JST/00:00 UTC every 1st day of the month. (Ranking Info is updated every day at 09:00 JST)
 
 ID=29089
-毎朝9時に情報が更新されます。
+Information is updated every day at 09:00 JST/00:00 UTC.
 
 ID=29090
 รายการรางวัลการจัดอันดับ
 
 ID=29091
-基本参加
+Basic Participation
 
 ID=29092
-推薦数が1以上の場合、基本報酬がメールで支給されます。
+You'll receive a basic reward in your mail if you have more than 1 praises.
 
 ID=29093
-掲示板作成の待機時間残り{0}分。
+You can create another room notice in {0} minutes.
 
 ID=29094
-マイルームがないと作成できません。
+You cannot create while not being in your room.
 
 ID=29095
-報酬を受け取れません。
+You cannot receive the reward.
 
 ID=29096
-1文字以上入力してください。
+Please enter at least one character.
 
 ID=29097
 ลบรายการโปรดหรือไม่?
 
 ID=29098
-ランキング報酬を支給しました。\nアカウントメールを確認してください。
+Received rank rewards.\nPlease check your account mail.
 
 ID=29121
 マイルーム情報を読込中です。\n読込が完了するとこのメッセージは自動に消えます。\n\n時間が1分以上かかる場合には「確認」ボタンを押して街に戻る事が出来ます。
@@ -11495,115 +11495,115 @@ ID=30105
 ไม่อยู่
 
 ID=31000
-招待はリーダーのみ可能です。
+Only the leader can invite.
 
 ID=31001
-パーティーの最大人員を超過しました。
+You cannot invite any more members to the Party.
 
 ID=31002
-[{0}]は他のパーティーに加入しています。
+[{0}] is in another Party.
 
 ID=31003
-現在[{0}]はメイズにいるため招待できません。
+[{0}] currently be invited because you are in dungeon.
 
 ID=31004
-[{0}]が招待を拒否しました。
+[{0}] has refused the invitation.
 
 ID=31005
-[{0}]は検索できないかログイン状態ではありません。
+[{0}] is not logged in or cannot be found.
 
 ID=31006
-すでにパーティー招待をしています。
+Already being invited to a Party.
 
 ID=31007
-他のパーティーに加入するか検討中です。
+The target is already being invited to a Party.
 
 ID=31008
-遮断対象のため招待できません。
+The target cannot be invited; they blocked all party requests.
 
 ID=31009
-パーティーが解散しました。
+The Party was disbanded.
 
 ID=31010
-パーティーがメイズにいるため合流できません。
+Cannot join because the Party is in a dungeon.
 
 ID=31011
-該当パーティーに加入できません。
+You cannot join the Party.
 
 ID=31012
-パーティーの最大人員を超過しました。
+You cannot invite any more members to the Party.
 
 ID=31013
-[{0}]がパーティー招待を拒否しました。
+[{0}] has refused the Party invitation.
 
 ID=31014
-[{0}]がパーティーに合流しました。
+[{0}] has joined the Party.
 
 ID=31015
-パーティーに合流しました。
+You have joined the Party.
 
 ID=31016
-[{0}]がパーティーから追放されました。
+[{0}] has been kicked from the Party.
 
 ID=31017
-パーティーから追放されました。
+You have been kicked from the Party.
 
 ID=31018
-[{0}]がパーティーから離脱しました。
+[{0}] has left the Party.
 
 ID=31019
-パーティーを離脱しました。
+You have left the Party.
 
 ID=31020
-[{0}]がパーティーリーダーになりました。
+[{0}] is now the Party leader.
 
 ID=31021
-[{0}]がパーティーリーダーを委任しました。
+[{0}] appointed you as the Party leader.
 
 ID=31022
-時間制限により、[{0}]がパーティーから追放されました。
+[{0}] has been removed from the Party due to time restraints.
 
 ID=31023
-入場レベルに達していないメンバーがいるため、入場できません。
+Cannot enter because a party party member does not meet the level requirements.
 
 ID=31024
-パーティー状態では入場できないエリアです。
+Cannot enter the area with the current Party.
 
 ID=31025
-次のエリアへの移動に必要なメンバーが不足しています。
+Not enough members required to proceed to the next area.
 
 ID=31026
-パーティーのメイズ入場時に、同じ町にいる場合のみ合流できます。
+Only Party members in the same town may enter a dungeon together.
 
 ID=31027
-ソウルウェポンを装備してないメンバーがいるため、入場できません。
+Cannot enter because a party party member does not have a Soul Weapon equipped.
 
 ID=31028
-リーダーと同じメイズにのみ入場できます。
+You can enter only the same dungeon as the leader.
 
 ID=31029
-メンバーが入場中のメイズにのみ合流できます。
+Cannot enter a different dungeon than your party members.
 
 ID=31030
-今の状態では途中合流できません。
+Cannot join due to current state.
 
 ID=31031
-{0} {1} {2}は第6区域にいるため、入場できません。
+Cannot enter because {0} {1} {2} is in District 6.
 
 ID=31032
-{0}は招待不可エリアにいます。
+{0} is in an area that cannot receive invitations.
 
 ID=31033
-ここではパーティーには合流できません。
+Cannot join Party here.
 
 ID=31034
-ここではパーティーを離脱できません。
+Cannot leave the Party here.
 
 ID=31035
-今は{0}を追放できません。
+Cannot remove {0} right now.
 
 ID=31036
-{0} {1} {2}は同じ町でなく別の場所でログアウトしたため、メイズに入場できません。
+Cannot enter the dungeon because {0} {1} {2} logged out in a different town or area.
 
 ID=31037
 สมาชิก {0} ปฏิเสธการเข้าร่วมดันเจี้ยน
@@ -11621,22 +11621,22 @@ ID=31041
 ออกจากปาร์ตี้
 
 ID=31042
-入場要請
+Request Entry
 
 ID=31043
-入場要請待機
+Cancel Request
 
 ID=31044
-パーティーリーダー委任
+Change Party Leader
 
 ID=31045
-パーティー追放
+You have been kicked from the Party
 
 ID=31046
 การเข้าดันเจี้ยนถูกปฏิเสธ
 
 ID=31047
-準備完了
+Ready
 
 ID=31048
 EPISODE
@@ -11645,46 +11645,46 @@ ID=31049
 ค้นหาแมตช์
 
 ID=31050
-オートマッチング使用不可
+Auto-Matching disabled
 
 ID=31051
-オートマッチング検索不可
+Auto-Matching Search Cancelled
 
 ID=31052
-オートマッチング進行選択
+Auto-Matching In-Progress
 
 ID=31053
-オートマッチング強制退場
+Auto-Matching forced to exit
 
 ID=31054
-オートマッチング終了
+Auto-Matching Ended
 
 ID=31055
-パーティー加入中は、オートマッチングは使用できません。
+Auto-Matching cannot be used in a Party.
 
 ID=31056
-時間内に検索できませんでした。
+Unable to find a party within the time limit.
 
 ID=31057
-メンバーが不足していますが、このまま進行しますか？\n時間内に選択しなかった場合は、自動で入場します。\n(残り時間：{0}秒)
+Are you sure you want to proceed with this party?\nWill automatically continue if no input is given.\n({0} seconds remaining)
 
 ID=31058
-パーティー進行可否を選択しなかったため強制退場となりました。
+Since you have not confirmed the dungeon entry, you have been kicked out of the Party.
 
 ID=31059
-オートマッチングを終了しますか？
+Are you sure you want to cancel Auto-Matching?
 
 ID=31060
-ペナルティ発生により、[{0}]分[{1}]秒間オートマッチングを使用できません。
+You cannot use [{0}] Auto-Matching for {1} minutes.
 
 ID=31061
 เวลาการค้นหาที่เหลือ
 
 ID=31062
-パーティー進行可否選択中
+Deciding on Party entry...
 
 ID=31063
-パーティーリーダー選定中…
+Select Party Leader
 
 ID=31064
 เข้าสู่ดันเจี้ยน
@@ -11702,19 +11702,19 @@ ID=31068
 ออก
 
 ID=31069
-進行
+Proceed
 
 ID=31070
-待機
+Standby
 
 ID=31071
-パーティー/フォース検索
+Party / Force Search
 
 ID=31072
-待機者リスト
+Standby List
 
 ID=31073
-パーティー申請
+Party Request
 
 ID=31074
 โพสต์แนะนำ
@@ -11723,13 +11723,13 @@ ID=31075
 パーティー/フォース申請者
 
 ID=31076
-パーティー募集
+Party recruitment
 
 ID=31077
 ร้องขอ
 
 ID=31078
-募集登録時間
+Recruitment Time
 
 ID=31079
 {0} นาที
@@ -11756,7 +11756,7 @@ ID=31086
 โพสต์
 
 ID=31087
-待機解除
+Cancel Search
 
 ID=31088
 ปฏิเสธ
@@ -11795,7 +11795,7 @@ ID=31099
 ชื่อ
 
 ID=31100
-メンバー急募
+Recruiting Members
 
 ID=31101
 เลือก
@@ -11813,19 +11813,19 @@ ID=31105
 อิสระ
 
 ID=31106
-30分間募集します。
+Recruiting for 30mins.
 
 ID=31107
-時間内に選択解除時、募集制限時間が終了するまでは \n再登録できません。募集を解除しますか？
+When removing your recruitment ad, you cannot re-register until a cooldown period has elapsed.\nAre you sure you want to remove your ad? 
 
 ID=31108
-パーティーに空きがないため登録できません。
+Cannot apply because the Party is full.
 
 ID=31109
-パーティーの目的を選択してください。
+Please select the Party purpose.
 
 ID=31110
-募集制限時間[{0}]分[{1}]秒が経過すると募集登録ができます。
+Your party recruitment ad lasts for [{0}]m [{1}]s.
 
 ID=31111
 パーティー/フォース申請が完了しました。\nパーティー/フォース申請は30分後に自動で削除されます。\n(残り申請可能回数：{0}回)
@@ -11840,43 +11840,43 @@ ID=31114
 申請をしたパーティー/フォースがありません。
 
 ID=31115
-すでに申請しています。
+Applied already.
 
 ID=31116
-申請者がいっぱいです。しばらくしてからもう一度申請してください。
+There are too many requests. Please try again later.
 
 ID=31117
-10分間待機登録されます。登録しますか？
+The advertisement will last for 10 minutes. Are you sure you want to post it?
 
 ID=31118
-登録を解除しますか？
+Are you sure you want to remove your party search request advertisement?
 
 ID=31119
-<パーティー募集>{0}/目的：{1}/パーティーリーダー：{2}/メンバー：{3}/4
+<Party Recruitment> {0}/Purpose: {1}/Party Leader: {2}/Members: {3}/4
 
 ID=31120
-{0}秒後にパーティー申請ができます。
+You can apply for a party in {0} seconds.
 
 ID=31121
-待機登録が完了しました。
+Find party request registered.
 
 ID=31122
-待機登録を解除しました。
+Find party request cancelled.
 
 ID=31123
-募集広告完了
+Party Recruitment advertisement registered.
 
 ID=31124
-募集選択解除
+Party Recruitment advertisement creation cancelled.
 
 ID=31125
-募集登録不可
+The Party Recruitment advertisement was cancelled.
 
 ID=31126
-募集設定不可
+Party Recruitment advertisement cancelled.
 
 ID=31127
-募集再登録不可
+Party Recruitment advertisement re-registration cancelled.
 
 ID=31128
 パーティー/フォース申請完了
@@ -11891,7 +11891,7 @@ ID=31131
 申請済みのパーティー/フォースなし
 
 ID=31132
-重複申請
+The party application has been sent already.
 
 ID=31133
 申請パーティー/フォース混雑状態
@@ -11900,52 +11900,52 @@ ID=31134
 โพสต์
 
 ID=31135
-待機解除
+Cancel Search
 
 ID=31136
-登録
+Register
 
 ID=31137
 ปล่อย
 
 ID=31138
-パーティーを結成しました。
+The Party has been formed.
 
 ID=31139
-メイズ再挑戦をメンバーに要請しますか？\n(残り時間：{0}秒)
+Are you sure you want to request to retry the dungeon?\n({0} seconds remaining)
 
 ID=31140
-リーダーの{0}がメイズ再挑戦を要請しています。\n要請に応じますか？\n(残り時間：{1}秒)
+The leader {0} has requested a dungeon retry.\nWill you accept the request?\n({1} seconds remaining)
 
 ID=31141
-要請
+Request
 
 ID=31142
-メンバーの応答を待っています。\n(再挑戦したくない場合は「中止」をクリック)
+Waiting for members to respond.\n(Click “Cancel” if you do not want to retry)
 
 ID=31143
-{0}がメイズ再開申請を拒否しました。
+Declined {0} retry request.
 
 ID=31144
-メイズに再挑戦しますか？
+Are you sure you want to reattempt the dungeon?
 
 ID=31145
-メイズを離脱したメンバーがいるため、再挑戦できません。
+You may not enter the dungeon again as a party member has left.
 
 ID=31146
-疲労度が不足しているため、メイズに再挑戦できません。
+Cannot re-enter the dungeon because you do not have enough fatigue.
 
 ID=31147
-{0}の疲労度が不足しているため、メイズに再挑戦できません。
+Cannot re-enter the dungeon because {0} does not have enough fatigue.
 
 ID=31148
-メイズ再挑戦までの待機時間：{0}秒
+The dungeon has a re-entry cooldown of {0} seconds.
 
 ID=31149
-リーダーの{0}がメイズ入場を中止しました。
+The leader cancelled the request to join {0} dungeon.
 
 ID=31150
-メイズ入場中止
+Cancel Dungeon Entry
 
 ID=31151
 เป้าหมาย
@@ -11954,55 +11954,55 @@ ID=31152
 {0}：{1}
 
 ID=31153
-オートマッチングにより構成されたパーティーであるため、[{0}]分[{1}]秒間はオートマッチングを使用できません。
+Cannot use Auto-Matching for [{0}] minutes [{1}] seconds because you were in a Party formed by Auto-Matching.
 
 ID=31154
-オートマッチング退場
+Leave Auto-Matching
 
 ID=31155
-現在進行中のメイズ終了後に入場できます。
+You may enter the dungeon after it has been cleared.
 
 ID=31156
 メイズ離脱後5分経過したため、合流できません。
 
 ID=31157
-パーティーがボスと戦闘している場合は合流できません。
+You may not join the Party while the party is fighting a boss.
 
 ID=31158
-合流不可
+Unjoin
 
 ID=31159
-残り登録時間
+Time Left
 
 ID=31160
-オートマッチング離脱案内
+Auto-Matching Withdrawal
 
 ID=31161
-現在のパーティーから離脱すると、オートマッチング利用に制限がかかります。\n本当に離脱しますか？
+When withdrawing from the current Party, there will be a time limit for Auto-Matching.\nAre you sure you want to leave?
 
 ID=31162
-待機者リストに登録されていないプレイヤーです。
+This player is not registered in the waitlist.
 
 ID=31163
 คำเตือน
 
 ID=31164
-パーティー申請できるレベルではありません。
+This player's level is not high enough for Party request.
 
 ID=31165
-パーティーマッチング中止
+Party matching was stopped
 
 ID=31166
-マッチング中のメンバーがキャンセルしました。
+Members have cancelled the matching.
 
 ID=31167
-パーティーが戦闘中です。合流しますか？\n(残り時間：{0}秒)
+The Party is in combat. Are you sure you want to join?\n({0} seconds remaining)
 
 ID=31168
-目的地を選択してください。
+Party Join Request Ad
 
 ID=31169
-メンバーの離脱により、敵が弱体化されます。
+Since party members left, the enemies have weakened.
 
 ID=31170
 พื้นที่
@@ -12011,16 +12011,16 @@ ID=31171
 โพสต์หาปาร์ตี้
 
 ID=31172
-相手が無法地帯にいるため、パーティー要請ができません。
+Cannot apply to join the Party because the other Party is in a lawless zone.
 
 ID=31173
-無法地帯ではパーティー要請ができません。
+Cannot apply to join a Party from a lawless zone.
 
 ID=31174
 その他のエラーによる終了状態のため、合流が行えます。\nボスとの戦闘など合流が行えない場合もあります。\n合流しますか？-残り時間：{0}秒-
 
 ID=31175
-意図的に終了をした場合は合流できません。\nその他のエラーによる終了の場合は合流できます。
+You cannot rejoin if you quit the game on purpose.\nYou can only rejoin if the game has ended due to an unexpected error.
 
 ID=31176
 パーティー状態の時のみ使用可能です。
@@ -12347,7 +12347,7 @@ ID=32105
 อัตราแลกเปลี่ยน
 
 ID=32106
-Y.P商店
+Y.P Shop
 
 ID=32107
 เข้าสู่ระบบ
@@ -12380,7 +12380,7 @@ ID=33002
 -レポート：アマリリス-\n\n1．SJ-DS-01にソウルエナジー耐性機能を追加。状態はとても不安定。\n\n2．SJ-DS-01は、ソウルエナジーの宿主である人間に寄生できることが判明。\n寄生対象となった人間は、ソウルエナジーを持続的に奪われ、皮膚が石膏のように固まってSJ-DS-01の食料となる。\n\n3．SJ-DS-01をディグニティースナッチャーと名付ける。ディグニティースナッチャーの内部に蓄えられているソウルエナジーの総量が存在することが明らかになる。しかし、平凡な人間は該当総量を全て満たす程のソウルエナジーを持ち合わせていない。現在の総量は測定不可。
 
 ID=33003
--レポート：テンペスト-\n1. 精密な機械で構成されている。ラピッドフレイムの技術レベルを根拠に検討した結果、ラピッドフレイム自体では製作不可能であるという結論。外部の支援があったと判断。\n\n2. 武装は、高密度のデザイアエナジーを発射する主砲。\n\n3. 特殊ワイヤーと握力700kgの爪が特殊武装として装着。\nしかし、武装としての性能は期待できない水準。\n\n4. 特殊ワイヤーは、ソウルエナジーの保管及び移動を可能にした特殊材料で構成。
+- Report on Tempest.\n1. Precise machinery. Reproduction unfeasible.\n2. High-density firing gun.\n3. Special wire and nail with heavyduty grip as a weapon. Weaker than main one.\n4. Soul Energy storage and transfer possible by a special wire.
 
 ID=33004
 -ある雲った日。\nあの子の暴走は予想していた。むしろ、それを「災い」呼ぶ者たちを理解できなかった。我々は罪を犯し、それを償う時がやって来た…ただそれだけだ。他の子らの代わりに、裁きを下しに来たのだ。それがもし復讐という名を持っていたとしても、私は甘んじて受け入れる。\n\n-ある雪の日。\nあの子は愚かな人間たちによって再び眠りについた。彼らは、あの子が眠れば全て終わるという甘い考えに染まっていた。ネッドカンパニーが我々を助けてくれるなどという愚かな考えに腹が立った。彼らはきっと、真実を知る者全てを葬り去るだろう。何事もなかったかのように。\n\n-ある晴れた日。\nこの施設の閉鎖が決まり、首脳部を除く全ての人間はこの地獄へ取り残されることになった。おそらく、そう長くは保たないだろう。罪深き我々の最後にはお似合いだ。…不思議な気分だ。あれほど怖がっていた死が、今はまったく怖くない。
@@ -12554,10 +12554,10 @@ ID=33553
 Calamity's Prelude
 
 ID=33554
-捕食者の叫び
+Predator's Cry
 
 ID=33555
-捕食者の痕跡
+Predator's Traces
 
 ID=34000
 กระถางดอกไม้ 1
@@ -12608,7 +12608,7 @@ ID=34022
 คุณต้องการที่จะใช้ {0}?
 
 ID=34023
-栽培中止
+Stop Cultivation
 
 ID=34024
 พืชที่ไม่สามารถปลูกได้
@@ -12656,7 +12656,7 @@ ID=34038
 คุณต้องการที่จะเริ่มต้นการเพาะปลูกหรือไม่?
 
 ID=34039
-{0}人のヘルプ\n栽培時間{1}%減少
+{0} helped people\nCultivation time -{1}%
 
 ID=35000
 ทั่วไป
@@ -12749,16 +12749,16 @@ ID=35115
 คุณไม่สามารถแชทได้ 60 วินาที ว่าด้วยเรื่องมารยาทการพูดคุย \n(เหลือ: {0} วินาที)
 
 ID=35116
-{0}に{1}ダメージ与えました。
+Dealt {1} damaged to {0}.
 
 ID=35117
-{0}に{1}ダメージ受けました。
+Received {1} damage from {0}.
 
 ID=35200
-{0}に勝利して、BPを{1}獲得しました。
+{0} won, obtained {1} BP.
 
 ID=35201
-{0}に敗北して、BPが{1}減少しました。
+{0} has lost, earned {1} BP.
 
 ID=35202
 BP ที่ได้รับ {0}
@@ -12806,31 +12806,31 @@ ID=36012
 ย้าย
 
 ID=37001
-緊急！第6区域に空白の亀裂発生！応援を求む！
+Emergency! A Void Fissure has appeared in District 6! Requesting support!
 
 ID=37002
-空白の亀裂を除去できました。
+The Void Fissures have been eliminated.
 
 ID=37003
-緊急事態発生地の空白の亀裂が突然姿を消しました。
+The Void Fissures in the Emergency Area have disappeared.
 
 ID=37004
-緊急事態発生地の中心部にコードネーム[ザ・シング]が出現しました。
+Code name [The Thing] has appeared in the center of the Emergency Area.
 
 ID=37005
-最高のソウルワーカー！{0}によって、ザ・シングが討伐されました。
+The supreme Soulworker! {0} has defeated The Thing.
 
 ID=37006
-緊急事態発生地のザ・シングが突然姿を消しました。
+The Thing has suddenly disappeared from the Emergency Area.
 
 ID=37007
 緊急事態が発生しました。\nLｖ.65から支援可能です。\nアイコンをクリックして支援をお願いします！\n\n亀裂消滅まで：残り{0}分
 
 ID=37008
-バキュームキューブが消滅し、アイテムを獲得できませんでした。
+The Vacuum Cube has disappeared, unable to obtain any items.
 
 ID=37009
-ザ・プライマルを取り巻く力が弱まったので、接近できます。\n残り：{0}分
+The power surrounding the The Primal is weakened, you can get closer now.\n({0} minutes remaining)
 
 ID=37010
 วันจันทร์
@@ -12866,7 +12866,7 @@ ID=37020
 ชั่วโมงค่าเข้าชม
 
 ID=37021
-緊急事態発生地の中心部に移動中の[ザ・シング]のエナジー感知。1分後に遭遇する見込みです。
+[The Thing's] energy source is gathering towards the center of the Emergency Area. The encounter is expected to begin in a minute.
 
 ID=37025
 該当チャンネルのワールドボスが討伐されました。\n\n緊急事態終了まで：残り{0}分
@@ -12917,10 +12917,10 @@ ID=37515
 ▼
 
 ID=37516
-#メイズ \n-各メイズのノーマル入場及びクリア時、点数付与(差等付与)\n-各メイズのベリーハードクリア時、点数付与(差等付与)\n-1人でメイズクリア時、ボーナス点数付与\n-復活アイテム不使用時、ボーナス点数付与\n-獲得アイテム不使用時、ボーナス点数付与\n\n#スチールグレイブ \n-スチールグレイブ入場時、点数付与\n-それぞれのスチールグレイブのチャプタークリア時、点数付与(差等付与)\n\n#レイド\n-レイド入場時、点数付与\n-それぞれのカジュアルレイドクリア時、点数付与(差等付与)
+※ Dungeons\n- earn points for each normal entry and clear\n- earn points for each Very Hard clear\n- earn points for solo clear\n- earn points for not using revivals\n- earn points for not using items\n\n※ Steel Grave\n- earn points for entry\n- earn points for each cleared chapter\n\n※ Raid\n- earn points for entry\n- earn points for clear
 
 ID=37517
-期間：月曜日09:00～日曜日21:00(7日間、毎週進行)\n\n結果発表：毎週日曜日22時00分\n\nボーナス点数項目(ノーマルメイズ)\n -パーティー禁止\n -回復ポーション使用禁止\n -バフポーション使用禁止\n\n#スチールグレイブ及びカジュアルレイドには\nボーナス点数はなく、ノーマルメイズのクリア点数が高い。
+Period: Monday 9 AM ~ Sunday 9 PM (7 days, every week)\n\nResults announcement: every Sunday 10 PM\n\nBonus Points (normal dungeons)\n- no Party\n- no recovering potions\n- no buff potions\n\n※ For Steel Grave and Casual Raid, the bonus points are higher than the clearing points of normal dungeons.
 
 ID=37518
 รางวัลส่วนตัว
@@ -12980,7 +12980,7 @@ ID=37541
 ค่าตอบแทนพิเศษ
 
 ID=37542
-メイズ入場及びクリア{0}+1人プレイ{1}+復活禁止{2}+回復ポーション禁止{3}
+Dungeon entry and clear {0} + solo play {1} + no revivals + {2} + no recovering potions {3}
 
 ID=37543
 วิธีการดำเนินการ
@@ -13037,7 +13037,7 @@ ID=38003
 Trading fee reduced by {0}%
 
 ID=38004
-追加疲労度{0}
+Add'l. FP {0}
 
 ID=38005
 อัตราความสำเร็จเพิ่มขึ้น {0}%
@@ -13064,13 +13064,13 @@ ID=38012
 Stamina เพิ่มขึ้น {0}
 
 ID=38013
-ネットカフェ専用疲労度200増加
+Net Café-exclusive +200 FP
 
 ID=38014
-特殊メイズ入場回数1増加
++1 special dungeon entry count
 
 ID=38015
-結果報酬EXP{0}%増加
++{0}% Result EXP Reward
 
 ID=38016
 รางวัลเงิน Zenny เพิ่มขึ้น {0}%
@@ -13274,10 +13274,10 @@ ID=40104
 สนทนากับ Miriam
 
 ID=40105
-移動してください。
+Please proceed.
 
 ID=40106
-ミリアムについて行き、会話してください。
+Accompany and talk to Miriam.
 
 ID=40107
 สนทนากับ Benjamin.
@@ -13610,298 +13610,298 @@ ID=40220
 Please dodge the bomb shuttle.
 
 ID=40221
-間もなく敵が召喚されます。\nスイッチを作動させて、敵の召喚を止めてください。
+Enemies will be summoned soon.\nActivate the switch and defeat the enemies.
 
 ID=40222
-間もなく敵が召喚されます。
+More enemies will be summoned soon.
 
 ID=40223
-間もなく広域攻撃が発動します。\nスイッチを作動させて、広域攻撃発動を止めてください。
+A wide-area attack will soon be fired.\nActivate the switch and stop the wide-area attack.
 
 ID=40224
-間もなく敵が召喚されます。\n中央の制御装置を破壊し、召喚を止めてください。
+Enemies will be summoned soon.\nDestroy the center control device and stop the enemies. 
 
 ID=40225
-間もなく敵が持続的に召喚されます。\n敵の召喚を止めるには、召喚装置を破壊する必要があります。
+Continuous enemies will be summoned.\nTo stop the summoning, destroy the summoning device.
 
 ID=40226
-セキュリティーは4段階にわたり解除され、装置作動時は対人防御システムが発動します。
+The interpersonal defense system will be activated when the equipment is running as long as the 4 stage security system is deactivated.
 
 ID=40227
-2個のセキュリティ装置中、1個はトラップが設置されています。\n正しいセキュリティ装置を作動させると扉が開きます。
+Out of the two security devices, one is a dummy trap.\nThe other one will open the door to the next area.
 
 ID=40228
-間もなく新しい敵が召喚されます。\n注意してください。
+New enemies will be summoned soon.\nPlease be careful.
 
 ID=40229
-シャトルが通過します。\n安全な場所へ避難してください。
+Incoming shuttle.\nPlease avoid.
 
 ID=40230
-エレベーター侵入者警報装置が作動しました。\n敵をすべて討伐するか、スイッチを操作することで警報装置を止めることができます。
+Elevator intruder alarm has been activated.\nDefeat all enemies, or stop the alarm system by turning off the switch.
 
 ID=40235
-ヒールコクーンは敵のHPを回復させます。\n優先的に除去してください。
+The enemy is restoring HP to the cocoon.\nPlease neutralize them quickly.
 
 ID=40236
-2個のスタリーフォレスト連合保護対象中、一つでも破壊されると、エナジーチャージが止まります。
+Energy charging will stop if even 1 of the 2 under the Starry Forest League's protection are destroyed.
 
 ID=40237
-一定時間、敵の出現が止まります。
+After a certain amount of time, enemies will stop appearing.
 
 ID=40238
-東側エリアに敵が出現します。
+In the east area, enemies appeared.
 
 ID=40239
-西側エリアに敵が出現します。
+In the west area, enemies appeared.
 
 ID=40240
-東側エリアの敵出現が止まりました。\n一定時間後、別の敵が出現します。
+The enemies in the east area have cleared out.\nAfter a certain time, the enemies will respawn.
 
 ID=40241
-西側エリアの敵出現が止まりました。\n一定時間後、別の敵が出現します。
+The enemies in the west area have cleared out.\nAfter a certain time, the enemies will respawn.
 
 ID=40242
-ダメージを与える粘液が消えます。
+The damage dealing mucus has disappeared.
 
 ID=40243
-東側及び西側に配置されたスタリーフォレスト連合車両を調査してください。
+Please investigate the Starry Forest League vehicles on the east and west sides.
 
 ID=40244
-制限時間内に最後の実験室を占拠しているマッドビホールダーを討伐してください。\n失敗時、侵入者警報装置が作動します。
+Please defeat the last Mad Beholder occupying the laboratory.\nFailure to do so will cause the anti-intruder defense system to activate.
 
 ID=40245
-60秒以内にレーザートラップを破壊してください。
+Destroy the laser trap within 60 seconds.
 
 ID=40246
-トラップの種類によって戦闘に利用できます。
+The trap can be used for combat purposes depending on its type.
 
 ID=40247
-周期的に発生する磁気フィールドに注意してください。
+Please be aware of the magnetic field.
 
 ID=40248
-磁気フィールド発生5秒前
+The magnetic field was generated recently.
 
 ID=40249
-非常アリーナの外に出ると磁気フィールドによるダメージを受けます。
+You will incur damage from leaving the arena by the magnetic field.
 
 ID=40250
-コントローラー作動時、1～15体の敵が出現します。
+When the controller is activated, 1 to 15 enemies will appear.
 
 ID=40251
-ヘビーセルは、出現時に移動速度を減少させるエリアを発生させます。
+When Heavy Cell appears, it will generate an area that reduces Movement Speed.
 
 ID=40252
-EMPマインは、プレイヤーと敵の全てを攻撃します。プレイヤー接近時に作動します。
+The main EMP will attack everything; it will be activated when you approach it.
 
 ID=40253
-4個のデバイスは、ランダムで強力な毒ガスを噴出します。
+The 4 devices will emit a very powerful poisonous gas at random intervals.
 
 ID=40254
-コントローラー作動時、敵が順番に出現します。
+When the controller is activated, enemies will slowly appear.
 
 ID=40255
-キューブ破壊時、強力な磁気フィールドが発生し敵とプレイヤー全てを麻痺させます。
+When the cube is destroyed, all players will be paralyzed and a magnetic field will be generated.
 
 ID=40256
-2個のデバイスは、敵を強化するエリアを順番に発生させます。
+The 2 devices will raise the nearby enemy's strength in sequential order.
 
 ID=40257
-コントローラー作動時、敵が出現します。
+When the controller is activated, enemies will appear.
 
 ID=40258
-間もなく強力な敵が出現します。
+A powerful enemy will soon appear.
 
 ID=40259
-敵を倒すと、コントローラーが召喚されます。\n3個のコントローラーを全て起動してください。
+Controllers will be summoned after defeating enemies.\nPlease activate all 3 controllers.
 
 ID=40260
-1番コントローラー作動開始
+Controller 1 has been activated
 
 ID=40261
-2番コントローラー作動開始
+Controller 2 has been activated
 
 ID=40262
-全てのコントローラーを起動しました。 \n間もなく最後の敵が出現します。
+All controllers have been activated.\nThe final enemies will be summoned.
 
 ID=40263
-コントローラー作動時、強化効果が付与されます。
+When the controller is activated, a strengthening buff will be granted. 
 
 ID=40264
-コントローラー作動時、攻撃力増加効果が付与されます。
+When the controller is activated, attack is increased.
 
 ID=40265
-コントローラー作動時、防御度増加効果が付与されます。
+When the controller is activated, defense is increased.
 
 ID=40266
-20秒ごとに1個のコントローラーが召喚されます。
+One controller will be summoned every 20 seconds.
 
 ID=40267
-コントローラー作動時、レーザービームが発射されます。\nレーザービームは、敵とプレイヤーの全てを攻撃してくるので注意してください。
+When the controller is activated, a laser beam will be fired.\nPlease note that the laser will attack all enemies and players.
 
 ID=40268
-20秒ごとに1個ずつ、全部で2個のコントローラーが召喚されます。\n2個起動時、支援レーザーキャノンが発射されます。
+Every 20 seconds, a total of 2 controllers will appear.\nActivate both controllers to fire the laser canon.
 
 ID=40269
-レーザーキャノン発射要請を確認。\n間もなくキャノンが発射されます。
+Confirmed laser canon firing request.\nThe cannon will soon be fired.
 
 ID=40270
-ランドクラッシャーを倒すと、コントローラーが召喚されます。
+After defeating the land crusher, the controller will be summoned.
 
 ID=40271
-2個のコントローラー作動時、ウォーライクの防御度を大幅減少させるウェーブが発生します。
+When the 2 controllers are activated, a web will appear and drastically reduce Warlike's defense.
 
 ID=40272
-コントローラー作動時、ガトリング砲の支援射撃を受けることができます。\nガトリング砲は1回使用すると壊れます。
+When the controller is activated, support fire from the Gatling gun is possible. It can only be used once.
 
 ID=40273
-30秒後に生成されるコントローラー作動時、強力なレーザーキャノンが発射されます。\nレーザーキャノンは全てを攻撃し、最大HPの90%のダメージを与えます。
+30 seconds after activating the controller, a powerful laser cannon will be fired.\nThe laser canon will attack everything and deals 90% of Maximum HP as damage.
 
 ID=40274
-間もなくレーザーキャノンが発射されます。
+The Laser Cannon will be fired soon.
 
 ID=40275
-キューブ破壊時、HPを回復できます。
+When the cube is destroyed, you will recover HP.
 
 ID=40276
-クローラーは、敵のHPを回復させる自爆攻撃をします。
+Crawler will self-destruct and recover the enemy's HP.
 
 ID=40277
-バキュームベインは、1体ごとにダークワームの攻撃力と防御度を増加させます。
+Every 1 Vacuum Vein will increase the attack and defense of the Dark Worm.
 
 ID=40278
-敵を倒すと、コントローラーが召喚されます。
+Defeat the enemies and the controller will be summoned.
 
 ID=40279
-コントローラー作動時、右側の遮断壁ロックが解除されます。
+When the controller is activated, the right barrier will release.
 
 ID=40280
-コントローラー作動時、左側遮断壁のロックが解除されます。
+When the controller is activated, the left barrier will release.
 
 ID=40281
-一定時間ごとに敵にダメージを与える磁気フィールドが発生します。
+At set intervals, an enemy damaging electric field will appear.
 
 ID=40282
-キューブ破壊時、敵に移動速度減少効果を付与できます。
+Enemy will be slowed when the cube breaks.
 
 ID=40283
-キューブが召喚されました。破壊時、攻撃力増加効果が付与されます。
+Cube has been summoned. Attack will increase upon its destruction.
 
 ID=40284
-キューブが召喚されました。破壊時、防御度増加効果が付与されます。
+Cube has been summoned. Defense will increase upon its destruction.
 
 ID=40285
-キューブが召喚されました。破壊時、HPが全回復します。
+Cube has been summoned. Destroy it to fully restore HP.
 
 ID=40286
-キューブが4個召喚されました。キューブ破壊時、強力な力が付与されます。
+4 Cubes have been summoned. A powerful effect will be granted upon cube destruction.
 
 ID=40287
-コントローラー作動時、特殊な敵が召喚されます。
+When the controller is activated, special enemies will appear.
 
 ID=40288
-ハビタントはHPが60%以下になると、敵とプレイヤー全てにダメージを与える自爆攻撃をします。
+When the Habitant is less than 60% HP, the enemy will self-destruct and damage all players.
 
 ID=40289
-S-00はHPが60%以下になると、敵とプレイヤー全てのHPを回復させるスキルを使用します。
+When the S-00 falls below 60% HP, both the player & enemy's HP will be fully restored.
 
 ID=40290
-コントローラー作動時、敵が出現します。
+When the controller is activated, enemies will appear.
 
 ID=40291
-30秒に1回、強力なダメージを与えるデバフがプレイヤーに付与されます。\n生成されたキューブ破壊時、該当デバフは解除されます。
+Periodically, every 30 seconds, the player will be inflicted by a heavy-damaging debuff.\nDestroy the cubes to remove the debuff.
 
 ID=40292
-15秒ごとに、各エリアでプレイヤーにダメージを与える磁気フィールドウェーブが発生します。
+Every 15 seconds, magnetic waves may appear at various areas and damage the player.
 
 ID=40293
-グルトンが出現しました。\nグルトンを倒すと、様々な報酬を獲得できます。
+Glutton has appeared.\nYou can earn various rewards by defeating glutton.
 
 ID=40294
-AIルーシーによって防御装置が作動しています。\n左区域の敵を全て討伐すると防御装置が停止します。
+Al Lucy is operating a defensive device.\nStop the device and defeat all enemies to proceed.
 
 ID=40295
-遮断ドアが解除されました。
+The obstacles near the door have been removed.
 
 ID=40296
-AIルーシーによって防御装置が作動しています。\n時間の経過とともに防御レベルが増加し、磁気フィールドが追加発生します。
+Al Lucy is operating a defensive device.\nStop the device and kill all enemies to proceed.\nWith time, additional defenses will be added.
 
 ID=40297
-AIルーシーによって防御装置が作動しています。\nドア解除スイッチを活用し、磁気フィールド発生を阻止できます。
+Al Lucy is operating a defensive device.\nHit the switch, so you can stop the magnetic fields.
 
 ID=40298
-ゲートの後ろに、トラップを解除するための装置があります。\nゲート前のスイッチを作動させてください。
+Equipment used to disable the trap is located behind the gate\nPlease activate the switch in front of the gate.
 
 ID=40299
-磁気フィールドが除去されました。
+The magnetic fields have been deactivated.
 
 ID=40300
-スチールグレイブは5ステージで構成されており、1日5回挑戦できます。
+Steel Grave is composed of 5 stages, you are able to challenge it 5 times a day.
 
 ID=40301
-コントローラーを操作すると、敵が出現します。
+Activate the controller to spawn the enemies.
 
 ID=40302
-サポーター召喚装置を操作すると、戦闘を支援してくれる仲間が出現します。
+Use the supporter summoning equipment to summon a Supporter that will help you in battle.
 
 ID=40303
-敵を討伐すると、コントローラーが生成されます。
+Defeat the enemy to spawn the controllers.
 
 ID=40304
-コントローラーを作動させると、キューブバリケードを通過できるフローティングボードが生成されます。
+Pass the cube barricade by activating the switch and using the floating board.
 
 ID=40305
-マップ上部にあるコントローラーを作動させると、フロアトラップが停止します。
+Deactivate the floor traps by activating the controller on north side of the map.
 
 ID=40306
-敵を討伐すると、キューブバリケードを通過できるフローティングボードが生成されます。
+Pass the cube barricade by defeating the enemies and using the floating board.
 
 ID=40307
-コントローラーを作動させると、フローティングエリアに移動できるフローティングボードが生成されます。
+Operate the controller to generate floating boards, they can be used to access the floating area.
 
 ID=40308
-フローティングエリアにあるコントローラーを作動させると、敵が召喚されます。
+Use the controller on the floating area to summon the enemy.
 
 ID=40309
-キューブが召喚されました。破壊時、攻撃力増加効果が付与されます。
+Cube has been summoned. Attack will increase upon its destruction.
 
 ID=40310
-キューブが召喚されました。破壊時、防御度増加効果が付与されます。
+Cube has been summoned. Defense will increase upon its destruction.
 
 ID=40311
-キューブが召喚されました。破壊時、HPが全回復します。
+Cube has been summoned. Destroy it to fully restore HP.
 
 ID=40312
-フローティングエリアにあるコントローラーを作動させると、フロアトラップが停止します。
+Disable the floor trap by activating the controller on the floating area.
 
 ID=40313
-ポイズンのHPが一定数値になると狂暴化し、広域攻撃を繰り出します。
+After Poison's HP drops below a certain point, wide-area attacks will be launched.
 
 ID=40314
-コントローラーを全て作動させると、キューブバリケードが解除されます。
+When all controllers are activated, the cube-shaped barricades will be cleared.
 
 ID=40315
-フレイムテンペストは、30秒ごとに持続的な広域攻撃を繰り出します。
+The Flame Tempest Forces will perform a wide-area attack every 30 seconds.
 
 ID=40316
-10秒ごとにレッドフード2体が召喚されます。\nレッドフードは一定間隔でマップ上にダメージエリアを生成します。
+Every 10 seconds, 2 red hoods will be summoned.\nAt set intervals, the red hoods will create a damage area above the map.
 
 ID=40317
-10秒ごとに強力なレーザービームが順番に発射されます。\nレーザービームはプレイヤーにのみダメージを与えます。
+Every 10 seconds, powerful laser beams will sequentially fire.\nLaser beams will only damage the player.
 
 ID=40318
-マップ上部にあるキューブを破壊すると、移動速度増加効果が付与されます。
+Destroying the cube on the north side of the map will grant a movement speed increase.
 
 ID=40319
-間もなく仲間が召喚されます。仲間は召喚と同時に支援射撃を行います。\n支援射撃はプレイヤーと敵全てにダメージを与えるので注意してください。
+An ally will be summoned shortly and will provide support fire.\nThe support fire will damage both the players and enemies, please be careful.
 
 ID=40320
-コントローラーを作動させると、広域攻撃が停止し、フレイムテンペストは10秒間麻痺状態になります。
+Use the controller to stop the wide-area attacks. The Flame Tempest Forces will be put into a 10-second paralysis state.
 
 ID=40321
-一部のフローティングエリアは見えませんが、乗ることができます。
+Some of the floating areas are not visible but you can stand on them.
 
 ID=40401
-間もなく敵が召喚されます。注意してください。
+More enemies will be summoned soon. Please be careful.
 
 ID=40402
 床の火炎トラップは周期的に発生します。\n火炎トラップを避けながら人形を討伐してください。
@@ -13910,25 +13910,25 @@ ID=40403
 火炎トラップは一定時間毎に火柱を生成し、回避で避けることはできません。\nタイミングを見計らい、火炎トラップを避けてください。
 
 ID=40404
-中央の赤いテンプテーションストーンにダメージを与えるには、青いテンプテーションストーンと召喚された敵を全て殲滅してください。
+To damage the red central temptation stone, please defeat all the enemies summoned by the blue/green temptation stone.
 
 ID=40405
-エドガーを倒してください。エドガーを倒さない限り次々と敵が召喚されます。
+Please defeat Edgar or one after another, more enemies will appear.
 
 ID=40406
 時限爆弾の爆発を避けながら全ての人形を退治してください。\n時限爆弾は全ての敵が倒れるまで生成されます。
 
 ID=40407
-敵を全て討伐すると次の敵が現れます。
+The next enemy will appear after all current enemies are defeated.
 
 ID=40408
-間もなくトラップが発動します。
+The traps will be activated soon.
 
 ID=40409
-中央の赤いテンプテーションストーンを破壊すると次のエリアに移動できます。\n青いテンプテーションストーンが破壊されました。15秒間、赤いテンプテーションストーンを攻撃できます。
+Destroying the central red temptation stone will allow you to proceed to the next area.\nThe blue/green temptation stone has been successfully destroyed. You may attack the red temptation stone in 15 seconds.
 
 ID=40410
-青いテンプテーションストーンと召喚された全ての敵を殲滅しました。\n赤いテンプテーションストーンを攻撃できます。
+All enemies summoned by the blue/green temptation stone have been exterminated.\nThe red temptation stone can be attacked.
 
 ID=40411
 人形たちの守護を受けている為、エドガはダメージを受けません。\n全ての人形を退治すると人形たちの守護が消えます。
@@ -13940,19 +13940,19 @@ ID=40421
 大形のソウルジャンクが現れました。\nソウルジャンク殲滅装置を保護してください。
 
 ID=40422
-磁気フィールド発生装置のチャージが完了するまで、チャージ装置を敵から守ってください。
+Until the magnetic-field generating device has fully charged, please defend it from oncoming enemies.
 
 ID=40423
-チャージ装置が破壊されたためチャージ量が減少し、完了までの時間が増加しました。
+Because a charging device was destroyed, the maximum charge capacity has decreased and the completion time has increased.
 
 ID=40424
-チャージ装置が全て破壊されたため作戦が失敗しました。これ以上進行できません。
+All charging devices have been destroyed. You cannot progress anymore.
 
 ID=40425
-磁気フィールド装置のチャージが完了しました。\n磁気フィールドが発生する前に安全区域に戻ってください。
+The magnetic field charging device has fully charged.\nRetreat back to the safety zone before the field is generated.
 
 ID=40426
-磁気フィールドが発生します。
+The magnetic fields will discharge.
 
 ID=40427
 [A-1] [B-1] [C-1]研究室にあるセキュリティーロックを全部解除すれば、特殊実験体隔離室への移動が可能となります。
@@ -13961,10 +13961,10 @@ ID=40428
 特殊実験体隔離室のセキュリティーロック解除。
 
 ID=40429
-左のA-1研究室のスイッチを作動させると、プレイヤーの攻撃力が大幅に増加します。
+Upon activating the switch in the left hand side of the A-1 Laboratory, the player's attack will rise significantly.
 
 ID=40430
-すべての敵を倒すと、スイッチを作動させられます。
+The switches can be activated after defeating all the enemies.
 
 ID=40431
 セキュリティーNo.A-1のロックが解除されました。
@@ -13976,13 +13976,13 @@ ID=40433
 セキュリティーNo.C-1のロックが解除されました。
 
 ID=40434
-中央のサブAIコア動力源を遮断すると、防御システムが無力化されます。
+If you disable the central power source, the defense system will be disabled.
 
 ID=40441
-進入路が巨大な瓦礫で塞がれています。起爆装置を作動させると破壊できます。
+Access road has been blocked by huge debris. You can destroy it by activating the detonator.
 
 ID=40442
-間もなく設置された爆弾が爆発します！
+The bomb will explode shortly!
 
 ID=40443
 遠距離砲撃用テンペスト保護のため、敵の援軍が到着しました。
@@ -13991,43 +13991,43 @@ ID=40444
 ラピッドゲートから続けて援軍が召喚されます。ラピッドゲートは攻撃して破壊できます。
 
 ID=40445
-故障した戦車が進入路を塞いでいます。無事な戦車を動かすと破壊できます。
+The immobile tank is blocking the path. Destroy it using other tanks.
 
 ID=40446
-コンテナが進入路を塞いでいます。クレーンのスイッチを作動させ、どかしてください。
+A container has blocked the road. Please use the switch to move the container away with a crane.
 
 ID=40447
-外郭エリアからのテンペストによる砲撃が始まります。
+Bombardment by the Tempest Forces from the outer vicinity will begin.
 
 ID=40448
-ラピッドフレイムの砲撃が始まります。急いで避難してください。
+The bombardment of the Rapid Flames Faction will begin, please evacuate immediately.
 
 ID=40449
-砲撃により落下したコンテナが道を塞いでいます。破壊して進んでください。
+The bombardment has resulted in the fallen containers blocking the road, please destroy them to get through.
 
 ID=40450
-起爆装置を2つとも作動させると、爆弾が爆発します。爆発は敵味方を区別しません。
+Activating the 2 detonators will make the bomb explode. The explosion will hit both allies and enemies.
 
 ID=40451
-遮断壁が道を塞いでいます。C4爆弾を作動させることで、破壊できます。
+The road is blocked by a barrier. It can be destroyed by activating the C4 bomb.
 
 ID=40452
-テンペストの砲撃が始まります。EMP発生装置をチャージし作動させるとテンペストを制圧できます。
+Tempest's bombardament will begin shortly. Charging the EMP generator will suppress Tempest.
 
 ID=40453
-25%チャージ完了。
+25% charge acquired.
 
 ID=40454
-50%チャージ完了。
+50% charge acquired.
 
 ID=40455
-75%チャージ完了。
+75% charge acquired.
 
 ID=40456
-100%チャージ完了。 EMP発生装置が作動します。
+100% charge acquired. EMP Generator is activating.
 
 ID=40457
-2番目のEMP発生装置は30秒後にチャージが完了し、作動させられます。
+To deploy the 2nd EMP generator, it must be charged for 30 seconds.
 
 ID=40458
 フレイムテンペストの長距離砲撃が始まります。
@@ -14036,181 +14036,181 @@ ID=40459
 フレイムテンペストの長距離砲撃が始まる前にシールド発生装置が投下され、砲撃を阻むシールドが自動で展開します。
 
 ID=40460
-EMP発生装置のチャージが完了しました。
+EMP generator charge is complete.
 
 ID=40461
-シールド発生装置が到着しました。作動時、敵の攻撃を無効化するシールドが発生します。
+The shield generator has arrived, when it is activated, you can prevent the enemies' attacks from reaching.
 
 ID=40471
-デバイスを操作すると、ランドバイソンが作動します。\n障壁はランドバイソンでしか破壊できません。
+The Land Bison can be activated from the device.\nOnly the Land Bison can destroy the enclosing walls.
 
 ID=40472
-ランドバイソンの耐久度、残り50%です。性能が低下します。
+Land Bison's durability has been reduced to 50%. Its performance has been reduced.
 
 ID=40473
-ランドバイソンの耐久度、残り20%です。\nランドバイソン破壊時、作戦は失敗となります。
+Land Bison's durability has been reduced to 20%. The mission will fail if Land Bison is destroyed.
 
 ID=40474
-ランドバイソン破壊。これ以上は進行できません。\n作戦は失敗です。
+The land bison has been destroyed. It is not possible to proceed.\nThe mission has been failed.
 
 ID=40475
-スイッチを作動させると、エレベーターが作動します。
+Upon activating the switch, the elevator can be used.
 
 ID=40476
-敵の襲撃により、エレベーターが停止しました。\n敵を全て討伐すると、スイッチを作動させられます。
+The elevator has stopped because of an incoming enemy attack.\nAfter all enemies are defeated you can activate the switch.
 
 ID=40477
-メインコアによる防御システムが作動しました。\nメインコアを破壊し、防御システムを停止させてください。
+The Main Core's defense system has been activated.\nDestroy the Main Core to deactivate the defense system.
 
 ID=40478
-アークシップの甲鈑に移動するために、動力制御装置を作動させてください。
+Please activate the power controller to proceed to the Ark Ship's deck.
 
 ID=40479
-操作ミスにより侵入者排除プログラムが作動しました。\n動力源が爆発する前に、動力球体を破壊してください。
+The intruder elimination program activated because of an error.\nPlease destroy the powered sphere before the power source explodes.
 
 ID=40480
-スイッチを作動させると、エレベーターが作動し甲鈑に移動できます。
+Activating the switch will start the elevator.
 
 ID=40481
-防御カプセルを作動させると、一定時間プレイヤーを保護するバリアを生成します。
+Activate the defense capsule to generate a barrier that protects players.
 
 ID=40482
-動力源の破壊により、アークシップの防御機能が暴走しました。\nレーザー攻撃がランダムでアークシップ甲鈑に向かって放たれます。
+The ark ship's defense systems have gone wild due to its broken power source.\nThe laser cannon will face the ships hulls and hit randomly.
 
 ID=40483
-青のレーザーはプレイヤーの全ての能力値を下げますが、敵の防御度も減少させます。
+The blue laser lowers all player stats and also lowers the enemy defense.
 
 ID=40484
-赤のレーザーはプレイヤーにのみダメージを与えます。\nまた、高熱地帯を生成しプレイヤーを火傷状態にします。
+The red laser can only damage players.\nIt also creates a hot zone that burns the players.
 
 ID=40485
-ジークプロトゼロがアークシップ主砲制御に成功しました。\n甲鈑への無差別砲撃が開始されます。
+The Sieg Prototype have taken over the Ark Ship's main gun.\nBombardment to the first-grade plate will begin promptly.
 
 ID=40486
-敵の襲撃によりエレベーターが停止しました。\n全ての敵を制圧すると、エレベーターの扉が開きます。
+The elevator's operation has stopped due to an attack.\nYou must defeat all enemies to open the elevator's door.
 
 ID=40487
-ゲートを開くためにはスイッチを作動させる必要があります。
+In order to open the gate, the switch must be activated.
 
 ID=40488
-次のエリアに行くための遮断ゲート解除スイッチがオフになっています。
+The gate switch to the next area is turned off.
 
 ID=40489
-エリアの奥にあるコンデンサーを破壊すればスイッチを使用できます。
+The switch can be used when the condensers at the back are destroyed.
 
 ID=40490
-コンデンサー破壊により、遮断ゲート解除スイッチの使用が可能になりました。
+Neutralization of the condenser was successful; you can now use the gate deactivation switches.
 
 ID=40491
-コンデンサーを破壊すると、コンデンサーの電力で稼動している防御機能を解除できます。
+Upon neutralizing the condenser, you can prevent it from defensive functions.
 
 ID=40492
-エレキボールから出ているケーブルに触れると、感電状態になります。
+You will incur a shocked state if you touch the cable from the electric ball
 
 ID=40493
 エリア内には、トラップを解除するためのスイッチが2つ隠されています。
 
 ID=40494
-次のエリアに行くための遮断ゲート解除スイッチが停止状態です。\n左側エリアのアークシップコンデンサーを破壊すると、スイッチを使用できます。
+The gate-closing switches have been activated; therefore entry to the next area is impossible.\nDestroy the condenser to the left to deactivate them.
 
 ID=40495
-コンデンサーが全て破壊され、遮断ゲート解除スイッチの使用が可能になりました。
+The condenser has been destroyed, you can now use the gate deactivator switches.
 
 ID=40496
-メインコアが危険を感知！\n防御レベルが上昇し、敵の増援が到着しました。
+The Main Core detects danger!\nThe system's defense level rises. Enemy reinforcements have arrived.
 
 ID=40497
-コンデンサーを破壊すると、稼動中の防御機能を解除できます。
+Destroy the condenser to prevent retaliatory fire from enemies.
 
 ID=40498
-メインコアが危険を感知して、防御レベルを引き上げました。
+The Main Core detects danger; it has raised the system's defense level.
 
 ID=40499
-アークシップ甲板への進入を防ぐため、防御兵力が持続的に投入されます。
+Defensive forces will appear to prevent you from entering the Ark Ship's command room.
 
 ID=40500
-スイッチを作動させると、アークシップ甲板まで移動できるエレベーターを利用できます。
+Upon turning on the switch, the elevator can be used to move to the Ark Ship's command room.
 
 ID=40501
-フローティングスクエアが稼働中です。しばらくお待ちください。
+The floating platform has been activated. Please wait.
 
 ID=40502
-バスターコア防御装置が停止しました。
+The buster core has stopped.
 
 ID=40503
-フローティングブリッジが稼働中です。しばらくお待ちください。
+The floating bridge has been activated. Please wait.
 
 ID=40504
-換気口から強力な中毒ガスが噴き出しています。\nガスに触れると、HPが急激に低下するので気を付けてください。
+A powerful intoxicating gas has been discharged from the ventilation opening.\nPlease be careful to not touch it as your HP will drop quickly.
 
 ID=40505
-ガスの噴出が止まりました。
+The stream of gas has stopped.
 
 ID=40506
-地面の磁気フィールドエリアに入ると、HPが持続的に減少します。\nスイッチを作動させて、磁気フィールドを解除できます。
+While entering the area affected by the magnetic field, your HP will be reduced overtime.\nWhen the switch is turned off, the magnetic field is cancelled.
 
 ID=40507
-シャトルが周期的に出現します。\nシャトルを避けて、敵を倒してください。
+The shuttles will return periodically.\nDefeat the enemy to stop the shuttles.
 
 ID=40508
-ドア開閉装置が活性化されました。
+The door's mechanism has been unlocked.
 
 ID=40509
-バフボンベを破壊すると、強化効果が付与されます。
+Destroy the Buff Bomb to receive a buff.
 
 ID=40510
-広域攻撃が停止しました。
+Area of Effect attack has been cancelled.
 
 ID=40511
-エレベーターが落下しています。
+The elevator is falling.
 
 ID=40512
-前方のスレイブコアを無力化できない場合、持続的にドミニアゼロが召喚されます。
+New Domineer Zeros will be be summoned unless the servant kernel is destroyed.
 
 ID=40513
-間もなくドミニアゼロが再召喚されます。\n前方にあるスレイブコアを先に無力化してください。
+A Domineer Zero will be summoned shortly.\nPlease destroy the servant kernel beforehand.
 
 ID=40514
-中央のスポーン制御装置が敵を持続的に召喚するのを阻止してください。
+Please destroy the spawning control device in the center to prevent continuous waves of spawn.
 
 ID=40515
-スポーン制御装置が破壊されました。\nグラスパーがスポーン制御装置を修理するのを阻止してください。
+The spawning control device was destroyed.\nPrevent the Grasper from repairing it.
 
 ID=40516
-間もなくエレベーターが止まります。
+The elevator will stop soon.
 
 ID=40601
-4つのエリアにいる敵を全て討伐すると、終末の館へと続くポータルが開きます。
+After defeating all enemies in the 4th area, unseal the door to continue.
 
 ID=40602
-クリスタルの封印を解除すると、戦闘が始まります。
+After releasing the crystal's seal, a battle will commence.
 
 ID=40603
-間もなく敵が現れます。全て討伐するとエターニティが登場します。
+[Eternity] will appear soon after all enemies have been killed. Defeat it.
 
 ID=40604
-間もなく敵が現れます。全て討伐するとジャガーノートが登場します。
+[Juggernaut] will appear soon after all enemies have been killed. Defeat it.
 
 ID=40605
-間もなく敵が現れます。全て討伐するとアポカリプスが登場します。
+[Apocalypse] will appear soon after all enemies have been killed. Defeat it.
 
 ID=40606
-間もなく敵が現れます。全て討伐するとパンデモニアが登場します。
+[Pandemonia] will appear soon after all enemies have been killed. Defeat it.
 
 ID=40607
-永劫の館をクリアしました。予兆の館に移動してください。
+Please secure the house of eternity and then proceed to the house of premonition.
 
 ID=40608
-激突の館をクリアしました。予兆の館に移動してください。
+Please secure the house of conflict and then proceed to the house of premonition.
 
 ID=40609
-災厄の館をクリアしました。予兆の館に移動してください。
+Please secure the house of calamity and then proceed to the house of premonition.
 
 ID=40610
-混沌の館をクリアしました。予兆の館に移動してください。
+Please secure the house of disorder and then proceed to the house of premonition.
 
 ID=40611
-終末の館をクリアしました。予兆の館から町に移動できます。
+The house of endings has been cleared. You may now proceed to town from the house of premonition.
 
 ID=40612
 保温装置を起動すると、40秒間氷結抵抗効果が付与されます。
@@ -14219,7 +14219,7 @@ ID=40613
 保温装置を起動すると、40秒間保温装置が氷結状態になり使用できなくなります。
 
 ID=40614
-金の台座に現れるフレイムクリスタルを破壊すると、溶岩の噴出を止めることができます。
+Destroy the Flame Crystal appearing in the golden pedestals to stop the lava from flowing.
 
 ID=40615
 しばらくするとヘキサスピアーが、10秒間氷結状態を誘発する回避不可の吹雪を発生させます。\n出来る限りアポカリプスの攻撃範囲から離れてください。
@@ -14231,31 +14231,31 @@ ID=40617
 3つのベノムフラワーはパンデモニアを強化させます。\nベノムフラワーを全て破壊すると、パンデモニアはスタン状態になります。
 
 ID=40618
-安全エリアを出るとすぐに戦闘が始まります。
+The battle will begin after you leave the safety area.
 
 ID=40619
 プライマルに捕まると汚染状態になります。\n汚染状態はプレイヤーの能力値を大幅に弱体化させます。
 
 ID=40620
-プライマルが深く息を吸います。
+The Primal is inhaling a deep breath.
 
 ID=40621
-特異型空白に入ると、プライマルの内部に最大4人まで進入できます。\n特異型空白は30秒後に消えます。
+Upon entering the special type of void, you are able to enter with a maximum of 4 people inside The Primal.\nSpecial type of voids disappear in 30 seconds.
 
 ID=40622
-プライマルの核は不安定なガスを周期的に発生させ、ダメージを与えます。
+The core of The Primal will periodically produce an unstable gas that deals damage.
 
 ID=40623
-召喚された核の守護者を全て討伐すると、\n一定時間、不安定なガスに対する免疫効果が\nプライマル内部に発生します。
+Defeating all summoned core's guardians will grant temporary immunity to The Primal's interior unstable gas.
 
 ID=40624
-間もなく強力な核の守護者が召喚されます。\n核を討伐するまで守護者は消えません。
+The powerful core's guardian will be summoned soon.\nThe guardian won't disappear until the core is defeated.
 
 ID=40625
 浄化装置を使用すると、活力状態になり、周期的にHPを回復します。
 
 ID=40626
-深手を負ったプライマルが最後の足掻きを始めます。\n持続的にダメージを与える汚染された血が足元に広がっています。
+The Primal begins a final desperate attempt upon being severely injured.\nContaminated blood is spreading towards your feet, it will inflict continuous damange.
 
 ID=40627
 Primal พยายามที่จะจับวัตถุที่คุณอยู่ในด้านหน้า
@@ -14264,7 +14264,7 @@ ID=40628
 警告！\n活力状態になれなかった場合、攻略が困難になる可能性があります。
 
 ID=40629
-メンバーがローディング中です。
+Members are loading.
 
 ID=40630
 プライマルの巨大な腕が召喚されました。\n巨大な腕は、一定距離内に敵がいないと強力なスキルを使用します。
@@ -14306,37 +14306,37 @@ ID=40643
 憤怒！虐殺！破壊！
 
 ID=40701
-間もなくタンク部隊による支援攻撃が始まります。\n支援攻撃まで敵の強襲に耐えてください。
+A supporting attack from the Tank Squad will soon begin.\nPlease withstand the enemy's assault until the reinforcements arrive.
 
 ID=40702
-タンク部隊の支援攻撃が始まりました。\n残りの敵を殲滅します。
+The supporting attack from the Tank Squad began.\nRemaining enemies will be defeated.
 
 ID=40703
-指定された位置までキャサリンを護衛し移動してください。
+Please escort Katherine to the designated area.
 
 ID=41000
-{0}日目
+Day {0}
 
 ID=41001
-1日目
+Day 1
 
 ID=41002
-2日目
+Day 2
 
 ID=41003
-3日目
+Day 3
 
 ID=41004
-4日目
+Day 4
 
 ID=41005
-5日目
+Day 5
 
 ID=41006
-6日目
+Day 6
 
 ID=41007
-7日目
+Day  7
 
 ID=41100
 これからだ！
@@ -14456,310 +14456,310 @@ ID=41138
 ロマン溢れる店Ⅱ
 
 ID=41200
-RスクエアEP4ノーマルクリア
+Clear R Square EP4 Normal 
 
 ID=41201
-スキル強化1回
+Level up 1 skill
 
 ID=41202
-アイテム分解3回
+Dismantle item for 3 times
 
 ID=41203
-ベストショータイムEP4ノーマルクリア
+Clear Best Showtime EP4 Normal
 
 ID=41204
-スキル強化3回
+Level up 3 skills
 
 ID=41205
-A.Rカード製作1回
+Create A.R card for 1 time
 
 ID=41206
-アイテム強化4回挑戦
+Item enhancing challenge for 4 times
 
 ID=41207
-アイテム分解6回
+Dismantle item for 6 times
 
 ID=41208
-Sコインショップ利用回数1回
+Use S coin shop for 1 time
 
 ID=41209
-コンクリートジャングルEP4ノーマルクリア
+Clear Concrete Jungle EP4 Normal 
 
 ID=41210
-スキル強化5回
+Level up 5 skills
 
 ID=41211
 スチールグレイブプレイ2回
 
 ID=41212
-アイテム強化6回挑戦
+Item enhancing challenge for 6 times
 
 ID=41213
-アイテム分解9回
+Dismantle item for 9 times
 
 ID=41214
-アイテム製作3回
+Create item for 3 times
 
 ID=41215
-ジャンクプールEP4ノーマルクリア
+Clear Junk Pool EP4 Normal 
 
 ID=41216
-スキル強化7回
+Level up 7 skills
 
 ID=41217
 スチールグレイブ4回プレイ
 
 ID=41218
-A.Rカード製作2回
+Create A.R Card for 2 times
 
 ID=41219
-アイテム強化8回挑戦
+Item enhancing challenge for 8 times
 
 ID=41220
-アイテム分解12回
+Dismantle item for 12 times
 
 ID=41221
-Sコインショップ利用回数2回
+Use S coin shop for 2 times
 
 ID=41222
-ザ・ビッグマウスEP4ノーマルクリア
+Clear The Big Mouth EP4 Normal 
 
 ID=41223
-スキル強化9回
+Level up 9 skills
 
 ID=41224
 スチールグレイブ6回プレイ
 
 ID=41225
-ブローチ合成1回
+Synthesize brooch once
 
 ID=41226
-アイテム強化10回挑戦
+Item enhancing challenge for 10 times
 
 ID=41227
-アイテム分解15回
+Dismantle item for 15 times
 
 ID=41228
-アイテム製作5回
+Create item for 5 times
 
 ID=41229
-N-102EP4ノーマルクリア
+Clear N-102 EP4 Normal
 
 ID=41230
-スキル強化10回
+Level up 10 skills
 
 ID=41231
 スチールグレイブ8回プレイ
 
 ID=41232
-A.Rカード製作3回
+Create A.R card for 3 times
 
 ID=41233
-アイテム強化12回挑戦
+Item enhancing challenge for 12 times
 
 ID=41234
-アイテム分解18回
+Dismantle item for 18 times
 
 ID=41235
-Sコインショップ利用回数3回
+Use S coin shop for 3 times
 
 ID=41236
-ブレイクアウトEP4ノーマルクリア
+Clear Breakout EP4 Normal 
 
 ID=41237
-スキル強化10回
+Level up 10 skills
 
 ID=41238
 スチールグレイブ10回プレイ
 
 ID=41239
-A.Rカード製作4回
+Create A.R card for 4 times
 
 ID=41240
-ブローチ合成2回
+Synthesize brooch 2 times
 
 ID=41241
-アイテム強化16回挑戦
+Item enhancing challenge for 16 times
 
 ID=41242
-アイテム分解21回
+Dismantle item for 21 times
 
 ID=41243
-アイテム製作7回
+Create item for 7 times
 
 ID=41244
-Ｓコインショップ利用回数4回
+Use S coin shop for 4 times
 
 ID=41245
-A.Rカード製作1回
+Create A.R card for 1 time
 
 ID=41246
-アイテム分解3回
+Dismantle item for 3 times
 
 ID=41247
 スチールグレイブ2回プレイ
 
 ID=41248
-アイテム強化4回挑戦
+Item enhancing challenge for 4 times
 
 ID=41249
-アイテム分解6回
+Dismantle item for 6 times
 
 ID=41250
-Sコインショップ利用回数1回
+Use S coin shop for 1 time
 
 ID=41251
 スチールグレイブ4回プレイ
 
 ID=41252
-A.Rカード製作2回
+Create A.R Card for 2 times
 
 ID=41253
-アイテム強化6回挑戦
+Item enhancing challenge for 6 times
 
 ID=41254
-アイテム分解9回
+Dismantle item for 9 times
 
 ID=41255
-アイテム製作3回
+Create item for 3 times
 
 ID=41256
 スチールグレイブ6回プレイ
 
 ID=41257
-アイテム強化8回挑戦
+Item enhancing challenge for 8 times
 
 ID=41258
-アイテム分解12回
+Dismantle item for 12 times
 
 ID=41259
-Sコインショップ利用回数2回
+Use S coin shop for 2 times
 
 ID=41260
 スチールグレイブ8回プレイ
 
 ID=41261
-A.Rカード製作3回
+Create A.R card for 3 times
 
 ID=41262
-ブローチ合成1回
+Synthesize brooch once
 
 ID=41263
-アイテム強化10回挑戦
+Item enhancing challenge for 10 times
 
 ID=41264
-アイテム分解15回
+Dismantle item for 15 times
 
 ID=41265
-アイテム製作5回
+Create item for 5 times
 
 ID=41266
 スチールグレイブ10回プレイ
 
 ID=41267
-アイテム強化12回挑戦
+Item enhancing challenge for 12 times
 
 ID=41268
-アイテム分解18回
+Dismantle item for 18 times
 
 ID=41269
-Sコインショップ利用回数3回
+Use S coin shop for 3 times
 
 ID=41270
 スチールグレイブ12回プレイ
 
 ID=41271
-A.Rカード製作4回
+Create A.R card for 4 times
 
 ID=41272
-ブローチ合成2回
+Synthesize brooch 2 times
 
 ID=41273
-アイテム強化16回挑戦
+Item enhancing challenge for 16 times
 
 ID=41274
-アイテム分解21回
+Dismantle item for 21 times
 
 ID=41275
-アイテム製作7回
+Create item for 7 times
 
 ID=41276
-Sコインショップ利用回数4回
+Use Scoin shop 4 times
 
 ID=41300
-キャラクター{0}LV達成
+Character achieves {0} LV
 
 ID=41301
-災厄の巨人{0}回クリア
+Clear Disastrous Giant for {0} times
 
 ID=41302
-スキル{0}回強化
+Level up {0} skills
 
 ID=41303
 スチールグレイブ{0}回プレイ
 
 ID=41304
-A.Rカード製作{0}回
+Create A.R card for {0} times
 
 ID=41305
-ブローチ{0}回合成
+Synthesize brooch {0} times
 
 ID=41306
-アイテム{0}回強化
+Enhance item for {0} times
 
 ID=41307
-アイテム{0}回分解
+Dismantle item for {0} times
 
 ID=41308
-アイテム{0}回製作
+Create item for {0} times
 
 ID=41309
-Sコインショップ{0}回利用
+Use S coin shop for {0} times
 
 ID=41310
 ディストリクトでPvPのBP{0}獲得
 
 ID=41311
-ザ・シングレイド参加
+Participate in The Thing Raid
 
 ID=41312
 日を越えても以前のクエストを完了させることができます。
 
 ID=41313
-レッツ！ソウルワーカー！！
+Let's! Soulworker!!
 
 ID=41314
 รับ
 
 ID=41315
-最終報酬受け取り
+Receive final reward
 
 ID=41316
-レッツスタート!!
+Let's Start!
 
 ID=41317
-完了してないミッションがあります。
+There are missions that have not been completed.
 
 ID=41318
 เสร็จสิ้น
 
 ID=41319
-月下の狂舞{0}回クリア
+Clear Lunatic Dance in the Moonlight for {0} times
 
 ID=41320
-麗しき捕食者{0}回クリア
+Clear Beautiful Predator for {0} times
 
 ID=41321
-嘆きの空{0}回クリア
+Clear Skies of Grief for {0} times
 
 ID=41322
-{0}年{1}月{2}日{3}イベントが終了します。
+{0}Year{1}Month{2}Day{3}  Event ends.
 
 ID=41323
-サマーウィークリーミッション
+Summer Weekly Mission
 
 ID=41324
-サマーウィークリーミッション
+Summer Weekly Mission
 
 ID=41325
 2周年ウィークリーチャレンジ！

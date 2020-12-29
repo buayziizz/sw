@@ -1,1190 +1,1190 @@
 ID=10000
-World First
-Title given to players who participated in the World Premier Test.
-[Participated in World Premier]
+ครั้งแรกของโลก
+มอบตำแหน่งให้กับผู้เล่นที่เข้าร่วมการทดสอบระดับพรีเมียร์โลก
+[เข้าร่วมใน World Premier]
 
 ID=20000
 SP
-Title given to players who participated in the World Premier Test.
-[Participated in World Premier]
+มอบตำแหน่งให้กับผู้เล่นที่เข้าร่วมการทดสอบระดับพรีเมียร์โลก
+[เข้าร่วมใน World Premier]
 
 ID=10005
 Last Carnival's
-Title given to players who participated in the Last Carnival raid event.
-Event Rewards
+ชื่อที่มอบให้กับผู้เล่นที่เข้าร่วมกิจกรรม Last Carnival raid
+รางวัลกิจกรรม
 
 ID=10006
-Sated Madness
-Title given to players who cleared Last Carnival 5 times during the raid event.
-Event Rewards
+บ้าไปแล้ว
+ชื่อที่มอบให้กับผู้เล่นที่เคลียร์ Last Carnival 5 ครั้งในช่วงกิจกรรมจู่โจม
+รางวัลกิจกรรม
 
 ID=10007
-Junk Hive's
-Title given to players who participated in the Junk Hive raid event.
-Event Rewards
+ขยะไฮฟ์
+ชื่อที่มอบให้กับผู้เล่นที่เข้าร่วมกิจกรรม Junk Hive raid
+รางวัลกิจกรรม
 
 ID=10008
-Violet's
-Title given to players who cleared Junk Hive 5 times during the raid event.
-Event Rewards
+ไวโอเล็ต
+ชื่อมอบให้กับผู้เล่นที่เคลียร์ Junk Hive 5 ครั้งในช่วงกิจกรรมการจู่โจม
+รางวัลกิจกรรม
 
 ID=10009
-Bandit Highway's
-Title given to players who participated in the Bandit Highway raid event.
-Event Rewards
+โจรไฮเวย์
+ชื่อที่มอบให้กับผู้เล่นที่เข้าร่วมกิจกรรม Bandit Highway raid
+รางวัลกิจกรรม
 
 ID=10010
 Abyss Awareness
-Title given to players who cleared Bandit Highway 5 times during the raid event.
-Event Rewards
+มอบชื่อให้กับผู้เล่นที่เคลียร์ Bandit Highway 5 ครั้งในช่วงกิจกรรมการจู่โจม
+รางวัลกิจกรรม
 
 ID=10011
-Iron Castle's
-Title given to players who participated in the Iron Castle raid event.
-Event Rewards
+ปราสาทเหล็ก
+ชื่อที่มอบให้กับผู้เล่นที่เข้าร่วมกิจกรรม Iron Castle raid
+รางวัลกิจกรรม
 
 ID=10012
-Heavyweight
-Title given to players who cleared Iron Castle 5 times during the raid event.
-Event Rewards
+เฮฟวี่เวท
+ชื่อมอบให้กับผู้เล่นที่เคลียร์ Iron Castle 5 ครั้งในช่วงกิจกรรมการจู่โจม
+รางวัลกิจกรรม
 
 ID=10013
-Burning
-Limited title to commemorate 50,000 pre-registration members for Soulworker.
-Event Rewards
+การเผาไหม้
+ชื่อ จำกัด เพื่อระลึกถึงสมาชิกที่ลงทะเบียนล่วงหน้า 50,000 คนสำหรับ Soulworker
+รางวัลกิจกรรม
 
 ID=10014
-Fifteenth
-A prestigious title given to players who have reached chapter 15 of Steel Grave.
-Event Rewards
+ประการที่สิบห้า
+ชื่ออันทรงเกียรติที่มอบให้กับผู้เล่นที่มาถึงบทที่ 15 ของ Steel Grave
+รางวัลกิจกรรม
 
 ID=10015
-Blazing
-Title given to players who have created the new Soulworker, "Jin Seipatsu".
-Event Rewards
+สว่าง
+ชื่อที่มอบให้กับผู้เล่นที่สร้าง Soulworker ใหม่ "Jin Seipatsu"
+รางวัลกิจกรรม
 
 ID=10016
-Quick Fist's
-Title given to the first 1,000 players who have created the new Soulworker, "Jin Seipatsu".
-Event Rewards
+กำปั้นด่วน
+ชื่อมอบให้กับผู้เล่น 1,000 คนแรกที่สร้าง Soulworker ใหม่ "Jin Seipatsu"
+รางวัลกิจกรรม
 
 ID=10017
-Sparkle
-Title given to players who have participated in the District Raid.
-Event Rewards
+ประกายไฟ
+ชื่อที่มอบให้กับผู้เล่นที่เข้าร่วมการจู่โจมเขต
+รางวัลกิจกรรม
 
 ID=10018
-Light Speed's
-Title given to players who have quickly cleared the District Raid.
-Event Rewards
+ความเร็วแสง
+มอบชื่อให้กับผู้เล่นที่เคลียร์ District Raid ได้อย่างรวดเร็ว
+รางวัลกิจกรรม
 
 ID=10019
-Summer Takeover
-Title given to players who fully enjoyed the summer.
-Event Rewards
+การเทคโอเวอร์ในช่วงฤดูร้อน
+ชื่อมอบให้กับผู้เล่นที่ชื่นชอบฤดูร้อนอย่างเต็มที่
+รางวัลกิจกรรม
 
 ID=10020
-First Encounter with
-Title given to players who participated in The Thing Subjugation Event
-Event Rewards
+First Encounter กับ
+ชื่อที่มอบให้กับผู้เล่นที่เข้าร่วมกิจกรรม The Thing Subjugation
+รางวัลกิจกรรม
 
 ID=10021
-New Star's Hope
-Title given to players who achieved an integration level of 50 or higher during the event period.<br>Thank you for supporting Soulworker!
-Event Rewards
+ความหวังของนิวสตาร์
+มอบฉายาให้กับผู้เล่นที่มีระดับการผสานรวมตั้งแต่ 50 ขึ้นไปในช่วงระยะเวลากิจกรรม <br> ขอขอบคุณที่สนับสนุน Soulworker!
+รางวัลกิจกรรม
 
 ID=10022
-Ocean Awareness
-Title given to players who achieved an integration level of 100 or higher during the event period.<br>Thank you for supporting Soulworker!
-Event Rewards
+การรับรู้มหาสมุทร
+มอบฉายาให้กับผู้เล่นที่มีเลเวลการผสานรวม 100 ขึ้นไปในช่วงเวลากิจกรรม <br> ขอขอบคุณที่สนับสนุน Soulworker!
+รางวัลกิจกรรม
 
 ID=10023
-Well Aware of
-Title given to players who achieved an integration level of 150 or higher during the event period.<br>Thank you for supporting Soulworker!
-Event Rewards
+ตระหนักดีถึง
+มอบฉายาให้กับผู้เล่นที่มีเลเวลการผสานรวมตั้งแต่ 150 ขึ้นไปในช่วงเวลากิจกรรม <br> ขอบคุณที่สนับสนุน Soulworker!
+รางวัลกิจกรรม
 
 ID=10024
-Hunting God's Will
-Title given to players who participated in The Primal Subjugation Event.
-Event Rewards
+ตามล่าพระประสงค์ของพระเจ้า
+ชื่อที่มอบให้กับผู้เล่นที่เข้าร่วมกิจกรรม The Primal Subjugation Event
+รางวัลกิจกรรม
 
 ID=10025
-GM's Friend
-Title given to players who participated in the GM Training Support Event
-Event Rewards
+เพื่อนของ GM
+ชื่อที่มอบให้กับผู้เล่นที่เข้าร่วมกิจกรรมสนับสนุนการฝึกอบรมของ GM
+รางวัลกิจกรรม
 
 ID=10026
 運命に抗う
-Title for the new Soulworker 「Iris Yuma」 Implementation Event.
-Event Rewards
+หัวข้อสำหรับกิจกรรมการใช้งาน Soulworker ใหม่「 Iris Yuma 」
+รางวัลกิจกรรม
 
 ID=10027
 憤怒の
-Title for the new Soulworker 「Iris Yuma」 Implementation Event.
-Event Rewards
+หัวข้อสำหรับกิจกรรมการใช้งาน Soulworker ใหม่「 Iris Yuma 」
+รางวัลกิจกรรม
 
 ID=10028
-Quiz Novice
-One who has paved the Way of the Quiz.
-Event Rewards
+แบบทดสอบสามเณร
+ผู้ที่ปูทางของแบบทดสอบ
+รางวัลกิจกรรม
 
 ID=10029
 Quiz Lover
-問題が解けた時の快感っていうの？<br>それがたまんないよね。
-Event Rewards
+問題がが解けた時の快感っていうの？ <br> それがたまんないよね。
+รางวัลกิจกรรม
 
 ID=10030
 Quiz Maniac
-レベルが違うのだよレベルが！！
-Event Rewards
+レベルが違ううのだよレベが ！！
+รางวัลกิจกรรม
 
 ID=10031
 Quiz King
-なんかものスゴイ頭良い感じになれる。
-Event Rewards
+なんかものスゴイ頭良い感じになるる。
+รางวัลกิจกรรม
 
 ID=10032
 鬼ごっこ大好き
-付きまとってるんじゃないんです！<br>追いかけてるだけなんです！！！
-Event Rewards
+付ききまとってるんじゃないんです！ <br> 追いかけてるだけんです ！！！
+รางวัลกิจกรรม
 
 ID=10033
 鬼ごっこの達人
-逃げ切れるイメージが湧かない。
-Event Rewards
+逃げげ切れるイメージが湧かない。
+รางวัลกิจกรรม
 
 ID=10034
 鬼ごっこの鬼人
 鬼ごっこイベント関連称号
-Event Rewards
+รางวัลกิจกรรม
 
 ID=10035
 二等
-ビッグ宝くじイベントに参加したユーザーに与えられる称号。
-Event Rewards
+ビッッグ宝くじイベントにししたユーザーに与えられ称号称号。
+รางวัลกิจกรรม
 
 ID=10036
 三等
-ビッグ宝くじイベントに参加したユーザーに与えられる称号。
-Event Rewards
+ビッッグ宝くじイベントにししたユーザーに与えられ称号称号。
+รางวัลกิจกรรม
 
 ID=10038
 溶けちゃう
-もうダメ～～～。
-Event Rewards
+もううダメ ～～～ 。
+รางวัลกิจกรรม
 
 ID=10039
 甘酸っぱい
 酸いも甘いもあってこその人生！
-Event Rewards
+รางวัลกิจกรรม
 
 ID=10040
 匿名
-名前は絶対明かしません！
-Event Rewards
+名前前絶対明かしません！
+รางวัลกิจกรรม
 
 ID=10041
-Singing
-喜びの歌を歌います！
-Event Rewards
+ร้องเพลง
+喜びびの歌を歌います！
+รางวัลกิจกรรม
 
 ID=10042
 恋しい
-恋しくて…恋しくて…震えが止まりません！！
-Event Rewards
+恋ししくて…恋しくて…震えが止まりません ！！
+รางวัลกิจกรรม
 
 ID=10045
 深淵の
-プライマルをいち早く深淵に叩き返したパーティーTOP5に贈られる称号。
-Event Rewards
+プラライマルをいち早く深淵に叩返したパーティー TOP5 に贈られる称号。
+รางวัลกิจกรรม
 
 ID=10046
-<font color='#FFD700'>光輝の</font>
-ゴールデンシタデルをいち早くクリアしたパーティTOP5に贈られる称号
-Event Rewards
+<font color='# FFD700'> 光輝の </font>
+ゴールデンシタデルをいち早くクリしたパーティ TOP5 に贈られる称号
+รางวัลกิจกรรม
 
 ID=10049
-Spinning~
-グルトンワールドイベント記念で限定販売される称号。
+ปั่น ~
+グルルトンワールドイベント記念で限定販ささる称号。
 イベント販売
 
 ID=10050
-<font color='#FAED7D'>§</font>Chicken<font color='#FAED7D'>§</font>
-グルトンワールドイベント記念で限定販売される称号。
+<font color='# FAED7D'> § </font> ไก่ <font color='# FAED7D'> § </font>
+グルルトンワールドイベント記念で限定販ささる称号。
 イベント販売
 
 ID=10051
-<font color='#FF0000'>⊙</font>Santa<font color='#FF0000'>⊙</font>
-グルトンワールドイベント記念で限定販売される称号。
+<font color='# FF0000'> ⊙ </font> ซานต้า <font color='# FF0000'> ⊙ </font>
+グルルトンワールドイベント記念で限定販ささる称号。
 イベント販売
 
 ID=10052
-<font color='#FFBB00'>★</font>Summer<font color='#FFBB00'>★</font>
-グルトンワールドイベント記念で限定販売される称号。
+<font color='# FFBB00'> ★ </font> ฤดูร้อน <font color='# FFBB00'> ★ </font>
+グルルトンワールドイベント記念で限定販ささる称号。
 イベント販売
 
 ID=10053
-<font color='#F15F5F'>♥</font>Angel<font color='#F15F5F'>♥</font>
-グルトンワールドイベント記念で限定販売される称号。
+<font color='# F15F5F'> ♥ </font> นางฟ้า <font color='# F15F5F'> ♥ </font>
+グルルトンワールドイベント記念で限定販ささる称号。
 イベント販売
 
 ID=20001
-Pioneer
-Title given to players who have challenged the Last Carnival raid event.
-Event Rewards
+ไพโอเนียร์
+ชื่อที่มอบให้กับผู้เล่นที่ท้าทายกิจกรรม Last Carnival raid
+รางวัลกิจกรรม
 
 ID=20002
-First-Timer
-Title given to players who have challenged the Junk Hive raid event.
-Event Rewards
+ตัวจับเวลาแรก
+ชื่อที่มอบให้กับผู้เล่นที่ท้าทายกิจกรรม Junk Hive raid
+รางวัลกิจกรรม
 
 ID=20003
-Troublemaker
-Title given to players who have challenged the Bandit Highway raid event.
-Event Rewards
+ตัวแก้ไขปัญหา
+ชื่อที่มอบให้กับผู้เล่นที่ท้าทายกิจกรรม Bandit Highway raid
+รางวัลกิจกรรม
 
 ID=20004
-Raid Captain
-Title given to players who challenged the Iron Castle raid event.
-Event Rewards
+หัวหน้าหน่วยจู่โจม
+ชื่อมอบให้กับผู้เล่นที่ท้าทายกิจกรรมการจู่โจมปราสาทเหล็ก
+รางวัลกิจกรรม
 
 ID=20005
-Type 284 α 
-Event: Reach total level of 50 by April 28th.
-Event Rewards
+ประเภท 284 α
+กิจกรรม: ถึงเลเวลทั้งหมด 50 ภายในวันที่ 28 เมษายน
+รางวัลกิจกรรม
 
 ID=20006
-Type 284 β
-Event: Reach total level of 80 by April 28th.
-Event Rewards
+พิมพ์ 284 β
+กิจกรรม: เข้าถึงเลเวลทั้งหมด 80 ภายในวันที่ 28 เมษายน
+รางวัลกิจกรรม
 
 ID=20007
-Type 284 γ
-Event: Reach total level of 120 by April 28th.
-Event Rewards
+พิมพ์ 284 γ
+กิจกรรม: ถึงเลเวล 120 ทั้งหมดภายในวันที่ 28 เมษายน
+รางวัลกิจกรรม
 
 ID=20008
-Type 284 δ
-Event: Reach total level of 150 by April 28th
-Event Rewards
+พิมพ์ 284 δ
+กิจกรรม: เข้าถึงเลเวลทั้งหมด 150 ภายในวันที่ 28 เมษายน
+รางวัลกิจกรรม
 
 ID=20009
-Poodle Team
-The title of the assigned team given to players to compete in the events of June 2016
-Event Rewards
+ทีมพุดเดิ้ล
+ชื่อของทีมที่ได้รับมอบหมายที่มอบให้กับผู้เล่นเพื่อแข่งขันในกิจกรรมเดือนมิถุนายน 2559
+รางวัลกิจกรรม
 
 ID=20010
-Chihuahua Team
-The title of the assigned team given to players to compete in the events of June 2016
-Event Rewards
+ทีมชิวาวา
+ชื่อของทีมที่ได้รับมอบหมายที่มอบให้กับผู้เล่นเพื่อแข่งขันในกิจกรรมเดือนมิถุนายน 2559
+รางวัลกิจกรรม
 
 ID=20011
-Dachshund Team
-The title of the assigned team given to players to compete in the events of June 2016
-Event Rewards
+ทีมดัชชุน
+ชื่อของทีมที่ได้รับมอบหมายที่มอบให้กับผู้เล่นเพื่อแข่งขันในเหตุการณ์เดือนมิถุนายน 2559
+รางวัลกิจกรรม
 
 ID=20012
-Shiba Inu Team
-The title of the assigned team given to players to compete in the events of June 2016
-Event Rewards
+ทีมชิบะอินุ
+ชื่อของทีมที่ได้รับมอบหมายที่มอบให้กับผู้เล่นเพื่อแข่งขันในกิจกรรมเดือนมิถุนายน 2559
+รางวัลกิจกรรม
 
 ID=20013
-Pug Team
-The title of the assigned team given to players to compete in the events of June 2016
-Event Rewards
+ปั๊กทีม
+ชื่อของทีมที่ได้รับมอบหมายที่มอบให้กับผู้เล่นเพื่อแข่งขันในกิจกรรมเดือนมิถุนายน 2559
+รางวัลกิจกรรม
 
 ID=20014
-Beagle Team
-The title of the assigned team given to players to compete in the events of June 2016
-Event Rewards
+ทีม Beagle
+ชื่อของทีมที่ได้รับมอบหมายที่มอบให้กับผู้เล่นเพื่อแข่งขันในเหตุการณ์เดือนมิถุนายน 2559
+รางวัลกิจกรรม
 
 ID=20015
-Akita Dog Team
-The title of the assigned team given to players to compete in the events of June 2016
-Event Rewards
+ทีมสุนัขอาคิตะ
+ชื่อของทีมที่ได้รับมอบหมายที่มอบให้กับผู้เล่นเพื่อแข่งขันในเหตุการณ์เดือนมิถุนายน 2559
+รางวัลกิจกรรม
 
 ID=20016
-Martial Artist
-Title given to the first 2000 players who have created the new Soulworker "Jin Seipatsu"
-Event Rewards
+นักศิลปะการต่อสู้
+ชื่อที่มอบให้กับผู้เล่น 2,000 คนแรกที่สร้าง Soulworker ใหม่ "Jin Seipatsu"
+รางวัลกิจกรรม
 
 ID=20017
-Halo
-Title given to players that cleared the District Raid.
-Event Rewards
+รัศมี
+ชื่อที่มอบให้กับผู้เล่นที่เคลียร์ District Raid
+รางวัลกิจกรรม
 
 ID=20018
-Assassin
-Title given to players who have quickly cleared the District Raid.
-Event Rewards
+ฆาตกร
+มอบชื่อให้กับผู้เล่นที่เคลียร์ District Raid ได้อย่างรวดเร็ว
+รางวัลกิจกรรม
 
 ID=20019
-Soul Master
-イベント期間中、統合レベル200以上を達成した者に与えられる称号。<br>ソウルワーカーを応援いただきありがとうございます！
-Event Rewards
+โซลมาสเตอร์
+イベベント期間中、 統合レベ 200 以上を達成した者に与えれる称号。 <br> ソウルワーカーを応援いただきありがううございます
+รางวัลกิจกรรม
 
 ID=20020
-Living in Dungeon's
-イベント期間中、統合レベル250以上を達成した者に与えられる称号。<br>ソウルワーカーを応援いただきありがとうございます！
-Event Rewards
+อาศัยอยู่ใน Dungeon's
+イベベント期間中、 統合レベ 250 以上を達成した者に与えらる称号。 <br> ソウルワーカーを応援いただきありがうう
+รางวัลกิจกรรม
 
 ID=20021
-Almighty
-イベント期間中、統合レベル275以上を達成した者に与えられる称号。<br>ソウルワーカーを応援いただきありがとうございます！
-Event Rewards
+ผู้ทรงอำนาจ
+イベベント期間中、 統合レベ 275 以上を達成した者に与えらる称号。 <br> ソウルワーカーを応援いただきありがううございます
+รางวัลกิจกรรม
 
 ID=20022
-Arrivant
-Title given to players who participated in The Primal Subjugation Event.
-Event Rewards
+อริ
+ชื่อที่มอบให้กับผู้เล่นที่เข้าร่วมกิจกรรม The Primal Subjugation Event
+รางวัลกิจกรรม
 
 ID=20023
-Happy Halloween
-ハロウィンイベントに参加した者に与えられる称号。
-Event Rewards
+สุขสันต์วันฮาโลวีน
+ハロロウィンイベントにしした者に与えられ称号。
+รางวัลกิจกรรม
 
 ID=20025
 一等
-ビッグ宝くじイベントに参加したユーザーに与えられる称号。
-Event Rewards
+ビッッグ宝くじイベントにししたユーザーに与えられ称号称号。
+รางวัลกิจกรรม
 
 ID=20026
-Empty Dream
-ビッグ宝くじイベントに参加したユーザーに与えられる称号。
-Event Rewards
+ความฝันที่ว่างเปล่า
+ビッッグ宝くじイベントにししたユーザーに与えられ称号称号。
+รางวัลกิจกรรม
 
 ID=100010
-World First
-Title given to players who participated in the World Premier Test.
-WPT Participant
+ครั้งแรกของโลก
+มอบตำแหน่งให้กับผู้เล่นที่เข้าร่วมการทดสอบระดับพรีเมียร์โลก
+ผู้เข้าร่วม WPT
 
 ID=100020
-Awakened Destiny
-What is the fate that awaits the boys and girls in this wretched world...? Regards for all the players that participated in ExCBT to walk together...!
-Login on ExCBT1
+โชคชะตาที่ถูกปลุก
+ชะตากรรมที่รอคอยเด็กชายและเด็กหญิงอยู่ในโลกที่เลวร้ายนี้คืออะไร ... ? ขอแสดงความนับถือสำหรับผู้เล่นทุกคนที่เข้าร่วม ExCBT เพื่อเดินไปด้วยกัน ... !
+เข้าสู่ระบบ ExCBT1
 
 ID=100030
 4Gamer's
-Thank you for supporting Soulworker with 4Gamer! Title is given to commemorate this meeting.
-Event Rewards
+ขอบคุณที่สนับสนุน Soulworker ด้วย 4Gamer! มีการมอบชื่อเพื่อเป็นที่ระลึกในการประชุมครั้งนี้
+รางวัลกิจกรรม
 
 ID=100040
-Dengeki's
-Thank you for supporting Soulworker with Dengeki Online! Title is given to commemorate this meeting.
-Event Rewards
+ของ Dengeki
+ขอบคุณที่สนับสนุน Soulworker กับ Dengeki Online! มีการมอบชื่อเพื่อเป็นที่ระลึกในการประชุมครั้งนี้
+รางวัลกิจกรรม
 
 ID=100050
 OnlineGamer's
-Thank you for supporting Soulworker with OnlineGamer! Title is given to commemorate this meeting.
-Event Rewards
+ขอบคุณที่สนับสนุน Soulworker กับ OnlineGamer! มีการมอบชื่อเพื่อเป็นที่ระลึกในการประชุมครั้งนี้
+รางวัลกิจกรรม
 
 ID=100060
-One of Amusement
-Thank you for supporting Soulworker with Famitsu! Title is given to commemorate this meeting.
-Event Rewards
+หนึ่งในความบันเทิง
+ขอบคุณที่สนับสนุน Soulworker กับ Famitsu! มีการมอบชื่อเพื่อเป็นที่ระลึกในการประชุมครั้งนี้
+รางวัลกิจกรรม
 
 ID=100070
-GAME Watch's
-Thank you for supporting Soulworker with GAME Watch! Title is given to commemorate this meeting.
-Event Rewards
+นาฬิกา GAME
+ขอบคุณที่สนับสนุน Soulworker ด้วย GAME Watch! มีการมอบชื่อเพื่อเป็นที่ระลึกในการประชุมครั้งนี้
+รางวัลกิจกรรม
 
 ID=100100
-Beginning of
-You can feel the new beginning. Although little, you can feel the expectations and hope surge through you.
-Quest [Stacked Hands] Reward
+จุดเริ่มต้นของ
+คุณสามารถรู้สึกถึงการเริ่มต้นใหม่ แม้ว่าจะเล็กน้อย แต่คุณก็รู้สึกได้ถึงความคาดหวังและความหวังที่หลั่งไหลเข้ามาในตัวคุณ
+รางวัล Quest [Stacked Hands]
 
 ID=100200
-Great
-You make even the little things great again. It's a title that great.
-Quest [Noble Sacrifice] Completion Reward
+เยี่ยมมาก
+คุณทำให้สิ่งเล็กน้อยยิ่งใหญ่อีกครั้ง เป็นชื่อที่ยอดเยี่ยม
+เควส [Noble Sacrifice] รางวัลสำเร็จ
 
 ID=100300
-The Raven
-Someone who envelops all darkness...
-Quest [Deep Black Armor] Completion Reward
+กา
+คนที่ห่อหุ้มความมืดมิด ...
+รางวัลการสำเร็จภารกิจ [เกราะดำลึก]
 
 ID=100401
-Grief Burdened
-Boys and girls that endure the hardships of grief and pain well into adulthood... what outcome will arise from this? No one could possibly know.
-Quest [Skies of Grief] Completion Reward
+ความเศร้าโศกเป็นภาระ
+เด็กชายและเด็กหญิงที่อดทนต่อความยากลำบากของความเศร้าโศกและความเจ็บปวดจนถึงวัยผู้ใหญ่ ... ผลลัพธ์จะเป็นอย่างไร? ไม่มีใครสามารถรู้ได้
+รางวัลการทำภารกิจ [ท้องฟ้าแห่งความเศร้าโศก]
 
 ID=100402
-Grief Burdened
-Boys and girls that endure the hardships of grief and pain well into adulthood... what outcome will arise from this? No one could possibly know.
-Quest [Skies of Grief] Completion Reward
+ความเศร้าโศกเป็นภาระ
+เด็กชายและเด็กหญิงที่อดทนต่อความยากลำบากของความเศร้าโศกและความเจ็บปวดจนถึงวัยผู้ใหญ่ ... ผลลัพธ์จะเป็นอย่างไร? ไม่มีใครสามารถรู้ได้
+รางวัลการทำภารกิจ [ท้องฟ้าแห่งความเศร้าโศก]
 
 ID=100403
-Grief Burdened
-Boys and girls that endure the hardships of grief and pain well into adulthood... what outcome will arise from this? No one could possibly know.
-Quest [Skies of Grief] Completion Reward
+ความเศร้าโศกเป็นภาระ
+เด็กชายและเด็กหญิงที่อดทนต่อความยากลำบากของความเศร้าโศกและความเจ็บปวดจนถึงวัยผู้ใหญ่ ... ผลลัพธ์จะเป็นอย่างไร? ไม่มีใครสามารถรู้ได้
+รางวัลการทำภารกิจ [ท้องฟ้าแห่งความเศร้าโศก]
 
 ID=100404
-Grief Burdened
-Boys and girls that endure the hardships of grief and pain well into adulthood... what outcome will arise from this? No one could possibly know.
-Quest [Skies of Grief] Completion Reward
+ความเศร้าโศกเป็นภาระ
+เด็กชายและเด็กหญิงที่อดทนต่อความยากลำบากของความเศร้าโศกและความเจ็บปวดจนถึงวัยผู้ใหญ่ ... ผลลัพธ์จะเป็นอย่างไร? ไม่มีใครสามารถรู้ได้
+รางวัลการทำภารกิจ [ท้องฟ้าแห่งความเศร้าโศก]
 
 ID=100405
-Grief Burdened
-Boys and girls that endure the hardships of grief and pain well into adulthood... what outcome will arise from this? No one could possibly know.
-Quest [Skies of Grief] Completion Reward
+ความเศร้าโศกเป็นภาระ
+เด็กชายและเด็กหญิงที่อดทนต่อความยากลำบากของความเศร้าโศกและความเจ็บปวดจนถึงวัยผู้ใหญ่ ... ผลลัพธ์จะเป็นอย่างไร? ไม่มีใครสามารถรู้ได้
+รางวัลการทำภารกิจ [ท้องฟ้าแห่งความเศร้าโศก]
 
 ID=100406
-Grief Burdened
-Boys and girls that endure the hardships of grief and pain well into adulthood... what outcome will arise from this? No one could possibly know.
-Quest [Skies of Grief] Completion Reward
+ความเศร้าโศกเป็นภาระ
+เด็กชายและเด็กหญิงที่อดทนต่อความยากลำบากของความเศร้าโศกและความเจ็บปวดจนถึงวัยผู้ใหญ่ ... ผลลัพธ์จะเป็นอย่างไร? ไม่มีใครสามารถรู้ได้
+รางวัลการทำภารกิจ [ท้องฟ้าแห่งความเศร้าโศก]
 
 ID=100500
-Blue Skied
-Viewing from heaven's perspective is not bad.
-Quest [To have smiled] Completion Reward
+ท้องฟ้าสีฟ้า
+การดูจากมุมมองของสวรรค์ก็ไม่เลว
+เควส [ต้องยิ้ม] รางวัลสำเร็จ
 
 ID=100601
-Preemptive
-A title conferred to the hero makes great sacrifices with a divine will, striving to protect the cherished with the power of a blade.
-Quest [A Hundred Swords] Completion Reward
+ล่วงหน้า
+ชื่อที่มอบให้กับฮีโร่ทำการเสียสละอย่างยิ่งใหญ่ด้วยเจตจำนงของพระเจ้ามุ่งมั่นที่จะปกป้องผู้ที่หวงแหนด้วยพลังของดาบ
+รางวัลการสำเร็จภารกิจ [ดาบร้อยเล่ม]
 
 ID=100602
-A warning shot
-A title conferred to the hero makes great sacrifices with a divine will, striving to protect the cherished with the power of a blade.
-Quest [A Hundred Swords] Completion Reward
+ยิงเตือน
+ชื่อที่มอบให้กับฮีโร่ทำให้การเสียสละครั้งใหญ่ด้วยเจตจำนงของพระเจ้ามุ่งมั่นที่จะปกป้องผู้ที่หวงแหนด้วยพลังของดาบ
+รางวัลการสำเร็จภารกิจ [ดาบร้อยเล่ม]
 
 ID=100603
-A warning slash
-A title conferred to the hero makes great sacrifices with a divine will, striving to protect the cherished with the power of a blade.
-Quest [A Hundred Swords] Completion Reward
+คำเตือนเฉือน
+ชื่อที่มอบให้กับฮีโร่ทำการเสียสละอย่างยิ่งใหญ่ด้วยเจตจำนงของพระเจ้ามุ่งมั่นที่จะปกป้องผู้ที่หวงแหนด้วยพลังของดาบ
+รางวัลการสำเร็จภารกิจ [ดาบร้อยเล่ม]
 
 ID=100604
-A warning strike
-A title conferred to the hero makes great sacrifices with a divine will, striving to protect the cherished with the power of a blade.
-Quest [A Hundred Swords] Completion Reward
+ประกาศเตือน
+ชื่อที่มอบให้กับฮีโร่ทำการเสียสละครั้งใหญ่ด้วยเจตจำนงของพระเจ้ามุ่งมั่นที่จะปกป้องผู้เป็นที่รักด้วยพลังของดาบ
+รางวัลการสำเร็จภารกิจ [ดาบร้อยเล่ม]
 
 ID=100605
-A wartune melody
-A title conferred to the hero makes great sacrifices with a divine will, striving to protect the cherished with the power of a blade.
-Quest [A Hundred Swords] Completion Reward
+ทำนองเพลง wartune
+ชื่อที่มอบให้กับฮีโร่ทำการเสียสละอย่างยิ่งใหญ่ด้วยเจตจำนงของพระเจ้ามุ่งมั่นที่จะปกป้องผู้ที่หวงแหนด้วยพลังของดาบ
+รางวัลการสำเร็จภารกิจ [ดาบร้อยเล่ม]
 
 ID=100606
-A warning gunshot
-A title conferred to the hero makes great sacrifices with a divine will, striving to protect the cherished with the power of a blade.
-Quest [A Hundred Swords] Completion Reward
+กระสุนปืนเตือน
+ชื่อที่มอบให้กับฮีโร่ทำให้การเสียสละครั้งใหญ่ด้วยเจตจำนงของพระเจ้ามุ่งมั่นที่จะปกป้องผู้ที่หวงแหนด้วยพลังของดาบ
+รางวัลการสำเร็จภารกิจ [ดาบร้อยเล่ม]
 
 ID=100700
-Tempest-like
-A tempest brews, it is quickly sifting through the world and influencing reality itself.
-Quest [Invoke the Tempest's Spear] Completion Reward
+เหมือนพายุ
+พายุมันกำลังลอดผ่านโลกอย่างรวดเร็วและมีอิทธิพลต่อความเป็นจริง
+เควส [เรียกหอกแห่งพายุ] รางวัลสำเร็จ
 
 ID=100800
-Fateful
-It is fate that is my doing, and yet it is also fate that it is my undoing. For if so, what is fate itself?
-Quest [Clash of Fate] Completion Reward
+โชคชะตา
+มันเป็นโชคชะตาที่ฉันทำ แต่มันก็เป็นโชคชะตาที่ฉันเลิกทำ ถ้าเป็นเช่นนั้นโชคชะตาคืออะไร?
+รางวัลการสำเร็จภารกิจ [Clash of Fate]
 
 ID=100910
-Well Prepared
-No matter what happens, I won't be afraid of what happens next.
-Achievement [Easy Come, Easy Go] Completion Reward
+เตรียมพร้อมอย่างดี
+ไม่ว่าอะไรจะเกิดขึ้นฉันจะไม่กลัวสิ่งที่จะเกิดขึ้นต่อไป
+รางวัลความสำเร็จ [Easy Come, Easy Go]
 
 ID=100920
-The Item
-Haha, I have items to use!
-Achievement [Please observe your consumption level] Completion Reward
+รายการ
+ฮ่า ๆ ฉันมีไอเทมต้องใช้!
+ความสำเร็จ [โปรดสังเกตระดับการบริโภคของคุณ] รางวัลการเติมเต็ม
 
 ID=100930
-Amazing
-There's just no other words to describe it...
-Achievement [It's necessary to adventure!] Completion Reward
+น่าอัศจรรย์
+ไม่มีคำอื่นใดที่จะอธิบายได้ ...
+ความสำเร็จ [จำเป็นต้องผจญภัย!] รางวัลสำเร็จ
 
 ID=101010
 Binge Shopper
-I want this, this and this. Actually, I take it back..I want them all!!
-Achievement [Isn't a point saved?] Completion Reward
+ฉันต้องการสิ่งนี้สิ่งนี้และสิ่งนี้ เอาคืนจริงๆนะ.. อยากได้หมด !!
+ความสำเร็จ [ไม่ได้บันทึกคะแนนไว้หรือ?] รางวัลสำเร็จ
 
 ID=101020
-Self Proclaimed
-I am so because I said so.
-Achievement [Give me the usual.] Completion Reward
+ประกาศตัวเอง
+ฉันเป็นอย่างนั้นเพราะฉันพูดอย่างนั้น
+ความสำเร็จ [ให้ฉันตามปกติ] รางวัลสำเร็จ
 
 ID=101030
-Praiseworthy
-It is commendable to be able to keep up with everything.
-Achievement [Can I have everything from start to finish?] Completion Reward
+น่ายกย่อง
+เป็นเรื่องน่ายกย่องที่สามารถติดตามได้ทุกเรื่อง
+ความสำเร็จ [ฉันสามารถมีทุกอย่างตั้งแต่ต้นจนจบได้หรือไม่?] รางวัลสำเร็จ
 
 ID=101040
-of glory
-Glorious! It is glorious! The path to your glory starts now.
-Achievement [Should I open a store too?] Completion Reward
+แห่งความรุ่งโรจน์
+รุ่งโรจน์! รุ่งโรจน์! เส้นทางสู่ความรุ่งโรจน์ของคุณเริ่มต้นแล้ว
+Achievement [ฉันควรเปิดร้านด้วยหรือไม่] รางวัลสำเร็จ
 
 ID=101110
-Fragile
-Should I be extra careful...?
-Achievement [I want a disposable one...] Completion Reward
+บอบบาง
+ควรระมัดระวังเป็นพิเศษ ... ?
+ความสำเร็จ [ฉันต้องการสิ่งที่ใช้แล้วทิ้ง ... ] รางวัลสำเร็จ
 
 ID=101120
-Exhausted
-I'm not asking for anything to be returned!
-Achievement [Is it necessary to invest so much?] Completion Reward
+เหนื่อย
+ฉันไม่ขออะไรคืน!
+ความสำเร็จ [จำเป็นต้องลงทุนมากขนาดนั้นเลยหรือ?] รางวัลสำเร็จ
 
 ID=101130
-Repair Obsessed
-Nobody doesn't know your name around here when it comes to having broken stuff...
-Achievement [It isn't broken, but I'd like to repair it!] Completion Reward
+ซ่อมหมกมุ่น
+ไม่มีใครไม่รู้จักชื่อของคุณที่นี่เมื่อต้องเจอของพัง ...
+ความสำเร็จ [มันไม่พัง แต่ฉันต้องการซ่อมมัน!] รางวัลสำเร็จ
 
 ID=101210
-Inattentive
-It's best you come to face with danger. Be careful!
-Achievement [Oh no... to this guy!] Completion Reward
+ไม่ตั้งใจ
+ดีที่สุดที่คุณต้องเผชิญกับอันตราย ระวัง!
+ความสำเร็จ [โอ้ไม่ ... กับผู้ชายคนนี้!] รางวัลสำเร็จ
 
 ID=101220
-Tenacious
-This title is bestowed to those who have never gave up regardless of what hit them.
-Achievement [Stand up! I can still stand up--!!] Completion Reward
+หวงแหน
+ชื่อนี้มอบให้กับผู้ที่ไม่เคยยอมแพ้โดยไม่คำนึงถึงสิ่งที่กระทบ
+Achievement [ยืนขึ้น! ฉันยังยืนหยัดได้ - !!] รางวัลสำเร็จ
 
 ID=101230
-The Reincarnated
-I'm alive once more! Reborn anew. Heh.
-Achievement [To defeat an enemy, first overcome yourself.] Completion Reward
+กลับชาติมาเกิด
+ฉันยังมีชีวิตอยู่อีกครั้ง! เกิดใหม่อีกครั้ง เฮ้.
+ความสำเร็จ [ในการเอาชนะศัตรูให้เอาชนะตัวเองก่อน] รางวัลเสริม
 
 ID=101240
-Present
-I was discovered... in this world.. 
-Achievement [I haven't fallen. I am simply hugging this planet.] Completion Reward
+นำเสนอ
+ฉันถูกค้นพบ ... ในโลกนี้ ..
+ความสำเร็จ [ฉันไม่ได้ตก ฉันแค่กอดโลกใบนี้] รางวัลความสำเร็จ
 
 ID=101310
-Enemy
-This world is full of hostile enemies.
-Achievement [Not that bad yet, right?] Completion Reward
+ศัตรู
+โลกนี้เต็มไปด้วยศัตรูที่ร้ายกาจ
+ความสำเร็จ [ยังไม่แย่ใช่มั้ย?] รางวัลสำเร็จ
 
 ID=101320
-Stoic
-I can still push myself harder! From the start! 
-Achievement [I am only passing by] Completion Reward
+สโตอิก
+ฉันยังผลักดันตัวเองให้หนักขึ้นได้! ตั้งแต่เริ่มต้น!
+ความสำเร็จ [ฉันกำลังผ่านไปเท่านั้น] รางวัลสำเร็จ
 
 ID=101330
 S-Class
-Undisputed.
-Achievement [More more more!!] Completion Reward
+ไม่มีปัญหา
+ความสำเร็จ [มากขึ้นอีกมาก !!] รางวัลสำเร็จ
 
 ID=101340
-Monster's
-From another perspective, you're the monster.
-Achievement [The one who gives judgement... is now here!] Completion Reward
+สัตว์ประหลาด
+จากมุมมองอื่นคุณคือสัตว์ประหลาด
+ความสำเร็จ [ผู้ให้การตัดสิน ... อยู่ที่นี่แล้ว!] รางวัลสำเร็จ
 
 ID=101410
-Discovered
-When did it...
-Achievement [You can't hold your ground!] Completion Reward
+ค้นพบ
+มันเมื่อไหร่ ...
+ความสำเร็จ [คุณไม่สามารถยึดพื้นที่ของคุณได้!] รางวัลสำเร็จ
 
 ID=101420
-Unnatural
-Are there tricks up my sleeve or is It a coincidence that I'm this skilled?
-Achievement [Oh... that was nothing.] Completion Reward
+ผิดธรรมชาติ
+มีเคล็ดลับแขนเสื้อของฉันหรือเป็นเรื่องบังเอิญที่ฉันมีทักษะนี้?
+ความสำเร็จ [โอ้ ... นั่นไม่มีอะไรเลย] รางวัลสำเร็จ
 
 ID=101430
-Noble
-Those with power will do everything in their power to hunt small fry.
-Achievement [Eyesore!] Completion Reward
+มีคุณธรรมสูง
+ผู้ที่มีอำนาจจะทำทุกวิถีทางเพื่อล่าลูกปลาตัวเล็ก ๆ
+รางวัลเสริม [Eyesore!]
 
 ID=101440
-Weakness
-To see weakness in one self, is also a strength in itself.
-Achievement [Mind over matter.] Completion Reward
+ความอ่อนแอ
+การมองเห็นความอ่อนแอในตัวเองก็เป็นจุดแข็งในตัวเองเช่นกัน
+ความสำเร็จ [Mind over matter.] รางวัลเสริม
 
 ID=101510
-Fearless
-It is a title conferred to those with nerves of steel and guts of iron.
-Achievement [Oh... that was nothing.] Completion Reward
+กล้าหาญ
+เป็นชื่อที่มอบให้กับผู้ที่มีประสาทเหล็กและความกล้าหาญของเหล็ก
+ความสำเร็จ [โอ้ ... นั่นไม่มีอะไรเลย] รางวัลสำเร็จ
 
 ID=101520
-Brave
-What an impressive feat to have challenged your foes with such modesty and gallance.
-Achievement [The weak shouldn't bark at all] Completion Reward
+กล้าหาญ
+ช่างเป็นความสำเร็จที่น่าประทับใจที่ได้ท้าทายศัตรูของคุณด้วยความสุภาพเรียบร้อยและความกล้าหาญเช่นนี้
+ความสำเร็จ [ผู้อ่อนแอไม่ควรเห่าเลย] รางวัลสำเร็จ
 
 ID=101530
-Arrogant
-Also known as one of the seven deadly sins. If one falls too deeply into their own personal desire, they will be a victim of their undoing, that is their own body. Watch out!
-Achievement [Is it the quantity more than the quality?] Completion Reward
+หยิ่ง
+หรือที่เรียกว่าหนึ่งในบาป 7 ประการ หากใครตกหลุมพรางความปรารถนาส่วนตัวของตนเองมากเกินไปพวกเขาก็จะตกเป็นเหยื่อของการเลิกทำนั่นคือร่างกายของพวกเขาเอง ระวัง!
+ความสำเร็จ [ปริมาณมากกว่าคุณภาพหรือไม่] รางวัลสำเร็จ
 
 ID=101540
-Common
-Do you know what it means?... Mediocrity.
-Achievement [Common Buster] Completion Reward
+เรื่องธรรมดา
+คุณรู้ไหมว่ามันหมายถึงอะไร ...
+รางวัลความสำเร็จ [Common Buster]
 
 ID=101610
-Coercive
-I stand by my strength. Everything else is small fry.
-Achievement [You should join the small fry] Completion Reward
+บีบบังคับ
+ฉันยืนหยัดด้วยกำลังของฉัน อย่างอื่นเป็นทอดขนาดเล็ก
+ความสำเร็จ [คุณควรเข้าร่วมทอดเล็ก ๆ ] รางวัลสำเร็จ
 
 ID=101620
 Ecstastic
-You can immerse yourself in anything and everyhing. This title shows that. Obviously.
-Achievement [Were they really that many?] Completion Reward
+คุณสามารถดื่มด่ำกับทุกสิ่งและทุกอย่าง ชื่อนี้แสดงให้เห็นว่า เห็นได้ชัด.
+ความสำเร็จ [พวกมันเยอะขนาดนั้นเลยเหรอ?] รางวัลสำเร็จ
 
 ID=101630
 Sympathizer
-However... I couldn't do anything in the end...
-Achievement [It looks pitiful now.] Completion Reward
+อย่างไรก็ตาม ... ในที่สุดฉันก็ทำอะไรไม่ได้ ...
+ความสำเร็จ [มันดูน่าสงสารในตอนนี้] รางวัลสำเร็จ
 
 ID=101640
-Strong
-The title fits you perfectly.<br>Although it is a sin in itself.
-Achievement [I seem to be strong] Completion Reward
+แข็งแรง
+ชื่อเรื่องเหมาะกับคุณที่สุด <br> แม้ว่าจะเป็นบาปในตัวเอง
+ความสำเร็จ [ดูเหมือนฉันจะแข็งแกร่ง] รางวัลสำเร็จ
 
 ID=101710
-Boss-like
-After all, I am no boss
-Achievement [I don't want to meet you when I'm tired] Completion Reward
+เหมือนเจ้านาย
+ท้ายที่สุดฉันไม่ใช่เจ้านาย
+ความสำเร็จ [ฉันไม่ต้องการพบคุณเมื่อฉันเหนื่อย] รางวัลเสริม
 
 ID=101720
-Average
-There is still room for growth, right?
-Achievement [You bite just like a dog] Completion Reward
+เฉลี่ย
+ยังมีที่ว่างสำหรับการเติบโตใช่ไหม?
+ความสำเร็จ [คุณกัดเหมือนสุนัข] รางวัลสำเร็จ
 
 ID=101730
-Number 2
-I'm not #1...but it's not a reason for staying like this...
-Achievement [Even though a mini-boss is a boss....] Completion Reward
+หมายเลข 2
+ฉันไม่ใช่อันดับ 1 ... แต่มันไม่ใช่เหตุผลที่จะอยู่แบบนี้ ...
+ความสำเร็จ [แม้ว่ามินิบอสจะเป็นบอส .... ] รางวัลเสริม
 
 ID=101740
-Mad
-I'm crazy?
-Achievement [Mad Hunter] Completion Reward
+บ้า
+ฉันบ้า?
+รางวัลความสำเร็จ [Mad Hunter]
 
 ID=101810
-Unconscious
-A title which was given to me before I could even think about it.
-Achievement [I can predict your next move] Completion Reward
+หมดสติ
+ชื่อที่มอบให้ฉันก่อนที่ฉันจะคิดได้ด้วยซ้ำ
+ความสำเร็จ [ฉันสามารถทำนายการเคลื่อนไหวครั้งต่อไปของคุณได้] รางวัลสำเร็จ
 
 ID=101820
-Throne
-To rise to the throne is hard enough, yet to keep it is even more difficult.
-Achievement [Gift of a daily effort] Completion Reward
+บัลลังก์
+การจะก้าวขึ้นสู่บัลลังก์นั้นยากพอสมควร แต่การรักษาไว้นั้นยากยิ่งกว่า
+ความสำเร็จ [ของขวัญจากความพยายามทุกวัน] รางวัลการเติมเต็ม
 
 ID=101830
-Unbeatable
-Not to your foe. Maybe.
-Achievement [Not quite scary] Completion Reward
+ไม่สามารถเอาชนะได้
+ไม่ใช่ศัตรูของคุณ อาจจะ.
+ความสำเร็จ [ไม่น่ากลัวนัก] รางวัลเสริม
 
 ID=101840
-Boss
-The strongest amongst this group, after all.
-Achievement [Boss Killer] Completion Reward
+บอส
+แข็งแกร่งที่สุดในกลุ่มนี้หลังจากทั้งหมด
+รางวัลเสริมความสำเร็จ [Boss Killer]
 
 ID=101910
-Veteran
-This person is obviously qualified to be considered as such.
-Achievement [Not even enough to brag] Completion Reward
+ทหารผ่านศึก
+เห็นได้ชัดว่าบุคคลนี้มีคุณสมบัติที่จะได้รับการพิจารณาเช่นนี้
+ความสำเร็จ [ยังไม่พอที่จะคุยโม้] รางวัลสำเร็จ
 
 ID=101920
-Committed
-Even when your hands are not intertwined.
-Achievement [The Rise and Fall of an Emperor] Completion Reward
+มุ่งมั่น
+แม้ว่ามือของคุณจะไม่พันกัน
+รางวัลความสำเร็จ [การเพิ่มขึ้นและการล่มสลายของจักรพรรดิ]
 
 ID=101930
-The Most Frightening
-Please don't make such a scary face.
-Achievement [Strongest! Scariest! Craziest!] Completion Reward
+น่ากลัวที่สุด
+กรุณาอย่าทำหน้าน่ากลัวแบบนี้
+ความสำเร็จ [แข็งแกร่งที่สุด! น่ากลัวที่สุด! Craziest!] รางวัลสำเร็จ
 
 ID=101940
-Raider
-The testament to being one.
-Achievement [Emperor of Raids] Completion Reward
+เรเดอร์
+บทพิสูจน์ความเป็นหนึ่ง
+รางวัลเสริมความสำเร็จ [Emperor of Raids]
 
 ID=102010
-Doll
-The soul does not dwell, or does so it does.. a doll's soul.
-Achievement [Don't laugh meaninglessly!!] Completion Reward
+ตุ๊กตา
+วิญญาณไม่ได้อาศัยอยู่หรือเป็นเช่นนั้น .. วิญญาณของตุ๊กตา
+ความสำเร็จ [อย่าหัวเราะอย่างไร้ความหมาย !!] รางวัลสำเร็จ
 
 ID=102020
-Mysterious
-The more you dwell on it, the less you'll know.
-Achievement [Just a normal puppet...] Completion Reward
+ลึกลับ
+ยิ่งคุณอยู่กับมันมากเท่าไหร่คุณก็จะยิ่งรู้น้อยลงเท่านั้น
+ความสำเร็จ [แค่หุ่นธรรมดา ... ] รางวัลสำเร็จ
 
 ID=102030
-Fashionable
-To take care of one's clothes, ...it's natural right?
-Achievement [I'd like to put something on it....] Completion Reward
+ทันสมัย
+การดูแลเสื้อผ้า ... มันเป็นเรื่องธรรมชาติใช่ไหม?
+ความสำเร็จ [ฉันอยากจะใส่อะไรลงไป .... ] รางวัลสำเร็จ
 
 ID=102040
-Doll
-To be called as such... not bad at all!
-Achievement [Marionette] Completion Reward
+ตุ๊กตา
+ถึงเรียกแบบนี้ ... ไม่เลวเลย!
+รางวัลความสำเร็จ [Marionette]
 
 ID=102110
-Trashy
-I wonder if I can be useful...
-Achievement [Can't it be reused somehow?] Completion Reward
+ไร้ค่า
+สงสัยจะมีประโยชน์ ...
+ความสำเร็จ [ไม่สามารถใช้ซ้ำได้หรือไม่] รางวัลสำเร็จ
 
 ID=102120
-Recycle
-Pitiful!
-Achievement [It's not bad for a junk.] Completion Reward
+รีไซเคิล
+น่าเวทนา!
+ความสำเร็จ [ไม่ใช่เรื่องเลวร้ายสำหรับขยะ] รางวัลสำเร็จ
 
 ID=102130
-Lost
-I think that's the right choice...
-Achievement [I can't tell the difference with Veshi] Completion Reward
+สูญหาย
+คิดว่าเลือกถูกแล้ว ...
+Achievement [ฉันบอกความแตกต่างกับ Veshi ไม่ได้] รางวัลสำเร็จ
 
 ID=102140
-Junk
-I wonder if I can put it to good use... after getting through the trouble of obtaining it.
-Achievement [Junk Cleaner] Completion Reward
+ขยะ
+ฉันสงสัยว่าจะสามารถนำไปใช้ประโยชน์ได้หรือไม่ ... หลังจากผ่านปัญหาในการได้มา
+รางวัลความสำเร็จ [Junk Cleaner]
 
 ID=102210
-Vengeful
-When you're hit, hit back!
-Achievement [At the end of every revenge...] Completion Reward
+พยาบาท
+โดนตีกลับเมื่อไหร่!
+ความสำเร็จ [เมื่อสิ้นสุดการแก้แค้นทุกครั้ง ... ] รางวัลสำเร็จ
 
 ID=102220
-Merciless
-There is no mercy for traitors, only punishments.
-Achievement [I won't forgive you!] Completion Reward
+ไร้ความปราณี
+ไม่มีความเมตตาสำหรับผู้ทรยศมีเพียงการลงโทษ
+ความสำเร็จ [ฉันจะไม่ยกโทษให้คุณ!] รางวัลสำเร็จ
 
 ID=102230
-Final
-I've arrived. This is the end for you!
-Achievement [God is not the judge... I am!] Completion Reward
+สุดท้าย
+ฉันมาถึงแล้ว นี่คือที่สิ้นสุดสำหรับคุณ!
+ความสำเร็จ [พระเจ้าไม่ใช่ผู้ตัดสิน ... ข้า!] รางวัลสำเร็จ
 
 ID=102240
-Righteous
-What is justice? What is evil? There is no conclusion once you begin thinking
-Achievement [A Taste of Justice] Completion Reward
+ชอบธรรม
+ความยุติธรรมคืออะไร? อะไรคือความชั่ว? ไม่มีข้อสรุปเมื่อคุณเริ่มคิด
+รางวัลความสำเร็จ [รสชาติแห่งความยุติธรรม]
 
 ID=102310
-Intermediate
-Not a beginner, but not a veteran either!
-Achievement [The limit of the strength....] Completion Reward
+ระดับกลาง
+ไม่ใช่มือใหม่ แต่ก็ไม่ใช่มือเก๋าเช่นกัน!
+ความสำเร็จ [ขีด จำกัด ของความแข็งแกร่ง .... ] รางวัลสำเร็จ
 
 ID=102320
-Starved
-Food please. Or else I'll have to fight you.
-Achievement [Blood is boiling, Heart is beating] Completion Reward
+หิวโหย
+อาหารโปรด. ไม่งั้นฉันจะต้องสู้กับคุณ
+ความสำเร็จ [เลือดเดือดหัวใจเต้นแรง] รางวัลเสริม
 
 ID=102330
-Combatant
-A fight can't be fought and won on force alone. The key is their ability to draw out their hidden potential within any given battle.
-Achievement [Do you get injured when I approach you?] Completion Reward
+ผู้ทำการรบ
+การต่อสู้ไม่สามารถต่อสู้และชนะได้ด้วยกำลังเพียงอย่างเดียว กุญแจสำคัญคือความสามารถในการดึงศักยภาพที่ซ่อนอยู่ออกมาจากการต่อสู้ใด ๆ
+Achievement [คุณได้รับบาดเจ็บเมื่อฉันเข้าใกล้คุณหรือไม่] รางวัลเสริม
 
 ID=102340
-Burning
-Burn! The burning passionate soul.
-Achievement [There are things that can only be heard through fighting] Completion Reward
+การเผาไหม้
+เผา! วิญญาณเร่าร้อนที่แผดเผา
+ความสำเร็จ [มีบางสิ่งที่สามารถได้ยินได้จากการต่อสู้เท่านั้น] รางวัลเสริม
 
 ID=102410
-Anxious
-Huh?! Really!? No way!! 
-Achievement [The manufacturing speed is abnormal.] Completion Reward
+กังวล
+ฮะ?! จริงๆ!? ไม่มีทาง!!
+ความสำเร็จ [ความเร็วในการผลิตผิดปกติ] รางวัลสำเร็จ
 
 ID=102420
-Evolved
-What's this? It's something different than from before?
-Achievement [Doesn't anything evolve?] Completion Reward
+วิวัฒนาการ
+นี่คืออะไร? มันเป็นอะไรที่แตกต่างจากเมื่อก่อน?
+ความสำเร็จ [ไม่มีอะไรพัฒนา?] รางวัลสำเร็จ
 
 ID=102430
-Destructive
-It has been building up inside of me recently...this.. destructive urge.
-Achievement [I'll turn it into scrap.] Completion Reward
+ทำลายล้าง
+มันก่อตัวขึ้นภายในตัวฉันเมื่อไม่นานนี้ ... นี่ .. แรงกระตุ้นที่ทำลายล้าง
+ความสำเร็จ [ฉันจะเปลี่ยนเป็นเรื่องที่สนใจ] รางวัลสำเร็จ
 
 ID=102440
-Killing
-Only then, can you put them to rest for good.
-Achievement [Killing Machine] Completion Reward
+ฆ่า
+เพียงแค่นั้นคุณสามารถทำให้พวกเขาพักผ่อนได้ดี
+รางวัลเสริมความสำเร็จ [Killing Machine]
 
 ID=102510
-Insistent
-I get it already. Don't be so insistent.
-Achievement [Next is 101th time...] Completion Reward
+ยืนหยัด
+ฉันเข้าใจแล้ว อย่ายืนกรานอย่างนั้น
+ความสำเร็จ [ถัดไปคือครั้งที่ 101 ... ] รางวัลสำเร็จ
 
 ID=102520
-Heartful
-Is this overflowing kindness... or is it something else...?
-Achievement [Let's praise each other's efforts!] Completion Reward
+ใจจริง
+ความเมตตาที่มากล้นนี้ ... หรือเป็นอย่างอื่น ... ?
+ความสำเร็จ [ขอชมเชยความพยายามของกันและกัน!] รางวัลสำเร็จ
 
 ID=102530
-Sweet
-Sweet! Too sweet!
-Achievement [Let's enjoy our youth!] Completion Reward
+หวาน
+หวาน! หวานเกินไป!
+ความสำเร็จ [มาสนุกกับเยาวชนของเรากันเถอะ!] รางวัลสำเร็จ
 
 ID=102540
-Beloved
-Are these feelings not conveyed through words...?
-Achievement [Are we friends now?] Completion Reward
+ที่รัก
+ความรู้สึกเหล่านี้ไม่ได้ถูกถ่ายทอดออกมาทางคำพูด ... ?
+ความสำเร็จ [ตอนนี้เราเป็นเพื่อนกันหรือยัง?] รางวัลสำเร็จ
 
 ID=102610
-Armored
-Somehow, its firmness varies...
-Achievement [There is nothing I can't break] Completion Reward
+หุ้มเกราะ
+ความแน่นของมันแตกต่างกันไป ...
+ความสำเร็จ [ไม่มีอะไรที่ฉันทำลายไม่ได้] รางวัลการสำเร็จ
 
 ID=102620
-Adept
-Learnt the ropes.
-Achievement [I get how to do it now!] Completion Reward
+เชี่ยวชาญ
+เรียนรู้เชือก
+ความสำเร็จ [ฉันได้วิธีทำเดี๋ยวนี้!] รางวัลสำเร็จ
 
 ID=102630
-Charismatic
-Everyone swoons after me.
-Achievement [Executing Destructive Measures] Completion Reward
+มีเสน่ห์
+ทุกคนหมุนตัวตามฉัน
+ความสำเร็จ [ดำเนินมาตรการทำลายล้าง] รางวัลสำเร็จ
 
 ID=102640
-Top
-I'm second-to-none!
-Achievement [God of Destruction: Destroyer] Completion Reward
+ด้านบน
+ฉันไม่เป็นรองใคร!
+รางวัลความสำเร็จ [God of Destruction: Destroyer]
 
 ID=102710
-Magnificent
-Who else in the world could be considered the most magnificent person? 
-Achievement [Combo Parade] Completion Reward
+งดงาม
+มีใครอีกในโลกที่ถือได้ว่าเป็นบุคคลที่งดงามที่สุด?
+รางวัลเสริมความสำเร็จ [Combo Parade]
 
 ID=102720
-Combo
-The combo has not even started.
-Achievement [Go go go!] Completion Reward
+คอมโบ
+คอมโบยังไม่เริ่มด้วยซ้ำ
+ความสำเร็จ [Go go go!] รางวัลสำเร็จ
 
 ID=102730
-Lucky
-Surely it'll be today. I'm sure of it. Definitely. Without a doubt. Please let it be today!
-Achievement [Lucky 7!] Completion Reward
+โชคดี
+แน่นอนมันจะเป็นวันนี้ ฉันแน่ใจว่ามัน อย่างแน่นอน. โดยไม่มีข้อกังขา. ขอให้เป็นวันนี้!
+ความสำเร็จ [Lucky 7!] รางวัลเสริม
 
 ID=102740
-Legendary
-I'm proof of a living legend. However, your legend has only just begun.
-Achievement [I had time to chitchat while doing the combo] Completion Reward
+ตำนาน
+ฉันเป็นหลักฐานของตำนานที่มีชีวิต อย่างไรก็ตามตำนานของคุณเพิ่งเริ่มต้น
+ความสำเร็จ [ฉันมีเวลาพูดคุยขณะทำคอมโบ] รางวัลสำเร็จ
 
 ID=102810
-Tender Heart
-It's a good trait to have, it's not just merely a gentle kindness.
-Achievement [Eh? Am I convenient now?] Completion Reward
+หัวใจที่อ่อนโยน
+เป็นลักษณะที่ดีที่จะมีไม่ใช่แค่ความอ่อนโยนเท่านั้น
+สัมฤทธิ์ [เอ๊ะ? ตอนนี้ฉันสะดวกหรือไม่] รางวัลการเสร็จสิ้น
 
 ID=102820
-Guided Death
-This is the only way it can ever be...
-Achievement [My body is moving by itself...] Completion Reward
+ความตายที่นำทาง
+นี่เป็นวิธีเดียวที่จะทำได้ ...
+ความสำเร็จ [ร่างกายของฉันเคลื่อนไหวได้ด้วยตัวเอง ... ] รางวัลสำเร็จ
 
 ID=102830
-Dependable
-Did you ask? You asked? You didn't? Well ask up!
-Achievement [Can I do the Main Quests now?] Completion Reward
+เชื่อถือได้
+คุณถาม? คุณถาม? คุณไม่ได้? ถามขึ้น!
+ความสำเร็จ [ฉันสามารถทำเควสหลักตอนนี้ได้หรือไม่] รางวัลสำเร็จ
 
 ID=102840
-Underdog
-An underdog that fights behind the scenes is necessary, what a thankless hero.
-Achievement [Maining Sub Quests] Completion Reward
+ตกอับ
+ผู้แพ้ที่ต้องต่อสู้อยู่เบื้องหลังเป็นสิ่งที่จำเป็นฮีโร่ที่ไม่เห็นคุณค่า
+ความสำเร็จ [การดูแลเควสย่อย] รางวัลสำเร็จ
 
 ID=102910
 Dungeoner
-Just how much of my life has been just dungeoning...
-Achievement [Let's go!] Completion Reward]
+ชีวิตของฉันต้องคุกรุ่นแค่ไหน ...
+ความสำเร็จ [ไปกันเถอะ!] รางวัลเสริม]
 
 ID=102920
-Labyrinth
-Going there is just too fun! I'll never leave it.
-Achievement [Entry is free!] Completion Reward
+เขาวงกต
+ไปที่นั่นสนุกเกินไป! ฉันจะไม่ทิ้งมันไป
+ความสำเร็จ [เข้าฟรี!] รางวัลเสริม
 
 ID=102930
 Dungeonist
-Pick a favourite dungeon, let's go there together.
-Achievement [Dungeon Ambassador] Completion Reward
+เลือกดันเจี้ยนที่ชอบแล้วไปที่นั่นด้วยกัน
+รางวัลความสำเร็จ [Dungeon Ambassador]
 
 ID=103010
-Speedy Sprinter
-My feet!
-Achievement [It's talent..right?] Completion Reward
+Sprinter ที่รวดเร็ว
+เท้าของฉัน!
+ความสำเร็จ [มันคือความสามารถ .. ใช่มั้ย?] รางวัลสำเร็จ
 
 ID=103020
-Super
-It is sure different from being an ordinary person.
-Achievement [Is it about my speed?] Completion Reward
+ซุปเปอร์
+แน่ใจว่าแตกต่างจากการเป็นคนธรรมดา
+ความสำเร็จ [มันเกี่ยวกับความเร็วของฉันหรือเปล่า] รางวัลสำเร็จ
 
 ID=103030
-Feeling
-It's no use thinking...I'm feeling it!
-Achievement [Do this to do this to do this!!] Completion Reward
+ความรู้สึก
+มันไม่ใช้ความคิด ... ฉันรู้สึกมัน!
+ความสำเร็จ [ทำสิ่งนี้เพื่อทำสิ่งนี้ !!] รางวัลสำเร็จ
 
 ID=103040
-Speedy
-Too fast!
-Achievement [Speeding] Completion Reward
+รวดเร็ว
+เร็วเกินไป!
+รางวัลความสำเร็จ [เร่งความเร็ว]
 
 ID=103110
-Elite
-With this, you can call yourself a member of the elite.
-レコード[何か秘訣でも？]獲得報酬
+ผู้ลากมากดี
+ด้วยวิธีนี้คุณสามารถเรียกตัวเองว่าเป็นสมาชิกของชนชั้นสูงได้
+レコード [何か秘訣でも？] 獲得報酬
 
 ID=103120
-Shining
-So dazzling!
-Achievement [To have good tastes!] Completion Rewar
+ส่องแสง
+ตื่นตามาก!
+ความสำเร็จ [เพื่อให้มีรสนิยมที่ดี!] รางวัลสำเร็จ
 
 ID=103130
 SS
-すご過ぎる！感動した！
-レコード[免許皆伝！]獲得報酬
+すご過ぎる！ 感動した！
+レコード [免許皆伝！] 獲得報酬
 
 ID=103140
-God
-Not a god anymore!
-Achievement [S (Amazing) S (Highest)] Completion Reward
+พระเจ้า
+ไม่ใช่เทพอีกต่อไป!
+ความสำเร็จ [S (Amazing) S (สูงสุด)] รางวัลเสริม
 
 ID=103210
-F's
-It says “F” but I want you to read it as “Fu”.
-レコード[見つめ直して]獲得報酬
+ของ F
+มันเขียนว่า“ F” แต่อยากให้อ่านว่า“ Fu”
+レコード [見つめ直して] 獲得報酬
 
 ID=103220
-Heretic's
-I guess your thinking is a biiiiiit different that those around you?
-レコード[生まれ変わって]獲得報酬
+คนนอกรีต
+ฉันเดาว่าความคิดของคุณแตกต่างจากคนรอบข้างหรือไม่?
+レコード [生まれ変わって] 獲得報酬
 
 ID=103230
-Conversely
-Divergence of ideas is an important concept.
-レコード[人には色んな才能があります]獲得報酬
+ตรงกันข้าม
+ความแตกต่างทางความคิดเป็นแนวคิดที่สำคัญ
+レココード [人には色んな才能があます] 獲得報酬
 
 ID=103240
-Intentional
-It was intentional. Desu.
-レコード[データを消去しますか？]獲得報酬
+เจตนา
+มันเป็นความตั้งใจ Desu.
+レコード [データを消去しますか？] 獲得報酬
 
 ID=103310
-Greedy
-All mine! I ain't giving anything to anyone!
-レコード[お金は多ければ多いほどいい]獲得報酬
+โลภ
+ทั้งหมดของฉัน! ฉันจะไม่ให้อะไรกับใคร!
+レココード [お金は多ければ多いほどいい] 獲得報酬
 
 ID=103320
-Laboring
-An accumulation of small efforts will one day bear fruit.
-レコード[コツコツ集めるのがコツ！]獲得報酬
+แรงงาน
+วันหนึ่งการสะสมความพยายามเล็กน้อยจะเกิดผล
+レコード [コツコツ集めるのがコツ！] 獲得報酬
 
 ID=103330
-Battlefield
-Risk your life on the battlefield!
-レコード[今、お金が落ちる音がした]獲得報酬
+สนามรบ
+เสี่ยงชีวิตในสนามรบ!
+レコード [今、 お金が落ちる音しした] 獲得報酬
 
 ID=103340
-Reliable
-That attitude of yours is wonderful.
-レコード[お金になりたい]獲得報酬
+เชื่อถือได้
+ทัศนคติของคุณนั้นยอดเยี่ยมมาก
+レコード [お金になりたい] 獲得報酬
 
 ID=103410
-Energetic
-It's only just begun. Let's go!
-レコード[結構集まった]獲得報酬
+มีพลัง
+มันเพิ่งเริ่มต้นเท่านั้น ไปกันเถอะ!
+レコード [結構集まった] 獲得報酬
 
 ID=103420
-Sparkle
-Look at this sparkle!!!
-レコード[もういっぱいじゃない？]獲得報酬
+ประกายไฟ
+ดูประกายนี้ !!!
+レココード [もういっぱいじゃない？] 獲得報酬
 
 ID=103430
-Passionate
-I want it..I want it!! I WANT MORE!!!!
-Achievement [Ether's Raison D'etre...] Completion Reward
+หลงใหล
+อยากได้.. อยากได้ !! ฉันต้องการมากขึ้น!!!!
+ความสำเร็จ [Raison D'etre ของ Ether ... ] รางวัลเสริม
 
 ID=103440
-Ether
-It gets more and more fascinating the more you look at it.
-レコード[エーテルがあれば満足]獲得報酬
+อีเธอร์
+มันจะยิ่งดูน่าสนใจมากขึ้นเรื่อย ๆ
+レコード [エーテルがあれば満足] 獲得報酬
 
 ID=103510
-Sparkly
+เป็นประกาย
 この輝き…留まることを知らないとは何て罪なんだ。
-レコード[あなたのルビー、輝いてます]獲得報酬
+レココーあ [あなたのルビー、 輝いてます] 獲得報酬
 
 ID=103520
-Uninhibited
-Just try and stop me if you can!
-レコード[財布に紐はありません！！！]獲得報酬
+ไม่ถูกยับยั้ง
+แค่พยายามหยุดฉันถ้าคุณทำได้!
+レココード [財布に紐はありません ！！！] 獲得報酬
 
 ID=103530
-No.1
-You are number one!
-レコード[感無量！！涙で前が見えません！]獲得報酬
+ฉบับที่ 1
+คุณคืออันดับหนึ่ง!
+レココード [感無量 ！！ 涙で前が見えません！] 獲得報酬
 
 ID=103610
-Fledging
-新しい境地から見える次の境地。
-レコード[ここで名を挙げてやる！]獲得報酬
+หนี
+新新しい境地から見える次の境地。
+レコード [ここで名を挙げてや！]！ 報酬
 
 ID=103620
-Wandering
-My next partner is... you?
-レコード[勝利以外は許されない]獲得報酬
+หลง
+คู่ต่อไปของฉันคือ ... คุณ?
+レコドード [勝利以外は許されない] 獲得報酬
 
 ID=103630
-Experienced
-何百戦と戦ってきたこの私をなめないほうがいい。
-レコード[幾つもの死線を越えて]獲得報酬
+มีประสบการณ์
+何百百戦と戦ってきたこの私をなめないほうがいい。
+レコード [幾つもの死線を越えて] 獲得報酬
 
 ID=103640
-Warlike
-極限の戦いをしたことがあるかね？その瞬間には自我など存在せんのだよ。
-レコード[修羅の極み]獲得報酬
+ชอบสงคราม
+極限の戦いをしたことがあるか？ その瞬間には自我ど存在せんのよよ。
+レコード [修羅の極み] 獲得報酬
 
 ID=103710
-Tomorrow's
-Of course I will still gonna do it again tomorrow. Obviously.
-レコード[もちろん明日もやりますよね？]獲得報酬
+พรุ่งนี้
+แน่นอนฉันจะยังคงทำมันอีกครั้งในวันพรุ่งนี้ เห็นได้ชัด.
+レココード [もちろん明日もやりますね？] 獲得報酬
 
 ID=103720
-Innocent
-Heart is always at peace
-レコード[時間が経つのも忘れてしまう]獲得報酬
+ไร้เดียงสา
+หัวใจมักจะสงบ
+レココード [時間が経つのも忘れししまう] 獲得報酬
 
 ID=103730
-Unnoticed
-思った以上に時間が経つのは早い。
-Achievement [Everyone was waiting for you.] Completion Reward
+ไม่มีใครสังเกตเห็น
+思っっ以上にに時間が経つのは早い。
+ความสำเร็จ [ทุกคนรอคุณอยู่] รางวัลสำเร็จ
 
 ID=103740
-Cloudream's
-何かの夢じゃありません。地域名です。
-レコード[クラウドリームのことは何でも聞いて]獲得報酬
+Cloudream ของ
+何かかの夢じゃありません。地域名です。
+レココード [クラウドリームのことはでもも聞いて] 獲得報酬
 
 ID=103810
-Enhanced
-強くなりたいか？相応の覚悟はあるか？
-レコード[武器から後光が…！]獲得報酬
+ปรับปรุง
+強くくりたたいか？ 相応の覚悟はるか？
+レコード [武器から後光が…！] 獲得報酬
 
 ID=103820
-Golden
-金を見ていると胸が高鳴ります。<br>近づくとよだれが垂れます。不思議です。
-レコード[ゴールデンハッカー]獲得報酬
+โกลเด้น
+金ををてていると胸が高鳴りま。 <br> 近づくとよだれが垂れます。不思議です。
+レコード [ゴールデンハッカー] 獲得報酬
 
 ID=103910
-Next Time
-次はいける！<br>次こそ本気出す！次なら負けない！
-レコード[失ったジェニーの価値]獲得報酬
+คราวหน้า
+次ははいける！ <br> 次こそ本気出す！ なら負けなない！
+レコード [失ったジェニーの価値] 獲得報酬
 
 ID=103920
-This Is
-これはこれ。それ以上でもそれ以下でもないです。
-レコード[ハズレにも慣れてきたよ]獲得報酬
+นี่คือ
+これれはれれ。それ以上でもそれ以下でもないです。
+レコード [ハズレにも慣れてきよ] よ報酬
 
 ID=103930
-An Enhancer Called
-これは強化ではない。気を付けたまえ。これは強化ではない。
-レコード[もはや弱化]獲得報酬
+เรียกว่า Enhancer
+これれは強化ではない。気を付けたまえ。これは強化ではない。
+レコード [もはや弱化] 獲得報酬
 
 ID=103940
-Legend of
-おめでとうございます。伝説になりましたね！永遠に語り継がれるでしょう。
-レコード[ずっと通い続けます]獲得報酬
+ตำนานของ
+おめめでとうございます。伝説になりししたね！ 永遠に語継継れるでしょう。
+レココード [ずっと通い続けます] 獲得報酬
 
 ID=104010
-Craft
-材料の混ぜ方ひとつで様々な結果物が生まれる製作。この石と紙で金を作れないかなぁ？
-レコード[製作後援者]獲得報酬
+หัตถกรรม
+材料の混ぜ方ひとつで様々な結果物生まれる製作。この石と紙で金をれなないかな？
+レコード [製作後援者] 獲得報酬
 
 ID=104020
-Gold
-地獄の沙汰も金次第。…どうやって地獄に金を？
-レコード[黄金の錬金術士]獲得報酬
+ทอง
+地獄の沙汰も金次第。…どうやって地獄にを？
+レコード [黄金の錬金術士] 獲得報酬
 
 ID=104110
-Interesting
-どうなっているんだろう。とても気になる。
-レコード[奥深き分解の世界]獲得報酬
+น่าสนใจ
+どううなっているんだろう。とても気になる。
+レコード [奥深き分解の世界] 獲得報酬
 
 ID=104120
-Reset
-リセット…？ちょ、ちょっと待って！リセットはわかったからそのボタン押さな…あ、ちょま！あー！！
-レコード[元には戻せない]獲得報酬
+รีเซ็ต
+リセット…？ ちょ、 ちょっと待っ！ リセットはわかったかそそのボタン押さな…あ、 ちょま！ あー ！！
+レコード [元には戻せない] 獲得報酬
 
 ID=104130
-Dismantling is
-分解する時は躊躇しないでください。躊躇するほど分解しづらくなりますから。
-レコード[分解って気持ちいい]獲得報酬
+การรื้อคือ
+分解すする時は躊躇しないでください。躊躇するほどししづらくなりますらら。
+レコード [分解って気持ちいい] 獲得報酬
 
 ID=104140
-Minus
-マイナスという言葉のイメージはよくないが、マイナス同士をかけあわせるとプラスになる不思議。
-レコード[マイナスの魔手]獲得報酬
+ลบ
+マイイナスという言葉のイメージはよくないが、 マイナス同士かけあわせるとプラスになる不思議。
+レコード [マイナスの魔手] 獲得報酬
 
 ID=104210
-Thorough
-非の打ちどころがないほどの徹底さ。もし非を打ってきても、打った者をしれっと消すくらいの徹底っぷり。
-レコード[商品はお気に召しましたか？]獲得報酬
+อย่างละเอียด
+非の打ちどころがないほどの徹底さ。もし非を打ってきも、 もった者ししれっと消すくらいの徹底っぷり。
+レコード [商品はお気に召しましたか？] 獲得報酬
 
 ID=104220
-Skilled
-熟すほどに練られたもの。継続は力ということだね。
-レコード[熟練した取引者]獲得報酬
+มีฝีมือ
+熟すすほどに練られたもの。継続は力ということだね。
+レコード [熟練した取引者] 獲得報酬
 
 ID=104230
-Money
-マネーと聞くと、心がワクワクしてくるのはなんででしょうか。
-レコード[お金の流れを感じる]獲得報酬
+เงิน
+マネネーと聞くと、 心がワクワししてくるのはなんでししょうか。
+レコード [お金の流れを感じる] 獲得報酬
 
 ID=104240
-Shopping
-それは本当に今必要なものかい？本当に今ないと困る物かい？
-レコード[ショッピングの帝王]獲得報酬
+ช้อปปิ้ง
+それれは本当に今必要なものかい？ 本に今なないと困る物かい？
+レコード [ショッピングの帝王] 獲得報酬
 
 ID=104310
-Gluttonous
-見た目は可愛いですが、なんでも食べます。だまされないでください。
-レコード[グルトンの天敵]獲得報酬
+ตะกละ
+見たた目は可愛いですが、 なんでも食べすす。だまされないでください。
+レコード [グルトンの天敵] 獲得報酬
 
 ID=104410
-Restless
-落ち着いて。少し落ちついてください。
-レコード[せわしない働き者]獲得報酬
+กระสับกระส่าย
+落ちち着いて。少し落ちついてください。
+レココード [せわしない働き者] 獲得報酬
 
 ID=104510
-Secret
+ความลับ
 暴きたくなる欲望に駆られます。
-レコード[シークレットフロンティア]獲得報酬
+レコード [シークレットフロンティア] 獲得報酬
 
 ID=104610
-Virtual
-仮想世界だったらいいのになぁ…と思ったことが一度はあるはずです。
-レコード[仮想世界の訓練者]獲得報酬
+เสมือน
+仮想想世界だったらいのになぁ…と思ったことが一度はあるはずす。
+レコード [仮想世界の訓練者] 獲得報酬
 
 ID=104710
-Zenny's
-ジェニーというものは、多いほどいいです。最高です。ジェニー、ください。
-レコード[これ買いたい]獲得報酬
+ของ Zenny
+ジェェニーというものは、 多いほどいいです。最高です。ジェニー、 ください。
+レコード [これ買いたい] 獲得報酬
 
 ID=104810
-Zaito's
-武器商店を運営する商人組合所属の「ジャイト」。<br>ムードメーカーですが、筋肉大好きで抜けた性格の持ち主。
-レコード[これが常連…感激ッス！！]獲得報酬
+ของ Zaito
+武器商店商店を運営する商人所属所属の「ジャイト」。 <br> ムードメーカーですが、 筋肉大好きで抜けた性格のち主
+レコード [これが常連…感激ッス ！！] 獲得報酬
 
 ID=104910
 Yumi's
-雑貨商店を運営する商人組合所属の「ヨミ」。<br>落ち着いており、澄ましたように見えるが、実は情に厚い。
-レコード[必要なものがあったら用意しますよ]獲得報酬
+雑貨貨商店を運営する商人組合所属の「ヨミ」。 <br> 落ち着いており、 澄ましたように見えるが、 実は情に厚い。
+レコード [必要なものがあったらししますよ] 獲得報酬
 
 ID=105010
 Zenith's
-不法製作専門家の「ゼニス」。<br>冷たいような態度に見えるが、実はツンデレ。
-レコード[お前といると全然飽きないんだよね]獲得報酬
+不法製作製作専家家の「ゼニス」。 <br> 冷たいような態度に見えるが、 実はツンデレ。
+レココード [お前といると全然飽きないんだよね] 獲得報酬
 
 ID=105110
-Trisha's
-不法強化専門家の「トリシャ」。<br>豪胆で愉快で少し抜けてるおねーさん。ロボット大好き。
-レコード[もう友達だろう？何でも言ってよね！]獲得報酬
+ของ Trisha
+不法強化強化門家の「トリシャ」。 <br> 豪胆で愉快でしし抜けてるおねーさん。ロボット大好き。
+レココード [もう友達だうう？ 何で言ってよね！] 獲得報酬
 
 ID=105210
-Azin's
-連合第6区域所属の士官「アジン」。<br>サバサバとした性格で、仕事はしっかりこなす。特定の人物に会うとアタフタする。
-レコード[最高のサービスをいたします]獲得報酬
+ของ Azin
+連合第 6 区域所属の士官「アジン」。 <br> サバサバしした性格で、 仕事はしっかりこすす。特定の人物に会うとアタフタうう。
+レココード [最高のサービスをいたします] 獲得報酬
 
 ID=105310
 Twisted World's
 パラレルワールド的なアレ。
-レコード[私がいないと始まらない]獲得報酬
+レココード [私がいないと始まらない] 獲得報酬
 
 ID=105410
-Golden World's
-金色の世界…そんなに金色ばっかりだと価値が下がると私は思う。
-レコード[金色世界のレジスタンス]獲得報酬
+โกลเด้นเวิลด์
+金色の世界…そんなに金色ばっかりだと価が下がると私はうう。
+レコード [金色世界のレジスタンス] 獲得報酬
 
 ID=105510
-Ruined World's
+ซากปรักหักพังของโลก
 荒れまくってもう大変。
-レコード[荒れ果てた世界の征服者]獲得報酬
+レコード [荒れ果てた世界の征服者] 獲得報酬
 
 ID=105610
-Guided
+ได้รับคำแนะนำ
 私は案内しているだけですよ。操るだなんてとんでもない。
 レコード[ガイデッドロード]獲得報酬
 
@@ -1924,7 +1924,7 @@ Collector
 レコード[もういっぱいじゃない？]獲得報酬
 
 ID=203430
-Amateur
+สมัครเล่น
 強いこだわりを持ってます。
 Achievement [Ether's Raison D'etre...] Completion Reward
 

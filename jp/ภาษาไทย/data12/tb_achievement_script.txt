@@ -1871,213 +1871,213 @@ ID=4006901
 ปราบ The Thing 50 ครั้ง
 
 ID=4007001
-原初の恐怖
+สยองขวัญดั้งเดิม
 ปราบ The primal 100 ครั้ง
 
 ID=4000111
-These are already daily necessities
-Use 25,600 consumables
+สิ่งเหล่านี้เป็นสิ่งจำเป็นในชีวิตประจำวันอยู่แล้ว
+ใช้วัสดุสิ้นเปลือง 25,600
 
 ID=4000211
-I am grateful for over-buying!
-Buy 15,000 items at a store
+ฉันรู้สึกขอบคุณสำหรับการซื้อมากเกินไป!
+ซื้อสินค้า 15,000 ชิ้นที่ร้านค้า
 
 ID=4000311
-The maintenance cost is too much!
-Spend 550,000 Zenny on repairs
+ค่าบำรุงรักษามากเกินไป!
+ใช้จ่าย 550,000 Zenny ในการซ่อมแซม
 
 ID=4000411
-My legs are shaking...
-Be incapacitated in battle 2,400 times
+ขาฉันสั่น ...
+ไร้ความสามารถในการต่อสู้ 2,400 ครั้ง
 
 ID=4000511
-You guys are too weak!
-Defeat 1,000,000 enemies
+พวกคุณอ่อนแอเกินไป!
+เอาชนะศัตรู 1,000,000 คน
 
 ID=4000611
-I cannot count!
-Defeat 53,000 weak-looking enemies
+นับไม่ถ้วน!
+กำจัดศัตรูที่ดูอ่อนแอ 53,000 คน
 
 ID=4000711
-This much...?
-Defeat 32,000 average-looking enemies
+มากขนาดนี้ ... ?
+เอาชนะศัตรูหน้าตาธรรมดา 32,000 คน
 
 ID=4000811
-Not much of an opponent
-Defeat 13,000 strong-looking enemies
+คู่ต่อสู้ไม่เท่าไหร่
+กำจัดศัตรูที่ดูแข็งแกร่ง 13,000 คน
 
 ID=4000911
-I do not feel like losing
-Defeat 6,300 mid-grade bosses
+ไม่รู้สึกว่าแพ้
+เอาชนะบอสระดับกลาง 6,300 ตัว
 
 ID=4001011
-Where is the real boss?
-Defeat 3,800 bosses
+เจ้านายตัวจริงอยู่ไหน?
+เอาชนะบอส 3,800 ตัว
 
 ID=4001811
-Legendary Destruction God
-Use Armor Breaker 80,000 times
+เทพผู้ทำลายล้างในตำนาน
+ใช้ Armor Breaker 80,000 ครั้ง
 
 ID=4002111
-I can go around even with my eyes closed
-Clear 7,500 dungeons
+ฉันสามารถไปไหนมาไหนได้แม้หลับตา
+เคลียร์ 7,500 ดันเจี้ยน
 
 ID=4002211
-It is even shorter than a music piece
-Clear 1,500 dungeons in less than 3 minutes
+มันสั้นกว่าชิ้นดนตรีด้วยซ้ำ
+เคลียร์ดันเจี้ยน 1,500 แห่งในเวลาน้อยกว่า 3 นาที
 
 ID=4002311
-Distinguished player of the century
-Clear 1,250 dungeons with SS rank
+ผู้เล่นที่โดดเด่นแห่งศตวรรษ
+เคลียร์ 1,250 ดันเจี้ยนด้วยระดับ SS
 
 ID=4002411
-Even though I did my best in my own way...
-Clear 1,250 dungeons with F rank
+แม้ว่าฉันจะทำดีที่สุดในแบบของฉันแล้วก็ตาม ...
+เคลียร์ 1,250 ดันเจี้ยนด้วยอันดับ F
 
 ID=4002511
-A wealthy person from this day forth
-Pick up 16,820,000 Zenny
+เป็นคนมั่งคั่งตั้งแต่วันนี้เป็นต้นไป
+รับเงิน 16,820,000 Zenny
 
 ID=4002611
-Ether Millionaire
-Acquire 4,215,000 Ether
+อีเธอร์เศรษฐี
+รับ 4,215,000 อีเธอร์
 
 ID=4002811
-Battle Instructor
-Acquire 60,000 BP
+ผู้ฝึกสอนการรบ
+ได้รับ 60,000 BP
 
 ID=4002906
-Tip of the Iceberg 6
+เคล็ดลับของภูเขาน้ำแข็ง 6
 Lv60 สำเร็จ
 
 ID=4003011
-200th-day anniversary
-Accumulate 4,800 hours of playtime
+ครบรอบ 200 วัน
+สะสมเวลาเล่น 4,800 ชั่วโมง
 
 ID=4003111
-Enhancing is done like this
-Attempt enhancing 700 times
+การเพิ่มประสิทธิภาพทำได้เช่นนี้
+พยายามเพิ่มพลัง 700 ครั้ง
 
 ID=4003211
-Life is harsh...
-Fail enhancing 400 times
+ชีวิตบัดซบ ...
+เพิ่มความล้มเหลว 400 ครั้ง
 
 ID=4003311
-Crafting is an art
-Attempt crafting 700 times
+งานหัตถกรรมเป็นศิลปะ
+พยายามสร้าง 700 ครั้ง
 
 ID=4003411
-Dismantling is a meaning of life
-Attempt dismantling 1,250 times
+การรื้อทิ้งเป็นความหมายของชีวิต
+พยายามรื้อ 1,250 ครั้ง
 
 ID=4003511
-The Shopping God`s advent
-Successfully purchase at the exchange market 1,500 times
+การถือกำเนิดของ Shopping God
+ซื้อสำเร็จที่ตลาดแลกเปลี่ยน 1,500 ครั้ง
 
 ID=4004406
-A crisis of Glutton extinction
-Defeat 750 Gluttons
+วิกฤตการสูญพันธุ์ของคนตะกละ
+เอาชนะ 750 Gluttons
 
 ID=4004506
-Every day is a mission
-Clear 2,000 daily missions
+ทุกวันคือภารกิจ
+เคลียร์ 2,000 ภารกิจรายวัน
 
 ID=4004606
-Hiding is futile!
-Clear 2,000 secret events
+การซ่อนมันไร้ผล!
+เคลียร์ 2,000 เหตุการณ์ลับ
 
 ID=4004706
-An expert of the virtual world
-Clear Steel Grave 300 times
+ผู้เชี่ยวชาญของโลกเสมือนจริง
+เคลียร์หลุมศพเหล็ก 300 ครั้ง
 
 ID=4004806
-How much is the mileage?
-Use Skycraft 150 times
+เลขไมล์เท่าไหร่?
+ใช้ Skycraft 150 ครั้ง
 
 ID=4008001
-공허를 넘어온 자
-알터 오브 보이드 [하드] 난이도 1회 클리어
+ผู้ที่ก้าวข้ามความว่างเปล่า
+เคลียร์ความยาก Alter of Void [Hard] 1 ครั้ง
 
 ID=4008002
-공허를 제압한 자
-알터 오브 보이드 [하드] 난이도 10회 클리어
+ผู้ที่เอาชนะความว่างเปล่า
+เคลียร์ความยาก Alter of Void [Hard] 10 ครั้ง
 
 ID=4008003
-공허를 파괴한 자
-알터 오브 보이드 [하드] 난이도 20회 클리어
+ผู้ที่ทำลายความว่างเปล่า
+เคลียร์ความยาก Alter of Void [Hard] 20 ครั้ง
 
 ID=4008004
-공허를 지배한 자
-알터 오브 보이드 [하드] 난이도 30회 클리어
+ผู้ที่ทำลายความว่างเปล่า
+เคลียร์ความยาก Alter of Void [Hard] 30 ครั้ง
 
 ID=4008005
-공허를 정복한 자
-알터 오브 보이드 [하드] 난이도 50회 클리어
+ผู้ที่ทำลายความว่างเปล่า
+เคลียร์ความยาก Alter of Void [Hard] 50 ครั้ง
 
 ID=4008101
-공허의 괴물을 제압하다
-알터 오브 보이드 [매니악] 난이도 1회 클리어
+เอาชนะความว่างเปล่า
+ระดับความยาก Alter of Void [Maniac] เคลียร์ได้ครั้งเดียว
 
 ID=4008102
-공허의 괴물을 돌려보내다
-알터 오브 보이드 [매니악] 난이도 10회 클리어
+ส่งคืน Void Monster
+ความยากของ Void Clear [Maniac] 10 ครั้ง
 
 ID=4008103
-공허의 괴물을 봉인하다
-알터 오브 보이드 [매니악] 난이도 20회 클리어
+ปิดผนึกมอนสเตอร์ที่ว่างเปล่า
+ความยากของ Void Clear [Maniac] 20 ครั้ง
 
 ID=4008104
-공허의 괴물을 잠식하다
-알터 오브 보이드 [매니악] 난이도 30회 클리어
+รุกล้ำมอนสเตอร์ที่ว่างเปล่า
+แก้ไขความยากของ Void Clear [Maniac] 30 ครั้ง
 
 ID=4008105
-공허의 괴물을 척살하다
-알터 오브 보이드 [매니악] 난이도 50회 클리어
+สังหารสัตว์ประหลาดแห่งความว่างเปล่า
+Alter of Void [Maniac] เคลียร์ 50 ระดับความยาก
 
 ID=4009001
-왁자지껄 여름 휴가 
-럼블 베케이션 노아 50회 처치
+วันหยุดฤดูร้อนที่คึกคัก
+Rumble Vacation ฆ่าโนอาห์ 50 ครั้ง
 
 ID=4009002
-시끌벅적 여름 휴가 
-럼블 베케이션 에녹 50회 처치
+วันหยุดฤดูร้อนที่มีเสียงดัง
+เอาชนะ Rumble Vacation Enoch 50 ครั้ง
 
 ID=4008201
-隠れ家の追跡者
-ヒドゥン・ハイドアウト1回クリア
+ตัวติดตาม Hideaway
+Hidden Hideout 1 ชัดเจน
 
 ID=4008202
-隠れ家の訪問者
-ヒドゥン・ハイドアウト10回クリア
+ผู้เยี่ยมชม Hideaway
+เคลียร์ Hidden Hideout 10 ครั้ง
 
 ID=4008203
-隠れ家の住人
-ヒドゥン・ハイドアウト20回クリア
+ถิ่นที่อยู่ของที่ซ่อน
+เคลียร์ Hidden Hideout 20 ครั้ง
 
 ID=4008204
-隠れ家の破壊者
-ヒドゥン・ハイドアウト30回クリア
+เรือพิฆาต Hideaway
+เคลียร์ Hidden Hideout 30 ครั้ง
 
 ID=4008205
-隠れ家の征服者
-ヒドゥン・ハイドアウト50回クリア
+ผู้พิชิตที่ซ่อน
+เคลียร์ Hidden Hideout 50 ครั้ง
 
 ID=4008301
-黒い月にたどり着いた
-ルナ・フォール1回クリア
+ฉันมาถึงดวงจันทร์สีดำ
+เคลียร์ Luna Fall หนึ่งครั้ง
 
 ID=4008302
-軍団を倒した
-ルナ・フォール10回クリア
+พ่ายแพ้ต่อกองทัพ
+เคลียร์ Luna Fall 10 ครั้ง
 
 ID=4008303
-黒い月を制圧した
-ルナ・フォール20回クリア
+ปราบปรามพระจันทร์สีดำ
+เคลียร์ Luna Fall 20 ครั้ง
 
 ID=4008304
-軍団の宿敵になった
-ルナ・フォール30回クリア
+กลายเป็นศัตรูของกองทัพ
+เคลียร์ Luna Fall 30 ครั้ง
 
 ID=4008305
-黒い月を没落させた
-ルナ・フォール50回クリア
+พระจันทร์สีดำได้ตกลงมา
+เคลียร์ Luna Fall 50 ครั้ง

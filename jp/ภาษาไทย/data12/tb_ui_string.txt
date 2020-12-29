@@ -1259,10 +1259,10 @@ ID=700
 สนทนา
 
 ID=701
-Shop [{0}]
+ร้านค้า [{0}]
 
 ID=702
-Bank [{0}]
+โกดัง [{0}]
 
 ID=703
 Enhance [{0}]
@@ -6830,7 +6830,7 @@ ID=20150
 {0} takes a second bewitching pose.
 
 ID=20151
-White Day
+ไวท์เดย์
 
 ID=20152
 You've come to return the favor.
@@ -6842,19 +6842,19 @@ ID=20154
 Steampunk
 
 ID=20155
-Behold! This is Over Technology!
+นี่คือเทคโนโลยีที่เหนือกว่า!
 
 ID=20156
-{0} Is showing off Over Technology!
+{0} กำลังอวดโฉม Over Technology!
 
 ID=20157
-Marine Marine
+มารีนมารีน
 
 ID=20158
-Take a pose.
+โพสท่า
 
 ID=20159
-{0} takes a pose.
+โพสท่า {0}
 
 ID=20300
 Cannot join channel due to congestion. Please use another one.
@@ -6869,7 +6869,7 @@ ID=20303
 There is no enough space for the placement.
 
 ID=20304
-Time Left: {0}m
+เวลาที่เหลือ: {0} นาที
 
 ID=20305
 Are you sure you want to stop the usage?
@@ -6887,10 +6887,10 @@ ID=20309
 The item is currently inactive.
 
 ID=20310
-You have no dismantling permission for the selected item.
+คุณไม่มีสิทธิ์ในการแยกชิ้นส่วนสำหรับรายการที่เลือก
 
 ID=20400
-Recovering Fatigue...
+ฟื้นความเหนื่อยล้า ...
 
 ID=20401
 น้อยกว่า 1 นาที
@@ -6899,10 +6899,10 @@ ID=20402
 ในระหว่างการหยุดพัก...
 
 ID=21000
-{0}'s favorability has increased by {1}.
+ความชื่นชอบของ {0} เพิ่มขึ้น {1}
 
 ID=21001
-{0}'s favorability level has increased to Lv{1}. The level bonus was unlocked.
+ระดับความชื่นชอบของ {0} เพิ่มขึ้นเป็น Lv {1} โบนัสระดับถูกปลดล็อค
 
 ID=21002
 ความสนิท [Lv{0}]
@@ -6923,61 +6923,61 @@ ID=21007
 - {0} x{1}
 
 ID=21008
-Repair cost is reduced by {0}{1}
+ค่าซ่อมลดลง {0} {1}
 
 ID=21009
-Crafting cost is reduced by {0}{1}
+ต้นทุนการประดิษฐ์ลดลง {0} {1}
 
 ID=21010
-Number of crafting materials are reduced by {0}%
+จำนวนวัสดุการประดิษฐ์ลดลง {0}%
 
 ID=21011
-Enhancing cost is reduced by {0}{1}
+ต้นทุนการปรับปรุงจะลดลง {0} {1}
 
 ID=21012
-Enhancing success chance is increased by {0}{1}
+โอกาสในการเพิ่มความสำเร็จเพิ่มขึ้น {0} {1}
 
 ID=21013
-Transportation cost is reduced by {0}{1}
+ต้นทุนการขนส่งลดลง {0} {1}
 
 ID=21014
-Special item [{0}] can be purchased
+สามารถซื้อสินค้าพิเศษ [{0}] ได้
 
 ID=21015
-Doubles the number of special items you can purchase per day from {0}
+เพิ่มเป็นสองเท่าของรายการพิเศษที่คุณสามารถซื้อได้ต่อวันจาก {0}
 
 ID=21016
-While mounted, +{0} Attack, +{1} Defense for 30m
+ขณะติดตั้ง,  Attack +{0},Defense +{1} เป็นเวลา 30 นาที
 
 ID=21017
 สามารถทำเควสผู้ซัพพอร์ตได้แล้ว [ผู้ซัพพอร์ต:Hugh]
 
 ID=21018
-Can do Supporter Quest [Supporter: Ryu]
+สามารถทำเควสผู้ซัพพอร์ตได้แล้ว [ผู้ซัพพอร์ต: Ryu]
 
 ID=21019
-Can do Supporter Quest [Supporter: Haidinger]
+สามารถทำเควสผู้ซัพพอร์ตได้แล้ว [ผู้ซัพพอร์ต: Haidinger]
 
 ID=21020
 สามารถทำเควสผู้ซัพพอร์ตได้แล้ว [ผู้ซัพพอร์ต:Miriam]
 
 ID=21021
-Can do Supporter Quest [Supporter: Auto Punisher]
+สามารถทำเควสผู้ซัพพอร์ตได้แล้ว [ผู้ซัพพอร์ต: Auto Punisher]
 
 ID=21022
-Can do Supporter Quest [Supporter: Cleany]
+สามารถทำเควสผู้ซัพพอร์ตได้แล้ว [ผู้ซัพพอร์ต: Cleany]
 
 ID=21023
-Can do Supporter Quest [Supporter: Maxim]
+สามารถทำเควสผู้ซัพพอร์ตได้แล้ว [ผู้ซัพพอร์ต: Maxim]
 
 ID=21024
-Can do Supporter Quest [Supporter: Lucy]
+สามารถทำเควสผู้ซัพพอร์ตได้แล้ว [ผู้ซัพพอร์ต: Lucy]
 
 ID=21025
-Can do Supporter Quest [Supporter: Ralph]
+สามารถทำเควสผู้ซัพพอร์ตได้แล้ว [ผู้ซัพพอร์ต: Ralph]
 
 ID=21026
-Can do Supporter Quest [Supporter: Sensen]
+สามารถทำเควสผู้ซัพพอร์ตได้แล้ว [ผู้ซัพพอร์ต: Sensen]
 
 ID=21027
 ความสำเร็จ
@@ -6992,25 +6992,25 @@ ID=21030
 ซื้อเกินจำนวนครั้งใน 1 วัน
 
 ID=21031
-You cannot gain any more favorability from {0} today. <br> [Resets at 09:00 JST/00:00 UTC]
+คุณไม่สามารถรับความชื่นชอบได้อีกจาก {0} วันนี้  [รีเซ็ตเวลา 09:00 JST/00:00 UTC]
 
 ID=21032
-Cannot enter the dungeon because you do not have enough fatigue.
+ไม่สามารถเข้าดันเจี้ยนได้เนื่องจากคุณมี FP ไม่เพียงพอ
 
 ID=21033
-Cannot enter the dungeon because {0} does not have enough fatigue.
+ไม่สามารถเข้าดันเจี้ยนได้เนื่องจาก {0} มี FP ไม่เพียงพอ
 
 ID=21034
-疲労度が足りないため、このエピソードではパーティー検索機能を使用できません。
+ฟีเจอร์การค้นหาปาร์ตี้ไม่สามารถใช้งานได้ในตอนนี้เนื่องจากไม่มี FP
 
 ID=21035
-Cannot be used when your basic fatigue is at maximum (200).
+ไม่สามารถใช้ได้เมื่อ FP พื้นฐานของคุณอยู่ที่สูงสุด (200)
 
 ID=21036
-The usage limit has been reached. You can use it again in {0} hours.
+ถึงขีด จำกัด การใช้งานแล้วคุณสามารถใช้งานได้อีกครั้งใน {0} ชั่วโมง
 
 ID=21037
-Using this fatigue recovery item will exceed the total amount of your basic fatigue (max 200). Are you sure you want to use it?
+การใช้ไอเท็มฟื้นฟูความเหนื่อยล้านี้จะเกินจำนวนความเหนื่อยพื้นฐานทั้งหมดของคุณ (สูงสุด 200) แน่ใจไหมว่าต้องการใช้
 
 ID=21038
 ตัวละครที่เล่นอยู่ไม่สามารถใช้ไอเทมนี้ได้
@@ -7019,34 +7019,34 @@ ID=21039
 เลเวลไม่เพียงพอที่จะใช้ไอเทม
 
 ID=21040
-Daily Usage Limit: [{0}/{1}]
+ขีด จำกัด การใช้งานรายวัน: [{0}/{1}]
 
 ID=21041
-Cannot be used when your basic fatigue is at maximum (200).
+ไม่สามารถใช้ได้เมื่อ FP พื้นฐานของคุณอยู่ที่สูงสุด (200)
 
 ID=21051
-This item cannot be used because your HP is maxed.
+ไม่สามารถใช้ไอเท็มนี้ได้เนื่องจาก HP ของคุณเต็มแล้ว
 
 ID=21052
-This item cannot be used because your SG is maxed.
+ไม่สามารถใช้รายการนี้ได้เนื่องจาก SG ของคุณเต็มแล้ว
 
 ID=21053
-This item cannot be used because your ST is maxed.
+ไม่สามารถใช้รายการนี้ได้เนื่องจาก ST ของคุณมีค่าสูงสุด
 
 ID=21054
-HP Recovery Potion stage 2 is available for purchase
+HP Recovery Potion stage 2 มีจำหน่ายแล้ว
 
 ID=21055
-HP Recovery Potion stages 2 to 3 are available for purchase
+HP Recovery Potion ขั้น 2 ถึง 3 มีจำหน่ายแล้ว
 
 ID=21056
-HP Recovery Potion stages 2 to 4 are available for purchase
+HP Recovery Potion ขั้น 2 ถึง 4 มีจำหน่ายแล้ว
 
 ID=21057
-SG 50% Recovery Potion is available for purchase
+SG 50% Recovery Potion มีจำหน่ายแล้ว
 
 ID=21058
-SG 100% Recovery Potion is available for purchase
+SG 100% Recovery Potion มีจำหน่ายแล้ว
 
 ID=21400
 ขึ้นเครื่อง
@@ -7985,10 +7985,10 @@ ID=22658
 คืนค่าเริ่มต้นการตั้งค่าแชท
 
 ID=22659
-[{0}]key is being used for other controls. <br> Are you sure you want to overwrite the key settings?
+กำลังใช้คีย์ [{0}] สำหรับการควบคุมอื่น ๆ <br> คุณแน่ใจหรือไม่ว่าต้องการเขียนทับการตั้งค่าคีย์
 
 ID=22660
-[{0}]key cannot be used as a shortcut. <br> Please assign other keys for use.
+ไม่สามารถใช้คีย์ [{0}] เป็นทางลัด <br> โปรดกำหนดคีย์อื่นเพื่อใช้งาน
 
 ID=22661
 ของที่ระลึก
@@ -8021,7 +8021,7 @@ ID=22670
 ※คุณภาพลดลง จะสามารถเล่นได้อย่างราบรื่น
 
 ID=22671
-Anti-aliasing will be applied on the next startup.
+การลบรอยหยักจะถูกนำไปใช้ในการเริ่มต้นครั้งถัดไป
 
 ID=22672
 ปุ่มควบคุม
@@ -8030,10 +8030,10 @@ ID=22673
 เรียก Supporters
 
 ID=22674
-Supporter Call is on cooldown. <br> ({0} sec)
+Supporter Call อยู่ในช่วงคูลดาวน์ <br> ({0} วินาที)
 
 ID=22675
-You cannot assign combined key bind with START button.
+คุณไม่สามารถกำหนดการผูกคีย์รวมด้วยปุ่มเริ่ม
 
 ID=22676
 คุณภาพของเอฟเฟกต์
@@ -8045,10 +8045,10 @@ ID=22678
 เก็บไอเทมอัตโนมัติ
 
 ID=22679
-You cannot assign combined key bind with {0}.
+คุณไม่สามารถกำหนดการผูกคีย์รวมกับ {0}
 
 ID=22680
-Please assign the key bind combined with {0}.
+โปรดกำหนดการผูกคีย์รวมกับ {0}
 
 ID=22681
 พื้นผิว
@@ -8057,13 +8057,13 @@ ID=22682
 Texture changes will be applied on the next startup or after loading.
 
 ID=22683
-Summon Vehicle
+อัญเชิญยานพาหนะ
 
 ID=22684
-Open/Close Vehicle's Window
+เปิด / ปิดหน้าต่างของยานพาหนะ
 
 ID=23000
-Basic fatigue level was completely restored.
+ระดับความเหนื่อยล้าพื้นฐานได้รับการฟื้นฟูอย่างสมบูรณ์
 
 ID=23001
 Bonus FP {0}
@@ -10994,25 +10994,25 @@ ID=28212
 แจ้งให้ทราบล่วงหน้าการรับสมัครกิลด์
 
 ID=28213
-作成後、{0}分後から作成可能です。
+สามารถสร้างได้ {0} นาทีหลังจากสร้าง
 
 ID=28214
-Guild notice cancelled.
+ยกเลิกประกาศกิลด์
 
 ID=28215
-Are you sure you want to post the guild recruitment ad?
+แน่ใจไหมว่าต้องการโพสต์โฆษณารับสมัครกิลด์
 
 ID=28216
-Guild Recruit Notice
+ประกาศรับสมัครกิลด์
 
 ID=28217
 การตั้งค่า
 
 ID=28218
-On
+เปิด
 
 ID=28219
-Off
+ปิด
 
 ID=28220
 กิลด์ EXP
@@ -11021,8 +11021,7 @@ ID=28221
 {0}/{1}
 
 ID=28222
-Obtained when guild members consume fatigue. <br> Up to 200 consumed fatigue per day. <br> Up to {0} guild experience per day.
-
+ได้รับเมื่อสมาชิกกิลด์ใช้ความเหนื่อยล้า <br> มากถึง 200 ที่ใช้ความเหนื่อยล้าต่อวัน <br> มากถึง {0} ค่าประสบการณ์กิลด์ต่อวัน
 ID=28223
 Lv
 
@@ -11030,7 +11029,7 @@ ID=28224
 {0}%
 
 ID=28225
-1% of Dungeon Clearing Rewards will go towards guild funds.
+1% ของรางวัลการเคลียร์ดันเจี้ยนจะเข้ากองทุนกิลด์
 
 ID=28226
 เงิน
@@ -11060,10 +11059,10 @@ ID=28234
 ตกแต่ง
 
 ID=28235
-To change the Guild Mark you need a Guild Mark Change Ticket. Are you sure you want to use it?
+หากต้องการเปลี่ยนเครื่องหมายกิลด์คุณต้องมีตั๋วเปลี่ยนเครื่องหมายกิลด์คุณแน่ใจหรือไม่ว่าต้องการใช้
 
 ID=28236
-You cannot change the Guild Mark without a Guild Mark Change Ticket.
+คุณไม่สามารถเปลี่ยนเครื่องหมายกิลด์ได้หากไม่มีตั๋วเปลี่ยนเครื่องหมายกิลด์
 
 ID=28237
 เครื่องหมายกิลด์ได้ถูกนำมาใช้
@@ -11090,22 +11089,22 @@ ID=28244
 ({0}GP)
 
 ID=28245
-Are you sure you want to learn {0}? <br> [Cost: {1} GP and {2} Funds]
+แน่ใจหรือว่าต้องการเรียนรู้ {0} <br> [ค่าใช้จ่าย: {1} GP และ {2} กองทุน]
 
 ID=28246
-Are you sure you want to raise {0}'s level? <br> It will cost {1} GP and {2} Funds
+คุณแน่ใจหรือไม่ว่าต้องการเพิ่มระดับของ {0} <br> จะมีค่าใช้จ่าย {1} GP และ {2} กองทุน
 
 ID=28247
 สมาคมกองทุนไม่เพียงพอ
 
 ID=28248
-Guild Warehouse settings has been applied.[{0} seconds]
+ใช้การตั้งค่า Guild Warehouse แล้ว [{0} วินาที]
 
 ID=28249
-Are you sure you want to move {1} {0} in the Guild Storage?
+แน่ใจไหมว่าต้องการย้าย {1} {0} ใน Guild Storage?
 
 ID=28250
-Are you sure you want to move {1} {0} in your inventory?
+แน่ใจไหมว่าต้องการย้าย {1} {0} ในพื้นที่โฆษณาของคุณ
 
 ID=28251
 เก็บของ
@@ -11114,55 +11113,55 @@ ID=28252
 นำของออกจากคลัง
 
 ID=28253
-Activation failed because the Guild Storage level is insufficient.
+การเปิดใช้งานล้มเหลวเนื่องจากระดับที่เก็บกิลด์ไม่เพียงพอ
 
 ID=28254
-Unavailable information to perform the operation on the item
+ข้อมูลที่ไม่พร้อมใช้งานเพื่อดำเนินการกับรายการ
 
 ID=28255
-The information of the request being sent has been updated; please perform the action again.
+ข้อมูลของคำขอที่ส่งได้รับการอัปเดตแล้วโปรดดำเนินการอีกครั้ง
 
 ID=28256
-The warehouse is full.
+โกดังเต็ม
 
 ID=28257
-This item cannot be removed.
+ไม่สามารถลบรายการนี้ได้
 
 ID=28258
-You do not have access to the Guild Storage.
+คุณไม่มีสิทธิ์เข้าถึง Guild Storage
 
 ID=28259
 GP
 
 ID=28260
-{0} stored {2} {1}.
+{0} เก็บ {2} {1}.
 
 ID=28261
-{0} took {2} {1}.
+{0} เอา {2} {1}.
 
 ID=28262
 ต้องการ GP
 
 ID=28263
-Are you sure you want to change the Guild Mark?
+แน่ใจหรือว่าต้องการเปลี่ยน Guild Mark?
 
 ID=28264
-Please select a basic pattern for the guild mark.
+โปรดเลือกรูปแบบพื้นฐานสำหรับเครื่องหมายกิลด์
 
 ID=28265
-This guild mark is identical to the previous one.
+เครื่องหมายกิลด์นี้เหมือนกับเครื่องหมายก่อนหน้านี้
 
 ID=28266
-ギルド加入状態の時のみ使用可能です。
+สามารถใช้ได้เฉพาะเมื่อคุณเป็นสมาชิกของกิลด์เท่านั้น
 
 ID=28267
-{0}時間{1}分後復活
+ฟื้นคืนชีพหลังจากผ่านไป {0} ชั่วโมง {1} นาที
 
 ID=28268
-{0}分後復活
+ฟื้นคืนชีพหลังจากผ่านไป {0} นาที
 
 ID=28269
-{0}秒後復活
+ฟื้นคืนชีพหลังจากผ่านไป {0} วินาที
 
 ID=29000
 ห้อง
@@ -11243,7 +11242,7 @@ ID=29026
 ยืนยันการสร้างห้อง
 
 ID=29027
-Creating a room costs 5,000 Zenny. <br> Are you sure you want to create the room? <br> (only one room can be created)
+การสร้างห้องมีค่าใช้จ่าย 5,000 Zenny <br> คุณแน่ใจหรือไม่ว่าต้องการสร้างห้องนั้น <br> (สามารถสร้างได้เพียงห้องเดียว)
 
 ID=29028
 เสร็จสิ้นการสร้างห้อง
@@ -11255,13 +11254,13 @@ ID=29030
 การสร้างห้องล้มเหลวเลเวลไม่เพียงพอ
 
 ID=29031
-You have yet to reach the level required to create a room. <br> Level requirement: Lv8
+คุณยังไปถึงระดับที่กำหนดเพื่อสร้างห้อง <br> ข้อกำหนดระดับ: Lv8
 
 ID=29032
 การสร้างห้องล้มเหลว Zenny ไม่เพียงพอ
 
 ID=29033
-Insuffiicient funds. Cannot create room.
+เงินไม่เพียงพอไม่สามารถสร้างห้องได้
 
 ID=29034
 ห้อง
@@ -11270,46 +11269,46 @@ ID=29035
 ท่านต้องการเข้าไปที่ห้อง?
 
 ID=29036
-Confirm Buddy Room Entry
+ยืนยันการเข้าห้องบัดดี้
 
 ID=29037
-Are you sure you want to admit {0} to your room?
+แน่ใจไหมว่าต้องการยอมรับ {0} ห้องของคุณ
 
 ID=29038
-Entering Room Guide
+เข้าสู่คู่มือห้อง
 
 ID=29039
-Enter a random room?
+เข้าห้องสุ่ม?
 
 ID=29040
-Room Entry Denied
+การเข้าห้องถูกปฏิเสธ
 
 ID=29041
-Cannot enter {0}'s room.
+เข้าห้องของ {0} ไม่ได้
 
 ID=29042
 การตั้งค่าคำแนะนำที่เหมาะสม
 
 ID=29043
-There were changes in the settings. Are you sure you want to close the window and lose all changes?
+มีการเปลี่ยนแปลงในการตั้งค่าแน่ใจไหมว่าต้องการปิดหน้าต่างและสูญเสียการเปลี่ยนแปลงทั้งหมด
 
 ID=29044
-The maximum number of guests have been reached.
+ถึงจำนวนผู้เข้าพักสูงสุดแล้ว
 
 ID=29045
-Cannot enter the room because the guest capacity limit was reached.
+ไม่สามารถเข้าห้องได้เนื่องจากถึงขีด จำกัด ของจำนวนผู้เข้าพักแล้ว
 
 ID=29046
-Confirm Kick Guest
+ยืนยัน Kick Guest
 
 ID=29047
-Are you sure you want to kick {0} from your room?
+แน่ใจหรือว่าต้องการเตะ {0} ออกจากห้องของคุณ
 
 ID=29048
 Kick Guest Prompt
 
 ID=29049
-{0} has been kicked from your room.
+{0} ถูกเตะออกจากห้องของคุณ
 
 ID=29050
 เข้าสู่โหมดจัดตำแหน่ง
@@ -11324,7 +11323,7 @@ ID=29053
 แน่ใจหรือไม่ว่าคุณต้องการที่จะออกจากโหมดจัดตำแหน่ง?
 
 ID=29054
-Your room publicity settings have been reverted to their defaults.
+การตั้งค่าการประชาสัมพันธ์ห้องของคุณถูกเปลี่ยนกลับเป็นค่าเริ่มต้น
 
 ID=29055
 ปรับมุมกล้อง
@@ -11348,7 +11347,7 @@ ID=29061
 ใช้
 
 ID=29062
-{0} will be sent to your furniture inventory.
+{0} จะถูกส่งไปยังคลังเฟอร์นิเจอร์ของคุณ
 
 ID=29063
 สามารถใช้งานได้เฉพาะในเมือง
@@ -12806,31 +12805,31 @@ ID=36012
 ย้าย
 
 ID=37001
-Emergency! A Void Fissure has appeared in District 6! Requesting support!
+ฉุกเฉิน! รอยแยกปรากฏในเขต 6 ขอกำลังสนับสนุน!
 
 ID=37002
-The Void Fissures have been eliminated.
+Monster ในรอยแยกถูกกำจัดแล้ว
 
 ID=37003
-The Void Fissures in the Emergency Area have disappeared.
+รอยแยกในพื้นที่ฉุกเฉินได้หายไป
 
 ID=37004
-Code name [The Thing] has appeared in the center of the Emergency Area.
+Code name [The Thing] ปรากฏขึ้นที่ใจกลางพื้นที่ฉุกเฉิน
 
 ID=37005
-The supreme Soulworker! {0} has defeated The Thing.
+สุดยอด Soulworker! {0} พ่ายแพ้ The Thing
 
 ID=37006
 The Thing has suddenly disappeared from the Emergency Area.
 
 ID=37007
-緊急事態が発生しました。 <br> Lｖ.65から支援可能です。 <br> アイコンをクリックして支援をお願いします！ <br>  <br> 亀裂消滅まで：残り{0}分
+เกิดเหตุฉุกเฉินขึ้น <br> การสนับสนุนสามารถทำได้ตั้งแต่ Lv.65 คลิกไอคอน <br> เพื่อช่วย! <br> <br> จนกว่ารอยแตกจะหายไป: เหลือเวลาอีก {0} นาที
 
 ID=37008
-The Vacuum Cube has disappeared, unable to obtain any items.
+ลูกบาศก์สุญญากาศหายไปไม่สามารถรับไอเทมใด ๆ ได้
 
 ID=37009
-The power surrounding the The Primal is weakened, you can get closer now. <br> ({0} minutes remaining)
+พลังที่อยู่รอบ ๆ The Primal อ่อนแอลงคุณสามารถเข้าใกล้ได้แล้ว <br> (เหลืออีก {0} นาที)
 
 ID=37010
 วันจันทร์
@@ -12866,13 +12865,13 @@ ID=37020
 ชั่วโมงค่าเข้าชม
 
 ID=37021
-[The Thing's] energy source is gathering towards the center of the Emergency Area. The encounter is expected to begin in a minute.
+แหล่งพลังงาน [Thing's] กำลังรวมตัวกันที่ใจกลางของพื้นที่ฉุกเฉินการเผชิญหน้านี้คาดว่าจะเริ่มในอีกไม่กี่นาที
 
 ID=37025
-該当チャンネルのワールドボスが討伐されました。 <br>  <br> 緊急事態終了まで：残り{0}分
+บอสโลกของแชนเนลที่เกี่ยวข้องถูกปราบ <br> <br> จนกว่าเหตุฉุกเฉินจะสิ้นสุด: เหลือเวลาอีก {0} นาที
 
 ID=37026
-緊急事態発生地のワールドボスを阻止してください！ <br> 時間内に討伐する必要があり、Lv.65から志願可能です。 <br> アイコンをクリックして志願してください！ <br>  <br> 緊急事態終了まで：残り{0}分
+หยุด World Boss ในพื้นที่ฉุกเฉิน! <br> จำเป็นต้องปราบให้หมดในเวลาและคุณสามารถสมัครได้จาก Lv.65 คลิกไอคอน <br> เพื่อสมัคร! <br> <br> จนกว่าเหตุฉุกเฉินจะสิ้นสุด: เหลือเวลาอีก {0} นาที
 
 ID=37500
 ความคืบหน้านักล่าวิญญาณ
@@ -12917,10 +12916,10 @@ ID=37515
 ▼
 
 ID=37516
-※ Dungeons <br> - earn points for each normal entry and clear <br> - earn points for each Very Hard clear <br> - earn points for solo clear <br> - earn points for not using revivals <br> - earn points for not using items <br>  <br> ※ Steel Grave <br> - earn points for entry <br> - earn points for each cleared chapter <br>  <br> ※ Raid <br> - earn points for entry <br> - earn points for clear
+* Dungeons <br> - คะแนนการเรียนรู้สำหรับการเข้าปกติแต่ละครั้งและการเคลียร์ <br> - คะแนนการเรียนรู้สำหรับการเคลียร์ที่ยากมาก <br> - คะแนนการเรียนรู้สำหรับการเคลียร์โซโล <br> - คะแนนการเรียนรู้สำหรับการไม่ใช้การฟื้นฟู สำหรับการไม่ใช้ไอเทม <br> <br> * Steel Grave <br> - จุดเรียนรู้สำหรับการเข้า <br> - คะแนนเรียนรู้สำหรับแต่ละบทที่เคลียร์ <br> <br> * Raid <br> - จุดเรียนรู้สำหรับการเข้า <br> - จุดเรียนรู้ที่ชัดเจน
 
 ID=37517
-Period: Monday 9 AM ~ Sunday 9 PM (7 days, every week) <br>  <br> Results announcement: every Sunday 10 PM <br>  <br> Bonus Points (normal dungeons) <br> - no Party <br> - no recovering potions <br> - no buff potions <br>  <br> ※ For Steel Grave and Casual Raid, the bonus points are higher than the clearing points of normal dungeons.
+ระยะเวลา: วันจันทร์ 9.00 น. ~ วันอาทิตย์ 21.00 น. (7 วันทุกสัปดาห์) <br> <br> ประกาศผล: ทุกวันอาทิตย์ 22.00 น. <br> <br> คะแนนโบนัส (ดันเจี้ยนปกติ) <br> - ไม่มีปาร์ตี้ <br> - ไม่มียาฟื้นพลัง <br> - ไม่มีน้ำยาบัฟ <br> <br> * สำหรับ Steel Grave และ Casual Raid คะแนนโบนัสจะสูงกว่าคะแนนเคลียร์ของดันเจี้ยนปกติ
 
 ID=37518
 รางวัลส่วนตัว
@@ -12980,7 +12979,7 @@ ID=37541
 ค่าตอบแทนพิเศษ
 
 ID=37542
-Dungeon entry and clear {0} + solo play {1} + no revivals + {2} + no recovering potions {3}
+การเข้าดันเจี้ยนและเคลียร์ {0} + เล่นเดี่ยว {1} + ไม่มีการฟื้นฟู + {2} + ไม่มียาฟื้นพลัง {3}
 
 ID=37543
 วิธีการดำเนินการ
@@ -13031,10 +13030,10 @@ ID=38001
 ได้รับ EXP เพิ่มขึ้น {0}%.
 
 ID=38002
-Rare Item Drop Rate +{0}%
+อัตราการดรอปไอเทมหายาก + {0}%
 
 ID=38003
-Trading fee reduced by {0}%
+ค่าธรรมเนียมการซื้อขายลดลง {0}%
 
 ID=38004
 Add'l. FP {0}
@@ -13067,25 +13066,25 @@ ID=38013
 Net Café-exclusive +200 FP
 
 ID=38014
-+1 special dungeon entry count
+จำนวนการเข้าดันเจี้ยนพิเศษ +1
 
 ID=38015
-+{0}% Result EXP Reward
++ {0}% ผลตอบแทน EXP รางวัล
 
 ID=38016
 รางวัลเงิน Zenny เพิ่มขึ้น {0}%
 
 ID=38022
-取引所の販売手数料免除
+การยกเว้นค่าธรรมเนียมการขายในการแลกเปลี่ยน
 
 ID=38023
-曜日に関係なく、全属性カジュアルレイド入場可能
+คุณสมบัติทั้งหมดสามารถรับเข้าจู่โจมแบบไม่เป็นทางการได้โดยไม่คำนึงถึงวัน
 
 ID=38024
-メイズクリアカードキー1個自動使用
+คีย์การ์ดล้างเขาวงกต 1 ใช้งานอัตโนมัติ
 
 ID=38025
-強化成功率増加
+เพิ่มอัตราความสำเร็จในการเสริมกำลัง
 
 ID=38500
 Rank
@@ -13262,7 +13261,7 @@ ID=40017
 ทำ 2 ครั้ง
 
 ID=40018
-Recover
+กู้คืน
 
 ID=40101
 กรุณาย้ายไปยังพื้นที่ต่อไป
@@ -13274,10 +13273,10 @@ ID=40104
 สนทนากับ Miriam
 
 ID=40105
-Please proceed.
+โปรดดำเนินการต่อไป.
 
 ID=40106
-Accompany and talk to Miriam.
+มาพร้อมกับคุยกับมิเรียม
 
 ID=40107
 สนทนากับ Benjamin.

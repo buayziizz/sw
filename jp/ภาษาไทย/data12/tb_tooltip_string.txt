@@ -12,11 +12,11 @@ Attack Speed
 
 ID=21
 Attack Power
-The min. and max. damage you can deal to the enemy.
+敵に与える最小ダメージ量と最大ダメージ量です。
 
 ID=24
 Defense
-ลดพลังโจมตีที่ได้รับโดยขึ้นอยู่กับพลังโจมตีของศัตรู <br> ลดพลังโจมตีจากศัตรูในระดับเดียวกัน: {0}%<br> พลังโจมตีที่ลดลงขึ้นอยู่กับระดับของศัตรู
+ลดพลังโจมตีที่ได้รับโดยขึ้นอยู่กับพลังโจมตีของศัตรู \n ลดพลังโจมตีจากศัตรูในระดับเดียวกัน: {0}%\n พลังโจมตีที่ลดลงขึ้นอยู่กับระดับของศัตรู
 
 ID=26
 Accuracy
@@ -28,7 +28,7 @@ Failed attack damage
 
 ID=29
 Critical
-The chance and damage added when a critical attack hits. (Based on max. damage)
+クリティカル攻撃時、クリティカル発生確率とクリティカル発生時に追加されるダメージの数値です。(最大ダメージ基準)
 
 ID=31
 Critical Resistance
@@ -112,59 +112,59 @@ ID=11008
 
 ID=11009
 แม่บ้าน
-Practice serving.
+サービングの練習をします。
 
 ID=11010
 พ่อบ้าน
-Practice serving.
+サービングの練習をします。
 
 ID=11011
-Swimsuit
-Play with a beach ball.
+水着
+ビーチボールで遊びます。
 
 ID=11012
-Sunbed
-Relax on the sunbed.
+サンベッド
+サンベッドでくつろぎます。
 
 ID=11013
-School Swimsuit
-Do a gesture.
+スクール水着
+ジェスチャーをします。
 
 ID=11014
-Bunny
-Take a pose.
+バニー
+ポーズを取ります。
 
 ID=11015
-Christmas
-Merry Christmas!
+クリスマス
+メリークリスマス。
 
 ID=11016
-Knowledge of Japanese culture
-Show off your knowledge about Japanese culture.
+和の心得
+和の心得を楽しく表現します。
 
 ID=11017
-Hanbok
-Take a pose.
+韓服
+ポーズを取ります。
 
 ID=11018
-Chocolatier
-Give a... chocolate.
+ショコラティア
+チョコ…あげる。
 
 ID=11019
-Sexy Animal Ears Maid 1
-Take a bewitching pose 1.
+セクシーケモ耳メイド1
+第一悩殺ポーズを取ります。
 
 ID=11020
-Sexy Animal Ears Maid 2
-Take a bewitching pose 2.
+セクシーケモ耳メイド2
+第二悩殺ポーズを取ります。
 
 ID=11021
-White Day
-Return a gift in return for the chocolate.
+ホワイトデイ
+チョコのお返しをします。
 
 ID=11022
-Steampunk
-Over Technology!!
+スチームパンク
+オーバーテクノロジー！！
 
 ID=20000
 Inventory
@@ -176,7 +176,7 @@ Equipment
 
 ID=20003
 Skill
-Displays the Skill Window.<br>You can register Skills and Gestures<br>in the Quick Slots.
+スキルウィンドウを表示します。\nクイックスロットにスキルや、\nジェスチャーなどを登録できます。
 
 ID=20008
 Quest
@@ -184,7 +184,7 @@ Quest
 
 ID=20016
 Status
-Displays the Status Window.<br>You can check your Character's Stats<br>and set titles and profiles.
+ステータスウィンドウを表示します。\nキャラクターの能力値を確認して、\n称号やプロフィールを設定できます。
 
 ID=20023
 Community
@@ -204,11 +204,11 @@ Record Information
 
 ID=20045
 ค้นหา Party
-Displays the Party/Force Search window.<br>You can search Party and Force members.
+パーティー/フォース検索ウィンドウを表示します。\nパーティーやフォースのメンバーを検索できます。
 
 ID=20053
 Supporters
-แสดงหน้าต่าง Supporters ท่านสามารถที่จะเปลี่ยนลำดับของผู้ช่วย <br>และไอเทมได้ที่นี่
+แสดงหน้าต่าง Supporters ท่านสามารถที่จะเปลี่ยนลำดับของผู้ช่วย \nและไอเทมได้ที่นี่
 
 ID=20055
 Guild
@@ -223,8 +223,8 @@ Ranking
 แสดงหน้าต่าง Ranking
 
 ID=20080
-Vehicle
-Displays the Vehicle window.
+乗り物
+乗り物ウィンドウを開いたり閉じたりします。
 
 ID=20100
 ห้อง
@@ -272,7 +272,7 @@ Ether คือพลังงานที่ได้รับเมื่อ�
 
 ID=30005
 เกี่ยวกับ Soul Vapor
-Soul Vapor สามารถพบได้จาก Monster ที่ถูกจัดการหรือสิ่งของภายในแผนที่ <br> (ใช้งานได้หลังจากผ่านภารกิจที่เกี่ยวข้อง)
+Soul Vapor สามารถพบได้จาก Monster ที่ถูกจัดการหรือสิ่งของภายในแผนที่ \n (ใช้งานได้หลังจากผ่านภารกิจที่เกี่ยวข้อง)
 
 ID=30006
 เกี่ยวกับ Combo
@@ -280,7 +280,7 @@ ID=30006
 
 ID=30007
 เกี่ยวกับ Items 
-มีทั่วไป และหายาก หรือก้อนอื่น ๆ ใน cube <br>คุณสามารถชนะบางรายการจากก้อนหนึ่ง
+มีทั่วไป และหายาก หรือก้อนอื่น ๆ ใน cube \nคุณสามารถชนะบางรายการจากก้อนหนึ่ง
 
 ID=30008
 เกี่ยวกับ Break Skill
@@ -383,16 +383,16 @@ Familar
 ไอเทมพิเศษที่สามารถติดตั้งเข้าสู่ Soul Weapons เพื่ออัพเกรดความสามารถได้
 
 ID=30033
-Craft Akashic Item
-You can craft higher grade A.R Cards<br>by combining A.R Cards.
+アカシックアイテム製作
+A.RカードとA.Rカードを組み合わせ、\n次の等級のA.Rカードを製作する事ができます。
 
 ID=30034
-Akashic
-Register the A.R Card by using it.
+ได้รับ A.R. Card
+A.Rカードを使用して獲得すると、登録されます。
 
 ID=30035
-Registering and Using Akashic
-Registered A.R Cards can be set to your Quick Slots<br>where you can either use it in combat or<br>receive useful effects.
+การติดตั้ง A.R. และการใช้งาน
+登録されたA.Rカードはクイックスロットに\n配置でき、戦闘時に使用したり\n有益な効果を受ける事ができます。
 
 ID=30036
 สิ้นสุดเนื้อหา
@@ -432,148 +432,148 @@ Raid Records ปัจจุบัน: {0}%
 
 ID=21005
 Zenny
-The currency used in shops and exchange market in-game.<br>You can obtain it by defeating enemies or from rewards.
+ゲーム内の商店、取引所で使われる通貨です。\n モンスター退治及び各種報酬で獲得できます。
 
 ID=21006
 Ether
-The currency used to enhance and tune items.<br>You can obtain it by defeating enemies or through dismantling.
+アイテムの強化、製錬に使われる通貨です。\n モンスター退治及び分解で獲得することが
 
 ID=21007
 B.P
-The currency used to buy items in the B.P Shop.<br>You can obtain it by defeating powerful enemies or from rewards.
+B.Pショップでアイテムを買うことができる通貨です。 強力なモンスターの退治及び各種報酬で獲得できます。
 
 ID=21008
 Y.P
-The currency used to buy items in the Item Mall.<br>You can obtain it by charging Y.P.
+アイテムモールでアイテムを購入できる通貨です。Y.Pチャージで獲得できます。
 
 ID=11024
-Reindeer Transformation
-Turn into a reindeer.
+トナカイ変身
+トナカイに変身します。
 
 ID=11025
-Another Knowledge of Japanese culture
-Show off another knowledge about Japanese culture.
+もう一つの和の心得
+もう一つの和の心得を楽しく表現します。
 
 ID=11026
-Hanbok
-Take a pose.
+韓服
+ポーズを取ります。
 
 ID=11027
-Skating
-Perform skating.
+スケーティング
+スケーティングを披露します。
 
 ID=11028
-Exorcism
-Recite an exorcism incantation.
+鬼祓い
+鬼祓いの呪文を唱えます。
 
 ID=11029
-Spinning Glutton
-Invoke a Spinning Glutton.
+ぐるぐるグルトン
+ぐるぐるグルトンを唱えます。
 
 ID=11030
-Agent
-Take an Agent Suit's pose.
+エージェント
+エージェントスーツのポーズを取ります。
 
 ID=11031
-Sea Breeze 1
-Take a Sea Breeze 1 pose.
+潮風1
+潮風1のポーズを取ります。
 
 ID=11032
-Sea Breeze 2
-Take a Sea Breeze 2 pose.
+潮風2
+潮風2のポーズを取ります。
 
 ID=11033
-Childlike
-Turn back into a child.
+童心
+童心に返ります。
 
 ID=11034
-Hero
-Take a Hero's pose.
+ヒーロー
+ヒーローのポーズを取ります。
 
 ID=11035
-Military Band
-Take a Military Band's pose.
+軍楽隊
+軍楽隊のポーズを取ります。
 
 ID=11036
-Sacred Judgement
-Take a Sacred Judgement's pose.
+聖なる裁き
+聖なる裁きのポーズを取ります。
 
 ID=11037
-Blooming Dress
-Take a Blooming Dress' pose.
+ブルーミングドレス
+ブルーミングドレスのポーズを取ります。
 
 ID=11038
-Holy Knight
-Take a Holy Knight's pose.
+聖騎士
+聖騎士のポーズを取ります。
 
 ID=1000
-Level EXP
+レベル経験値
 {0} / {1} ({2}%)
 
 ID=1001
-Rank EXP
-{0}<br>{1} / {2} ({3}%)
+等級経験値
+{0}\n{1} / {2} ({3}%)
 
 ID=1002
-Rank
+等級
 {0}
 
 ID=10
 HP
-Your Character's Health. You will be incapacitated if HP reaches 0.
+キャラクターの体力です。HPが0になると倒れます。
 
 ID=14
-Stamina
-The stat you consume whenever you dodge.
+スタミナ
+回避やスキルなどを使用するたびに消費される数値です。
 
 ID=103
-Add'l. Dmg: General Mobs
-The additional damage (%) dealt to common enemies.
+敵追加ダメージ:一般
+一般タイプの敵に与える追加ダメージの割合です。
 
 ID=104
-Add'l. Dmg: Boss/Named Mobs
-The additional damage (%) dealt to boss or named enemies.
+敵追加ダメージ:ボス/ネームド
+ボスとネームドタイプの敵に与える追加ダメージの割合です。
 
 ID=100
-Cooldown Reduction
-Cooldown Reduction after a skill is used
+クールタイム短縮
+スキル使用後に発生するスキルクールタイムの減少割合です。
 
 ID=11039
-Animal Pajama
-Imitate an animal.
+アニマルパジャマ
+動物の真似をしてみた。
 
 ID=11040
-Servant-in-Café
-Take a Servant-in-Café's pose.
+サーヴァント・イン・カフェ
+サーヴァント・イン・カフェのポーズを取ります。
 
 ID=11041
-Midsummer Sailor
-Take a Midsummer Sailor's pose.
+真夏の水兵
+真夏の水兵のポーズを取ります。
 
 ID=11044
-Enemy Costume
-Take an Enemy Costume's pose.
+エネミーコスチューム
+エネミーコスチュームのポーズを取ります。
 
 ID=11045
-Cat Costume
-Imitate a cat.
+ねこの着ぐるみ
+ねこのものまね。
 
 ID=11048
-Nightmare
-Take a Nightmare gesture.
+ナイトメア
+ナイトメアジェスチャーを取ります。
 
 ID=21023
-Mileage Point
-You can purchase some items with its corresponding Mileage.<br>It resets at 00:00 JST every first day of the month and can be used until 23:59 JST every last day of the month.
+マイレージポイント
+一部アイテムを購入時に、提供されるマイレージでアイテムを獲得できます。\n獲得したマイレージは毎月1日00:00に初期化され、毎月末日23時59分まで使用可能です。
 
 ID=11042
-Desireworker
-Take a Desireworker pose.
+デザイアワーカー
+デザイアワーカーのポーズを取ります。
 
 ID=11043
-Desire Awakening
-Take a Desire Awakening pose.
+デザイア覚醒
+デザイア覚醒のポーズを取ります。
 
 ID=11050
-White Sand
-Take a White Sandy Beach's pose.
+白砂
+白砂の海岸ポーズを取ります。

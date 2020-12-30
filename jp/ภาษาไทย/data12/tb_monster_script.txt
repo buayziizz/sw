@@ -6068,4477 +6068,4477 @@ ID=31304533
 Yellow Gas Cylinder
 
 ID=31311101
-Imp Puppet of Brilliance
+光輝のインプパペット
 
 ID=31311102
-Steel Ball of Brilliance
+光輝のスチールボール
 
 ID=31311103
-Tiny Puppet of Brilliance
+光輝のタイニーパペット
 
 ID=31311104
-Midget Puppet of Brilliance
+光輝のミゼットパペット
 
 ID=31311105
-Mad Ball of Brilliance
+光輝のマッドボール
 
 ID=31311106
-Blank Puppet of Brilliance
+光輝のブランクパペット
 
 ID=31311107
-Saw Puppet of Brilliance
+光輝のソウパペット
 
 ID=31311108
-Slave Puppet of Brilliance
+光輝のスレイブパペット
 
 ID=31311109
-Ghost Puppet of Brilliance
+光輝のゴーストパペット
 
 ID=31311110
-Nasty Puppet of Brilliance
+光輝のナスティパペット
 
 ID=31311111
-Chubby Puppet of Brilliance
+光輝のチョビーパペット
 
 ID=31311112
-Fidget Puppet of Brilliance
+光輝のフィジェットパペット
 
 ID=31311113
-Kissling Puppet of Brilliance
+光輝のキスリングパペット
 
 ID=31311114
-Bloody Puppet of Brilliance
+光輝のブラッディパペット
 
 ID=31311115
-Plumpy Puppet of Brilliance
+光輝のプランピーパペット
 
 ID=31311116
-Temptation Stone of Brilliance
+光輝のテンプテーションストーン
 
 ID=31311117
-Bluff Core of Brilliance
+光輝のブラフコア
 
 ID=31311118
-Smallish Puppet of Brilliance
+光輝のスモーリッシュパペット
 
 ID=31311119
-Embryo Puppet of Brilliance
+光輝のエンブリオパペット
 
 ID=31311120
-Mumble Puppet of Brilliance
+光輝のマンブルパペット
 
 ID=31311121
-Jack the King of Brilliance
+光輝のジャック・ザ・キング
 
 ID=31311122
-Little Puppet of Brilliance
+光輝のリトルパペット
 
 ID=31311123
-Hideous Puppet of Brilliance
+光輝のヒディアスパペット
 
 ID=31311124
-Edgar of Brilliance
+光輝のエドガー
 
 ID=31311125
-Equilibrium Eternity of Brilliance
+光輝のイクイルブリアム_エターニティ
 
 ID=31311126
-Pandemonium Illusion of Brilliance
+光輝のパンデモニアイリュージョン
 
 ID=31311127
-Jack the King's Shadow of Brilliance
+光輝のジャック・ザ・キングシャドー
 
 ID=31311128
-Jack the King's Shadow of Brilliance
+光輝のジャック・ザ・キングシャドー
 
 ID=31311129
-Temptation Stone of Brilliance
+光輝のテンプテーションストーン
 
 ID=31311130
-Temptation Stone of Brilliance
+光輝のテンプテーションストーン
 
 ID=31311131
-Temptation Stone of Brilliance
+光輝のテンプテーションストーン
 
 ID=31311132
-Temptation Stone of Brilliance
+光輝のテンプテーションストーン
 
 ID=31311133
-Mad Ball of Brilliance
+光輝のマッドボール
 
 ID=31311134
-Mad Ball of Brilliance
+光輝のマッドボール
 
 ID=31311135
-Mad Ball of Brilliance
+光輝のマッドボール
 
 ID=31311136
-Mad Ball of Brilliance
+光輝のマッドボール
 
 ID=31311137
-Hideous Puppet of Brilliance
+光輝のヒディアスパペット
 
 ID=31311138
-Imp Puppet of Brilliance
+光輝のインプパペット
 
 ID=31311139
-Tiny Puppet of Brilliance
+光輝のタイニーパペット
 
 ID=31311140
-Midget Puppet of Brilliance
+光輝のミゼットパペット
 
 ID=31311141
-Blank Puppet of Brilliance
+光輝のブランクパペット
 
 ID=31311142
-Saw Puppet of Brilliance
+光輝のソウパペット
 
 ID=31311143
-Nasty Puppet of Brilliance
+光輝のナスティパペット
 
 ID=31311144
-Chubby Puppet of Brilliance
+光輝のチョビーパペット
 
 ID=31311145
-Suspicious Treasure Box of Brilliance
+光輝の怪しいトレジャーボックス
 
 ID=31311146
-Suspicious Treasure Box of Brilliance
+光輝の怪しいトレジャーボックス
 
 ID=31311147
-Suspicious Treasure Box of Brilliance
+光輝の怪しいトレジャーボックス
 
 ID=31311148
-Imp Puppet of Brilliance
+光輝のインプパペット
 
 ID=31311149
-Tiny Puppet of Brilliance
+光輝のタイニーパペット
 
 ID=31311150
-Slave Puppet of Brilliance
+光輝のスレイブパペット
 
 ID=31311151
-Nasty Puppet of Brilliance
+光輝のナスティパペット
 
 ID=31311152
-Chubby Puppet of Brilliance
+光輝のチョビーパペット
 
 ID=31311153
-Fidget Puppet of Brilliance
+光輝のフィジェットパペット
 
 ID=31311154
-Kissling Puppet of Brilliance
+光輝のキスリングパペット
 
 ID=31311155
-Plumpy Puppet of Brilliance
+光輝のプランピーパペット
 
 ID=31311901
-Madness Edgar of Brilliance
+光輝のマッドネスエドガー
 
 ID=30316527
-Madness Edgar of Brilliance
+光輝のマッドネスエドガー
 
 ID=31321101
-Imp Puppet of Malice
+悪念のインプパペット
 
 ID=31321102
-Steel Ball of Malice
+悪念のスチールボール
 
 ID=31321103
-Tiny Puppet of Malice
+悪念のタイニーパペット
 
 ID=31321104
-Midget Puppet of Malice
+悪念のミゼットパペット
 
 ID=31321105
-Mad Ball of Malice
+悪念のマッドボール
 
 ID=31321106
-Blank Puppet of Malice
+悪念のブランクパペット
 
 ID=31321107
-Saw Puppet of Malice
+悪念のソウパペット
 
 ID=31321108
-Slave Puppet of Malice
+悪念のスレイブパペット
 
 ID=31321109
-Ghost Puppet of Malice
+悪念のゴーストパペット
 
 ID=31321110
-Nasty Puppet of Malice
+悪念のナスティパペット
 
 ID=31321111
-Chubby Puppet of Malice
+悪念のチョビーパペット
 
 ID=31321112
-Fidget Puppet of Malice
+悪念のフィジェットパペット
 
 ID=31321113
-Kissling Puppet of Malice
+悪念のキスリングパペット
 
 ID=31321114
-Bloody Puppet of Malice
+悪念のブラッディパペット
 
 ID=31321115
-Plumpy Puppet of Malice
+悪念のプランピーパペット
 
 ID=31321116
-Temptation Stone of Malice
+悪念のテンプテーションストーン
 
 ID=31321117
-Bluff Core of Malice
+悪念のブラフコア
 
 ID=31321118
-Smallish Puppet of Malice
+悪念のスモーリッシュパペット
 
 ID=31321119
-Embryo Puppet of Malice
+悪念のエンブリオパペット
 
 ID=31321120
-Mumble Puppet of Malice
+悪念のマンブルパペット
 
 ID=31321121
-Jack the King of Malice
+悪念のジャック・ザ・キング
 
 ID=31321122
-Little Puppet of Malice
+悪念のリトルパペット
 
 ID=31321123
-Hideous Puppet of Malice
+悪念のヒディアスパペット
 
 ID=31321124
-Edgar of Malice
+悪念のエドガー
 
 ID=31321125
-Equilibrium Eternity of Malice
+悪念のイクイルブリアム_エターニティ
 
 ID=31321126
-Pandemonium Illusion of Malice
+悪念のパンデモニアイリュージョン
 
 ID=31321127
-Jack the King's Shadow of Malice
+悪念のジャック・ザ・キングシャドー
 
 ID=31321128
-Jack the King's Shadow of Malice
+悪念のジャック・ザ・キングシャドー
 
 ID=31321129
-Temptation Stone of Malice
+悪念のテンプテーションストーン
 
 ID=31321130
-Temptation Stone of Malice
+悪念のテンプテーションストーン
 
 ID=31321131
-Temptation Stone of Malice
+悪念のテンプテーションストーン
 
 ID=31321132
-Temptation Stone of Malice
+悪念のテンプテーションストーン
 
 ID=31321133
-Mad Ball of Malice
+悪念のマッドボール
 
 ID=31321134
-Mad Ball of Malice
+悪念のマッドボール
 
 ID=31321135
-Mad Ball of Malice
+悪念のマッドボール
 
 ID=31321136
-Mad Ball of Malice
+悪念のマッドボール
 
 ID=31321137
-Hideous Puppet of Malice
+悪念のヒディアスパペット
 
 ID=31321138
-Imp Puppet of Malice
+悪念のインプパペット
 
 ID=31321139
-Tiny Puppet of Malice
+悪念のタイニーパペット
 
 ID=31321140
-Midget Puppet of Malice
+悪念のミゼットパペット
 
 ID=31321141
-Blank Puppet of Malice
+悪念のブランクパペット
 
 ID=31321142
-Saw Puppet of Malice
+悪念のソウパペット
 
 ID=31321143
-Nasty Puppet of Malice
+悪念のナスティパペット
 
 ID=31321144
-Chubby Puppet of Malice
+悪念のチョビーパペット
 
 ID=31321145
-Suspicious Treasure Box of Malice
+悪念の怪しいトレジャーボックス
 
 ID=31321146
-Suspicious Treasure Box of Malice
+悪念の怪しいトレジャーボックス
 
 ID=31321147
-Suspicious Treasure Box of Malice
+悪念の怪しいトレジャーボックス
 
 ID=31321148
-Imp Puppet of Malice
+悪念のインプパペット
 
 ID=31321149
-Tiny Puppet of Malice
+悪念のタイニーパペット
 
 ID=31321150
-Slave Puppet of Malice
+悪念のスレイブパペット
 
 ID=31321151
-Nasty Puppet of Malice
+悪念のナスティパペット
 
 ID=31321152
-Chubby Puppet of Malice
+悪念のチョビーパペット
 
 ID=31321153
-Fidget Puppet of Malice
+悪念のフィジェットパペット
 
 ID=31321154
-Kissling Puppet of Malice
+悪念のキスリングパペット
 
 ID=31321155
-Plumpy Puppet of Malice
+悪念のプランピーパペット
 
 ID=31321901
-Madness Edgar of Malice
+悪念のマッドネスエドガー
 
 ID=30326527
-Madness Edgar of Malice
+悪念のマッドネスエドガー
 
 ID=31331101
-Imp Puppet of Serenity
+冷静のインプパペット
 
 ID=31331102
-Steel Ball of Serenity
+冷静のスチールボール
 
 ID=31331103
-Tiny Puppet of Serenity
+冷静のタイニーパペット
 
 ID=31331104
-Midget Puppet of Serenity
+冷静のミゼットパペット
 
 ID=31331105
-Mad Ball of Serenity
+冷静のマッドボール
 
 ID=31331106
-Blank Puppet of Serenity
+冷静のブランクパペット
 
 ID=31331107
-Saw Puppet of Serenity
+冷静のソウパペット
 
 ID=31331108
-Slave Puppet of Serenity
+冷静のスレイブパペット
 
 ID=31331109
-Ghost Puppet of Serenity
+冷静のゴーストパペット
 
 ID=31331110
-Nasty Puppet of Serenity
+冷静のナスティパペット
 
 ID=31331111
-Chubby Puppet of Serenity
+冷静のチョビーパペット
 
 ID=31331112
-Fidget Puppet of Serenity
+冷静のフィジェットパペット
 
 ID=31331113
-Kissling Puppet of Serenity
+冷静のキスリングパペット
 
 ID=31331114
-Bloody Puppet of Serenity
+冷静のブラッディパペット
 
 ID=31331115
-Plumpy Puppet of Serenity
+冷静のプランピーパペット
 
 ID=31331116
-Temptation Stone of Serenity
+冷静のテンプテーションストーン
 
 ID=31331117
-Bluff Core of Serenity
+冷静のブラフコア
 
 ID=31331118
-Smallish Puppet of Serenity
+冷静のスモーリッシュパペット
 
 ID=31331119
-Embryo Puppet of Serenity
+冷静のエンブリオパペット
 
 ID=31331120
-Mumble Puppet of Serenity
+冷静のマンブルパペット
 
 ID=31331121
-Jack the King of Serenity
+冷静のジャック・ザ・キング
 
 ID=31331122
-Little Puppet of Serenity
+冷静のリトルパペット
 
 ID=31331123
-Hideous Puppet of Serenity
+冷静のヒディアスパペット
 
 ID=31331124
-Edgar of Serenity
+冷静のエドガー
 
 ID=31331125
-Equilibrium Eternity of Serenity
+冷静のイクイルブリアム_エターニティ
 
 ID=31331126
-Pandemonium Illusion of Serenity
+冷静のパンデモニアイリュージョン
 
 ID=31331127
-Jack the King's Shadow of Serenity
+冷静のジャック・ザ・キングシャドー
 
 ID=31331128
-Jack the King's Shadow of Serenity
+冷静のジャック・ザ・キングシャドー
 
 ID=31331129
-Temptation Stone of Serenity
+冷静のテンプテーションストーン
 
 ID=31331130
-Temptation Stone of Serenity
+冷静のテンプテーションストーン
 
 ID=31331131
-Temptation Stone of Serenity
+冷静のテンプテーションストーン
 
 ID=31331132
-Temptation Stone of Serenity
+冷静のテンプテーションストーン
 
 ID=31331133
-Mad Ball of Serenity
+冷静のマッドボール
 
 ID=31331134
-Mad Ball of Serenity
+冷静のマッドボール
 
 ID=31331135
-Mad Ball of Serenity
+冷静のマッドボール
 
 ID=31331136
-Mad Ball of Serenity
+冷静のマッドボール
 
 ID=31331137
-Hideous Puppet of Serenity
+冷静のヒディアスパペット
 
 ID=31331138
-Imp Puppet of Serenity
+冷静のインプパペット
 
 ID=31331139
-Tiny Puppet of Serenity
+冷静のタイニーパペット
 
 ID=31331140
-Midget Puppet of Serenity
+冷静のミゼットパペット
 
 ID=31331141
-Blank Puppet of Serenity
+冷静のブランクパペット
 
 ID=31331142
-Saw Puppet of Serenity
+冷静のソウパペット
 
 ID=31331143
-Nasty Puppet of Serenity
+冷静のナスティパペット
 
 ID=31331144
-Chubby Puppet of Serenity
+冷静のチョビーパペット
 
 ID=31331145
-Suspicious Treasure Box of Serenity
+冷静の怪しいトレジャーボックス
 
 ID=31331146
-Suspicious Treasure Box of Serenity
+冷静の怪しいトレジャーボックス
 
 ID=31331147
-Suspicious Treasure Box of Serenity
+冷静の怪しいトレジャーボックス
 
 ID=31331148
-Imp Puppet of Serenity
+冷静のインプパペット
 
 ID=31331149
-Tiny Puppet of Serenity
+冷静のタイニーパペット
 
 ID=31331150
-Slave Puppet of Serenity
+冷静のスレイブパペット
 
 ID=31331151
-Nasty Puppet of Serenity
+冷静のナスティパペット
 
 ID=31331152
-Chubby Puppet of Serenity
+冷静のチョビーパペット
 
 ID=31331153
-Fidget Puppet of Serenity
+冷静のフィジェットパペット
 
 ID=31331154
-Kissling Puppet of Serenity
+冷静のキスリングパペット
 
 ID=31331155
-Plumpy Puppet of Serenity
+冷静のプランピーパペット
 
 ID=31331901
-Madness Edgar of Serenity
+冷静のマッドネスエドガー
 
 ID=30336527
-Madness Edgar of Serenity
+冷静のマッドネスエドガー
 
 ID=31341101
-Imp Puppet of Hatred
+憎悪のインプパペット
 
 ID=31341102
-Steel Ball of Hatred
+憎悪のスチールボール
 
 ID=31341103
-Tiny Puppet of Hatred
+憎悪のタイニーパペット
 
 ID=31341104
-Midget Puppet of Hatred
+憎悪のミゼットパペット
 
 ID=31341105
-Mad Ball of Hatred
+憎悪のマッドボール
 
 ID=31341106
-Blank Puppet of Hatred
+憎悪のブランクパペット
 
 ID=31341107
-Saw Puppet of Hatred
+憎悪のソウパペット
 
 ID=31341108
-Slave Puppet of Hatred
+憎悪のスレイブパペット
 
 ID=31341109
-Ghost Puppet of Hatred
+憎悪のゴーストパペット
 
 ID=31341110
-Nasty Puppet of Hatred
+憎悪のナスティパペット
 
 ID=31341111
-Chubby Puppet of Hatred
+憎悪のチョビーパペット
 
 ID=31341112
-Fidget Puppet of Hatred
+憎悪のフィジェットパペット
 
 ID=31341113
-Kissling Puppet of Hatred
+憎悪のキスリングパペット
 
 ID=31341114
-Bloody Puppet of Hatred
+憎悪のブラッディパペット
 
 ID=31341115
-Plumpy Puppet of Hatred
+憎悪のプランピーパペット
 
 ID=31341116
-Temptation Stone of Hatred
+憎悪のテンプテーションストーン
 
 ID=31341117
-Bluff Core of Hatred
+憎悪のブラフコア
 
 ID=31341118
-Smallish Puppet of Hatred
+憎悪のスモーリッシュパペット
 
 ID=31341119
-Embryo Puppet of Hatred
+憎悪のエンブリオパペット
 
 ID=31341120
-Mumble Puppet of Hatred
+憎悪のマンブルパペット
 
 ID=31341121
-Jack the King of Hatred
+憎悪のジャック・ザ・キング
 
 ID=31341122
-Little Puppet of Hatred
+憎悪のリトルパペット
 
 ID=31341123
-Hideous Puppet of Hatred
+憎悪のヒディアスパペット
 
 ID=31341124
-Edgar of Hatred
+憎悪のエドガー
 
 ID=31341125
-Equilibrium Eternity of Hatred
+憎悪のイクイルブリアム_エターニティ
 
 ID=31341126
-Pandemonium Illusion of Hatred
+憎悪のパンデモニアイリュージョン
 
 ID=31341127
-Jack the King's Shadow of Hatred
+憎悪のジャック・ザ・キングシャドー
 
 ID=31341128
-Jack the King's Shadow of Hatred
+憎悪のジャック・ザ・キングシャドー
 
 ID=31341129
-Temptation Stone of Hatred
+憎悪のテンプテーションストーン
 
 ID=31341130
-Temptation Stone of Hatred
+憎悪のテンプテーションストーン
 
 ID=31341131
-Temptation Stone of Hatred
+憎悪のテンプテーションストーン
 
 ID=31341132
-Temptation Stone of Hatred
+憎悪のテンプテーションストーン
 
 ID=31341133
-Mad Ball of Hatred
+憎悪のマッドボール
 
 ID=31341134
-Mad Ball of Hatred
+憎悪のマッドボール
 
 ID=31341135
-Mad Ball of Hatred
+憎悪のマッドボール
 
 ID=31341136
-Mad Ball of Hatred
+憎悪のマッドボール
 
 ID=31341137
-Hideous Puppet of Hatred
+憎悪のヒディアスパペット
 
 ID=31341138
-Imp Puppet of Hatred
+憎悪のインプパペット
 
 ID=31341139
-Tiny Puppet of Hatred
+憎悪のタイニーパペット
 
 ID=31341140
-Midget Puppet of Hatred
+憎悪のミゼットパペット
 
 ID=31341141
-Blank Puppet of Hatred
+憎悪のブランクパペット
 
 ID=31341142
-Saw Puppet of Hatred
+憎悪のソウパペット
 
 ID=31341143
-Nasty Puppet of Hatred
+憎悪のナスティパペット
 
 ID=31341144
-Chubby Puppet of Hatred
+憎悪のチョビーパペット
 
 ID=31341145
-Suspicious Treasure Box of Hatred
+憎悪の怪しいトレジャーボックス
 
 ID=31341146
-Suspicious Treasure Box of Hatred
+憎悪の怪しいトレジャーボックス
 
 ID=31341147
-Suspicious Treasure Box of Hatred
+憎悪の怪しいトレジャーボックス
 
 ID=31341148
-Imp Puppet of Hatred
+憎悪のインプパペット
 
 ID=31341149
-Tiny Puppet of Hatred
+憎悪のタイニーパペット
 
 ID=31341150
-Slave Puppet of Hatred
+憎悪のスレイブパペット
 
 ID=31341151
-Nasty Puppet of Hatred
+憎悪のナスティパペット
 
 ID=31341152
-Chubby Puppet of Hatred
+憎悪のチョビーパペット
 
 ID=31341153
-Fidget Puppet of Hatred
+憎悪のフィジェットパペット
 
 ID=31341154
-Kissling Puppet of Hatred
+憎悪のキスリングパペット
 
 ID=31341155
-Plumpy Puppet of Hatred
+憎悪のプランピーパペット
 
 ID=31341901
-Madness Edgar of Hatred
+憎悪のマッドネスエドガー
 
 ID=30346527
-Madness Edgar of Hatred
+憎悪のマッドネスエドガー
 
 ID=31351101
-Imp Puppet of Healing
+治癒のインプパペット
 
 ID=31351102
-Steel Ball of Healing
+治癒のスチールボール
 
 ID=31351103
-Tiny Puppet of Healing
+治癒のタイニーパペット
 
 ID=31351104
-Midget Puppet of Healing
+治癒のミゼットパペット
 
 ID=31351105
-Mad Ball of Healing
+治癒のマッドボール
 
 ID=31351106
-Blank Puppet of Healing
+治癒のブランクパペット
 
 ID=31351107
-Saw Puppet of Healing
+治癒のソウパペット
 
 ID=31351108
-Slave Puppet of Healing
+治癒のスレイブパペット
 
 ID=31351109
-Ghost Puppet of Healing
+治癒のゴーストパペット
 
 ID=31351110
-Nasty Puppet of Healing
+治癒のナスティパペット
 
 ID=31351111
-Chubby Puppet of Healing
+治癒のチョビーパペット
 
 ID=31351112
-Fidget Puppet of Healing
+治癒のフィジェットパペット
 
 ID=31351113
-Kissling Puppet of Healing
+治癒のキスリングパペット
 
 ID=31351114
-Bloody Puppet of Healing
+治癒のブラッディパペット
 
 ID=31351115
-Plumpy Puppet of Healing
+治癒のプランピーパペット
 
 ID=31351116
-Temptation Stone of Healing
+治癒のテンプテーションストーン
 
 ID=31351117
-Bluff Core of Healing
+治癒のブラフコア
 
 ID=31351118
-Smallish Puppet of Healing
+治癒のスモーリッシュパペット
 
 ID=31351119
-Embryo Puppet of Healing
+治癒のエンブリオパペット
 
 ID=31351120
-Mumble Puppet of Healing
+治癒のマンブルパペット
 
 ID=31351121
-Jack the King of Healing
+治癒のジャック・ザ・キング
 
 ID=31351122
-Little Puppet of Healing
+治癒のリトルパペット
 
 ID=31351123
-Hideous Puppet of Healing
+治癒のヒディアスパペット
 
 ID=31351124
-Edgar of Healing
+治癒のエドガー
 
 ID=31351125
-Equilibrium Eternity of Healing
+治癒のイクイルブリアム_エターニティ
 
 ID=31351126
-Pandemonium Illusion of Healing
+治癒のパンデモニアイリュージョン
 
 ID=31351127
-Jack the King's Shadow of Healing
+治癒のジャック・ザ・キングシャドー
 
 ID=31351128
-Jack the King's Shadow of Healing
+治癒のジャック・ザ・キングシャドー
 
 ID=31351129
-Temptation Stone of Healing
+治癒のテンプテーションストーン
 
 ID=31351130
-Temptation Stone of Healing
+治癒のテンプテーションストーン
 
 ID=31351131
-Temptation Stone of Healing
+治癒のテンプテーションストーン
 
 ID=31351132
-Temptation Stone of Healing
+治癒のテンプテーションストーン
 
 ID=31351133
-Mad Ball of Healing
+治癒のマッドボール
 
 ID=31351134
-Mad Ball of Healing
+治癒のマッドボール
 
 ID=31351135
-Mad Ball of Healing
+治癒のマッドボール
 
 ID=31351136
-Mad Ball of Healing
+治癒のマッドボール
 
 ID=31351137
-Hideous Puppet of Healing
+治癒のヒディアスパペット
 
 ID=31351138
-Imp Puppet of Healing
+治癒のインプパペット
 
 ID=31351139
-Tiny Puppet of Healing
+治癒のタイニーパペット
 
 ID=31351140
-Midget Puppet of Healing
+治癒のミゼットパペット
 
 ID=31351141
-Blank Puppet of Healing
+治癒のブランクパペット
 
 ID=31351142
-Saw Puppet of Healing
+治癒のソウパペット
 
 ID=31351143
-Nasty Puppet of Healing
+治癒のナスティパペット
 
 ID=31351144
-Chubby Puppet of Healing
+治癒のチョビーパペット
 
 ID=31351145
-Suspicious Treasure Box of Healing
+治癒の怪しいトレジャーボックス
 
 ID=31351146
-Suspicious Treasure Box of Healing
+治癒の怪しいトレジャーボックス
 
 ID=31351147
-Suspicious Treasure Box of Healing
+治癒の怪しいトレジャーボックス
 
 ID=31351148
-Imp Puppet of Healing
+治癒のインプパペット
 
 ID=31351149
-Tiny Puppet of Healing
+治癒のタイニーパペット
 
 ID=31351150
-Slave Puppet of Healing
+治癒のスレイブパペット
 
 ID=31351151
-Nasty Puppet of Healing
+治癒のナスティパペット
 
 ID=31351152
-Chubby Puppet of Healing
+治癒のチョビーパペット
 
 ID=31351153
-Fidget Puppet of Healing
+治癒のフィジェットパペット
 
 ID=31351154
-Kissling Puppet of Healing
+治癒のキスリングパペット
 
 ID=31351155
-Plumpy Puppet of Healing
+治癒のプランピーパペット
 
 ID=31351901
-Madness Edgar of Healing
+治癒のマッドネスエドガー
 
 ID=30356527
-Madness Edgar of Healing
+治癒のマッドネスエドガー
 
 ID=31361101
-Imp Puppet of Agony
+苦痛のインプパペット
 
 ID=31361102
-Steel Ball of Agony
+苦痛のスチールボール
 
 ID=31361103
-Tiny Puppet of Agony
+苦痛のタイニーパペット
 
 ID=31361104
-Midget Puppet of Agony
+苦痛のミゼットパペット
 
 ID=31361105
-Mad Ball of Agony
+苦痛のマッドボール
 
 ID=31361106
-Blank Puppet of Agony
+苦痛のブランクパペット
 
 ID=31361107
-Saw Puppet of Agony
+苦痛のソウパペット
 
 ID=31361108
-Slave Puppet of Agony
+苦痛のスレイブパペット
 
 ID=31361109
-Ghost Puppet of Agony
+苦痛のゴーストパペット
 
 ID=31361110
-Nasty Puppet of Agony
+苦痛のナスティパペット
 
 ID=31361111
-Chubby Puppet of Agony
+苦痛のチョビーパペット
 
 ID=31361112
-Fidget Puppet of Agony
+苦痛のフィジェットパペット
 
 ID=31361113
-Kissling Puppet of Agony
+苦痛のキスリングパペット
 
 ID=31361114
-Bloody Puppet of Agony
+苦痛のブラッディパペット
 
 ID=31361115
-Plumpy Puppet of Agony
+苦痛のプランピーパペット
 
 ID=31361116
-Temptation Stone of Agony
+苦痛のテンプテーションストーン
 
 ID=31361117
-Bluff Core of Agony
+苦痛のブラフコア
 
 ID=31361118
-Smallish Puppet of Agony
+苦痛のスモーリッシュパペット
 
 ID=31361119
-Embryo Puppet of Agony
+苦痛のエンブリオパペット
 
 ID=31361120
-Mumble Puppet of Agony
+苦痛のマンブルパペット
 
 ID=31361121
-Jack the King of Agony
+苦痛のジャック・ザ・キング
 
 ID=31361122
-Little Puppet of Agony
+苦痛のリトルパペット
 
 ID=31361123
-Hideous Puppet of Agony
+苦痛のヒディアスパペット
 
 ID=31361124
-Edgar of Agony
+苦痛のエドガー
 
 ID=31361125
-Equilibrium Eternity of Agony
+苦痛のイクイルブリアム_エターニティ
 
 ID=31361126
-Pandemonium Illusion of Agony
+苦痛のパンデモニアイリュージョン
 
 ID=31361127
-Jack the King's Shadow of Agony
+苦痛のジャック・ザ・キングシャドー
 
 ID=31361128
-Jack the King's Shadow of Agony
+苦痛のジャック・ザ・キングシャドー
 
 ID=31361129
-Temptation Stone of Agony
+苦痛のテンプテーションストーン
 
 ID=31361130
-Temptation Stone of Agony
+苦痛のテンプテーションストーン
 
 ID=31361131
-Temptation Stone of Agony
+苦痛のテンプテーションストーン
 
 ID=31361132
-Temptation Stone of Agony
+苦痛のテンプテーションストーン
 
 ID=31361133
-Mad Ball of Agony
+苦痛のマッドボール
 
 ID=31361134
-Mad Ball of Agony
+苦痛のマッドボール
 
 ID=31361135
-Mad Ball of Agony
+苦痛のマッドボール
 
 ID=31361136
-Mad Ball of Agony
+苦痛のマッドボール
 
 ID=31361137
-Hideous Puppet of Agony
+苦痛のヒディアスパペット
 
 ID=31361138
-Imp Puppet of Agony
+苦痛のインプパペット
 
 ID=31361139
-Tiny Puppet of Agony
+苦痛のタイニーパペット
 
 ID=31361140
-Midget Puppet of Agony
+苦痛のミゼットパペット
 
 ID=31361141
-Blank Puppet of Agony
+苦痛のブランクパペット
 
 ID=31361142
-Saw Puppet of Agony
+苦痛のソウパペット
 
 ID=31361143
-Nasty Puppet of Agony
+苦痛のナスティパペット
 
 ID=31361144
-Chubby Puppet of Agony
+苦痛のチョビーパペット
 
 ID=31361145
-Suspicious Treasure Box of Agony
+苦痛の怪しいトレジャーボックス
 
 ID=31361146
-Suspicious Treasure Box of Agony
+苦痛の怪しいトレジャーボックス
 
 ID=31361147
-Suspicious Treasure Box of Agony
+苦痛の怪しいトレジャーボックス
 
 ID=31361148
-Imp Puppet of Agony
+苦痛のインプパペット
 
 ID=31361149
-Tiny Puppet of Agony
+苦痛のタイニーパペット
 
 ID=31361150
-Slave Puppet of Agony
+苦痛のスレイブパペット
 
 ID=31361151
-Nasty Puppet of Agony
+苦痛のナスティパペット
 
 ID=31361152
-Chubby Puppet of Agony
+苦痛のチョビーパペット
 
 ID=31361153
-Fidget Puppet of Agony
+苦痛のフィジェットパペット
 
 ID=31361154
-Kissling Puppet of Agony
+苦痛のキスリングパペット
 
 ID=31361155
-Plumpy Puppet of Agony
+苦痛のプランピーパペット
 
 ID=31361901
-Madness Edgar of Agony
+苦痛のマッドネスエドガー
 
 ID=30366527
-Madness Edgar of Agony
+苦痛のマッドネスエドガー
 
 ID=31312101
-Scone of Brilliance
+光輝のスコーン
 
 ID=31312102
-Wild Stone of Brilliance
+光輝のワイルドストーン
 
 ID=31312103
-Vacuum Parasite of Brilliance
+光輝のバキュームパラサイト
 
 ID=31312104
-Dark Cell of Brilliance
+光輝のダークセル
 
 ID=31312105
-Small Cell of Brilliance
+光輝のスモールセル
 
 ID=31312106
-Vacuum Vein of Brilliance
+光輝のバキュームべイン
 
 ID=31312107
-Cell of Brilliance
+光輝のセル
 
 ID=31312108
-N-65 of Brilliance
+光輝のN-65
 
 ID=31312109
-Sewer Rat of Brilliance
+光輝のシウォラット
 
 ID=31312110
-Wreckage of Brilliance
+光輝のレケイジ
 
 ID=31312111
-Land Stone of Brilliance
+光輝のランドストーン
 
 ID=31312112
-Gallus of Brilliance
+光輝のガルス
 
 ID=31312113
-Ruga of Brilliance
+光輝のルーガ
 
 ID=31312114
-Dark Lizard of Brilliance
+光輝のダークリザード
 
 ID=31312115
-Pawn Spider of Brilliance
+光輝のポーンスパイダー
 
 ID=31312116
-Infected Guard of Brilliance
+光輝のインフェクトガード
 
 ID=31312117
-Infected Girl of Brilliance
+光輝のインフェクトガール
 
 ID=31312118
-S-00 of Brilliance
+光輝のS-00
 
 ID=31312119
-S-02 of Brilliance
+光輝のS-02
 
 ID=31312120
-Habitant of Brilliance
+光輝のハビタント
 
 ID=31312121
-Hokmah of Brilliance
+光輝のホクマ
 
 ID=31312122
-Rampage of Brilliance
+光輝のランペイジ
 
 ID=31312123
-Bone Crusher of Brilliance
+光輝のボーンクラッシャー
 
 ID=31312124
-S-01 of Brilliance
+光輝のS-01
 
 ID=31312125
-Mangrove Cell of Brilliance
+光輝のマングローブセル
 
 ID=31312126
-Dark Mucus of Brilliance
+光輝のダークミューカス
 
 ID=31312127
-Warlike of Brilliance
+光輝のウォーライク
 
 ID=31312128
-Land Crusher of Brilliance
+光輝のランドクラッシャー
 
 ID=31312129
-Glasnis of Brilliance
+光輝のガラスニス
 
 ID=31312130
-Iron Breaker of Brilliance
+光輝のアイアンブレイカー
 
 ID=31312131
-Dark Alligator of Brilliance
+光輝のダークアリゲーター
 
 ID=31312132
-Dark Worm of Brilliance
+光輝のダークワーム
 
 ID=31312133
-Junk Knight of Brilliance
+光輝のジャンクナイト
 
 ID=31312134
-Venom Mucus of Brilliance
+光輝のヴェノムミューカス
 
 ID=31312135
-Crude Cell of Brilliance
+光輝のクルードセル
 
 ID=31312136
-Meltiness Cell of Brilliance
+光輝のメルティニスセル
 
 ID=31312137
-Duke Spider of Brilliance
+光輝のデュークスパイダー
 
 ID=31312138
-Glasnis of Brilliance
+光輝のガラスニス
 
 ID=31312139
-Iron Breaker of Brilliance
+光輝のアイアンブレイカー
 
 ID=31312140
-Dignity Snatcher of Brilliance
+光輝のディグニティースナッチャー
 
 ID=31312141
-Amaryllis of Brilliance
+光輝のアマリリス
 
 ID=31312142
-Beholder of Brilliance
+光輝のビホールダー
 
 ID=31312143
-Asphalt Golem of Brilliance
+光輝のアスファルトゴーレム
 
 ID=31312144
-Arachnis of Brilliance
+光輝のアラクニス
 
 ID=31312145
-Mad Beholder of Brilliance
+光輝のマッドビホールダー
 
 ID=31312146
-Junk Cocoon of Brilliance
+光輝のジャンクコクーン
 
 ID=31312147
-Junk Cocoon of Brilliance
+光輝のジャンクコクーン
 
 ID=31312148
-Junk Cocoon of Brilliance
+光輝のジャンクコクーン
 
 ID=31312149
-Spider Cocoon of Brilliance
+光輝のクモの繭
 
 ID=31312150
-Ominous Cocoon of Brilliance
+光輝の不気味な繭
 
 ID=31312151
-EMP Main of Brilliance
+光輝のEMPマイン
 
 ID=31312152
-Artillery Guidance System of Brilliance
+光輝の砲撃誘導装置
 
 ID=31312153
-Charging Device of Brilliance
+光輝の充電装置
 
 ID=31312154
-Prickly Tentacle of Brilliance
+光輝のトゲ触手
 
 ID=31312155
-Prickly Tentacle of Brilliance
+光輝のトゲ触手
 
 ID=31312156
-Prickly Tentacle of Brilliance
+光輝のトゲ触手
 
 ID=31312157
-Prickly Tentacle of Brilliance
+光輝のトゲ触手
 
 ID=31312158
-Prickly Tentacle of Brilliance
+光輝のトゲ触手
 
 ID=31312159
-Prickly Tentacle of Brilliance
+光輝のトゲ触手
 
 ID=31312160
-Heavy Cell of Brilliance
+光輝のヘビーセル
 
 ID=31312161
-Charging Device of Brilliance
+光輝の充電装置
 
 ID=31312162
-Junk Cocoon of Brilliance
+光輝のジャンクコクーン
 
 ID=31312163
-Healing Cocoon of Brilliance
+光輝のヒールコクーン
 
 ID=31312164
-Charging Device of Brilliance
+光輝の充電装置
 
 ID=31312165
-Charging Device of Brilliance
+光輝の充電装置
 
 ID=31312901
-Violet Murderess of Brilliance
+光輝のヴァイオレットマーデリス
 
 ID=30316574
-Violet Murderess of Brilliance
+光輝のヴァイオレットマーデリス
 
 ID=31322101
-Scone of Malice
+悪念のスコーン
 
 ID=31322102
-Wild Stone of Malice
+悪念のワイルドストーン
 
 ID=31322103
-Vacuum Parasite of Malice
+悪念のバキュームパラサイト
 
 ID=31322104
-Dark Cell of Malice
+悪念のダークセル
 
 ID=31322105
-Small Cell of Malice
+悪念のスモールセル
 
 ID=31322106
-Vacuum Vein of Malice
+悪念のバキュームべイン
 
 ID=31322107
-Cell of Malice
+悪念のセル
 
 ID=31322108
-N-65 of Malice
+悪念のN-65
 
 ID=31322109
-Sewer Rat of Malice
+悪念のシウォラット
 
 ID=31322110
-Wreckage of Malice
+悪念のレケイジ
 
 ID=31322111
-Land Stone of Malice
+悪念のランドストーン
 
 ID=31322112
-Gallus of Malice
+悪念のガルス
 
 ID=31322113
-Ruga of Malice
+悪念のルーガ
 
 ID=31322114
-Dark Lizard of Malice
+悪念のダークリザード
 
 ID=31322115
-Pawn Spider of Malice
+悪念のポーンスパイダー
 
 ID=31322116
-Infected Guard of Malice
+悪念のインフェクトガード
 
 ID=31322117
-Infected Girl of Malice
+悪念のインフェクトガール
 
 ID=31322118
-S-00 of Malice
+悪念のS-00
 
 ID=31322119
-S-02 of Malice
+悪念のS-02
 
 ID=31322120
-Habitant of Malice
+悪念のハビタント
 
 ID=31322121
-Hokmah of Malice
+悪念のホクマ
 
 ID=31322122
-Rampage of Malice
+悪念のランペイジ
 
 ID=31322123
-Bone Crusher of Malice
+悪念のボーンクラッシャー
 
 ID=31322124
-S-01 of Malice
+悪念のS-01
 
 ID=31322125
-Mangrove Cell of Malice
+悪念のマングローブセル
 
 ID=31322126
-Dark Mucus of Malice
+悪念のダークミューカス
 
 ID=31322127
-Warlike of Malice
+悪念のウォーライク
 
 ID=31322128
-Land Crusher of Malice
+悪念のランドクラッシャー
 
 ID=31322129
-Glasnis of Malice
+悪念のガラスニス
 
 ID=31322130
-Iron Breaker of Malice
+悪念のアイアンブレイカー
 
 ID=31322131
-Dark Alligator of Malice
+悪念のダークアリゲーター
 
 ID=31322132
-Dark Worm of Malice
+悪念のダークワーム
 
 ID=31322133
-Junk Knight of Malice
+悪念のジャンクナイト
 
 ID=31322134
-Venom Mucus of Malice
+悪念のヴェノムミューカス
 
 ID=31322135
-Crude Cell of Malice
+悪念のクルードセル
 
 ID=31322136
-Meltiness Cell of Malice
+悪念のメルティニスセル
 
 ID=31322137
-Duke Spider of Malice
+悪念のデュークスパイダー
 
 ID=31322138
-Glasnis of Malice
+悪念のガラスニス
 
 ID=31322139
-Iron Breaker of Malice
+悪念のアイアンブレイカー
 
 ID=31322140
-Dignity Snatcher of Malice
+悪念のディグニティースナッチャー
 
 ID=31322141
-Amaryllis of Malice
+悪念のアマリリス
 
 ID=31322142
-Beholder of Malice
+悪念のビホールダー
 
 ID=31322143
-Asphalt Golem of Malice
+悪念のアスファルトゴーレム
 
 ID=31322144
-Arachnis of Malice
+悪念のアラクニス
 
 ID=31322145
-Mad Beholder of Malice
+悪念のマッドビホールダー
 
 ID=31322146
-Junk Cocoon of Malice
+悪念のジャンクコクーン
 
 ID=31322147
-Junk Cocoon of Malice
+悪念のジャンクコクーン
 
 ID=31322148
-Junk Cocoon of Malice
+悪念のジャンクコクーン
 
 ID=31322149
-Spider Cocoon of Malice
+悪念のクモの繭
 
 ID=31322150
-Ominous Cocoon of Malice
+悪念の不気味な繭
 
 ID=31322151
-EMP Main of Malice
+悪念のEMPマイン
 
 ID=31322152
-Artillery Guidance System of Malice
+悪念の砲撃誘導装置
 
 ID=31322153
-Charging Device of Malice
+悪念の充電装置
 
 ID=31322154
-Prickly Tentacle of Malice
+悪念のトゲ触手
 
 ID=31322155
-Prickly Tentacle of Malice
+悪念のトゲ触手
 
 ID=31322156
-Prickly Tentacle of Malice
+悪念のトゲ触手
 
 ID=31322157
-Prickly Tentacle of Malice
+悪念のトゲ触手
 
 ID=31322158
-Prickly Tentacle of Malice
+悪念のトゲ触手
 
 ID=31322159
-Prickly Tentacle of Malice
+悪念のトゲ触手
 
 ID=31322160
-Heavy Cell of Malice
+悪念のヘビーセル
 
 ID=31322161
-Charging Device of Malice
+悪念の充電装置
 
 ID=31322162
-Junk Cocoon of Malice
+悪念のジャンクコクーン
 
 ID=31322163
-Healing Cocoon of Malice
+悪念のヒールコクーン
 
 ID=31322164
-Charging Device of Malice
+悪念の充電装置
 
 ID=31322165
-Charging Device of Malice
+悪念の充電装置
 
 ID=31322901
-Violet Murderess of Malice
+悪念のヴァイオレットマーデリス
 
 ID=30326574
-Violet Murderess of Malice
+悪念のヴァイオレットマーデリス
 
 ID=31332101
-Scone of Serenity
+冷静のスコーン
 
 ID=31332102
-Wild Stone of Serenity
+冷静のワイルドストーン
 
 ID=31332103
-Vacuum Parasite of Serenity
+冷静のバキュームパラサイト
 
 ID=31332104
-Dark Cell of Serenity
+冷静のダークセル
 
 ID=31332105
-Small Cell of Serenity
+冷静のスモールセル
 
 ID=31332106
-Vacuum Vein of Serenity
+冷静のバキュームべイン
 
 ID=31332107
-Cell of Serenity
+冷静のセル
 
 ID=31332108
-N-65 of Serenity
+冷静のN-65
 
 ID=31332109
-Sewer Rat of Serenity
+冷静のシウォラット
 
 ID=31332110
-Wreckage of Serenity
+冷静のレケイジ
 
 ID=31332111
-Land Stone of Serenity
+冷静のランドストーン
 
 ID=31332112
-Gallus of Serenity
+冷静のガルス
 
 ID=31332113
-Ruga of Serenity
+冷静のルーガ
 
 ID=31332114
-Dark Lizard of Serenity
+冷静のダークリザード
 
 ID=31332115
-Pawn Spider of Serenity
+冷静のポーンスパイダー
 
 ID=31332116
-Infected Guard of Serenity
+冷静のインフェクトガード
 
 ID=31332117
-Infected Girl of Serenity
+冷静のインフェクトガール
 
 ID=31332118
-S-00 of Serenity
+冷静のS-00
 
 ID=31332119
-S-02 of Serenity
+冷静のS-02
 
 ID=31332120
-Habitant of Serenity
+冷静のハビタント
 
 ID=31332121
-Hokmah of Serenity
+冷静のホクマ
 
 ID=31332122
-Rampage of Serenity
+冷静のランペイジ
 
 ID=31332123
-Bone Crusher of Serenity
+冷静のボーンクラッシャー
 
 ID=31332124
-S-01 of Serenity
+冷静のS-01
 
 ID=31332125
-Mangrove Cell of Serenity
+冷静のマングローブセル
 
 ID=31332126
-Dark Mucus of Serenity
+冷静のダークミューカス
 
 ID=31332127
-Warlike of Serenity
+冷静のウォーライク
 
 ID=31332128
-Land Crusher of Serenity
+冷静のランドクラッシャー
 
 ID=31332129
-Glasnis of Serenity
+冷静のガラスニス
 
 ID=31332130
-Iron Breaker of Serenity
+冷静のアイアンブレイカー
 
 ID=31332131
-Dark Alligator of Serenity
+冷静のダークアリゲーター
 
 ID=31332132
-Dark Worm of Serenity
+冷静のダークワーム
 
 ID=31332133
-Junk Knight of Serenity
+冷静のジャンクナイト
 
 ID=31332134
-Venom Mucus of Serenity
+冷静のヴェノムミューカス
 
 ID=31332135
-Crude Cell of Serenity
+冷静のクルードセル
 
 ID=31332136
-Meltiness Cell of Serenity
+冷静のメルティニスセル
 
 ID=31332137
-Duke Spider of Serenity
+冷静のデュークスパイダー
 
 ID=31332138
-Glasnis of Serenity
+冷静のガラスニス
 
 ID=31332139
-Iron Breaker of Serenity
+冷静のアイアンブレイカー
 
 ID=31332140
-Dignity Snatcher of Serenity
+冷静のディグニティースナッチャー
 
 ID=31332141
-Amaryllis of Serenity
+冷静のアマリリス
 
 ID=31332142
-Beholder of Serenity
+冷静のビホールダー
 
 ID=31332143
-Asphalt Golem of Serenity
+冷静のアスファルトゴーレム
 
 ID=31332144
-Arachnis of Serenity
+冷静のアラクニス
 
 ID=31332145
-Mad Beholder of Serenity
+冷静のマッドビホールダー
 
 ID=31332146
-Junk Cocoon of Serenity
+冷静のジャンクコクーン
 
 ID=31332147
-Junk Cocoon of Serenity
+冷静のジャンクコクーン
 
 ID=31332148
-Junk Cocoon of Serenity
+冷静のジャンクコクーン
 
 ID=31332149
-Spider Cocoon of Serenity
+冷静のクモの繭
 
 ID=31332150
-Ominous Cocoon of Serenity
+冷静の不気味な繭
 
 ID=31332151
-EMP Main of Serenity
+冷静のEMPマイン
 
 ID=31332152
-Artillery Guidance System of Serenity
+冷静の砲撃誘導装置
 
 ID=31332153
-Charging Device of Serenity
+冷静の充電装置
 
 ID=31332154
-Prickly Tentacle of Serenity
+冷静のトゲ触手
 
 ID=31332155
-Prickly Tentacle of Serenity
+冷静のトゲ触手
 
 ID=31332156
-Prickly Tentacle of Serenity
+冷静のトゲ触手
 
 ID=31332157
-Prickly Tentacle of Serenity
+冷静のトゲ触手
 
 ID=31332158
-Prickly Tentacle of Serenity
+冷静のトゲ触手
 
 ID=31332159
-Prickly Tentacle of Serenity
+冷静のトゲ触手
 
 ID=31332160
-Heavy Cell of Serenity
+冷静のヘビーセル
 
 ID=31332161
-Charging Device of Serenity
+冷静の充電装置
 
 ID=31332162
-Junk Cocoon of Serenity
+冷静のジャンクコクーン
 
 ID=31332163
-Healing Cocoon of Serenity
+冷静のヒールコクーン
 
 ID=31332164
-Charging Device of Serenity
+冷静の充電装置
 
 ID=31332165
-Charging Device of Serenity
+冷静の充電装置
 
 ID=31332901
-Violet Murderess of Serenity
+冷静のヴァイオレットマーデリス
 
 ID=30336574
-Violet Murderess of Serenity
+冷静のヴァイオレットマーデリス
 
 ID=31342101
-Scone of Hatred
+憎悪のスコーン
 
 ID=31342102
-Wild Stone of Hatred
+憎悪のワイルドストーン
 
 ID=31342103
-Vacuum Parasite of Hatred
+憎悪のバキュームパラサイト
 
 ID=31342104
-Dark Cell of Hatred
+憎悪のダークセル
 
 ID=31342105
-Small Cell of Hatred
+憎悪のスモールセル
 
 ID=31342106
-Vacuum Vein of Hatred
+憎悪のバキュームべイン
 
 ID=31342107
-Cell of Hatred
+憎悪のセル
 
 ID=31342108
-N-65 of Hatred
+憎悪のN-65
 
 ID=31342109
-Sewer Rat of Hatred
+憎悪のシウォラット
 
 ID=31342110
-Wreckage of Hatred
+憎悪のレケイジ
 
 ID=31342111
-Land Stone of Hatred
+憎悪のランドストーン
 
 ID=31342112
-Gallus of Hatred
+憎悪のガルス
 
 ID=31342113
-Ruga of Hatred
+憎悪のルーガ
 
 ID=31342114
-Dark Lizard of Hatred
+憎悪のダークリザード
 
 ID=31342115
-Pawn Spider of Hatred
+憎悪のポーンスパイダー
 
 ID=31342116
-Infected Guard of Hatred
+憎悪のインフェクトガード
 
 ID=31342117
-Infected Girl of Hatred
+憎悪のインフェクトガール
 
 ID=31342118
-S-00 of Hatred
+憎悪のS-00
 
 ID=31342119
-S-02 of Hatred
+憎悪のS-02
 
 ID=31342120
-Habitant of Hatred
+憎悪のハビタント
 
 ID=31342121
-Hokmah of Hatred
+憎悪のホクマ
 
 ID=31342122
-Rampage of Hatred
+憎悪のランペイジ
 
 ID=31342123
-Bone Crusher of Hatred
+憎悪のボーンクラッシャー
 
 ID=31342124
-S-01 of Hatred
+憎悪のS-01
 
 ID=31342125
-Mangrove Cell of Hatred
+憎悪のマングローブセル
 
 ID=31342126
-Dark Mucus of Hatred
+憎悪のダークミューカス
 
 ID=31342127
-Warlike of Hatred
+憎悪のウォーライク
 
 ID=31342128
-Land Crusher of Hatred
+憎悪のランドクラッシャー
 
 ID=31342129
-Glasnis of Hatred
+憎悪のガラスニス
 
 ID=31342130
-Iron Breaker of Hatred
+憎悪のアイアンブレイカー
 
 ID=31342131
-Dark Alligator of Hatred
+憎悪のダークアリゲーター
 
 ID=31342132
-Dark Worm of Hatred
+憎悪のダークワーム
 
 ID=31342133
-Junk Knight of Hatred
+憎悪のジャンクナイト
 
 ID=31342134
-Venom Mucus of Hatred
+憎悪のヴェノムミューカス
 
 ID=31342135
-Crude Cell of Hatred
+憎悪のクルードセル
 
 ID=31342136
-Meltiness Cell of Hatred
+憎悪のメルティニスセル
 
 ID=31342137
-Duke Spider of Hatred
+憎悪のデュークスパイダー
 
 ID=31342138
-Glasnis of Hatred
+憎悪のガラスニス
 
 ID=31342139
-Iron Breaker of Hatred
+憎悪のアイアンブレイカー
 
 ID=31342140
-Dignity Snatcher of Hatred
+憎悪のディグニティースナッチャー
 
 ID=31342141
-Amaryllis of Hatred
+憎悪のアマリリス
 
 ID=31342142
-Beholder of Hatred
+憎悪のビホールダー
 
 ID=31342143
-Asphalt Golem of Hatred
+憎悪のアスファルトゴーレム
 
 ID=31342144
-Arachnis of Hatred
+憎悪のアラクニス
 
 ID=31342145
-Mad Beholder of Hatred
+憎悪のマッドビホールダー
 
 ID=31342146
-Junk Cocoon of Hatred
+憎悪のジャンクコクーン
 
 ID=31342147
-Junk Cocoon of Hatred
+憎悪のジャンクコクーン
 
 ID=31342148
-Junk Cocoon of Hatred
+憎悪のジャンクコクーン
 
 ID=31342149
-Spider Cocoon of Hatred
+憎悪のクモの繭
 
 ID=31342150
-Ominous Cocoon of Hatred
+憎悪の不気味な繭
 
 ID=31342151
-EMP Main of Hatred
+憎悪のEMPマイン
 
 ID=31342152
-Artillery Guidance System of Hatred
+憎悪の砲撃誘導装置
 
 ID=31342153
-Charging Device of Hatred
+憎悪の充電装置
 
 ID=31342154
-Prickly Tentacle of Hatred
+憎悪のトゲ触手
 
 ID=31342155
-Prickly Tentacle of Hatred
+憎悪のトゲ触手
 
 ID=31342156
-Prickly Tentacle of Hatred
+憎悪のトゲ触手
 
 ID=31342157
-Prickly Tentacle of Hatred
+憎悪のトゲ触手
 
 ID=31342158
-Prickly Tentacle of Hatred
+憎悪のトゲ触手
 
 ID=31342159
-Prickly Tentacle of Hatred
+憎悪のトゲ触手
 
 ID=31342160
-Heavy Cell of Hatred
+憎悪のヘビーセル
 
 ID=31342161
-Charging Device of Hatred
+憎悪の充電装置
 
 ID=31342162
-Junk Cocoon of Hatred
+憎悪のジャンクコクーン
 
 ID=31342163
-Healing Cocoon of Hatred
+憎悪のヒールコクーン
 
 ID=31342164
-Charging Device of Hatred
+憎悪の充電装置
 
 ID=31342165
-Charging Device of Hatred
+憎悪の充電装置
 
 ID=31342901
-Violet Murderess of Hatred
+憎悪のヴァイオレットマーデリス
 
 ID=30346574
-Violet Murderess of Hatred
+憎悪のヴァイオレットマーデリス
 
 ID=31352101
-Scone of Healing
+治癒のスコーン
 
 ID=31352102
-Wild Stone of Healing
+治癒のワイルドストーン
 
 ID=31352103
-Vacuum Parasite of Healing
+治癒のバキュームパラサイト
 
 ID=31352104
-Dark Cell of Healing
+治癒のダークセル
 
 ID=31352105
-Small Cell of Healing
+治癒のスモールセル
 
 ID=31352106
-Vacuum Vein of Healing
+治癒のバキュームべイン
 
 ID=31352107
-Cell of Healing
+治癒のセル
 
 ID=31352108
-N-65 of Healing
+治癒のN-65
 
 ID=31352109
-Sewer Rat of Healing
+治癒のシウォラット
 
 ID=31352110
-Wreckage of Healing
+治癒のレケイジ
 
 ID=31352111
-Land Stone of Healing
+治癒のランドストーン
 
 ID=31352112
-Gallus of Healing
+治癒のガルス
 
 ID=31352113
-Ruga of Healing
+治癒のルーガ
 
 ID=31352114
-Dark Lizard of Healing
+治癒のダークリザード
 
 ID=31352115
-Pawn Spider of Healing
+治癒のポーンスパイダー
 
 ID=31352116
-Infected Guard of Healing
+治癒のインフェクトガード
 
 ID=31352117
-Infected Girl of Healing
+治癒のインフェクトガール
 
 ID=31352118
-S-00 of Healing
+治癒のS-00
 
 ID=31352119
-S-02 of Healing
+治癒のS-02
 
 ID=31352120
-Habitant of Healing
+治癒のハビタント
 
 ID=31352121
-Hokmah of Healing
+治癒のホクマ
 
 ID=31352122
-Rampage of Healing
+治癒のランペイジ
 
 ID=31352123
-Bone Crusher of Healing
+治癒のボーンクラッシャー
 
 ID=31352124
-S-01 of Healing
+治癒のS-01
 
 ID=31352125
-Mangrove Cell of Healing
+治癒のマングローブセル
 
 ID=31352126
-Dark Mucus of Healing
+治癒のダークミューカス
 
 ID=31352127
-Warlike of Healing
+治癒のウォーライク
 
 ID=31352128
-Land Crusher of Healing
+治癒のランドクラッシャー
 
 ID=31352129
-Glasnis of Healing
+治癒のガラスニス
 
 ID=31352130
-Iron Breaker of Healing
+治癒のアイアンブレイカー
 
 ID=31352131
-Dark Alligator of Healing
+治癒のダークアリゲーター
 
 ID=31352132
-Dark Worm of Healing
+治癒のダークワーム
 
 ID=31352133
-Junk Knight of Healing
+治癒のジャンクナイト
 
 ID=31352134
-Venom Mucus of Healing
+治癒のヴェノムミューカス
 
 ID=31352135
-Crude Cell of Healing
+治癒のクルードセル
 
 ID=31352136
-Meltiness Cell of Healing
+治癒のメルティニスセル
 
 ID=31352137
-Duke Spider of Healing
+治癒のデュークスパイダー
 
 ID=31352138
-Glasnis of Healing
+治癒のガラスニス
 
 ID=31352139
-Iron Breaker of Healing
+治癒のアイアンブレイカー
 
 ID=31352140
-Dignity Snatcher of Healing
+治癒のディグニティースナッチャー
 
 ID=31352141
-Amaryllis of Healing
+治癒のアマリリス
 
 ID=31352142
-Beholder of Healing
+治癒のビホールダー
 
 ID=31352143
-Asphalt Golem of Healing
+治癒のアスファルトゴーレム
 
 ID=31352144
-Arachnis of Healing
+治癒のアラクニス
 
 ID=31352145
-Mad Beholder of Healing
+治癒のマッドビホールダー
 
 ID=31352146
-Junk Cocoon of Healing
+治癒のジャンクコクーン
 
 ID=31352147
-Junk Cocoon of Healing
+治癒のジャンクコクーン
 
 ID=31352148
-Junk Cocoon of Healing
+治癒のジャンクコクーン
 
 ID=31352149
-Spider Cocoon of Healing
+治癒のクモの繭
 
 ID=31352150
-Ominous Cocoon of Healing
+治癒の不気味な繭
 
 ID=31352151
-EMP Main of Healing
+治癒のEMPマイン
 
 ID=31352152
-Artillery Guidance System of Healing
+治癒の砲撃誘導装置
 
 ID=31352153
-Charging Device of Healing
+治癒の充電装置
 
 ID=31352154
-Prickly Tentacle of Healing
+治癒のトゲ触手
 
 ID=31352155
-Prickly Tentacle of Healing
+治癒のトゲ触手
 
 ID=31352156
-Prickly Tentacle of Healing
+治癒のトゲ触手
 
 ID=31352157
-Prickly Tentacle of Healing
+治癒のトゲ触手
 
 ID=31352158
-Prickly Tentacle of Healing
+治癒のトゲ触手
 
 ID=31352159
-Prickly Tentacle of Healing
+治癒のトゲ触手
 
 ID=31352160
-Heavy Cell of Healing
+治癒のヘビーセル
 
 ID=31352161
-Charging Device of Healing
+治癒の充電装置
 
 ID=31352162
-Junk Cocoon of Healing
+治癒のジャンクコクーン
 
 ID=31352163
-Heal Cocoon of Healing
+治癒のヒールコクーン
 
 ID=31352164
-Charging Device of Healing
+治癒の充電装置
 
 ID=31352165
-Charging Device of Healing
+治癒の充電装置
 
 ID=31352901
-Violet Murderess of Healing
+治癒のヴァイオレットマーデリス
 
 ID=30356574
-Violet Murderess of Healing
+治癒のヴァイオレットマーデリス
 
 ID=31362101
-Scone of Agony
+苦痛のスコーン
 
 ID=31362102
-Wild Stone of Agony
+苦痛のワイルドストーン
 
 ID=31362103
-Vacuum Parasite of Agony
+苦痛のバキュームパラサイト
 
 ID=31362104
-Dark Cell of Agony
+苦痛のダークセル
 
 ID=31362105
-Small Cell of Agony
+苦痛のスモールセル
 
 ID=31362106
-Vacuum Vein of Agony
+苦痛のバキュームべイン
 
 ID=31362107
-Cell of Agony
+苦痛のセル
 
 ID=31362108
-N-65 of Agony
+苦痛のN-65
 
 ID=31362109
-Sewer Rat of Agony
+苦痛のシウォラット
 
 ID=31362110
-Wreckage of Agony
+苦痛のレケイジ
 
 ID=31362111
-Land Stone of Agony
+苦痛のランドストーン
 
 ID=31362112
-Gallus of Agony
+苦痛のガルス
 
 ID=31362113
-Ruga of Agony
+苦痛のルーガ
 
 ID=31362114
-Dark Lizard of Agony
+苦痛のダークリザード
 
 ID=31362115
-Pawn Spider of Agony
+苦痛のポーンスパイダー
 
 ID=31362116
-Infected Guard of Agony
+苦痛のインフェクトガード
 
 ID=31362117
-Infected Girl of Agony
+苦痛のインフェクトガール
 
 ID=31362118
-S-00 of Agony
+苦痛のS-00
 
 ID=31362119
-S-02 of Agony
+苦痛のS-02
 
 ID=31362120
-Habitant of Agony
+苦痛のハビタント
 
 ID=31362121
-Hokmah of Agony
+苦痛のホクマ
 
 ID=31362122
-Rampage of Agony
+苦痛のランペイジ
 
 ID=31362123
-Bone Crusher of Agony
+苦痛のボーンクラッシャー
 
 ID=31362124
-S-01 of Agony
+苦痛のS-01
 
 ID=31362125
-Mangrove Cell of Agony
+苦痛のマングローブセル
 
 ID=31362126
-Dark Mucus of Agony
+苦痛のダークミューカス
 
 ID=31362127
-Warlike of Agony
+苦痛のウォーライク
 
 ID=31362128
-Land Crusher of Agony
+苦痛のランドクラッシャー
 
 ID=31362129
-Glasnis of Agony
+苦痛のガラスニス
 
 ID=31362130
-Iron Breaker of Agony
+苦痛のアイアンブレイカー
 
 ID=31362131
-Dark Alligator of Agony
+苦痛のダークアリゲーター
 
 ID=31362132
-Dark Worm of Agony
+苦痛のダークワーム
 
 ID=31362133
-Junk Knight of Agony
+苦痛のジャンクナイト
 
 ID=31362134
-Venom Mucus of Agony
+苦痛のヴェノムミューカス
 
 ID=31362135
-Crude Cell of Agony
+苦痛のクルードセル
 
 ID=31362136
-Meltiness Cell of Agony
+苦痛のメルティニスセル
 
 ID=31362137
-Duke Spider of Agony
+苦痛のデュークスパイダー
 
 ID=31362138
-Glasnis of Agony
+苦痛のガラスニス
 
 ID=31362139
-Iron Breaker of Agony
+苦痛のアイアンブレイカー
 
 ID=31362140
-Dignity Snatcher of Agony
+苦痛のディグニティースナッチャー
 
 ID=31362141
-Amaryllis of Agony
+苦痛のアマリリス
 
 ID=31362142
-Beholder of Agony
+苦痛のビホールダー
 
 ID=31362143
-Asphalt Golem of Agony
+苦痛のアスファルトゴーレム
 
 ID=31362144
-Arachnis of Agony
+苦痛のアラクニス
 
 ID=31362145
-Mad Beholder of Agony
+苦痛のマッドビホールダー
 
 ID=31362146
-Junk Cocoon of Agony
+苦痛のジャンクコクーン
 
 ID=31362147
-Junk Cocoon of Agony
+苦痛のジャンクコクーン
 
 ID=31362148
-Junk Cocoon of Agony
+苦痛のジャンクコクーン
 
 ID=31362149
-Spider Cocoon of Agony
+苦痛のクモの繭
 
 ID=31362150
-Ominous Cocoon of Agony
+苦痛の不気味な繭
 
 ID=31362151
-EMP Main of Agony
+苦痛のEMPマイン
 
 ID=31362152
-Artillery Guidance System of Agony
+苦痛の砲撃誘導装置
 
 ID=31362153
-Charging Device of Agony
+苦痛の充電装置
 
 ID=31362154
-Prickly Tentacle of Agony
+苦痛のトゲ触手
 
 ID=31362155
-Prickly Tentacle of Agony
+苦痛のトゲ触手
 
 ID=31362156
-Prickly Tentacle of Agony
+苦痛のトゲ触手
 
 ID=31362157
-Prickly Tentacle of Agony
+苦痛のトゲ触手
 
 ID=31362158
-Prickly Tentacle of Agony
+苦痛のトゲ触手
 
 ID=31362159
-Prickly Tentacle of Agony
+苦痛のトゲ触手
 
 ID=31362160
-Heavy Cell of Agony
+苦痛のヘビーセル
 
 ID=31362161
-Charging Device of Agony
+苦痛の充電装置
 
 ID=31362162
-Junk Cocoon of Agony
+苦痛のジャンクコクーン
 
 ID=31362163
-Heal Cocoon of Agony
+苦痛のヒールコクーン
 
 ID=31362164
-Charging Device of Agony
+苦痛の充電装置
 
 ID=31362165
-Charging Device of Agony
+苦痛の充電装置
 
 ID=31362901
-Violet Murderess of Agony
+苦痛のヴァイオレットマーデリス
 
 ID=30366574
-Violet Murderess of Agony
+苦痛のヴァイオレットマーデリス
 
 ID=31313101
-Red Hood of Brilliance
+光輝のレッドフード
 
 ID=31313102
-Uneven Hood of Brilliance
+光輝のアンイーブンフード
 
 ID=31313103
-Wild Beak of Brilliance
+光輝のワイルドビーク
 
 ID=31313104
-Wild Beast Fang of Brilliance
+光輝のワイルドビーストファング
 
 ID=31313105
-Intention Garuda of Brilliance
+光輝のインテンションカルラ
 
 ID=31313106
-Pistol of Brilliance
+光輝のフィストール
 
 ID=31313107
-Jinn Python of Brilliance
+光輝のジンパイソン
 
 ID=31313108
-Marauder of Brilliance
+光輝のマローダー
 
 ID=31313109
-Chaser of Brilliance
+光輝のチェイサー
 
 ID=31313110
-Jinn Summoner of Brilliance
+光輝のジンサマナー
 
 ID=31313111
-Tempest of Brilliance
+光輝のテンペスト
 
 ID=31313112
-Crimson Beast of Brilliance
+光輝のクリムゾンビースト
 
 ID=31313113
-Big Butcher of Brilliance
+光輝のビッグブッチャー
 
 ID=31313114
-Jinn Steel of Brilliance
+光輝のジンスチール
 
 ID=31313115
-Zin Pistol of Brilliance
+光輝のジンフィストール
 
 ID=31313116
-Armored Garuda of Brilliance
+光輝のアーマードカルラ
 
 ID=31313117
-Dancing Shadow of Brilliance
+光輝のダンシングシャドー
 
 ID=31313118
-Death Stalker of Brilliance
+光輝のデスストーカー
 
 ID=31313119
-Intention Summoner of Brilliance
+光輝のインテンションサマナー
 
 ID=31313120
-Black Gauntlet of Brilliance
+光輝のブラックガントレット
 
 ID=31313121
-Armor Steel of Brilliance
+光輝のアーマースチール
 
 ID=31313122
-Hell Enforcer of Brilliance
+光輝のヘルインフォーサー
 
 ID=31313123
-Jinn Chaser of Brilliance
+光輝のジンチェイサー
 
 ID=31313124
-Venin of Brilliance
+光輝のベニン
 
 ID=31313125
-Red Mane of Brilliance
+光輝のレッドメイン
 
 ID=31313126
-Single Leg of Brilliance
+光輝のシングルレッグ
 
 ID=31313127
-Scarlet Mask of Brilliance
+光輝のスカーレットマスク
 
 ID=31313128
-Queen Garuda of Brilliance
+光輝のクイーンカルラ
 
 ID=31313129
-White Fang of Brilliance
+光輝のホワイトファング
 
 ID=31313130
-Hell Collector of Brilliance
+光輝のヘルコレクター
 
 ID=31313131
-Tempest of Brilliance
+光輝のテンペスト
 
 ID=31313132
-Pistol of Brilliance
+光輝のフィストール
 
 ID=31313133
-Jinn Python of Brilliance
+光輝のジンパイソン
 
 ID=31313134
-Wild Beast Fang of Brilliance
+光輝のワイルドビーストファング
 
 ID=31313135
-Jinn Summoner of Brilliance
+光輝のジンサマナー
 
 ID=31313136
-Chaser of Brilliance
+光輝のチェイサー
 
 ID=31313137
-Flame Tempest of Brilliance
+光輝のフレイムテンペスト
 
 ID=31313138
-Marauder of Brilliance
+光輝のマローダー
 
 ID=31313139
-Marauder of Brilliance
+光輝のマローダー
 
 ID=31313500
-Protective Wall of Brilliance
+光輝の保護壁
 
 ID=31313501
-Barricade of Brilliance
+光輝のバリケード
 
 ID=31313502
-Car of Brilliance
+光輝の自動車
 
 ID=31313503
-Fire Hydrant of Brilliance
+光輝の消火栓
 
 ID=31313504
-Large Garbage Can of Brilliance
+光輝の大型ゴミ箱
 
 ID=31313505
-Waste Solution Drum of Brilliance
+光輝の廃溶液ドラム缶
 
 ID=31313506
-Car of Brilliance
+光輝の自動車
 
 ID=31313507
-Stack of Tires of Brilliance
+光輝の積まれたタイヤ
 
 ID=31313508
-Orange Barrel of Brilliance
+光輝のオレンジバレル
 
 ID=31313509
-Rapid Gate of Brilliance
+光輝のラピッドゲート
 
 ID=31313510
-Drop Container of Brilliance
+光輝の落下コンテナ
 
 ID=31313511
-Drop Container of Brilliance
+光輝の落下コンテナ
 
 ID=31313901
-Phantom Shadow of Brilliance
+光輝のファントムシャドー
 
 ID=31313902
-Phantom Shadow of Brilliance
+光輝のファントムシャドー
 
 ID=31313903
-Phantom Shadow of Brilliance
+光輝のファントムシャドー
 
 ID=31313904
-Phantom Shadow of Brilliance
+光輝のファントムシャドー
 
 ID=31313905
-Phantom Shadow of Brilliance
+光輝のファントムシャドー
 
 ID=31313906
-Phantom Shadow of Brilliance
+光輝のファントムシャドー
 
 ID=31313907
-Phantom Shadow of Brilliance
+光輝のファントムシャドー
 
 ID=31323101
-Red Hood of Malice
+悪念のレッドフード
 
 ID=31323102
-Uneven Hood of Malice
+悪念のアンイーブンフード
 
 ID=31323103
-Wild Beak of Malice
+悪念のワイルドビーク
 
 ID=31323104
-Wild Beast Fang of Malice
+悪念のワイルドビーストファング
 
 ID=31323105
-Intention Garuda of Malice
+悪念のインテンションカルラ
 
 ID=31323106
-Pistol of Malice
+悪念のフィストール
 
 ID=31323107
-Jinn Python of Malice
+悪念のジンパイソン
 
 ID=31323108
-Marauder of Malice
+悪念のマローダー
 
 ID=31323109
-Chaser of Malice
+悪念のチェイサー
 
 ID=31323110
-Jinn Summoner of Malice
+悪念のジンサマナー
 
 ID=31323111
-Tempest of Malice
+悪念のテンペスト
 
 ID=31323112
-Crimson Beast of Malice
+悪念のクリムゾンビースト
 
 ID=31323113
-Big Butcher of Malice
+悪念のビッグブッチャー
 
 ID=31323114
-Jinn Steel of Malice
+悪念のジンスチール
 
 ID=31323115
-Zin Pistol of Malice
+悪念のジンフィストール
 
 ID=31323116
-Armored Garuda of Malice
+悪念のアーマードカルラ
 
 ID=31323117
-Dancing Shadow of Malice
+悪念のダンシングシャドー
 
 ID=31323118
-Death Stalker of Malice
+悪念のデスストーカー
 
 ID=31323119
-Intention Summoner of Malice
+悪念のインテンションサマナー
 
 ID=31323120
-Black Gauntlet of Malice
+悪念のブラックガントレット
 
 ID=31323121
-Armor Steel of Malice
+悪念のアーマースチール
 
 ID=31323122
-Hell Enforcer of Malice
+悪念のヘルインフォーサー
 
 ID=31323123
-Jinn Chaser of Malice
+悪念のジンチェイサー
 
 ID=31323124
-Venin of Malice
+悪念のベニン
 
 ID=31323125
-Red Mane of Malice
+悪念のレッドメイン
 
 ID=31323126
-Single Leg of Malice
+悪念のシングルレッグ
 
 ID=31323127
-Scarlet Mask of Malice
+悪念のスカーレットマスク
 
 ID=31323128
-Queen Garuda of Malice
+悪念のクイーンカルラ
 
 ID=31323129
-White Fang of Malice
+悪念のホワイトファング
 
 ID=31323130
-Hell Collector of Malice
+悪念のヘルコレクター
 
 ID=31323131
-Tempest of Malice
+悪念のテンペスト
 
 ID=31323132
-Pistol of Malice
+悪念のフィストール
 
 ID=31323133
-Jinn Python of Malice
+悪念のジンパイソン
 
 ID=31323134
-Wild Beast Fang of Malice
+悪念のワイルドビーストファング
 
 ID=31323135
-Jinn Summoner of Malice
+悪念のジンサマナー
 
 ID=31323136
-Chaser of Malice
+悪念のチェイサー
 
 ID=31323137
-Flame Tempest of Malice
+悪念のフレイムテンペスト
 
 ID=31323138
-Marauder of Malice
+悪念のマローダー
 
 ID=31323139
-Marauder of Malice
+悪念のマローダー
 
 ID=31323500
-Protective Wall of Malice
+悪念の保護壁
 
 ID=31323501
-Barricade of Malice
+悪念のバリケード
 
 ID=31323502
-Car of Malice
+悪念の自動車
 
 ID=31323503
-Fire Hydrant of Malice
+悪念の消火栓
 
 ID=31323504
-Large Garbage Can of Malice
+悪念の大型ゴミ箱
 
 ID=31323505
-Waste Solution Drum of Malice
+悪念の廃溶液ドラム缶
 
 ID=31323506
-Car of Malice
+悪念の自動車
 
 ID=31323507
-Stack of Tires of Malice
+悪念の積まれたタイヤ
 
 ID=31323508
-Orange Barrel of Malice
+悪念のオレンジバレル
 
 ID=31323509
-Rapid Gate of Malice
+悪念のラピッドゲート
 
 ID=31323510
-Drop Container of Malice
+悪念の落下コンテナ
 
 ID=31323511
-Drop Container of Malice
+悪念の落下コンテナ
 
 ID=31323901
-Phantom Shadow of Malice
+悪念のファントムシャドー
 
 ID=31323902
-Phantom Shadow of Malice
+悪念のファントムシャドー
 
 ID=31323903
-Phantom Shadow of Malice
+悪念のファントムシャドー
 
 ID=31323904
-Phantom Shadow of Malice
+悪念のファントムシャドー
 
 ID=31323905
-Phantom Shadow of Malice
+悪念のファントムシャドー
 
 ID=31323906
-Phantom Shadow of Malice
+悪念のファントムシャドー
 
 ID=31323907
-Phantom Shadow of Malice
+悪念のファントムシャドー
 
 ID=31333101
-Red Hood of Serenity
+冷静のレッドフード
 
 ID=31333102
-Uneven Hood of Serenity
+冷静のアンイーブンフード
 
 ID=31333103
-Wild Beak of Serenity
+冷静のワイルドビーク
 
 ID=31333104
-Wild Beast Fang of Serenity
+冷静のワイルドビーストファング
 
 ID=31333105
-Intention Garuda of Serenity
+冷静のインテンションカルラ
 
 ID=31333106
-Pistol of Serenity
+冷静のフィストール
 
 ID=31333107
-Jinn Python of Serenity
+冷静のジンパイソン
 
 ID=31333108
-Marauder of Serenity
+冷静のマローダー
 
 ID=31333109
-Chaser of Serenity
+冷静のチェイサー
 
 ID=31333110
-Jinn Summoner of Serenity
+冷静のジンサマナー
 
 ID=31333111
-Tempest of Serenity
+冷静のテンペスト
 
 ID=31333112
-Crimson Beast of Serenity
+冷静のクリムゾンビースト
 
 ID=31333113
-Big Butcher of Serenity
+冷静のビッグブッチャー
 
 ID=31333114
-Jinn Steel of Serenity
+冷静のジンスチール
 
 ID=31333115
-Zin Pistol of Serenity
+冷静のジンフィストール
 
 ID=31333116
-Armored Garuda of Serenity
+冷静のアーマードカルラ
 
 ID=31333117
-Dancing Shadow of Serenity
+冷静のダンシングシャドー
 
 ID=31333118
-Death Stalker of Serenity
+冷静のデスストーカー
 
 ID=31333119
-Intention Summoner of Serenity
+冷静のインテンションサマナー
 
 ID=31333120
-Black Gauntlet of Serenity
+冷静のブラックガントレット
 
 ID=31333121
-Armor Steel of Serenity
+冷静のアーマースチール
 
 ID=31333122
-Hell Enforcer of Serenity
+冷静のヘルインフォーサー
 
 ID=31333123
-Jinn Chaser of Serenity
+冷静のジンチェイサー
 
 ID=31333124
-Venin of Serenity
+冷静のベニン
 
 ID=31333125
-Red Mane of Serenity
+冷静のレッドメイン
 
 ID=31333126
-Single Leg of Serenity
+冷静のシングルレッグ
 
 ID=31333127
-Scarlet Mask of Serenity
+冷静のスカーレットマスク
 
 ID=31333128
-Queen Garuda of Serenity
+冷静のクイーンカルラ
 
 ID=31333129
-White Fang of Serenity
+冷静のホワイトファング
 
 ID=31333130
-Hell Collector of Serenity
+冷静のヘルコレクター
 
 ID=31333131
-Tempest of Serenity
+冷静のテンペスト
 
 ID=31333132
-Pistol of Serenity
+冷静のフィストール
 
 ID=31333133
-Jinn Python of Serenity
+冷静のジンパイソン
 
 ID=31333134
-Wild Beast Fang of Serenity
+冷静のワイルドビーストファング
 
 ID=31333135
-Jinn Summoner of Serenity
+冷静のジンサマナー
 
 ID=31333136
-Chaser of Serenity
+冷静のチェイサー
 
 ID=31333137
-Flame Tempest of Serenity
+冷静のフレイムテンペスト
 
 ID=31333138
-Marauder of Serenity
+冷静のマローダー
 
 ID=31333139
-Marauder of Serenity
+冷静のマローダー
 
 ID=31333500
-Protective Wall of Serenity
+冷静の保護壁
 
 ID=31333501
-Barricade of Serenity
+冷静のバリケード
 
 ID=31333502
-Car of Serenity
+冷静の自動車
 
 ID=31333503
-Fire Hydrant of Serenity
+冷静の消火栓
 
 ID=31333504
-Large Garbage Can of Serenity
+冷静の大型ゴミ箱
 
 ID=31333505
-Waste Solution Drum of Serenity
+冷静の廃溶液ドラム缶
 
 ID=31333506
-Car of Serenity
+冷静の自動車
 
 ID=31333507
-Stack of Tires of Serenity
+冷静の積まれたタイヤ
 
 ID=31333508
-Orange Barrel of Serenity
+冷静のオレンジバレル
 
 ID=31333509
-Rapid Gate of Serenity
+冷静のラピッドゲート
 
 ID=31333510
-Drop Container of Serenity
+冷静の落下コンテナ
 
 ID=31333511
-Drop Container of Serenity
+冷静の落下コンテナ
 
 ID=31333901
-Phantom Shadow of Serenity
+冷静のファントムシャドー
 
 ID=31333902
-Phantom Shadow of Serenity
+冷静のファントムシャドー
 
 ID=31333903
-Phantom Shadow of Serenity
+冷静のファントムシャドー
 
 ID=31333904
-Phantom Shadow of Serenity
+冷静のファントムシャドー
 
 ID=31333905
-Phantom Shadow of Serenity
+冷静のファントムシャドー
 
 ID=31333906
-Phantom Shadow of Serenity
+冷静のファントムシャドー
 
 ID=31333907
-Phantom Shadow of Serenity
+冷静のファントムシャドー
 
 ID=31343101
-Red Hood of Hatred
+憎悪のレッドフード
 
 ID=31343102
-Uneven Hood of Hatred
+憎悪のアンイーブンフード
 
 ID=31343103
-Wild Beak of Hatred
+憎悪のワイルドビーク
 
 ID=31343104
-Wild Beast Fang of Hatred
+憎悪のワイルドビーストファング
 
 ID=31343105
-Intention Garuda of Hatred
+憎悪のインテンションカルラ
 
 ID=31343106
-Pistol of Hatred
+憎悪のフィストール
 
 ID=31343107
-Jinn Python of Hatred
+憎悪のジンパイソン
 
 ID=31343108
-Marauder of Hatred
+憎悪のマローダー
 
 ID=31343109
-Chaser of Hatred
+憎悪のチェイサー
 
 ID=31343110
-Jinn Summoner of Hatred
+憎悪のジンサマナー
 
 ID=31343111
-Tempest of Hatred
+憎悪のテンペスト
 
 ID=31343112
-Crimson Beast of Hatred
+憎悪のクリムゾンビースト
 
 ID=31343113
-Big Butcher of Hatred
+憎悪のビッグブッチャー
 
 ID=31343114
-Jinn Steel of Hatred
+憎悪のジンスチール
 
 ID=31343115
-Zin Pistol of Hatred
+憎悪のジンフィストール
 
 ID=31343116
-Armored Garuda of Hatred
+憎悪のアーマードカルラ
 
 ID=31343117
-Dancing Shadow of Hatred
+憎悪のダンシングシャドー
 
 ID=31343118
-Death Stalker of Hatred
+憎悪のデスストーカー
 
 ID=31343119
-Intention Summoner of Hatred
+憎悪のインテンションサマナー
 
 ID=31343120
-Black Gauntlet of Hatred
+憎悪のブラックガントレット
 
 ID=31343121
-Armor Steel of Hatred
+憎悪のアーマースチール
 
 ID=31343122
-Hell Enforcer of Hatred
+憎悪のヘルインフォーサー
 
 ID=31343123
-Jinn Chaser of Hatred
+憎悪のジンチェイサー
 
 ID=31343124
-Venin of Hatred
+憎悪のベニン
 
 ID=31343125
-Red Mane of Hatred
+憎悪のレッドメイン
 
 ID=31343126
-Single Leg of Hatred
+憎悪のシングルレッグ
 
 ID=31343127
-Scarlet Mask of Hatred
+憎悪のスカーレットマスク
 
 ID=31343128
-Queen Garuda of Hatred
+憎悪のクイーンカルラ
 
 ID=31343129
-White Fang of Hatred
+憎悪のホワイトファング
 
 ID=31343130
-Hell Collector of Hatred
+憎悪のヘルコレクター
 
 ID=31343131
-Tempest of Hatred
+憎悪のテンペスト
 
 ID=31343132
-Pistol of Hatred
+憎悪のフィストール
 
 ID=31343133
-Jinn Python of Hatred
+憎悪のジンパイソン
 
 ID=31343134
-Wild Beast Fang of Hatred
+憎悪のワイルドビーストファング
 
 ID=31343135
-Jinn Summoner of Hatred
+憎悪のジンサマナー
 
 ID=31343136
-Chaser of Hatred
+憎悪のチェイサー
 
 ID=31343137
-Flame Tempest of Hatred
+憎悪のフレイムテンペスト
 
 ID=31343138
-Marauder of Hatred
+憎悪のマローダー
 
 ID=31343139
-Marauder of Hatred
+憎悪のマローダー
 
 ID=31343500
-Protective Wall of Hatred
+憎悪の保護壁
 
 ID=31343501
-Barricade of Hatred
+憎悪のバリケード
 
 ID=31343502
-Car of Hatred
+憎悪の自動車
 
 ID=31343503
-Fire Hydrant of Hatred
+憎悪の消火栓
 
 ID=31343504
-Large Garbage Can of Hatred
+憎悪の大型ゴミ箱
 
 ID=31343505
-Waste Solution Drum of Hatred
+憎悪の廃溶液ドラム缶
 
 ID=31343506
-Car of Hatred
+憎悪の自動車
 
 ID=31343507
-Stack of Tires of Hatred
+憎悪の積まれたタイヤ
 
 ID=31343508
-Orange Barrel of Hatred
+憎悪のオレンジバレル
 
 ID=31343509
-Rapid Gate of Hatred
+憎悪のラピッドゲート
 
 ID=31343510
-Drop Container of Hatred
+憎悪の落下コンテナ
 
 ID=31343511
-Drop Container of Hatred
+憎悪の落下コンテナ
 
 ID=31343901
-Phantom Shadow of Hatred
+憎悪のファントムシャドー
 
 ID=31343902
-Phantom Shadow of Hatred
+憎悪のファントムシャドー
 
 ID=31343903
-Phantom Shadow of Hatred
+憎悪のファントムシャドー
 
 ID=31343904
-Phantom Shadow of Hatred
+憎悪のファントムシャドー
 
 ID=31343905
-Phantom Shadow of Hatred
+憎悪のファントムシャドー
 
 ID=31343906
-Phantom Shadow of Hatred
+憎悪のファントムシャドー
 
 ID=31343907
-Phantom Shadow of Hatred
+憎悪のファントムシャドー
 
 ID=31353101
-Red Hood of Healing
+治癒のレッドフード
 
 ID=31353102
-Uneven Hood of Healing
+治癒のアンイーブンフード
 
 ID=31353103
-Wild Beak of Healing
+治癒のワイルドビーク
 
 ID=31353104
-Wild Beast Fang of Healing
+治癒のワイルドビーストファング
 
 ID=31353105
-Intention Garuda of Healing
+治癒のインテンションカルラ
 
 ID=31353106
-Pistol of Healing
+治癒のフィストール
 
 ID=31353107
-Jinn Python of Healing
+治癒のジンパイソン
 
 ID=31353108
-Marauder of Healing
+治癒のマローダー
 
 ID=31353109
-Chaser of Healing
+治癒のチェイサー
 
 ID=31353110
-Jinn Summoner of Healing
+治癒のジンサマナー
 
 ID=31353111
-Tempest of Healing
+治癒のテンペスト
 
 ID=31353112
-Crimson Beast of Healing
+治癒のクリムゾンビースト
 
 ID=31353113
-Big Butcher of Healing
+治癒のビッグブッチャー
 
 ID=31353114
-Jinn Steel of Healing
+治癒のジンスチール
 
 ID=31353115
-Zin Pistol of Healing
+治癒のジンフィストール
 
 ID=31353116
-Armored Garuda of Healing
+治癒のアーマードカルラ
 
 ID=31353117
-Dancing Shadow of Healing
+治癒のダンシングシャドー
 
 ID=31353118
-Death Stalker of Healing
+治癒のデスストーカー
 
 ID=31353119
-Intention Summoner of Healing
+治癒のインテンションサマナー
 
 ID=31353120
-Black Gauntlet of Healing
+治癒のブラックガントレット
 
 ID=31353121
-Armor Steel of Healing
+治癒のアーマースチール
 
 ID=31353122
-Hell Enforcer of Healing
+治癒のヘルインフォーサー
 
 ID=31353123
-Jinn Chaser of Healing
+治癒のジンチェイサー
 
 ID=31353124
-Venin of Healing
+治癒のベニン
 
 ID=31353125
-Red Mane of Healing
+治癒のレッドメイン
 
 ID=31353126
-Single Leg of Healing
+治癒のシングルレッグ
 
 ID=31353127
-Scarlet Mask of Healing
+治癒のスカーレットマスク
 
 ID=31353128
-Queen Garuda of Healing
+治癒のクイーンカルラ
 
 ID=31353129
-White Fang of Healing
+治癒のホワイトファング
 
 ID=31353130
-Hell Collector of Healing
+治癒のヘルコレクター
 
 ID=31353131
-Tempest of Healing
+治癒のテンペスト
 
 ID=31353132
-Pistol of Healing
+治癒のフィストール
 
 ID=31353133
-Jinn Python of Healing
+治癒のジンパイソン
 
 ID=31353134
-Wild Beast Fang of Healing
+治癒のワイルドビーストファング
 
 ID=31353135
-Jinn Summoner of Healing
+治癒のジンサマナー
 
 ID=31353136
-Chaser of Healing
+治癒のチェイサー
 
 ID=31353137
-Flame Tempest of Healing
+治癒のフレイムテンペスト
 
 ID=31353138
-Marauder of Healing
+治癒のマローダー
 
 ID=31353139
-Marauder of Healing
+治癒のマローダー
 
 ID=31353500
-Protective Wall of Healing
+治癒の保護壁
 
 ID=31353501
-Barricade of Healing
+治癒のバリケード
 
 ID=31353502
-Car of Healing
+治癒の自動車
 
 ID=31353503
-Fire Hydrant of Healing
+治癒の消火栓
 
 ID=31353504
-Large Garbage Can of Healing
+治癒の大型ゴミ箱
 
 ID=31353505
-Waste Solution Drum of Healing
+治癒の廃溶液ドラム缶
 
 ID=31353506
-Car of Healing
+治癒の自動車
 
 ID=31353507
-Stack of Tires of Healing
+治癒の積まれたタイヤ
 
 ID=31353508
-Orange Barrel of Healing
+治癒のオレンジバレル
 
 ID=31353509
-Rapid Gate of Healing
+治癒のラピッドゲート
 
 ID=31353510
-Drop Container of Healing
+治癒の落下コンテナ
 
 ID=31353511
-Drop Container of Healing
+治癒の落下コンテナ
 
 ID=31353901
-Phantom Shadow of Healing
+治癒のファントムシャドー
 
 ID=31353902
-Phantom Shadow of Healing
+治癒のファントムシャドー
 
 ID=31353903
-Phantom Shadow of Healing
+治癒のファントムシャドー
 
 ID=31353904
-Phantom Shadow of Healing
+治癒のファントムシャドー
 
 ID=31353905
-Phantom Shadow of Healing
+治癒のファントムシャドー
 
 ID=31353906
-Phantom Shadow of Healing
+治癒のファントムシャドー
 
 ID=31353907
-Phantom Shadow of Healing
+治癒のファントムシャドー
 
 ID=31363101
-Red Hood of Agony
+苦痛のレッドフード
 
 ID=31363102
-Uneven Hood of Agony
+苦痛のアンイーブンフード
 
 ID=31363103
-Wild Beak of Agony
+苦痛のワイルドビーク
 
 ID=31363104
-Wild Beast Fang of Agony
+苦痛のワイルドビーストファング
 
 ID=31363105
-Intention Garuda of Agony
+苦痛のインテンションカルラ
 
 ID=31363106
-Pistol of Agony
+苦痛のフィストール
 
 ID=31363107
-Jinn Python of Agony
+苦痛のジンパイソン
 
 ID=31363108
-Marauder of Agony
+苦痛のマローダー
 
 ID=31363109
-Chaser of Agony
+苦痛のチェイサー
 
 ID=31363110
-Jinn Summoner of Agony
+苦痛のジンサマナー
 
 ID=31363111
-Tempest of Agony
+苦痛のテンペスト
 
 ID=31363112
-Crimson Beast of Agony
+苦痛のクリムゾンビースト
 
 ID=31363113
-Big Butcher of Agony
+苦痛のビッグブッチャー
 
 ID=31363114
-Jinn Steel of Agony
+苦痛のジンスチール
 
 ID=31363115
-Zin Pistol of Agony
+苦痛のジンフィストール
 
 ID=31363116
-Armored Garuda of Agony
+苦痛のアーマードカルラ
 
 ID=31363117
-Dancing Shadow of Agony
+苦痛のダンシングシャドー
 
 ID=31363118
-Death Stalker of Agony
+苦痛のデスストーカー
 
 ID=31363119
-Intention Summoner of Agony
+苦痛のインテンションサマナー
 
 ID=31363120
-Black Gauntlet of Agony
+苦痛のブラックガントレット
 
 ID=31363121
-Armor Steel of Agony
+苦痛のアーマースチール
 
 ID=31363122
-Hell Enforcer of Agony
+苦痛のヘルインフォーサー
 
 ID=31363123
-Jinn Chaser of Agony
+苦痛のジンチェイサー
 
 ID=31363124
-Venin of Agony
+苦痛のベニン
 
 ID=31363125
-Red Mane of Agony
+苦痛のレッドメイン
 
 ID=31363126
-Single Leg of Agony
+苦痛のシングルレッグ
 
 ID=31363127
-Scarlet Mask of Agony
+苦痛のスカーレットマスク
 
 ID=31363128
-Queen Garuda of Agony
+苦痛のクイーンカルラ
 
 ID=31363129
-White Fang of Agony
+苦痛のホワイトファング
 
 ID=31363130
-Hell Collector of Agony
+苦痛のヘルコレクター
 
 ID=31363131
-Tempest of Agony
+苦痛のテンペスト
 
 ID=31363132
-Pistol of Agony
+苦痛のフィストール
 
 ID=31363133
-Jinn Python of Agony
+苦痛のジンパイソン
 
 ID=31363134
-Wild Beast Fang of Agony
+苦痛のワイルドビーストファング
 
 ID=31363135
-Jinn Summoner of Agony
+苦痛のジンサマナー
 
 ID=31363136
-Chaser of Agony
+苦痛のチェイサー
 
 ID=31363137
-Flame Tempest of Agony
+苦痛のフレイムテンペスト
 
 ID=31363138
-Marauder of Agony
+苦痛のマローダー
 
 ID=31363139
-Marauder of Agony
+苦痛のマローダー
 
 ID=31363500
-Protective Wall of Agony
+苦痛の保護壁
 
 ID=31363501
-Barricade of Agony
+苦痛のバリケード
 
 ID=31363502
-Car of Agony
+苦痛の自動車
 
 ID=31363503
-Fire Hydrant of Agony
+苦痛の消火栓
 
 ID=31363504
-Large Garbage Can of Agony
+苦痛の大型ゴミ箱
 
 ID=31363505
-Waste Solution Drum of Agony
+苦痛の廃溶液ドラム缶
 
 ID=31363506
-Car of Agony
+苦痛の自動車
 
 ID=31363507
-Stack of Tires of Agony
+苦痛の積まれたタイヤ
 
 ID=31363508
-Orange Barrel of Agony
+苦痛のオレンジバレル
 
 ID=31363509
-Rapid Gate of Agony
+苦痛のラピッドゲート
 
 ID=31363510
-Drop Container of Agony
+苦痛の落下コンテナ
 
 ID=31363511
-Drop Container of Agony
+苦痛の落下コンテナ
 
 ID=31363901
-Phantom Shadow of Agony
+苦痛のファントムシャドー
 
 ID=31363902
-Phantom Shadow of Agony
+苦痛のファントムシャドー
 
 ID=31363903
-Phantom Shadow of Agony
+苦痛のファントムシャドー
 
 ID=31363904
-Phantom Shadow of Agony
+苦痛のファントムシャドー
 
 ID=31363905
-Phantom Shadow of Agony
+苦痛のファントムシャドー
 
 ID=31363906
-Phantom Shadow of Agony
+苦痛のファントムシャドー
 
 ID=31363907
-Phantom Shadow of Agony
+苦痛のファントムシャドー
 
 ID=31314101
-E-Deliverer of Brilliance
+光輝のEデリーバー
 
 ID=31314102
-Tracker of Brilliance
+光輝のトレッカー
 
 ID=31314103
-Drone Zero of Brilliance
+光輝のドローンゼロ
 
 ID=31314104
-Assault Drone of Brilliance
+光輝のアサルトドローン
 
 ID=31314105
-Blade Wolf of Brilliance
+光輝のブレードウルフ
 
 ID=31314106
-Spider of Brilliance
+光輝のスパイダー
 
 ID=31314107
-Sentry of Brilliance
+光輝のセントリー
 
 ID=31314108
-Sentry Gunner of Brilliance
+光輝のセントリーガンナー
 
 ID=31314109
-Assault Cutthroat of Brilliance
+光輝のアサルトカットスロート
 
 ID=31314110
-Auto Punisher of Brilliance
+光輝のオートパニッシャー
 
 ID=31314111
-Auto Fire Ruler of Brilliance
+光輝のオートファイアルーラー
 
 ID=31314112
-Earthquaker of Brilliance
+光輝のアースクエイカー
 
 ID=31314113
-Domineer of Brilliance
+光輝のドミニア
 
 ID=31314114
-Ghost of Brilliance
+光輝のゴースト
 
 ID=31314115
-Assault War Drone of Brilliance
+光輝のアサルトウォードローン
 
 ID=31314116
-Heavy Sentry of Brilliance
+光輝のヘビーセントリー
 
 ID=31314117
-Assault Blade Wolf of Brilliance
+光輝のアサルトブレードウルフ
 
 ID=31314118
-Spider Zero of Brilliance
+光輝のスパイダーゼロ
 
 ID=31314119
-Sprinter of Brilliance
+光輝のスプリンター
 
 ID=31314120
-Ghost Zero of Brilliance
+光輝のゴーストゼロ
 
 ID=31314121
-Heavy Domineer of Brilliance
+光輝のヘビードミニア
 
 ID=31314122
-Devil's Wheel of Brilliance
+光輝のデビルズホイール
 
 ID=31314123
-Death Raptor of Brilliance
+光輝のデスラプター
 
 ID=31314124
-Road Buster of Brilliance
+光輝のロードバスター
 
 ID=31314125
-Sentry Commander of Brilliance
+光輝のセントリーコマンダー
 
 ID=31314126
-Heavy Earthquaker of Brilliance
+光輝のヘビーアースクエイカー
 
 ID=31314127
-Domineer Zero of Brilliance
+光輝のドミニアゼロ
 
 ID=31314128
-Sköll of Brilliance
+光輝のスコール
 
 ID=31314129
-Hati of Brilliance
+光輝のハーティー
 
 ID=31314130
-Fenris of Brilliance
+光輝のフェンリス
 
 ID=31314131
-Heavy War Solver of Brilliance
+光輝のヘビーウォーソルバー
 
 ID=31314132
-Heavy Sprinter of Brilliance
+光輝のヘビースプリンター
 
 ID=31314133
-Assault Spider of Brilliance
+光輝のアサルトスパイダー
 
 ID=31314134
-Heavy Punisher of Brilliance
+光輝のヘビーパニッシャー
 
 ID=31314135
-Heavy Fire Ruler of Brilliance
+光輝のヘビーファイアルーラー
 
 ID=31314136
-Genocider of Brilliance
+光輝のジェノサイダー
 
 ID=31314137
-Assault Ghost of Brilliance
+光輝のアサルトゴースト
 
 ID=31314138
-Grasper of Brilliance
+光輝のグラスパー
 
 ID=31314139
-Punisher Omega of Brilliance
+光輝のパニッシャーオメガ
 
 ID=31314140
-Tracker of Brilliance
+光輝のトレッカー
 
 ID=31314141
-EMP Main of Brilliance
+光輝のEMPマイン
 
 ID=31314142
-Heavy Punisher of Brilliance
+光輝のヘビーパニッシャー
 
 ID=31314143
-Heavy Fire Ruler of Brilliance
+光輝のヘビーファイアルーラー
 
 ID=31314500
-Acheron Barricade of Brilliance
+光輝のアケロンバリケード
 
 ID=31314501
-NED Company Box of Brilliance
+光輝のネッドカンパニーボックス
 
 ID=31314502
-Broken E-Deliverer of Brilliance
+光輝の壊れたEデリーバー
 
 ID=31314503
-Base Defense Core of Brilliance
+光輝の基地防御コア
 
 ID=31314504
-Mobile Drill of Brilliance
+光輝の移動型ドリル
 
 ID=31314505
-Blocking Gate of Brilliance
+光輝の遮断ゲート
 
 ID=31314506
-Electric Ball of Brilliance
+光輝のエレキボール
 
 ID=31314507
-Ejector Nozzle of Brilliance
+光輝の射出口
 
 ID=31314508
-Main Core of Brilliance
+光輝のメインコア
 
 ID=31314509
-Power Driving Device of Brilliance
+光輝の電力駆動装置
 
 ID=31314510
-Pile Driver of Brilliance
+光輝のパイルドライバー
 
 ID=31314511
-Blocking Gate of Brilliance
+光輝の遮断ゲート
 
 ID=31314901
-Sieg Prototype Zero of Brilliance
+光輝のジークプロトゼロ
 
 ID=31324101
-E-Deliverer of Malice
+悪念のEデリーバー
 
 ID=31324102
-Tracker of Malice
+悪念のトレッカー
 
 ID=31324103
-Drone Zero of Malice
+悪念のドローンゼロ
 
 ID=31324104
-Assault Drone of Malice
+悪念のアサルトドローン
 
 ID=31324105
-Blade Wolf of Malice
+悪念のブレードウルフ
 
 ID=31324106
-Spider of Malice
+悪念のスパイダー
 
 ID=31324107
-Sentry of Malice
+悪念のセントリー
 
 ID=31324108
-Sentry Gunner of Malice
+悪念のセントリーガンナー
 
 ID=31324109
-Assault Cutthroat of Malice
+悪念のアサルトカットスロート
 
 ID=31324110
-Auto Punisher of Malice
+悪念のオートパニッシャー
 
 ID=31324111
-Auto Fire Ruler of Malice
+悪念のオートファイアルーラー
 
 ID=31324112
-Earthquaker of Malice
+悪念のアースクエイカー
 
 ID=31324113
-Domineer of Malice
+悪念のドミニア
 
 ID=31324114
-Ghost of Malice
+悪念のゴースト
 
 ID=31324115
-Assault War Drone of Malice
+悪念のアサルトウォードローン
 
 ID=31324116
-Heavy Sentry of Malice
+悪念のヘビーセントリー
 
 ID=31324117
-Assault Blade Wolf of Malice
+悪念のアサルトブレードウルフ
 
 ID=31324118
-Spider Zero of Malice
+悪念のスパイダーゼロ
 
 ID=31324119
-Sprinter of Malice
+悪念のスプリンター
 
 ID=31324120
-Ghost Zero of Malice
+悪念のゴーストゼロ
 
 ID=31324121
-Heavy Domineer of Malice
+悪念のヘビードミニア
 
 ID=31324122
-Devil's Wheel of Malice
+悪念のデビルズホイール
 
 ID=31324123
-Death Raptor of Malice
+悪念のデスラプター
 
 ID=31324124
-Road Buster of Malice
+悪念のロードバスター
 
 ID=31324125
-Sentry Commander of Malice
+悪念のセントリーコマンダー
 
 ID=31324126
-Heavy Earthquaker of Malice
+悪念のヘビーアースクエイカー
 
 ID=31324127
-Domineer Zero of Malice
+悪念のドミニアゼロ
 
 ID=31324128
-Sköll of Malice
+悪念のスコール
 
 ID=31324129
-Hati of Malice
+悪念のハーティー
 
 ID=31324130
-Fenris of Malice
+悪念のフェンリス
 
 ID=31324131
-Heavy War Solver of Malice
+悪念のヘビーウォーソルバー
 
 ID=31324132
-Heavy Sprinter of Malice
+悪念のヘビースプリンター
 
 ID=31324133
-Assault Spider of Malice
+悪念のアサルトスパイダー
 
 ID=31324134
-Heavy Punisher of Malice
+悪念のヘビーパニッシャー
 
 ID=31324135
-Heavy Fire Ruler of Malice
+悪念のヘビーファイアルーラー
 
 ID=31324136
-Genocider of Malice
+悪念のジェノサイダー
 
 ID=31324137
-Assault Ghost of Malice
+悪念のアサルトゴースト
 
 ID=31324138
-Grasper of Malice
+悪念のグラスパー
 
 ID=31324139
-Punisher Omega of Malice
+悪念のパニッシャーオメガ
 
 ID=31324140
-Tracker of Malice
+悪念のトレッカー
 
 ID=31324141
-EMP Main of Malice
+悪念のEMPマイン
 
 ID=31324142
-Heavy Punisher of Malice
+悪念のヘビーパニッシャー
 
 ID=31324143
-Heavy Fire Ruler of Malice
+悪念のヘビーファイアルーラー
 
 ID=31324500
-Acheron Barricade of Malice
+悪念のアケロンバリケード
 
 ID=31324501
-NED Company Box of Malice
+悪念のネッドカンパニーボックス
 
 ID=31324502
-Broken E-Deliverer of Malice
+悪念の壊れたEデリーバー
 
 ID=31324503
-Base Defense Core of Malice
+悪念の基地防御コア
 
 ID=31324504
-Mobile Drill of Malice
+悪念の移動型ドリル
 
 ID=31324505
-Blocking Gate of Malice
+悪念の遮断ゲート
 
 ID=31324506
-Electric Ball of Malice
+悪念のエレキボール
 
 ID=31324507
-Ejector Nozzle of Malice
+悪念の射出口
 
 ID=31324508
-Main Core of Malice
+悪念のメインコア
 
 ID=31324509
-Power Driving Device of Malice
+悪念の電力駆動装置
 
 ID=31324510
-Pile Driver of Malice
+悪念のパイルドライバー
 
 ID=31324511
-Blocking Gate of Malice
+悪念の遮断ゲート
 
 ID=31324901
-Sieg Prototype Zero of Malice
+悪念のジークプロトゼロ
 
 ID=31334101
-E-Deliverer of Serenity
+冷静のEデリーバー
 
 ID=31334102
-Tracker of Serenity
+冷静のトレッカー
 
 ID=31334103
-Drone Zero of Serenity
+冷静のドローンゼロ
 
 ID=31334104
-Assault Drone of Serenity
+冷静のアサルトドローン
 
 ID=31334105
-Blade Wolf of Serenity
+冷静のブレードウルフ
 
 ID=31334106
-Spider of Serenity
+冷静のスパイダー
 
 ID=31334107
-Sentry of Serenity
+冷静のセントリー
 
 ID=31334108
-Sentry Gunner of Serenity
+冷静のセントリーガンナー
 
 ID=31334109
-Assault Cutthroat of Serenity
+冷静のアサルトカットスロート
 
 ID=31334110
-Auto Punisher of Serenity
+冷静のオートパニッシャー
 
 ID=31334111
-Auto Fire Ruler of Serenity
+冷静のオートファイアルーラー
 
 ID=31334112
-Earthquaker of Serenity
+冷静のアースクエイカー
 
 ID=31334113
-Domineer of Serenity
+冷静のドミニア
 
 ID=31334114
-Ghost of Serenity
+冷静のゴースト
 
 ID=31334115
-Assault War Drone of Serenity
+冷静のアサルトウォードローン
 
 ID=31334116
-Heavy Sentry of Serenity
+冷静のヘビーセントリー
 
 ID=31334117
-Assault Blade Wolf of Serenity
+冷静のアサルトブレードウルフ
 
 ID=31334118
-Spider Zero of Serenity
+冷静のスパイダーゼロ
 
 ID=31334119
-Sprinter of Serenity
+冷静のスプリンター
 
 ID=31334120
-Ghost Zero of Serenity
+冷静のゴーストゼロ
 
 ID=31334121
-Heavy Domineer of Serenity
+冷静のヘビードミニア
 
 ID=31334122
-Devil's Wheel of Serenity
+冷静のデビルズホイール
 
 ID=31334123
-Death Raptor of Serenity
+冷静のデスラプター
 
 ID=31334124
-Road Buster of Serenity
+冷静のロードバスター
 
 ID=31334125
-Sentry Commander of Serenity
+冷静のセントリーコマンダー
 
 ID=31334126
-Heavy Earthquaker of Serenity
+冷静のヘビーアースクエイカー
 
 ID=31334127
-Domineer Zero of Serenity
+冷静のドミニアゼロ
 
 ID=31334128
-Sköll of Serenity
+冷静のスコール
 
 ID=31334129
-Hati of Serenity
+冷静のハーティー
 
 ID=31334130
-Fenris of Serenity
+冷静のフェンリス
 
 ID=31334131
-Heavy War Solver of Serenity
+冷静のヘビーウォーソルバー
 
 ID=31334132
-Heavy Sprinter of Serenity
+冷静のヘビースプリンター
 
 ID=31334133
-Assault Spider of Serenity
+冷静のアサルトスパイダー
 
 ID=31334134
-Heavy Punisher of Serenity
+冷静のヘビーパニッシャー
 
 ID=31334135
-Heavy Fire Ruler of Serenity
+冷静のヘビーファイアルーラー
 
 ID=31334136
-Genocider of Serenity
+冷静のジェノサイダー
 
 ID=31334137
-Assault Ghost of Serenity
+冷静のアサルトゴースト
 
 ID=31334138
-Grasper of Serenity
+冷静のグラスパー
 
 ID=31334139
-Punisher Omega of Serenity
+冷静のパニッシャーオメガ
 
 ID=31334140
-Tracker of Serenity
+冷静のトレッカー
 
 ID=31334141
-EMP Main of Serenity
+冷静のEMPマイン
 
 ID=31334142
-Heavy Punisher of Serenity
+冷静のヘビーパニッシャー
 
 ID=31334143
-Heavy Fire Ruler of Serenity
+冷静のヘビーファイアルーラー
 
 ID=31334500
-Acheron Barricade of Serenity
+冷静のアケロンバリケード
 
 ID=31334501
-NED Company Box of Serenity
+冷静のネッドカンパニーボックス
 
 ID=31334502
-Broken E-Deliverer of Serenity
+冷静の壊れたEデリーバー
 
 ID=31334503
-Base Defense Core of Serenity
+冷静の基地防御コア
 
 ID=31334504
-Mobile Drill of Serenity
+冷静の移動型ドリル
 
 ID=31334505
-Blocking Gate of Serenity
+冷静の遮断ゲート
 
 ID=31334506
-Electric Ball of Serenity
+冷静のエレキボール
 
 ID=31334507
-Ejector Nozzle of Serenity
+冷静の射出口
 
 ID=31334508
-Main Core of Serenity
+冷静のメインコア
 
 ID=31334509
-Power Driving Device of Serenity
+冷静の電力駆動装置
 
 ID=31334510
-Pile Driver of Serenity
+冷静のパイルドライバー
 
 ID=31334511
-Blocking Gate of Serenity
+冷静の遮断ゲート
 
 ID=31334901
-Sieg Prototype Zero of Serenity
+冷静のジークプロトゼロ
 
 ID=31344101
-E-Deliverer of Hatred
+憎悪のEデリーバー
 
 ID=31344102
-Tracker of Hatred
+憎悪のトレッカー
 
 ID=31344103
-Drone Zero of Hatred
+憎悪のドローンゼロ
 
 ID=31344104
-Assault Drone of Hatred
+憎悪のアサルトドローン
 
 ID=31344105
-Blade Wolf of Hatred
+憎悪のブレードウルフ
 
 ID=31344106
-Spider of Hatred
+憎悪のスパイダー
 
 ID=31344107
-Sentry of Hatred
+憎悪のセントリー
 
 ID=31344108
-Sentry Gunner of Hatred
+憎悪のセントリーガンナー
 
 ID=31344109
-Assault Cutthroat of Hatred
+憎悪のアサルトカットスロート
 
 ID=31344110
-Auto Punisher of Hatred
+憎悪のオートパニッシャー
 
 ID=31344111
-Auto Fire Ruler of Hatred
+憎悪のオートファイアルーラー
 
 ID=31344112
-Earthquaker of Hatred
+憎悪のアースクエイカー
 
 ID=31344113
-Domineer of Hatred
+憎悪のドミニア
 
 ID=31344114
-Ghost of Hatred
+憎悪のゴースト
 
 ID=31344115
-Assault War Drone of Hatred
+憎悪のアサルトウォードローン
 
 ID=31344116
-Heavy Sentry of Hatred
+憎悪のヘビーセントリー
 
 ID=31344117
-Assault Blade Wolf of Hatred
+憎悪のアサルトブレードウルフ
 
 ID=31344118
-Spider Zero of Hatred
+憎悪のスパイダーゼロ
 
 ID=31344119
-Sprinter of Hatred
+憎悪のスプリンター
 
 ID=31344120
-Ghost Zero of Hatred
+憎悪のゴーストゼロ
 
 ID=31344121
-Heavy Domineer of Hatred
+憎悪のヘビードミニア
 
 ID=31344122
-Devil's Wheel of Hatred
+憎悪のデビルズホイール
 
 ID=31344123
-Death Raptor of Hatred
+憎悪のデスラプター
 
 ID=31344124
-Road Buster of Hatred
+憎悪のロードバスター
 
 ID=31344125
-Sentry Commander of Hatred
+憎悪のセントリーコマンダー
 
 ID=31344126
-Heavy Earthquaker of Hatred
+憎悪のヘビーアースクエイカー
 
 ID=31344127
-Domineer Zero of Hatred
+憎悪のドミニアゼロ
 
 ID=31344128
-Sköll of Hatred
+憎悪のスコール
 
 ID=31344129
-Hati of Hatred
+憎悪のハーティー
 
 ID=31344130
-Fenris of Hatred
+憎悪のフェンリス
 
 ID=31344131
-Heavy War Solver of Hatred
+憎悪のヘビーウォーソルバー
 
 ID=31344132
-Heavy Sprinter of Hatred
+憎悪のヘビースプリンター
 
 ID=31344133
-Assault Spider of Hatred
+憎悪のアサルトスパイダー
 
 ID=31344134
-Heavy Punisher of Hatred
+憎悪のヘビーパニッシャー
 
 ID=31344135
-Heavy Fire Ruler of Hatred
+憎悪のヘビーファイアルーラー
 
 ID=31344136
-Genocider of Hatred
+憎悪のジェノサイダー
 
 ID=31344137
-Assault Ghost of Hatred
+憎悪のアサルトゴースト
 
 ID=31344138
-Grasper of Hatred
+憎悪のグラスパー
 
 ID=31344139
-Punisher Omega of Hatred
+憎悪のパニッシャーオメガ
 
 ID=31344140
-Tracker of Hatred
+憎悪のトレッカー
 
 ID=31344141
-EMP Main of Hatred
+憎悪のEMPマイン
 
 ID=31344142
-Heavy Punisher of Hatred
+憎悪のヘビーパニッシャー
 
 ID=31344143
-Heavy Fire Ruler of Hatred
+憎悪のヘビーファイアルーラー
 
 ID=31344500
-Acheron Barricade of Hatred
+憎悪のアケロンバリケード
 
 ID=31344501
-NED Company Box of Hatred
+憎悪のネッドカンパニーボックス
 
 ID=31344502
-Broken E-Deliverer of Hatred
+憎悪の壊れたEデリーバー
 
 ID=31344503
-Base Defense Core of Hatred
+憎悪の基地防御コア
 
 ID=31344504
-Mobile Drill of Hatred
+憎悪の移動型ドリル
 
 ID=31344505
-Blocking Gate of Hatred
+憎悪の遮断ゲート
 
 ID=31344506
-Electric Ball of Hatred
+憎悪のエレキボール
 
 ID=31344507
-Ejector Nozzle of Hatred
+憎悪の射出口
 
 ID=31344508
-Main Core of Hatred
+憎悪のメインコア
 
 ID=31344509
-Power Driving Device of Hatred
+憎悪の電力駆動装置
 
 ID=31344510
-Pile Driver of Hatred
+憎悪のパイルドライバー
 
 ID=31344511
-Blocking Gate of Hatred
+憎悪の遮断ゲート
 
 ID=31344901
-Sieg Prototype Zero of Hatred
+憎悪のジークプロトゼロ
 
 ID=31354101
-E-Deliverer of Healing
+治癒のEデリーバー
 
 ID=31354102
-Tracker of Healing
+治癒のトレッカー
 
 ID=31354103
-Drone Zero of Healing
+治癒のドローンゼロ
 
 ID=31354104
-Assault Drone of Healing
+治癒のアサルトドローン
 
 ID=31354105
-Blade Wolf of Healing
+治癒のブレードウルフ
 
 ID=31354106
-Spider of Healing
+治癒のスパイダー
 
 ID=31354107
-Sentry of Healing
+治癒のセントリー
 
 ID=31354108
-Sentry Gunner of Healing
+治癒のセントリーガンナー
 
 ID=31354109
-Assault Cutthroat of Healing
+治癒のアサルトカットスロート
 
 ID=31354110
-Auto Punisher of Healing
+治癒のオートパニッシャー
 
 ID=31354111
-Auto Fire Ruler of Healing
+治癒のオートファイアルーラー
 
 ID=31354112
-Earthquaker of Healing
+治癒のアースクエイカー
 
 ID=31354113
-Domineer of Healing
+治癒のドミニア
 
 ID=31354114
-Ghost of Healing
+治癒のゴースト
 
 ID=31354115
-Assault War Drone of Healing
+治癒のアサルトウォードローン
 
 ID=31354116
-Heavy Sentry of Healing
+治癒のヘビーセントリー
 
 ID=31354117
-Assault Blade Wolf of Healing
+治癒のアサルトブレードウルフ
 
 ID=31354118
-Spider Zero of Healing
+治癒のスパイダーゼロ
 
 ID=31354119
-Sprinter of Healing
+治癒のスプリンター
 
 ID=31354120
-Ghost Zero of Healing
+治癒のゴーストゼロ
 
 ID=31354121
-Heavy Domineer of Healing
+治癒のヘビードミニア
 
 ID=31354122
-Devil's Wheel of Healing
+治癒のデビルズホイール
 
 ID=31354123
-Death Raptor of Healing
+治癒のデスラプター
 
 ID=31354124
-Road Buster of Healing
+治癒のロードバスター
 
 ID=31354125
-Sentry Commander of Healing
+治癒のセントリーコマンダー
 
 ID=31354126
-Heavy Earthquaker of Healing
+治癒のヘビーアースクエイカー
 
 ID=31354127
-Domineer Zero of Healing
+治癒のドミニアゼロ
 
 ID=31354128
-Sköll of Healing
+治癒のスコール
 
 ID=31354129
-Hati of Healing
+治癒のハーティー
 
 ID=31354130
-Fenris of Healing
+治癒のフェンリス
 
 ID=31354131
-Heavy War Solver of Healing
+治癒のヘビーウォーソルバー
 
 ID=31354132
-Heavy Sprinter of Healing
+治癒のヘビースプリンター
 
 ID=31354133
-Assault Spider of Healing
+治癒のアサルトスパイダー
 
 ID=31354134
-Heavy Punisher of Healing
+治癒のヘビーパニッシャー
 
 ID=31354135
-Heavy Fire Ruler of Healing
+治癒のヘビーファイアルーラー
 
 ID=31354136
-Genocider of Healing
+治癒のジェノサイダー
 
 ID=31354137
-Assault Ghost of Healing
+治癒のアサルトゴースト
 
 ID=31354138
-Grasper of Healing
+治癒のグラスパー
 
 ID=31354139
-Punisher Omega of Healing
+治癒のパニッシャーオメガ
 
 ID=31354140
-Tracker of Healing
+治癒のトレッカー
 
 ID=31354141
-EMP Main of Healing
+治癒のEMPマイン
 
 ID=31354142
-Heavy Punisher of Healing
+治癒のヘビーパニッシャー
 
 ID=31354143
-Heavy Fire Ruler of Healing
+治癒のヘビーファイアルーラー
 
 ID=31354500
-Acheron Barricade of Healing
+治癒のアケロンバリケード
 
 ID=31354501
-NED Company Box of Healing
+治癒のネッドカンパニーボックス
 
 ID=31354502
-Broken E-Deliverer of Healing
+治癒の壊れたEデリーバー
 
 ID=31354503
-Base Defense Core of Healing
+治癒の基地防御コア
 
 ID=31354504
-Mobile Drill of Healing
+治癒の移動型ドリル
 
 ID=31354505
-Blocking Gate of Healing
+治癒の遮断ゲート
 
 ID=31354506
-Electric Ball of Healing
+治癒のエレキボール
 
 ID=31354507
-Ejector Nozzle of Healing
+治癒の射出口
 
 ID=31354508
-Main Core of Healing
+治癒のメインコア
 
 ID=31354509
-Power Driving Device of Healing
+治癒の電力駆動装置
 
 ID=31354510
-Pile Driver of Healing
+治癒のパイルドライバー
 
 ID=31354511
-Blocking Gate of Healing
+治癒の遮断ゲート
 
 ID=31354901
-Sieg Prototype Zero of Healing
+治癒のジークプロトゼロ
 
 ID=31364101
-E-Deliverer of Agony
+苦痛のEデリーバー
 
 ID=31364102
-Tracker of Agony
+苦痛のトレッカー
 
 ID=31364103
-Drone Zero of Agony
+苦痛のドローンゼロ
 
 ID=31364104
-Assault Drone of Agony
+苦痛のアサルトドローン
 
 ID=31364105
-Blade Wolf of Agony
+苦痛のブレードウルフ
 
 ID=31364106
-Spider of Agony
+苦痛のスパイダー
 
 ID=31364107
-Sentry of Agony
+苦痛のセントリー
 
 ID=31364108
-Sentry Gunner of Agony
+苦痛のセントリーガンナー
 
 ID=31364109
-Assault Cutthroat of Agony
+苦痛のアサルトカットスロート
 
 ID=31364110
-Auto Punisher of Agony
+苦痛のオートパニッシャー
 
 ID=31364111
-Auto Fire Ruler of Agony
+苦痛のオートファイアルーラー
 
 ID=31364112
-Earthquaker of Agony
+苦痛のアースクエイカー
 
 ID=31364113
-Domineer of Agony
+苦痛のドミニア
 
 ID=31364114
-Ghost of Agony
+苦痛のゴースト
 
 ID=31364115
-Assault War Drone of Agony
+苦痛のアサルトウォードローン
 
 ID=31364116
-Heavy Sentry of Agony
+苦痛のヘビーセントリー
 
 ID=31364117
-Assault Blade Wolf of Agony
+苦痛のアサルトブレードウルフ
 
 ID=31364118
-Spider Zero of Agony
+苦痛のスパイダーゼロ
 
 ID=31364119
-Sprinter of Agony
+苦痛のスプリンター
 
 ID=31364120
-Ghost Zero of Agony
+苦痛のゴーストゼロ
 
 ID=31364121
-Heavy Domineer of Agony
+苦痛のヘビードミニア
 
 ID=31364122
-Devil's Wheel of Agony
+苦痛のデビルズホイール
 
 ID=31364123
-Death Raptor of Agony
+苦痛のデスラプター
 
 ID=31364124
-Road Buster of Agony
+苦痛のロードバスター
 
 ID=31364125
-Sentry Commander of Agony
+苦痛のセントリーコマンダー
 
 ID=31364126
-Heavy Earthquaker of Agony
+苦痛のヘビーアースクエイカー
 
 ID=31364127
-Domineer Zero of Agony
+苦痛のドミニアゼロ
 
 ID=31364128
-Sköll of Agony
+苦痛のスコール
 
 ID=31364129
-Hati of Agony
+苦痛のハーティー
 
 ID=31364130
-Fenris of Agony
+苦痛のフェンリス
 
 ID=31364131
-Heavy War Solver of Agony
+苦痛のヘビーウォーソルバー
 
 ID=31364132
-Heavy Sprinter of Agony
+苦痛のヘビースプリンター
 
 ID=31364133
-Assault Spider of Agony
+苦痛のアサルトスパイダー
 
 ID=31364134
-Heavy Punisher of Agony
+苦痛のヘビーパニッシャー
 
 ID=31364135
-Heavy Fire Ruler of Agony
+苦痛のヘビーファイアルーラー
 
 ID=31364136
-Genocider of Agony
+苦痛のジェノサイダー
 
 ID=31364137
-Assault Ghost of Agony
+苦痛のアサルトゴースト
 
 ID=31364138
-Grasper of Agony
+苦痛のグラスパー
 
 ID=31364139
-Punisher Omega of Agony
+苦痛のパニッシャーオメガ
 
 ID=31364140
-Tracker of Agony
+苦痛のトレッカー
 
 ID=31364141
-EMP Main of Agony
+苦痛のEMPマイン
 
 ID=31364142
-Heavy Punisher of Agony
+苦痛のヘビーパニッシャー
 
 ID=31364143
-Heavy Fire Ruler of Agony
+苦痛のヘビーファイアルーラー
 
 ID=31364500
-Acheron Barricade of Agony
+苦痛のアケロンバリケード
 
 ID=31364501
-NED Company Box of Agony
+苦痛のネッドカンパニーボックス
 
 ID=31364502
-Broken E-Deliverer of Agony
+苦痛の壊れたEデリーバー
 
 ID=31364503
-Base Defense Core of Agony
+苦痛の基地防御コア
 
 ID=31364504
-Mobile Drill of Agony
+苦痛の移動型ドリル
 
 ID=31364505
-Blocking Gate of Agony
+苦痛の遮断ゲート
 
 ID=31364506
-Electric Ball of Agony
+苦痛のエレキボール
 
 ID=31364507
-Ejector Nozzle of Agony
+苦痛の射出口
 
 ID=31364508
-Main Core of Agony
+苦痛のメインコア
 
 ID=31364509
-Power Driving Device of Agony
+苦痛の電力駆動装置
 
 ID=31364510
-Pile Driver of Agony
+苦痛のパイルドライバー
 
 ID=31364511
-Blocking Gate of Agony
+苦痛の遮断ゲート
 
 ID=31364901
-Sieg Prototype Zero of Agony
+苦痛のジークプロトゼロ
 
 ID=31315101
-Eternity Illusion of Hatred
+憎悪のエターニティイリュージョン
 
 ID=31315102
-Summoned Body of Eternity of Hatred
+憎悪のエターニティ召喚体
 
 ID=31315103
-Eternal Python of Hatred
+憎悪のエターナルパイソン
 
 ID=31315104
-Eternal Forehand of Hatred
+憎悪のエターナルフォーハンド
 
 ID=31315105
-Eternal Shadow of Hatred
+憎悪のエターナルシャドー
 
 ID=31315106
-Eternal Hermit of Hatred
+憎悪のエターナルハーミット
 
 ID=31315107
-Eternal Enforcer of Hatred
+憎悪のエターナルインフォーサー
 
 ID=31315108
-[Attribute] Fire Pillar
+[属性]火の柱
 
 ID=31315109
-[Attribute] Light Pillar
+[属性]光の柱
 
 ID=31315110
-[Attribute] Flame Crystal
+[属性]フレイムクリスタル
 
 ID=31315111
-Eternity Illusion of Hatred
+憎悪のエターニティイリュージョン
 
 ID=31315112
-Eternity Illusion of Hatred
+憎悪のエターニティイリュージョン
 
 ID=31315113
-Eternity Illusion of Hatred
+憎悪のエターニティイリュージョン
 
 ID=31315114
-Eternity Illusion of Hatred
+憎悪のエターニティイリュージョン
 
 ID=31315115
-Eternity Illusion of Hatred
+憎悪のエターニティイリュージョン
 
 ID=31315116
-Eternity Illusion of Hatred
+憎悪のエターニティイリュージョン
 
 ID=31315117
-Eternity Illusion of Hatred
+憎悪のエターニティイリュージョン
 
 ID=31315118
-Eternity Illusion of Hatred
+憎悪のエターニティイリュージョン
 
 ID=31315201
-Apocalypse Illusion of Serenity
+冷静のアポカリプスイリュージョン
 
 ID=31315202
-Summoned Body of Apocalypse of Serenity
+冷静のアポカリプス召喚体
 
 ID=31315203
-Calamity Drafter of Serenity
+冷静のカラミティドラフター
 
 ID=31315204
-Calamity Walker of Serenity
+冷静のカラミティウォーカー
 
 ID=31315205
-Calamity Guard of Serenity
+冷静のカラミティガード
 
 ID=31315206
-Calamity Shooter of Serenity
+冷静のカラミティシューター
 
 ID=31315207
-Calamity Districtor of Serenity
+冷静のカラミティディストリクター
 
 ID=31315301
-Juggernaut Illusion of Agony
+苦痛のジャガーノートイリュージョン
 
 ID=31315302
-Summoned Body of Juggernaut of Agony
+苦痛のジャガーノート召喚体
 
 ID=31315303
-Summoned Body of Juggernaut of Agony
+苦痛のジャガーノート召喚体
 
 ID=31315304
-War Burrower of Agony
+苦痛のウォーブロワー
 
 ID=31315305
-War Canis of Agony
+苦痛のウォーカニス
 
 ID=31315306
-Wardire of Agony
+苦痛のウォーダイア
 
 ID=31315307
-War Brute of Agony
+苦痛のウォーブルート
 
 ID=31315308
-War Charger of Agony
+苦痛のウォーチャージャー
 
 ID=31315309
-[Attribute] Gold Obelisk
+[属性]ゴールドオベリスク
 
 ID=31315310
-[Attribute] Hexa Spear
+[属性]ヘキサスピアー
 
 ID=31315311
-[Attribute] Prism Flower
+[属性]プリズムフラワー
 
 ID=31315401
-Pandemonium Illusion of Malice
+悪念のパンデモニアイリュージョン
 
 ID=31315402
-Summoned Body of Pandemonium of Malice
+悪念のパンデモニア召喚体
 
 ID=31315403
-Pandemic Puppet of Malice
+悪念のパンデミックパペット
 
 ID=31315404
-Pandemic Witch of Malice
+悪念のパンデミックウィッチ
 
 ID=31315405
-Pandemic Stalker of Malice
+悪念のパンデミックストーカー
 
 ID=31315406
-Pandemic Conjurer of Malice
+悪念のパンデミックコンジュラー
 
 ID=31315407
-Pandemic Bruiser of Malice
+悪念のパンデミックブルーザー
 
 ID=31315408
-[Attribute] Green Flower
+[属性]グリーンフラワー
 
 ID=31315409
-[Attribute] Purple Flower
+[属性]パープルフラワー
 
 ID=31315410
-[Attribute] Red Flower
+[属性]レッドフラワー
 
 ID=31315411
-[Attribute] Venom Plant
+[属性]ベノムプラント
 
 ID=31315501
-Ultimatum Illusion of Brilliance
+光輝のアルティメイタムイリュージョン
 
 ID=31315901
-Equilibrium Eternity of Hatred
+憎悪のイクイルブリアムエターニティ
 
 ID=31315902
-Equilibrium Apocalypse of Serenity
+冷静のイクイルブリアムアポカリプス
 
 ID=31315903
-Equilibrium Juggernaut of Agony
+苦痛のイクイルブリアムジャガーノート
 
 ID=31315904
-Equilibrium Pandemonium of Malice
+悪念のイクイルブリアムパンデモニア
 
 ID=31315905
-Equilibrium Ultimatum of Brilliance
+光輝のイクイルブリアムアルティメイタム
 
 ID=31315906
-Eternity Illusion of Hatred
+憎悪のエターニティイリュージョン
 
 ID=31315907
-Apocalypse Illusion of Serenity
+冷静のアポカリプスイリュージョン
 
 ID=31315908
-Juggernaut Illusion of Agony
+苦痛のジャガーノートイリュージョン
 
 ID=31315909
-Pandemonium Illusion of Malice
+悪念のパンデモニアイリュージョン
 
 ID=31315968
-Chicken Glutton 
+チキングルトン 
 
 ID=31315969
-Chicken Glutton 
+チキングルトン 
 
 ID=31315970
-Chicken Glutton 
+チキングルトン 
 
 ID=31315971
-Santa Glutton 
+サンタグルトン 
 
 ID=31315972
-Santa Glutton 
+サンタグルトン 
 
 ID=31315973
-Santa Glutton 
+サンタグルトン 
 
 ID=31315974
 Glutton 
@@ -10550,925 +10550,925 @@ ID=31315976
 Glutton 
 
 ID=31315977
-Angel Glutton 
+エンジェルグルトン 
 
 ID=31315978
-Angel Glutton 
+エンジェルグルトン 
 
 ID=31315979
-Angel Glutton 
+エンジェルグルトン 
 
 ID=31315980
-Summer Glutton 
+サマーグルトン 
 
 ID=31315981
-Summer Glutton 
+サマーグルトン 
 
 ID=31315982
-Summer Glutton 
+サマーグルトン 
 
 ID=30502016
-Glutton Army
+グルトン軍団
 
 ID=31315921
-Mist Puppet
+ミストパペット
 
 ID=31315922
-Mist Lace
+ミストレース
 
 ID=31315923
-Mist Pierrot
+ミストピエロ
 
 ID=31315924
-Mist Imp
+ミストインプ
 
 ID=31315925
-Mist Chainsaw
+ミストチェインソウ
 
 ID=31315926
-Mist Cell
+ミストセル
 
 ID=31315927
-Mist Wolf
+ミストウルフ
 
 ID=31315928
-Mist Dread
+ミストドレッド
 
 ID=31315929
-Mist Heavy Cell
+ミストヘビーセル
 
 ID=31315930
-Mist Big Puppet
+ミストビッグパペット
 
 ID=31315931
-Mist Jack the King
+ミストジャック・ザ・キング
 
 ID=31315932
-Mist Nightmare
+ミストナイトメア
 
 ID=31315933
-Mist Edgar
+ミストエドガ―
 
 ID=31315934
-Mist Gargoyle
+ミストガーゴイル
 
 ID=31315935
-Mist Dragon Knight
+ミストドラゴンナイト
 
 ID=31315936
-Mist Wild Stone
+ミストワイルドストーン
 
 ID=31315937
-Mist Warlike
+ミストウォーライク
 
 ID=31315938
-Mist Wreckage
+ミストレケイジ
 
 ID=31315939
-Mist Mucus
+ミストミューカス
 
 ID=31315940
-Victim Guy
+ビックチームガイ
 
 ID=31315941
-Victim Girl
+ビックチームガール
 
 ID=31315942
-Mist Parasite
+ミストパラサイト
 
 ID=31315943
-Mist Crawler
+ミストクローラー
 
 ID=31315944
-Mist Junk Knight
+ミストジャンクナイト
 
 ID=31315945
-Mist Beholder
+ミストビホールダー
 
 ID=31315946
-Mist Amaryllis
+ミストアマリリス
 
 ID=31315947
-Dark Mist Viper
+ダークミストバイパー
 
 ID=31315948
-Dark Mist Bison
+ダークミストバイソン
 
 ID=31315949
-Flame Little Butcher
+フレイムリトルブッチャー
 
 ID=31315950
-Flame Little Side
+フレイムリトルサイド
 
 ID=31315951
-Flame Warrior
+フレイムウォーリア
 
 ID=31315952
-Flame Assassin
+フレイムアサシン
 
 ID=31315953
-Flame Shaman
+フレイムシャーマン
 
 ID=31315954
-Flame Chaser
+フレイムチェイサ―
 
 ID=31315955
-Flame Launcher
+フレイムランチャー
 
 ID=31315956
-Flame Big Butcher
+フレイムビックブッチャー
 
 ID=31315957
-Flame Armored Golem
+フレイムアーマードゴーレム
 
 ID=31315958
-Flame Harvest
+フレイムハーベスト
 
 ID=31315959
-Flame Senior Shaman
+フレイムシニアシャーマン
 
 ID=31315960
-Flame Striker
+フレイムストライカー
 
 ID=31315961
-Flame Enforcer
+フレイムインフォーサー
 
 ID=31315962
-Flame Executor
+フレイムエクスキューター
 
 ID=31315963
-Infection Dweller
+インフェクションドウェラー
 
 ID=31315964
-Forged Leg
+フォージッドレッグ
 
 ID=31315965
-Hell Bringer
+ヘルブリンガー
 
 ID=31315966
-Dark Venin
+ダークベニン
 
 ID=31315967
-Spirit Sucker
+スピリットサッカー
 
 ID=30502020
 Glutton
 
 ID=30502021
-Chicken Glutton
+チキングルトン
 
 ID=30502022
-Santa Glutton
+サンタグルトン
 
 ID=30502023
-Summer Glutton
+サマーグルトン
 
 ID=30502024
-Angel Glutton
+エンジェルグルトン
 
 ID=90500001
-Christmas Present Box
+クリスマスプレゼントボックス
 
 ID=90500004
-Christmas Imp Puppet
+クリスマスインプパペット
 
 ID=90500005
-Christmas Blank Puppet
+クリスマスブランクパペット
 
 ID=90500006
-Christmas Noah
+クリスマスノア
 
 ID=90500007
-Christmas Poison
+クリスマスポイズン
 
 ID=31315983
-Killer Hornet
+キラーホーネット
 
 ID=31315984
-Plague Hornet
+プレイグホーネット
 
 ID=31315985
-Bane Gripper
+ベイングリッパー
 
 ID=31315986
-Tarantula
+タランチュラ
 
 ID=31315987
-Manto Meat
+マントゥミート
 
 ID=31315988
-Dead Bane
+デッドベイン
 
 ID=31315989
-Human Catcher
+ヒューマンキャッチャー
 
 ID=31315990
-Flower Mucus
+フラワーミューカス
 
 ID=31315991
-Cocytus
+コキュートス
 
 ID=31315992
-Extractor
+イックストラクター
 
 ID=31315993
-Verdant
+バダント
 
 ID=31315994
-Predator
+プレデター
 
 ID=31315995
-Desire Actor
+デザイアアクター
 
 ID=31315996
-Desire Actress
+デザイアアクトレス
 
 ID=31315997
-Desireholic
+デザイアホリック
 
 ID=31315998
-Crusher
+クラッシャー
 
 ID=31315999
-Distortion
+ディストーション
 
 ID=31316000
-Damned Crusher
+デムドクラッシャー
 
 ID=31316001
-Drill Crusher
+ドリルクラッシャー
 
 ID=31316002
-Injector
+インジェクター
 
 ID=31316003
-Dominator
+ドミネーター
 
 ID=31316004
-Big Daddy
+ビックダディ
 
 ID=31316005
-Road
+ロード
 
 ID=31316006
-Gamentor
+ガメンター
 
 ID=90500019
-Rare Glutton
+レアグルトン
 
 ID=31315910
-YorhaKha of Void
+空虚のヨルハカ
 
 ID=31315911
-Wrath of YorhaKha
+ヨルハカの怒り
 
 ID=31315913
-Void Distortion Core
+ヴォイドディストーションコア
 
 ID=31315914
-Void Larva
+ヴォイドラーバ
 
 ID=31315915
-Salacia
+サラシア
 
 ID=31315916
-Haumea
+ハウメア
 
 ID=31315917
-Sedna
+セドナ
 
 ID=31315918
-Quaoar
+クァウア
 
 ID=31315919
-Orcus
+オルクス
 
 ID=31315920
-Makemake
+マケマケ
 
 ID=30503001
-Rumble Diver Stone
+ランブルダイバーストーン
 
 ID=30503002
-Rumble Diver Butcher
+ランブルダイバーブッチャー
 
 ID=30503003
-Rumble Swimming Butcher
+ランブルスイムブッチャー
 
 ID=30503004
-Rumble Chubby Puppet
+ランブルチョビーパペット
 
 ID=30503005
-Rumble Crackle
+ランブルクラケル
 
 ID=30503011
-Overconfident Enoch
+やたら自信満々のエノック
 
 ID=30503012
-Stunningly Undressed Noah
+脱いだら凄いノア
 
 ID=30503013
-Perfect Dynamite Sexy King
+パーフェクトダイナマイトセクシーキング
 
 ID=30503015
-Sexy King
+セクシーキング
 
 ID=30503021
-Seaside Turban Shell
+海辺のサザエ
 
 ID=30503022
-Seaside Treasure Chest
+海辺の宝箱
 
 ID=30503023
-Seaside Coral Reef
+海辺のサンゴ礁
 
 ID=30504001
-Shiro
+シロ
 
 ID=30504002
-Chocolat
+ショコラ
 
 ID=30504003
-Kuro
+クロ
 
 ID=30504004
-Pochi
+ポチ
 
 ID=30504005
-Cute Doll
+可愛いお人形さん
 
 ID=30504006
-Huge Doll
+大きいお人形さん
 
 ID=30504007
-Small Doll
+小さいお人形さん
 
 ID=30504008
-Hard Rock
+硬い石ころ
 
 ID=30504009
-Huge Rock
+大きい石ころ
 
 ID=30504010
-Huge Rock Uncle
+大きい石ころおじさん
 
 ID=30504011
-Alien with lots of Arms
+腕がいっぱいの宇宙人
 
 ID=30504012
-Child with a Huge Eye
+とても眼が大きい子
 
 ID=30504013
-Brother with a Strange Mask
+変な仮面のおにいさん
 
 ID=30504014
-Brother with Four Arms
+腕が4つのおにいさん
 
 ID=30504015
-Very Beautiful Sister
+とっても美人のおねえさん
 
 ID=30504016
-Blindfolded Sister
+目隠ししたおねえさん
 
 ID=30504017
-Warm Uncle
+ポカポカおじさん
 
 ID=30504018
-Uncle with One Arm
+片腕のおじさん
 
 ID=30504019
-Uncle with the Crow
+カラスのおじさん
 
 ID=30504020
-Orb Thingy
+まんまる
 
 ID=30504021
-The Uncle next door?
+隣のおじさん？
 
 ID=30304491
-Uncle with the Big Axe
+大きな斧のおじさん
 
 ID=30504022
-Setsuka
+セツカ
 
 ID=30505011
-Killer Hornet
+キラーホーネット
 
 ID=30505102
-Desire Man
+デザイアマン
 
 ID=30505103
-Desire Stone
+デザイアストーン
 
 ID=30505104
-Desire Beater
+デザイアビーター
 
 ID=30505105
-Desire Crusher
+デザイアクラッシャー
 
 ID=30505106
-Desire Plant
+デザイアプラント
 
 ID=30505107
-Desire Feeler
+デザイアフィーラー
 
 ID=30505191
-Girl driven with Resolve
+覚悟を決めた少女
 
 ID=30505291
-Girl dyed in Madness
+狂気に染まった少女
 
 ID=30505193
-Desire Fang
+デザイアファング
 
 ID=30505301
-Desire Cell
+デザイアセル
 
 ID=30505302
-Desire Wolf
+デザイアウルフ
 
 ID=30505303
-Desire Doom
+デザイアドゥーム
 
 ID=30505304
-Desire Friend
+デザイアフレンド
 
 ID=30505305
-Desire Crow
+デザイアクロウ
 
 ID=30505306
-Desire Heavy Cell
+デザイアヘビーセル
 
 ID=30505307
-Desire Beast
+デザイアクビースト
 
 ID=30505392
-Girl filled with Aspiration
+希望を持った少女
 
 ID=30505491
-Fuu-chan
+ふーちゃん
 
 ID=30505492
-Girl drowning in Sorrow
+悲しみに沈んだ少女
 
 ID=90000155
-TV
+テレビ
 
 ID=90000156
-Milestone A
+マイルストーン_A
 
 ID=90000157
-Milestone B
+マイルストーン_B
 
 ID=30506004
-Contaminated Primal Fragment
+汚染されたプライマルの破片
 
 ID=30506005
-Contaminated Tentacle in the Void
+空白に汚染された触手
 
 ID=30506008
-Mutated Tentacle
+突然変異触手
 
 ID=30506007
-Coagulated Contaminated Blood
+凝固された汚染された血
 
 ID=30701101
-Junk Man
+ジャンクマン
 
 ID=30701102
-Junk Girl
+ジャンクガール
 
 ID=30701103
-Living Flower
+リビングフラワー
 
 ID=30701104
-Giant Moth
+ジャイアントモス
 
 ID=30701105
-Junk Larva
+ジャンクラバ
 
 ID=30701106
-Danger Crow
+デンジャークロウ
 
 ID=30701107
-Junk Licker
+ジャンクリーカー
 
 ID=30701108
-Junk Beast
+ジャンクビースト
 
 ID=30701109
-Junk Killer
+ジャンクキラー
 
 ID=30701110
-Junk Garuda
+ジャンクガルラ
 
 ID=30701151
-Hash Killer
+ハッシュドキラー
 
 ID=30701251
-Busted
+バステッド
 
 ID=30701351
-Corrupted Honor
+コラプテッドオナー
 
 ID=30701451
-Gigantic Cell
+ギガンティックセル
 
 ID=30702101
-Mine on the Sea
+マイン・オン・ザ・シー
 
 ID=30702102
-Hermit
+ハーミット
 
 ID=30702103
-Acid Jelly
+アシッドゼリー
 
 ID=30702104
-Biter
+バイター
 
 ID=30702105
-Serpent
+サーペント
 
 ID=30702106
-Tentacle
+テンタクル
 
 ID=30702107
-Cradle Hermit
+クレードルハーミット
 
 ID=30702108
-Crocodile
+クロコダイル
 
 ID=30702109
-Harpoon Serpent
+ハープーンサーペント
 
 ID=30702110
-Ocean Ruga
+オーシャンルガー
 
 ID=30702151
-Despair Teeth
+デスパティース
 
 ID=30702251
-Solubulizer
+ソリュブライザー
 
 ID=30702351
-Side Serpent
+サイドサーペント
 
 ID=30702452
-Kraken's Tentacle
+クラーケンの足
 
 ID=30702453
-Kraken
+クラーケン
 
 ID=30703101
-Rebellion Gunner
+リベリオンガンナー
 
 ID=30703102
 NED Shield Soldier
 
 ID=30703103
-Rebellion Guard
+リベリオンガード
 
 ID=30703104
-NED Machine Dog
+ネッドマシンドッグ
 
 ID=30703105
-Junk Eater
+ジャンクイーター
 
 ID=30703106
-Little Forest
+リトルフォレスト
 
 ID=30703107
-NED Tank
+ネッドタンク
 
 ID=30703108
-Forest Burner
+フォレストバーナー
 
 ID=30703109
-Mad Flame
+マッドフレイム
 
 ID=30703151
-Little Hell
+リットルヘル
 
 ID=30703251
-Eroded Weapon
+イロデッドウェポン
 
 ID=30703351
-Island Buster
+アイランドバスター
 
 ID=30703451
-Gruwell
+グルーウェル
 
 ID=30704101
-Kingdom Swordsman
+キングダムソードマン
 
 ID=30704102
-Kingdom Shooter
+キングダムシューター
 
 ID=30704103
-Kingdom Guard
+キングダムガード
 
 ID=30704104
-Kingdom Trooper
+キングダムトゥルーパー
 
 ID=30704105
-Kingdom Buster
+キングダムバスター
 
 ID=30704106
-Kingdom Paladin
+キングダムパラディン
 
 ID=30704107
-Decurion Hood
+デキュリオンフード
 
 ID=30704108
-Decurion Paladin
+デキュリオンパラディン
 
 ID=30704109
 Guardian
 
 ID=30704110
-Divine Beast
+デバインビースト
 
 ID=30704151
-Guardian Centurion
+ガーディアンセンチュリオン
 
 ID=30704251
-Nacallas
+ナカラス
 
 ID=30704351
-Descending Duty
+ディセンディングデューティー
 
 ID=30704451
-Aquilas
+アキュラス
 
 ID=31308101
-Stele
+石碑
 
 ID=31308102
-Red Totem
+レッド・トーテム
 
 ID=31308103
-Blue Totem
+ブルー・トーテム
 
 ID=31308104
-Green Totem
+グリーン・トーテム
 
 ID=31308105
-Faith
+信仰心
 
 ID=31308110
-RaphaKumba's Doppelgänger
+ラパクンバの分身
 
 ID=31308111
-Kleśa
+煩悩
 
 ID=31308001
-RaphaKumba
+ラパクンバ
 
 ID=30101030
-Blue Hound
+ブルーハウンド
 
 ID=30101031
-Violet Monoeye
+ヴァイオレット・モノアイ
 
 ID=30504101
-Mecha Coco
+メカ・ココ
 
 ID=30504102
-Mecha Peach
+メカ・モモ
 
 ID=30504103
-Mecha Marron
+メカ・マロン
 
 ID=30504104
-My Child doesn't Bite
+うちの子は噛みません
 
 ID=30504105
-Burning Fire
+バーニング・ファイアー
 
 ID=30504106
-Burning Shooter
+バーニング・シューター
 
 ID=30504107
-A Robot Larger than a House
+家より大きなロボット
 
 ID=30504108
-Black Burning
+ブラックバーニング
 
 ID=30504109
-Red Burning
+レッドバーニング
 
 ID=30504110
-A Sad Short-legged Child
+短足で悲しい子
 
 ID=30504111
-Hard-working Ant
+勤勉なアリ
 
 ID=30504112
-Lazy Huge Scorpion
+怠けるデカいサソリ
 
 ID=30504113
-Super String 9
+超ひも9
 
 ID=30504114
-Strawberry Pudding
+苺プリン
 
 ID=30504115
-The Pansy planted in My Room
+マイルームに植えたパンジー
 
 ID=30504116
-Shark Uncle
+サメおじさん
 
 ID=30504117
-Cute Crocodile
+可愛いワニ
 
 ID=30504118
-Massive Lobster
+巨大なロブスター
 
 ID=30504119
-Brawny Golem
+ムキムキゴーレム
 
 ID=30504120
-One-eyed Knight
+隻眼の騎士
 
 ID=30504121
-A Cool Winged Knight
+翼があるかっこいい騎士
 
 ID=30504491
-The Strongest Knight. . . Really????
+卍最強騎士卍
 
 ID=30705101
-Bulk Junk Man
+バルクジャンクマン
 
 ID=30705102
-Mad Scientist
+マッドサイエンティスト
 
 ID=30705103
-Junk Glutton
+ジャンクグルトン
 
 ID=30705104
-Dead Seeker
+デッドシーカー
 
 ID=30705105
-Burning Hound
+バーニングハウンド
 
 ID=30705151
-Edelweiss
+エーデルワイス
 
 ID=30705251
-Hellhound
+ヘルハウンド
 
 ID=30705351
-Deadly Stinger
+デッドリスティンガー
 
 ID=30705451
-Surveillant
+サーベイラント
 
 ID=30706101
-Fanatic's Swordsman
+ファナティックスソードマン
 
 ID=30706102
-Fanatic's Shooter
+ファナティックスシューター
 
 ID=30706103
-Fanatic's Slasher
+ファナティックススラッシャー
 
 ID=30706104
-Hell Guide
+ヘルガイド
 
 ID=30706105
-Polluted Guardian
+ポリューテッドガーディアン
 
 ID=30706151
-Doom Maker
+ドゥームメーカー
 
 ID=30706251
-Junk Aquilas
+ジャンクアキュラス
 
 ID=30706351
-Surveillant
+サーベイラント
 
 ID=30706451
-Anemone
+アネモネ
 
 ID=30707101
-Fanatic's Puppet
+ファナティックスパペット
 
 ID=30707102
-Fanatic's Warrior
+ファナティックスフォローアー
 
 ID=30707103
-Fanatic's Slave
+ファナティックススレイブ
 
 ID=30707104
-Fanatic's Soul
+ファナティックスソウル
 
 ID=30707105
-Judgement Crusher
+ジャッジメントクラッシャー
 
 ID=30707106
-Fanatic's Priest
+ファナティックスプリスト
 
 ID=30707151
-Cursed Eternity
+カースドイターニティー
 
 ID=30707251
-Doom Bringer
+ドゥームブリンガー
 
 ID=30707351
-Ascension
+アセンション
 
 ID=30707451
-Tenebris
+テネブリス
 
 ID=30707452
-Tenebris' Flame
+テネブリスの炎
 
 ID=31309151
-Junk Queen
+ジャンククイーン
 
 ID=31309152
-Queen's Sword [Annihilation]
+クイーンズソード[殲滅]
 
 ID=31309153
-Queen's Sword [Frost]
+クイーンズソード[霜]
 
 ID=31309154
-Queen's Sword [Chaser]
+クイーンズソード[追跡]
 
 ID=31307101
-Night Sky Stratocracy's Aquilas
+青黒軍政のアキュラス
 
 ID=31307102
-Night Sky Stratocracy's Edgar
+青黒軍政のエドガー
 
 ID=31309104
-Queen's Believer
+クイーンの信奉者
 
 ID=601
-200,000 HP Glutton
+20万馬力のグルトン
 
 ID=602
-500,000 HP Glutton
+50万馬力のグルトン
 
 ID=603
-950,000 HP Glutton
+95万馬力のグルトン
 
 ID=604
-10,000,000 HP Glutton
+1000万馬力のグルトン
 
 ID=605
-Glutton burning with Revenge
+復讐に燃えるグルトン
 
 ID=30505806
-Desire Hound
+デザイアハウンド
 
 ID=30505807
-Desire Monoeye
+デザイアモノアイ
 
 ID=30505709
-Desire Centipede
+デザイアセンティピード
 
 ID=30505651
-Boy who broke his Vow
+誓いを破った少年
 
 ID=30505751
-Boy drowning in Pleasure
+快楽を追い求める少年
 
 ID=30505851
-Girl filled with Fighting Spirit
+闘志で進む少女
 
 ID=30505951
-Girl thirsting for Revenge
+復讐を渇望する少女
 
 ID=30505853
-Desire Arena
+デザイアアリーナ
 
 ID=30308001
-Hollow Shadow
+虚ろなる影
 
 ID=13901101
-The Doom
+ザ・ドゥーム
 
 ID=661
-Halloween Tamer
+ハロウィンテイマー
 
 ID=662
-Halloween Manner
+ハロウィンマナー
 
 ID=663
-Halloween Puppet
+ハロウィンパペット
 
 ID=664
-Halloween Ghost
+ハロウィンゴースト
 
 ID=665
-Halloween Undertaker
+ハロウィンアンダーテイカー
 
 ID=666
-Halloween Pumpkin Witch
+ハロウィンパンプキン魔女
 
 ID=667
-Mr. Halloween Pumpkin
+Mr.ハロウィンパンプキン
 
 ID=30804113
 謎の球体

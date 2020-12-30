@@ -1,2259 +1,2259 @@
 ID=1
 โบนัสปาร์ตี้ (ผู้เล่น 2 คน)
-โบนัสจะได้รับเมื่อก่อตั้งปาร์ตี้
+อยู่ในปาร์ตี้จะได้รับ
 Icon/Booster/Icon_Booster_Party_Member2_NotFriend
 
 ID=2
 โบนัสปาร์ตี้ (ผู้เล่น 2 คน)
-โบนัสจะได้รับเมื่อก่อตั้งปาร์ตี้
+อยู่ในปาร์ตี้จะได้รับ
 Icon/Booster/Icon_Booster_Party_Member2_Friend1
 
 ID=3
 โบนัสปาร์ตี้ (ผู้เล่น 3 คน)
-โบนัสจะได้รับเมื่อก่อตั้งปาร์ตี้
+อยู่ในปาร์ตี้จะได้รับ
 Icon/Booster/Icon_Booster_Party_Member3_NotFriend
 
 ID=4
 โบนัสปาร์ตี้ (ผู้เล่น 3 คน)
-โบนัสจะได้รับเมื่อก่อตั้งปาร์ตี้
+อยู่ในปาร์ตี้จะได้รับ
 Icon/Booster/Icon_Booster_Party_Member3_Friend1
 
 ID=5
 โบนัสปาร์ตี้ (ผู้เล่น 3 คน)
-โบนัสจะได้รับเมื่อก่อตั้งปาร์ตี้
+อยู่ในปาร์ตี้จะได้รับ
 Icon/Booster/Icon_Booster_Party_Member3_Friend2
 
 ID=6
-โบนัสปาร์ตี้ (ผู้เล่น 4 คนขึ้นไป)
-โบนัสจะได้รับเมื่อก่อตั้งปาร์ตี้
+パーティーボーナス（4人以上）
+อยู่ในปาร์ตี้จะได้รับ
 Icon/Booster/Icon_Booster_Party_Member4_NotFriend
 
 ID=7
-โบนัสปาร์ตี้ (ผู้เล่น 4 คนขึ้นไป)
-โบนัสจะได้รับเมื่อก่อตั้งปาร์ตี้
+パーティーボーナス（4人以上）
+อยู่ในปาร์ตี้จะได้รับ
 Icon/Booster/Icon_Booster_Party_Member4_Friend1
 
 ID=8
-โบนัสปาร์ตี้ (ผู้เล่น 4 คนขึ้นไป)
-โบนัสจะได้รับเมื่อก่อตั้งปาร์ตี้
+パーティーボーナス（4人以上）
+อยู่ในปาร์ตี้จะได้รับ
 Icon/Booster/Icon_Booster_Party_Member4_Friend2
 
 ID=9
-โบนัสปาร์ตี้ (ผู้เล่น 4 คนขึ้นไป)
-โบนัสจะได้รับเมื่อก่อตั้งปาร์ตี้
+パーティーボーナス（4人以上）
+อยู่ในปาร์ตี้จะได้รับ
 Icon/Booster/Icon_Booster_Party_Member4_Friend3
 
 ID=10
-Netcafe Bonus
-The bonus is granted upon connecting to a Netcafe.
+โบนัสเน็ตคาเฟ่
+จะได้รับเมื่อเชื่อมต่อจากร้านเน็ตคาเฟ่
 Icon/Booster/Icon_Booster_PC_Café
 
 ID=11
-โบนัสอันดับระดับ 1
-โบนัสจะได้รับเมื่อได้รับอันดับ
+โบนัส Rank Level 1
+ได้รับการจัดอันดับจากการประมูล
 Icon/Booster/Icon_Booster_Echelon
 
 ID=12
-โบนัสอันดับระดับ 2
-โบนัสจะได้รับเมื่อได้รับอันดับ
+โบนัส Rank Level 2
+ได้รับการจัดอันดับจากการประมูล
 Icon/Booster/Icon_Booster_Echelon
 
 ID=13
-โบนัสอันดับระดับ 3
-โบนัสจะได้รับเมื่อได้รับอันดับ
+โบนัส Rank Level 3
+ได้รับการจัดอันดับจากการประมูล
 Icon/Booster/Icon_Booster_Echelon
 
 ID=14
-โบนัสอันดับระดับ 4
-โบนัสจะได้รับเมื่อได้รับอันดับ
+โบนัส Rank Level 4
+ได้รับการจัดอันดับจากการประมูล
 Icon/Booster/Icon_Booster_Echelon
 
 ID=15
-โบนัสอันดับระดับ 5
-โบนัสจะได้รับเมื่อได้รับอันดับ
+โบนัส Rank Level 5
+ได้รับการจัดอันดับจากการประมูล
 Icon/Booster/Icon_Booster_Echelon
 
 ID=16
-โบนัสอันดับระดับ 6
-โบนัสจะได้รับเมื่อได้รับอันดับ
+โบนัส Rank Level 6
+ได้รับการจัดอันดับจากการประมูล
 Icon/Booster/Icon_Booster_Echelon
 
 ID=17
-โบนัสอันดับระดับ 7
-โบนัสจะได้รับเมื่อได้รับอันดับ
+โบนัส Rank Level 7
+ได้รับการจัดอันดับจากการประมูล
 Icon/Booster/Icon_Booster_Echelon
 
 ID=18
-โบนัสอันดับระดับ 8
-โบนัสจะได้รับเมื่อได้รับอันดับ
+โบนัส Rank Level 8
+ได้รับการจัดอันดับจากการประมูล
 Icon/Booster/Icon_Booster_Echelon
 
 ID=19
-โบนัสอันดับระดับ 9
-โบนัสจะได้รับเมื่อได้รับอันดับ
+โบนัส Rank Level 9
+ได้รับการจัดอันดับจากการประมูล
 Icon/Booster/Icon_Booster_Echelon
 
 ID=20
-โบนัสอันดับระดับ 10
-โบนัสจะได้รับเมื่อได้รับอันดับ
+โบนัส Rank Level 10
+ได้รับการจัดอันดับจากการประมูล
 Icon/Booster/Icon_Booster_Echelon
 
 ID=21
-โบนัสอันดับระดับ 11
-โบนัสจะได้รับเมื่อได้รับอันดับ
+โบนัส Rank Level 11
+ได้รับการจัดอันดับจากการประมูล
 Icon/Booster/Icon_Booster_Echelon
 
 ID=22
-โบนัสอันดับระดับ 12
-โบนัสจะได้รับเมื่อได้รับอันดับ
+โบนัส Rank Level 12
+ได้รับการจัดอันดับจากการประมูล
 Icon/Booster/Icon_Booster_Echelon
 
 ID=23
-โบนัสอันดับระดับ 13
-โบนัสจะได้รับเมื่อได้รับอันดับ
+โบนัส Rank Level 13
+ได้รับการจัดอันดับจากการประมูล
 Icon/Booster/Icon_Booster_Echelon
 
 ID=24
-โบนัสอันดับระดับ 14
-โบนัสจะได้รับเมื่อได้รับอันดับ
+โบนัส Rank Level 14
+ได้รับการจัดอันดับจากการประมูล
 Icon/Booster/Icon_Booster_Echelon
 
 ID=25
-โบนัสอันดับระดับ 15
-โบนัสจะได้รับเมื่อได้รับอันดับ
+โบนัส Rank Level 15
+ได้รับการจัดอันดับจากการประมูล
 Icon/Booster/Icon_Booster_Echelon
 
 ID=26
-โบนัสอันดับระดับ 16
-โบนัสจะได้รับเมื่อได้รับอันดับ
+โบนัส Rank Level 16
+ได้รับการจัดอันดับจากการประมูล
 Icon/Booster/Icon_Booster_Echelon
 
 ID=27
-โบนัสอันดับระดับ 17
-โบนัสจะได้รับเมื่อได้รับอันดับ
+โบนัส Rank Level 17
+ได้รับการจัดอันดับจากการประมูล
 Icon/Booster/Icon_Booster_Echelon
 
 ID=28
-โบนัสอันดับระดับ 18
-โบนัสจะได้รับเมื่อได้รับอันดับ
+โบนัส Rank Level 18
+ได้รับการจัดอันดับจากการประมูล
 Icon/Booster/Icon_Booster_Echelon
 
 ID=29
-โบนัสอันดับระดับ 19
-โบนัสจะได้รับเมื่อได้รับอันดับ
+โบนัส Rank Level 19
+ได้รับการจัดอันดับจากการประมูล
 Icon/Booster/Icon_Booster_Echelon
 
 ID=30
-โบนัสอันดับระดับ 20
-โบนัสจะได้รับเมื่อได้รับอันดับ
+โบนัส Rank Level 20
+ได้รับการจัดอันดับจากการประมูล
 Icon/Booster/Icon_Booster_Echelon
 
 ID=620
-โบนัสความยาก (Hard)
-ผลโบนัสจะเพิ่มขึ้นเมื่อระดับความยากเพิ่มขึ้น
+โบนัสระดับความยาก (Hard)
+ระดับความยากสูงขึ้นจะได้รับรางวัลโบนัสมากขึ้น
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=630
-โบนัสความยาก (Maniac)
-ผลโบนัสจะเพิ่มขึ้นเมื่อระดับความยากเพิ่มขึ้น
+โบนัสระดับความยาก (Maniac)
+ระดับความยากสูงขึ้นจะได้รับรางวัลโบนัสมากขึ้น
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1001
 กิจกรรม Burning
-EXP Gain เพิ่มขึ้น
+ได้รับค่าประสบการณ์เพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1002
 กิจกรรม Burning
-EXP Gain เพิ่มขึ้น
+ได้รับค่าประสบการณ์เพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1003
 กิจกรรม Burning
-EXP Gain เพิ่มขึ้น
+ได้รับค่าประสบการณ์เพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1004
 กิจกรรม Burning
-EXP Gain เพิ่มขึ้น
+ได้รับค่าประสบการณ์เพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1005
 กิจกรรม Burning
-EXP Gain เพิ่มขึ้น
+ได้รับค่าประสบการณ์เพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1006
 กิจกรรม Burning
-EXP Gain เพิ่มขึ้น
+ได้รับค่าประสบการณ์เพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1007
 กิจกรรม Burning
-EXP Gain เพิ่มขึ้น
+ได้รับค่าประสบการณ์เพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1008
 กิจกรรม Burning
-EXP Gain เพิ่มขึ้น
+ได้รับค่าประสบการณ์เพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1009
 กิจกรรม Burning
-EXP Gain เพิ่มขึ้น
+ได้รับค่าประสบการณ์เพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1010
 กิจกรรม Burning
-EXP Gain เพิ่มขึ้น
+ได้รับค่าประสบการณ์เพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1011
 กิจกรรม Burning
-EXP Gain เพิ่มขึ้น
+ได้รับค่าประสบการณ์เพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1012
 กิจกรรม Burning
-EXP Gain เพิ่มขึ้น
+ได้รับค่าประสบการณ์เพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1013
 กิจกรรม Burning
-EXP Gain เพิ่มขึ้น
+ได้รับค่าประสบการณ์เพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1014
 กิจกรรม Burning
-EXP Gain เพิ่มขึ้น
+ได้รับค่าประสบการณ์เพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1015
 กิจกรรม Burning
-EXP Gain เพิ่มขึ้น
+ได้รับค่าประสบการณ์เพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1016
 กิจกรรม Burning
-EXP Gain เพิ่มขึ้น
+ได้รับค่าประสบการณ์เพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1017
 กิจกรรม Burning
-EXP Gain เพิ่มขึ้น
+ได้รับค่าประสบการณ์เพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1018
 กิจกรรม Burning
-EXP Gain เพิ่มขึ้น
+ได้รับค่าประสบการณ์เพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1019
 กิจกรรม Burning
-EXP Gain เพิ่มขึ้น
+ได้รับค่าประสบการณ์เพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1020
 กิจกรรม Burning
-EXP Gain เพิ่มขึ้น
+ได้รับค่าประสบการณ์เพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1101
 กิจกรรม Burning
-เพิ่มอัตราการดรอปไอเทม
+อัตรา Drop ไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Item1
 
 ID=1102
 กิจกรรม Burning
-เพิ่มอัตราการดรอปไอเทม
+อัตรา Drop ไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Item1
 
 ID=1103
 กิจกรรม Burning
-เพิ่มอัตราการดรอปไอเทม
+อัตรา Drop ไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Item1
 
 ID=1104
 กิจกรรม Burning
-เพิ่มอัตราการดรอปไอเทม
+อัตรา Drop ไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Item1
 
 ID=1105
 กิจกรรม Burning
-เพิ่มอัตราการดรอปไอเทม
+อัตรา Drop ไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Item1
 
 ID=1106
 กิจกรรม Burning
-เพิ่มอัตราการดรอปไอเทม
+อัตรา Drop ไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Item1
 
 ID=1107
 กิจกรรม Burning
-เพิ่มอัตราการดรอปไอเทม
+อัตรา Drop ไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Item1
 
 ID=1108
 กิจกรรม Burning
-เพิ่มอัตราการดรอปไอเทม
+อัตรา Drop ไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Item1
 
 ID=1109
 กิจกรรม Burning
-เพิ่มอัตราการดรอปไอเทม
+อัตรา Drop ไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Item1
 
 ID=1110
 กิจกรรม Burning
-เพิ่มอัตราการดรอปไอเทม
+อัตรา Drop ไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Item1
 
 ID=1111
 กิจกรรม Burning
-เพิ่มอัตราการดรอปไอเทม
+อัตรา Drop ไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Item1
 
 ID=1112
 กิจกรรม Burning
-เพิ่มอัตราการดรอปไอเทม
+อัตรา Drop ไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Item1
 
 ID=1113
 กิจกรรม Burning
-เพิ่มอัตราการดรอปไอเทม
+อัตรา Drop ไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Item1
 
 ID=1114
 กิจกรรม Burning
-เพิ่มอัตราการดรอปไอเทม
+อัตรา Drop ไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Item1
 
 ID=1115
 กิจกรรม Burning
-เพิ่มอัตราการดรอปไอเทม
+อัตรา Drop ไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Item1
 
 ID=1116
 กิจกรรม Burning
-เพิ่มอัตราการดรอปไอเทม
+อัตรา Drop ไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Item1
 
 ID=1117
 กิจกรรม Burning
-เพิ่มอัตราการดรอปไอเทม
+อัตรา Drop ไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Item1
 
 ID=1118
 กิจกรรม Burning
-เพิ่มอัตราการดรอปไอเทม
+อัตรา Drop ไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Item1
 
 ID=1119
 กิจกรรม Burning
-เพิ่มอัตราการดรอปไอเทม
+อัตรา Drop ไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Item1
 
 ID=1120
 กิจกรรม Burning
-เพิ่มอัตราการดรอปไอเทม
+อัตรา Drop ไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Item1
 
 ID=1201
 กิจกรรม Burning
-เพิ่มอัตราการดรอป Zenny
+อัตรา Drop เงินเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Gold1
 
 ID=1202
 กิจกรรม Burning
-เพิ่มอัตราการดรอป Zenny
+อัตรา Drop เงินเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Gold1
 
 ID=1203
 กิจกรรม Burning
-เพิ่มอัตราการดรอป Zenny
+อัตรา Drop เงินเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Gold1
 
 ID=1204
 กิจกรรม Burning
-เพิ่มอัตราการดรอป Zenny
+อัตรา Drop เงินเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Gold1
 
 ID=1205
 กิจกรรม Burning
-เพิ่มอัตราการดรอป Zenny
+อัตรา Drop เงินเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Gold1
 
 ID=1206
 กิจกรรม Burning
-เพิ่มอัตราการดรอป Zenny
+อัตรา Drop เงินเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Gold1
 
 ID=1207
 กิจกรรม Burning
-เพิ่มอัตราการดรอป Zenny
+อัตรา Drop เงินเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Gold1
 
 ID=1208
 กิจกรรม Burning
-เพิ่มอัตราการดรอป Zenny
+อัตรา Drop เงินเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Gold1
 
 ID=1209
 กิจกรรม Burning
-เพิ่มอัตราการดรอป Zenny
+อัตรา Drop เงินเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Gold1
 
 ID=1210
 กิจกรรม Burning
-เพิ่มอัตราการดรอป Zenny
+อัตรา Drop เงินเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Gold1
 
 ID=1211
 กิจกรรม Burning
-เพิ่มอัตราการดรอป Zenny
+อัตรา Drop เงินเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Gold1
 
 ID=1212
 กิจกรรม Burning
-เพิ่มอัตราการดรอป Zenny
+อัตรา Drop เงินเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Gold1
 
 ID=1213
 กิจกรรม Burning
-เพิ่มอัตราการดรอป Zenny
+อัตรา Drop เงินเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Gold1
 
 ID=1214
 กิจกรรม Burning
-เพิ่มอัตราการดรอป Zenny
+อัตรา Drop เงินเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Gold1
 
 ID=1215
 กิจกรรม Burning
-เพิ่มอัตราการดรอป Zenny
+อัตรา Drop เงินเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Gold1
 
 ID=1216
 กิจกรรม Burning
-เพิ่มอัตราการดรอป Zenny
+อัตรา Drop เงินเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Gold1
 
 ID=1217
 กิจกรรม Burning
-เพิ่มอัตราการดรอป Zenny
+อัตรา Drop เงินเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Gold1
 
 ID=1218
 กิจกรรม Burning
-เพิ่มอัตราการดรอป Zenny
+อัตรา Drop เงินเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Gold1
 
 ID=1219
 กิจกรรม Burning
-เพิ่มอัตราการดรอป Zenny
+อัตรา Drop เงินเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Gold1
 
 ID=1220
 กิจกรรม Burning
-เพิ่มอัตราการดรอป Zenny
+อัตรา Drop เงินเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Gold1
 
 ID=1301
 กิจกรรม Burning
-เพิ่มอัตราการดรอป EXP , Zenny
+ค่าประสบการณ์และเงินเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1302
 กิจกรรม Burning
-เพิ่มอัตราการดรอป EXP , Zenny
+ค่าประสบการณ์และเงินเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1303
 กิจกรรม Burning
-เพิ่มอัตราการดรอป EXP , Zenny
+ค่าประสบการณ์และเงินเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1304
 กิจกรรม Burning
-เพิ่มอัตราการดรอป EXP , Zenny
+ค่าประสบการณ์และเงินเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1305
 กิจกรรม Burning
-เพิ่มอัตราการดรอป EXP , Zenny
+ค่าประสบการณ์และเงินเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1306
 กิจกรรม Burning
-เพิ่มอัตราการดรอป EXP , Zenny
+ค่าประสบการณ์และเงินเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1307
 กิจกรรม Burning
-เพิ่มอัตราการดรอป EXP , Zenny
+ค่าประสบการณ์และเงินเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1308
 กิจกรรม Burning
-เพิ่มอัตราการดรอป EXP , Zenny
+ค่าประสบการณ์และเงินเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1309
 กิจกรรม Burning
-เพิ่มอัตราการดรอป EXP , Zenny
+ค่าประสบการณ์และเงินเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1310
 กิจกรรม Burning
-เพิ่มอัตราการดรอป EXP , Zenny
+ค่าประสบการณ์และเงินเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1311
 กิจกรรม Burning
-เพิ่มอัตราการดรอป EXP , Zenny
+ค่าประสบการณ์และเงินเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1312
 กิจกรรม Burning
-เพิ่มอัตราการดรอป EXP , Zenny
+ค่าประสบการณ์และเงินเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1313
 กิจกรรม Burning
-เพิ่มอัตราการดรอป EXP , Zenny
+ค่าประสบการณ์และเงินเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1314
 กิจกรรม Burning
-เพิ่มอัตราการดรอป EXP , Zenny
+ค่าประสบการณ์และเงินเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1315
 กิจกรรม Burning
-เพิ่มอัตราการดรอป EXP , Zenny
+ค่าประสบการณ์และเงินเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1316
 กิจกรรม Burning
-เพิ่มอัตราการดรอป EXP , Zenny
+ค่าประสบการณ์และเงินเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1317
 กิจกรรม Burning
-เพิ่มอัตราการดรอป EXP , Zenny
+ค่าประสบการณ์และเงินเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1318
 กิจกรรม Burning
-เพิ่มอัตราการดรอป EXP , Zenny
+ค่าประสบการณ์และเงินเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1319
 กิจกรรม Burning
-เพิ่มอัตราการดรอป EXP , Zenny
+ค่าประสบการณ์และเงินเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1320
 กิจกรรม Burning
-เพิ่มอัตราการดรอป EXP , Zenny
+ค่าประสบการณ์และเงินเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1401
 กิจกรรม Burning
-เพิ่มอัตราการดรอป EXP , ไอเทม
+ค่าประสบการณ์และอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1402
 กิจกรรม Burning
-เพิ่มอัตราการดรอป EXP , ไอเทม
+ค่าประสบการณ์และอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1403
 กิจกรรม Burning
-เพิ่มอัตราการดรอป EXP , ไอเทม
+ค่าประสบการณ์และอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1404
 กิจกรรม Burning
-เพิ่มอัตราการดรอป EXP , ไอเทม
+ค่าประสบการณ์และอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1405
 กิจกรรม Burning
-เพิ่มอัตราการดรอป EXP , ไอเทม
+ค่าประสบการณ์และอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1406
 กิจกรรม Burning
-เพิ่มอัตราการดรอป EXP , ไอเทม
+ค่าประสบการณ์และอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1407
 กิจกรรม Burning
-เพิ่มอัตราการดรอป EXP , ไอเทม
+ค่าประสบการณ์และอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1408
 กิจกรรม Burning
-เพิ่มอัตราการดรอป EXP , ไอเทม
+ค่าประสบการณ์และอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1409
 กิจกรรม Burning
-เพิ่มอัตราการดรอป EXP , ไอเทม
+ค่าประสบการณ์และอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1410
 กิจกรรม Burning
-เพิ่มอัตราการดรอป EXP , ไอเทม
+ค่าประสบการณ์และอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1411
 กิจกรรม Burning
-เพิ่มอัตราการดรอป EXP , ไอเทม
+ค่าประสบการณ์และอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1412
 กิจกรรม Burning
-เพิ่มอัตราการดรอป EXP , ไอเทม
+ค่าประสบการณ์และอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1413
 กิจกรรม Burning
-เพิ่มอัตราการดรอป EXP , ไอเทม
+ค่าประสบการณ์และอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1414
 กิจกรรม Burning
-เพิ่มอัตราการดรอป EXP , ไอเทม
+ค่าประสบการณ์และอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1415
 กิจกรรม Burning
-เพิ่มอัตราการดรอป EXP , ไอเทม
+ค่าประสบการณ์และอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1416
 กิจกรรม Burning
-เพิ่มอัตราการดรอป EXP , ไอเทม
+ค่าประสบการณ์และอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1417
 กิจกรรม Burning
-เพิ่มอัตราการดรอป EXP , ไอเทม
+ค่าประสบการณ์และอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1418
 กิจกรรม Burning
-เพิ่มอัตราการดรอป EXP , ไอเทม
+ค่าประสบการณ์และอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1419
 กิจกรรม Burning
-เพิ่มอัตราการดรอป EXP , ไอเทม
+ค่าประสบการณ์และอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1420
 กิจกรรม Burning
-เพิ่มอัตราการดรอป EXP , ไอเทม
+ค่าประสบการณ์และอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1421
 กิจกรรม Burning
-เพิ่มอัตราการดรอป EXP , ไอเทม
+ค่าประสบการณ์และอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1422
 กิจกรรม Burning
-เพิ่มอัตราการดรอป EXP , ไอเทม
+ค่าประสบการณ์และอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1501
 กิจกรรม Burning
-เพิ่มอัตราการดรอป Zenny , ไอเทม
+เงินและอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1502
 กิจกรรม Burning
-เพิ่มอัตราการดรอป Zenny , ไอเทม
+เงินและอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1503
 กิจกรรม Burning
-เพิ่มอัตราการดรอป Zenny , ไอเทม
+เงินและอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1504
 กิจกรรม Burning
-เพิ่มอัตราการดรอป Zenny , ไอเทม
+เงินและอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1505
 กิจกรรม Burning
-เพิ่มอัตราการดรอป Zenny , ไอเทม
+เงินและอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1506
 กิจกรรม Burning
-เพิ่มอัตราการดรอป Zenny , ไอเทม
+เงินและอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1507
 กิจกรรม Burning
-เพิ่มอัตราการดรอป Zenny , ไอเทม
+เงินและอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1508
 กิจกรรม Burning
-เพิ่มอัตราการดรอป Zenny , ไอเทม
+เงินและอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1509
 กิจกรรม Burning
-เพิ่มอัตราการดรอป Zenny , ไอเทม
+เงินและอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1510
 กิจกรรม Burning
-เพิ่มอัตราการดรอป Zenny , ไอเทม
+เงินและอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1511
 กิจกรรม Burning
-เพิ่มอัตราการดรอป Zenny , ไอเทม
+เงินและอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1512
 กิจกรรม Burning
-เพิ่มอัตราการดรอป Zenny , ไอเทม
+เงินและอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1513
 กิจกรรม Burning
-เพิ่มอัตราการดรอป Zenny , ไอเทม
+เงินและอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1514
 กิจกรรม Burning
-เพิ่มอัตราการดรอป Zenny , ไอเทม
+เงินและอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1515
 กิจกรรม Burning
-เพิ่มอัตราการดรอป Zenny , ไอเทม
+เงินและอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1516
 กิจกรรม Burning
-เพิ่มอัตราการดรอป Zenny , ไอเทม
+เงินและอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1517
 กิจกรรม Burning
-เพิ่มอัตราการดรอป Zenny , ไอเทม
+เงินและอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1518
 กิจกรรม Burning
-เพิ่มอัตราการดรอป Zenny , ไอเทม
+เงินและอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1519
 กิจกรรม Burning
-เพิ่มอัตราการดรอป Zenny , ไอเทม
+เงินและอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1520
 กิจกรรม Burning
-เพิ่มอัตราการดรอป Zenny , ไอเทม
+เงินและอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1601
 กิจกรรม Burning
-EXP Gain, เพิ่มอัตราการดรอป Zenny , ไอเทม
+ค่าประสบการณ์ เงิน และอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1602
 กิจกรรม Burning
-EXP Gain, เพิ่มอัตราการดรอป Zenny , ไอเทม
+ค่าประสบการณ์ เงิน และอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1603
 กิจกรรม Burning
-EXP Gain, เพิ่มอัตราการดรอป Zenny , ไอเทม
+ค่าประสบการณ์ เงิน และอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1604
 กิจกรรม Burning
-EXP Gain, เพิ่มอัตราการดรอป Zenny , ไอเทม
+ค่าประสบการณ์ เงิน และอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1605
 กิจกรรม Burning
-EXP Gain, เพิ่มอัตราการดรอป Zenny , ไอเทม
+ค่าประสบการณ์ เงิน และอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1606
 กิจกรรม Burning
-EXP Gain, เพิ่มอัตราการดรอป Zenny , ไอเทม
+ค่าประสบการณ์ เงิน และอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1607
 กิจกรรม Burning
-EXP Gain, เพิ่มอัตราการดรอป Zenny , ไอเทม
+ค่าประสบการณ์ เงิน และอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1608
 กิจกรรม Burning
-EXP Gain, เพิ่มอัตราการดรอป Zenny , ไอเทม
+ค่าประสบการณ์ เงิน และอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1609
 กิจกรรม Burning
-EXP Gain, เพิ่มอัตราการดรอป Zenny , ไอเทม
+ค่าประสบการณ์ เงิน และอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1610
 กิจกรรม Burning
-EXP Gain, เพิ่มอัตราการดรอป Zenny , ไอเทม
+ค่าประสบการณ์ เงิน และอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1611
 กิจกรรม Burning
-EXP Gain, เพิ่มอัตราการดรอป Zenny , ไอเทม
+ค่าประสบการณ์ เงิน และอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1612
 กิจกรรม Burning
-EXP Gain, เพิ่มอัตราการดรอป Zenny , ไอเทม
+ค่าประสบการณ์ เงิน และอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1613
 กิจกรรม Burning
-EXP Gain, เพิ่มอัตราการดรอป Zenny , ไอเทม
+ค่าประสบการณ์ เงิน และอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1614
 กิจกรรม Burning
-EXP Gain, เพิ่มอัตราการดรอป Zenny , ไอเทม
+ค่าประสบการณ์ เงิน และอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1615
 กิจกรรม Burning
-EXP Gain, เพิ่มอัตราการดรอป Zenny , ไอเทม
+ค่าประสบการณ์ เงิน และอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1616
 กิจกรรม Burning
-EXP Gain, เพิ่มอัตราการดรอป Zenny , ไอเทม
+ค่าประสบการณ์ เงิน และอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1617
 กิจกรรม Burning
-EXP Gain, เพิ่มอัตราการดรอป Zenny , ไอเทม
+ค่าประสบการณ์ เงิน และอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1618
 กิจกรรม Burning
-EXP Gain, เพิ่มอัตราการดรอป Zenny , ไอเทม
+ค่าประสบการณ์ เงิน และอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1619
 กิจกรรม Burning
-EXP Gain, เพิ่มอัตราการดรอป Zenny , ไอเทม
+ค่าประสบการณ์ เงิน และอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1620
 กิจกรรม Burning
-EXP Gain, เพิ่มอัตราการดรอป Zenny , ไอเทม
+ค่าประสบการณ์ เงิน และอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1621
 กิจกรรม Burning
-EXP Gain, เพิ่มอัตราการดรอป Zenny , ไอเทม
+ค่าประสบการณ์ เงิน และอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1622
 กิจกรรม Burning
-EXP Gain, เพิ่มอัตราการดรอป Zenny , ไอเทม
+ค่าประสบการณ์ เงิน และอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1623
 กิจกรรม Burning
-EXP Gain, เพิ่มอัตราการดรอป Zenny , ไอเทม
+ค่าประสบการณ์ เงิน และอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=2001
-Booster Event
-EXP Gain เพิ่มขึ้น
+Booster ของขวัญจะได้รับค่าประสบการณ์เพิ่มขึ้น
+ได้รับค่าประสบการณ์เพิ่มขึ้น
 Icon/Booster/Icon_Booster_item_Exp1
 
 ID=2002
-Booster Event
-EXP Gain เพิ่มขึ้น
+Booster ของขวัญจะได้รับค่าประสบการณ์เพิ่มขึ้น
+ได้รับค่าประสบการณ์เพิ่มขึ้น
 Icon/Booster/Icon_Booster_item_Exp1
 
 ID=2003
-Booster Event
-EXP Gain เพิ่มขึ้น
+Booster ของขวัญจะได้รับค่าประสบการณ์เพิ่มขึ้น
+ได้รับค่าประสบการณ์เพิ่มขึ้น
 Icon/Booster/Icon_Booster_item_Exp1
 
 ID=2004
-Booster Event
-EXP Gain เพิ่มขึ้น
+Booster ของขวัญจะได้รับค่าประสบการณ์เพิ่มขึ้น
+ได้รับค่าประสบการณ์เพิ่มขึ้น
 Icon/Booster/Icon_Booster_item_Exp1
 
 ID=2005
-Booster Event
-EXP Gain เพิ่มขึ้น
+Booster ของขวัญจะได้รับค่าประสบการณ์เพิ่มขึ้น
+ได้รับค่าประสบการณ์เพิ่มขึ้น
 Icon/Booster/Icon_Booster_item_Exp1
 
 ID=2006
-Booster Event
-EXP Gain เพิ่มขึ้น
+Booster ของขวัญจะได้รับค่าประสบการณ์เพิ่มขึ้น
+ได้รับค่าประสบการณ์เพิ่มขึ้น
 Icon/Booster/Icon_Booster_item_Exp1
 
 ID=2051
-Booster Event
-เพิ่มอัตราการดรอป Zenny
+Booster ของขวัญจะได้รับค่าประสบการณ์เพิ่มขึ้น
+อัตรา Drop เงินเพิ่มขึ้น
 Icon/Booster/Icon_Booster_item_Gold1
 
 ID=2052
-Booster Event
-เพิ่มอัตราการดรอป Zenny
+Booster ของขวัญจะได้รับค่าประสบการณ์เพิ่มขึ้น
+อัตรา Drop เงินเพิ่มขึ้น
 Icon/Booster/Icon_Booster_item_Gold1
 
 ID=2053
-Booster Event
-เพิ่มอัตราการดรอป Zenny
+Booster ของขวัญจะได้รับค่าประสบการณ์เพิ่มขึ้น
+อัตรา Drop เงินเพิ่มขึ้น
 Icon/Booster/Icon_Booster_item_Gold1
 
 ID=2054
-Booster Event
-เพิ่มอัตราการดรอป Zenny
+Booster ของขวัญจะได้รับค่าประสบการณ์เพิ่มขึ้น
+อัตรา Drop เงินเพิ่มขึ้น
 Icon/Booster/Icon_Booster_item_Gold1
 
 ID=2055
-Booster Event
-เพิ่มอัตราการดรอป Zenny
+Booster ของขวัญจะได้รับค่าประสบการณ์เพิ่มขึ้น
+อัตรา Drop เงินเพิ่มขึ้น
 Icon/Booster/Icon_Booster_item_Gold1
 
 ID=2056
-Booster Event
-เพิ่มอัตราการดรอป Zenny
+Booster ของขวัญจะได้รับค่าประสบการณ์เพิ่มขึ้น
+อัตรา Drop เงินเพิ่มขึ้น
 Icon/Booster/Icon_Booster_item_Gold1
 
 ID=2101
-Booster Event
-เพิ่มอัตราการดรอปไอเทม
+Booster ของขวัญจะได้รับค่าประสบการณ์เพิ่มขึ้น
+อัตรา Drop ไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_item_Item1
 
 ID=2102
-Booster Event
-เพิ่มอัตราการดรอปไอเทม
+Booster ของขวัญจะได้รับค่าประสบการณ์เพิ่มขึ้น
+อัตรา Drop ไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_item_Item1
 
 ID=2103
-Booster Event
-เพิ่มอัตราการดรอปไอเทม
+Booster ของขวัญจะได้รับค่าประสบการณ์เพิ่มขึ้น
+อัตรา Drop ไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_item_Item1
 
 ID=2104
-Booster Event
-เพิ่มอัตราการดรอปไอเทม
+Booster ของขวัญจะได้รับค่าประสบการณ์เพิ่มขึ้น
+อัตรา Drop ไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_item_Item1
 
 ID=2105
-Booster Event
-เพิ่มอัตราการดรอปไอเทม
+Booster ของขวัญจะได้รับค่าประสบการณ์เพิ่มขึ้น
+อัตรา Drop ไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_item_Item1
 
 ID=2106
-Booster Event
-เพิ่มอัตราการดรอปไอเทม
+Booster ของขวัญจะได้รับค่าประสบการณ์เพิ่มขึ้น
+อัตรา Drop ไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_item_Item1
 
 ID=2107
-Item Drop Up
-เพิ่มอัตราการดรอปไอเทม
+ドロップアップアイテム
+อัตรา Drop ไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_item_Item1
 
 ID=2151
-Booster Event
-EXP Gain, เพิ่มอัตราการดรอป Zenny , ไอเทม
+Booster ของขวัญจะได้รับค่าประสบการณ์เพิ่มขึ้น
+ค่าประสบการณ์ เงิน และอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Item_Burning1
 
 ID=2152
-Booster Event
-EXP Gain, เพิ่มอัตราการดรอป Zenny , ไอเทม
+Booster ของขวัญจะได้รับค่าประสบการณ์เพิ่มขึ้น
+ค่าประสบการณ์ เงิน และอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Item_Burning1
 
 ID=2153
-Booster Event
-EXP Gain, เพิ่มอัตราการดรอป Zenny , ไอเทม
+Booster ของขวัญจะได้รับค่าประสบการณ์เพิ่มขึ้น
+ค่าประสบการณ์ เงิน และอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Item_Burning1
 
 ID=2154
-Booster Event
-EXP Gain, เพิ่มอัตราการดรอป Zenny , ไอเทม
+Booster ของขวัญจะได้รับค่าประสบการณ์เพิ่มขึ้น
+ค่าประสบการณ์ เงิน และอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Item_Burning1
 
 ID=2155
-Booster Event
-EXP Gain, เพิ่มอัตราการดรอป Zenny , ไอเทม
+Booster ของขวัญจะได้รับค่าประสบการณ์เพิ่มขึ้น
+ค่าประสบการณ์ เงิน และอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Item_Burning1
 
 ID=2156
-Booster Event
-EXP Gain, เพิ่มอัตราการดรอป Zenny , ไอเทม
+Booster ของขวัญจะได้รับค่าประสบการณ์เพิ่มขึ้น
+ค่าประสบการณ์ เงิน และอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Item_Burning1
 
 ID=3001
-The Thing Subjugation Bonus!
-เพิ่มอัตราการดรอป EXP , ไอเทม
+โบนัสการปราบ The Thing
+経験値獲得量とアイテムドロップ率が増加する。アイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Kill_TheXing
 
 ID=5111
-บูสเตอร์รายวัน [Exp]
-EXP Gain เพิ่มขึ้น
+บูสเตอร์ประจำวัน [ค่าประสบการณ์]
+ได้รับค่าประสบการณ์เพิ่มขึ้น
 Icon/Booster/Icon_Booster_DailyEvent
 
 ID=5121
-บูสเตอร์รายวัน [Drop]
-เพิ่มอัตราการดรอปไอเทม
+บูสเตอร์ประจำวัน [ดร็อป]
+อัตรา Drop ไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_DailyEvent
 
 ID=5131
-บูสเตอร์รายวัน [Zenny]
-เพิ่มอัตราการดรอป Zenny
+บูสเตอร์ประจำวัน [zenny]
+อัตรา Drop เงินเพิ่มขึ้น
 Icon/Booster/Icon_Booster_DailyEvent
 
 ID=5141
-บูสเตอร์รายวัน [โจมตี]
-เพิ่มการโจมตี
+บูสเตอร์ประจำวัน [โจมตี]
+攻撃力が増加する。
 Icon/Booster/Icon_Booster_DailyEvent
 
 ID=5151
-บูสเตอร์รายวัน [ป้องกัน]
-พลังป้องกันเพิ่มขึ้น
+บูสเตอร์ประจำวัน [ป้องกัน]
+防御度が増加する。
 Icon/Booster/Icon_Booster_DailyEvent
 
 ID=5161
-บูสเตอร์รายวัน [Maximum HP]
-HP สูงสุดเพิ่มขึ้น
+บูสเตอร์ประจำวัน [HPสูงสุด]
+最大HPが増加する。
 Icon/Booster/Icon_Booster_DailyEvent
 
 ID=5171
-บูสเตอร์รายวัน [Maximum SG]
-SG สูงสุดเพิ่มขึ้น
+曜日ブースター[最大ソウル]
+最大ソウルが増加する。
 Icon/Booster/Icon_Booster_DailyEvent
 
 ID=5211
-บูสเตอร์รายวัน [Exp]
-EXP Gain เพิ่มขึ้น
+บูสเตอร์ประจำวัน [ค่าประสบการณ์]
+ได้รับค่าประสบการณ์เพิ่มขึ้น
 Icon/Booster/Icon_Booster_DailyEvent
 
 ID=5221
-บูสเตอร์รายวัน [Drop]
-เพิ่มอัตราการดรอปไอเทม
+บูสเตอร์ประจำวัน [ดร็อป]
+อัตรา Drop ไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_DailyEvent
 
 ID=5231
-บูสเตอร์รายวัน [Zenny]
-เพิ่มอัตราการดรอป Zenny
+บูสเตอร์ประจำวัน [zenny]
+อัตรา Drop เงินเพิ่มขึ้น
 Icon/Booster/Icon_Booster_DailyEvent
 
 ID=5241
-บูสเตอร์รายวัน [โจมตี]
-Attack is increased.
+บูสเตอร์ประจำวัน [โจมตี]
+攻撃力が増加する。
 Icon/Booster/Icon_Booster_DailyEvent
 
 ID=5251
-บูสเตอร์รายวัน [ป้องกัน]
-Defense is increased.
+บูสเตอร์ประจำวัน [ป้องกัน]
+防御度が増加する。
 Icon/Booster/Icon_Booster_DailyEvent
 
 ID=5261
-บูสเตอร์รายวัน [Maximum HP]
-Maximum HP is increased.
+บูสเตอร์ประจำวัน [HPสูงสุด]
+最大HPが増加する。
 Icon/Booster/Icon_Booster_DailyEvent
 
 ID=5271
-บูสเตอร์รายวัน [Maximum SG]
-Maximum SG is increased.
+曜日ブースター[最大ソウル]
+最大ソウルが増加する。
 Icon/Booster/Icon_Booster_DailyEvent
 
 ID=5281
-บูสเตอร์รายวัน [FP]
-FP Consumption is decreased.
+曜日ブースター[FP]
+疲労度（FP）の減少値が低下する。
 Icon/Booster/Icon_Booster_DailyEvent
 
 ID=5282
-บูสเตอร์รายวัน [FP]
-FP Consumption is decreased.
+曜日ブースター[FP]
+疲労度（FP）の減少値が低下する。
 Icon/Booster/Icon_Booster_DailyEvent
 
 ID=5283
-บูสเตอร์รายวัน [FP]
-FP Consumption is decreased.
+曜日ブースター[FP]
+疲労度（FP）の減少値が低下する。
 Icon/Booster/Icon_Booster_DailyEvent
 
 ID=5284
-บูสเตอร์รายวัน [FP]
-FP Consumption is decreased.
+曜日ブースター[FP]
+疲労度（FP）の減少値が低下する。
 Icon/Booster/Icon_Booster_DailyEvent
 
 ID=5291
-บูสเตอร์รายวัน [Secret]
-Secret Events will always occur.
+曜日ブースター[シークレット]
+シークレットイベントが必ず発生する。
 Icon/Booster/Icon_Booster_DailyEvent
 
 ID=6001
-Class กิจกรรม Burning
-EXP Gain of the event class targets is increased.
+クラスバーニングイベント
+イベント対象クラスの獲得経験値が増加する。
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=6002
-Class กิจกรรม Burning
-EXP Gain of the event class targets is increased.
+クラスバーニングイベント
+イベント対象クラスの獲得経験値が増加する。
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=6003
-Class กิจกรรม Burning
-EXP Gain of the event class targets is increased.
+クラスバーニングイベント
+イベント対象クラスの獲得経験値が増加する。
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=6004
-Class กิจกรรม Burning
-EXP Gain of the event class targets is increased.
+クラスバーニングイベント
+イベント対象クラスの獲得経験値が増加する。
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=6005
-Class กิจกรรม Burning
-EXP Gain of the event class targets is increased.
+クラスバーニングイベント
+イベント対象クラスの獲得経験値が増加する。
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=6006
-Class กิจกรรม Burning
-EXP Gain of the event class targets is increased.
+クラスバーニングイベント
+イベント対象クラスの獲得経験値が増加する。
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=6007
-Class กิจกรรม Burning
-EXP Gain of the event class targets is increased.
+クラスバーニングイベント
+イベント対象クラスの獲得経験値が増加する。
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=6008
-Class กิจกรรม Burning
-EXP Gain of the event class targets is increased.
+クラスバーニングイベント
+イベント対象クラスの獲得経験値が増加する。
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=6009
-Class กิจกรรม Burning
-EXP Gain of the event class targets is increased.
+クラスバーニングイベント
+イベント対象クラスの獲得経験値が増加する。
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=6010
-Class กิจกรรม Burning
-EXP Gain of the event class targets is increased.
+クラスバーニングイベント
+イベント対象クラスの獲得経験値が増加する。
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=6011
-Class กิจกรรม Burning
-EXP Gain of the event class targets is increased.
+クラスバーニングイベント
+イベント対象クラスの獲得経験値が増加する。
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=6012
-Class กิจกรรม Burning
-EXP Gain of the event class targets is increased.
+クラスバーニングイベント
+イベント対象クラスの獲得経験値が増加する。
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=6013
-Class กิจกรรม Burning
-EXP Gain of the event class targets is increased.
+クラスバーニングイベント
+イベント対象クラスの獲得経験値が増加する。
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=6014
-Class กิจกรรม Burning
-EXP Gain of the event class targets is increased.
+クラスバーニングイベント
+イベント対象クラスの獲得経験値が増加する。
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=6015
-Class กิจกรรม Burning
-EXP Gain of the event class targets is increased.
+クラスバーニングイベント
+イベント対象クラスの獲得経験値が増加する。
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=6016
-Class กิจกรรม Burning
-EXP Gain of the event class targets is increased.
+クラスバーニングイベント
+イベント対象クラスの獲得経験値が増加する。
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=6017
-Class กิจกรรม Burning
-EXP Gain of the event class targets is increased.
+クラスバーニングイベント
+イベント対象クラスの獲得経験値が増加する。
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=6018
-Class กิจกรรม Burning
-EXP Gain of the event class targets is increased.
+クラスバーニングイベント
+イベント対象クラスの獲得経験値が増加する。
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=6019
-Class กิจกรรม Burning
-EXP Gain of the event class targets is increased.
+クラスバーニングイベント
+イベント対象クラスの獲得経験値が増加する。
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=6020
-Class กิจกรรม Burning
-EXP Gain of the event class targets is increased.
+クラスバーニングイベント
+イベント対象クラスの獲得経験値が増加する。
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=6101
-Class กิจกรรม Burning
-Item Drop Rate of the event class targets is increased.
+クラスバーニングイベント
+イベント対象クラスのアイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Item1
 
 ID=6102
-Class กิจกรรม Burning
-Item Drop Rate of the event class targets is increased.
+クラスバーニングイベント
+イベント対象クラスのアイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Item1
 
 ID=6103
-Class กิจกรรม Burning
-Item Drop Rate of the event class targets is increased.
+クラスバーニングイベント
+イベント対象クラスのアイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Item1
 
 ID=6104
-Class กิจกรรม Burning
-Item Drop Rate of the event class targets is increased.
+クラスバーニングイベント
+イベント対象クラスのアイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Item1
 
 ID=6105
-Class กิจกรรม Burning
-Item Drop Rate of the event class targets is increased.
+クラスバーニングイベント
+イベント対象クラスのアイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Item1
 
 ID=6106
-Class กิจกรรม Burning
-Item Drop Rate of the event class targets is increased.
+クラスバーニングイベント
+イベント対象クラスのアイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Item1
 
 ID=6107
-Class กิจกรรม Burning
-Item Drop Rate of the event class targets is increased.
+クラスバーニングイベント
+イベント対象クラスのアイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Item1
 
 ID=6108
-Class กิจกรรม Burning
-Item Drop Rate of the event class targets is increased.
+クラスバーニングイベント
+イベント対象クラスのアイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Item1
 
 ID=6109
-Class กิจกรรม Burning
-Item Drop Rate of the event class targets is increased.
+クラスバーニングイベント
+イベント対象クラスのアイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Item1
 
 ID=6110
-Class กิจกรรม Burning
-Item Drop Rate of the event class targets is increased.
+クラスバーニングイベント
+イベント対象クラスのアイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Item1
 
 ID=6111
-Class กิจกรรม Burning
-Item Drop Rate of the event class targets is increased.
+クラスバーニングイベント
+イベント対象クラスのアイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Item1
 
 ID=6112
-Class กิจกรรม Burning
-Item Drop Rate of the event class targets is increased.
+クラスバーニングイベント
+イベント対象クラスのアイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Item1
 
 ID=6113
-Class กิจกรรม Burning
-Item Drop Rate of the event class targets is increased.
+クラスバーニングイベント
+イベント対象クラスのアイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Item1
 
 ID=6114
-Class กิจกรรม Burning
-Item Drop Rate of the event class targets is increased.
+クラスバーニングイベント
+イベント対象クラスのアイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Item1
 
 ID=6115
-Class กิจกรรม Burning
-Item Drop Rate of the event class targets is increased.
+クラスバーニングイベント
+イベント対象クラスのアイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Item1
 
 ID=6116
-Class กิจกรรม Burning
-Item Drop Rate of the event class targets is increased.
+クラスバーニングイベント
+イベント対象クラスのアイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Item1
 
 ID=6117
-Class กิจกรรม Burning
-Item Drop Rate of the event class targets is increased.
+クラスバーニングイベント
+イベント対象クラスのアイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Item1
 
 ID=6118
-Class กิจกรรม Burning
-Item Drop Rate of the event class targets is increased.
+クラスバーニングイベント
+イベント対象クラスのアイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Item1
 
 ID=6119
-Class กิจกรรม Burning
-Item Drop Rate of the event class targets is increased.
+クラスバーニングイベント
+イベント対象クラスのアイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Item1
 
 ID=6120
-Class กิจกรรม Burning
-Item Drop Rate of the event class targets is increased.
+クラスバーニングイベント
+イベント対象クラスのアイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Item1
 
 ID=6201
-Class กิจกรรม Burning
-Zenny Gain of the event class targets is increased.
+クラスバーニングイベント
+イベント対象クラスのジェニー獲得量が増加する。
 Icon/Booster/Icon_Booster_Event_Gold1
 
 ID=6202
-Class กิจกรรม Burning
-Zenny Gain of the event class targets is increased.
+クラスバーニングイベント
+イベント対象クラスのジェニー獲得量が増加する。
 Icon/Booster/Icon_Booster_Event_Gold1
 
 ID=6203
-Class กิจกรรม Burning
-Zenny Gain of the event class targets is increased.
+クラスバーニングイベント
+イベント対象クラスのジェニー獲得量が増加する。
 Icon/Booster/Icon_Booster_Event_Gold1
 
 ID=6204
-Class กิจกรรม Burning
-Zenny Gain of the event class targets is increased.
+クラスバーニングイベント
+イベント対象クラスのジェニー獲得量が増加する。
 Icon/Booster/Icon_Booster_Event_Gold1
 
 ID=6205
-Class กิจกรรม Burning
-Zenny Gain of the event class targets is increased.
+クラスバーニングイベント
+イベント対象クラスのジェニー獲得量が増加する。
 Icon/Booster/Icon_Booster_Event_Gold1
 
 ID=6206
-Class กิจกรรม Burning
-Zenny Gain of the event class targets is increased.
+クラスバーニングイベント
+イベント対象クラスのジェニー獲得量が増加する。
 Icon/Booster/Icon_Booster_Event_Gold1
 
 ID=6207
-Class กิจกรรม Burning
-Zenny Gain of the event class targets is increased.
+クラスバーニングイベント
+イベント対象クラスのジェニー獲得量が増加する。
 Icon/Booster/Icon_Booster_Event_Gold1
 
 ID=6208
-Class กิจกรรม Burning
-Zenny Gain of the event class targets is increased.
+クラスバーニングイベント
+イベント対象クラスのジェニー獲得量が増加する。
 Icon/Booster/Icon_Booster_Event_Gold1
 
 ID=6209
-Class กิจกรรม Burning
-Zenny Gain of the event class targets is increased.
+クラスバーニングイベント
+イベント対象クラスのジェニー獲得量が増加する。
 Icon/Booster/Icon_Booster_Event_Gold1
 
 ID=6210
-Class กิจกรรม Burning
-Zenny Gain of the event class targets is increased.
+クラスバーニングイベント
+イベント対象クラスのジェニー獲得量が増加する。
 Icon/Booster/Icon_Booster_Event_Gold1
 
 ID=6211
-Class กิจกรรม Burning
-Zenny Gain of the event class targets is increased.
+クラスバーニングイベント
+イベント対象クラスのジェニー獲得量が増加する。
 Icon/Booster/Icon_Booster_Event_Gold1
 
 ID=6212
-Class กิจกรรม Burning
-Zenny Gain of the event class targets is increased.
+クラスバーニングイベント
+イベント対象クラスのジェニー獲得量が増加する。
 Icon/Booster/Icon_Booster_Event_Gold1
 
 ID=6213
-Class กิจกรรม Burning
-Zenny Gain of the event class targets is increased.
+クラスバーニングイベント
+イベント対象クラスのジェニー獲得量が増加する。
 Icon/Booster/Icon_Booster_Event_Gold1
 
 ID=6214
-Class กิจกรรม Burning
-Zenny Gain of the event class targets is increased.
+クラスバーニングイベント
+イベント対象クラスのジェニー獲得量が増加する。
 Icon/Booster/Icon_Booster_Event_Gold1
 
 ID=6215
-Class กิจกรรม Burning
-Zenny Gain of the event class targets is increased.
+クラスバーニングイベント
+イベント対象クラスのジェニー獲得量が増加する。
 Icon/Booster/Icon_Booster_Event_Gold1
 
 ID=6216
-Class กิจกรรม Burning
-Zenny Gain of the event class targets is increased.
+クラスバーニングイベント
+イベント対象クラスのジェニー獲得量が増加する。
 Icon/Booster/Icon_Booster_Event_Gold1
 
 ID=6217
-Class กิจกรรม Burning
-Zenny Gain of the event class targets is increased.
+クラスバーニングイベント
+イベント対象クラスのジェニー獲得量が増加する。
 Icon/Booster/Icon_Booster_Event_Gold1
 
 ID=6218
-Class กิจกรรม Burning
-Zenny Gain of the event class targets is increased.
+クラスバーニングイベント
+イベント対象クラスのジェニー獲得量が増加する。
 Icon/Booster/Icon_Booster_Event_Gold1
 
 ID=6219
-Class กิจกรรม Burning
-Zenny Gain of the event class targets is increased.
+クラスバーニングイベント
+イベント対象クラスのジェニー獲得量が増加する。
 Icon/Booster/Icon_Booster_Event_Gold1
 
 ID=6220
-Class กิจกรรม Burning
-Zenny Gain of the event class targets is increased.
+クラスバーニングイベント
+イベント対象クラスのジェニー獲得量が増加する。
 Icon/Booster/Icon_Booster_Event_Gold1
 
 ID=6301
-Class กิจกรรม Burning
-EXP Gain, Zenny Gain of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスの経験値、ジェニー獲得量が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6302
-Class กิจกรรม Burning
-EXP Gain, Zenny Gain of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスの経験値、ジェニー獲得量が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6303
-Class กิจกรรม Burning
-EXP Gain, Zenny Gain of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスの経験値、ジェニー獲得量が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6304
-Class กิจกรรม Burning
-EXP Gain, Zenny Gain of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスの経験値、ジェニー獲得量が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6305
-Class กิจกรรม Burning
-EXP Gain, Zenny Gain of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスの経験値、ジェニー獲得量が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6306
-Class กิจกรรม Burning
-EXP Gain, Zenny Gain of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスの経験値、ジェニー獲得量が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6307
-Class กิจกรรม Burning
-EXP Gain, Zenny Gain of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスの経験値、ジェニー獲得量が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6308
-Class กิจกรรม Burning
-EXP Gain, Zenny Gain of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスの経験値、ジェニー獲得量が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6309
-Class กิจกรรม Burning
-EXP Gain, Zenny Gain of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスの経験値、ジェニー獲得量が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6310
-Class กิจกรรม Burning
-EXP Gain, Zenny Gain of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスの経験値、ジェニー獲得量が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6311
-Class กิจกรรม Burning
-EXP Gain, Zenny Gain of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスの経験値、ジェニー獲得量が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6312
-Class กิจกรรม Burning
-EXP Gain, Zenny Gain of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスの経験値、ジェニー獲得量が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6313
-Class กิจกรรม Burning
-EXP Gain, Zenny Gain of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスの経験値、ジェニー獲得量が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6314
-Class กิจกรรม Burning
-EXP Gain, Zenny Gain of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスの経験値、ジェニー獲得量が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6315
-Class กิจกรรม Burning
-EXP Gain, Zenny Gain of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスの経験値、ジェニー獲得量が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6316
-Class กิจกรรม Burning
-EXP Gain, Zenny Gain of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスの経験値、ジェニー獲得量が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6317
-Class กิจกรรม Burning
-EXP Gain, Zenny Gain of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスの経験値、ジェニー獲得量が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6318
-Class กิจกรรม Burning
-EXP Gain, Zenny Gain of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスの経験値、ジェニー獲得量が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6319
-Class กิจกรรม Burning
-EXP Gain, Zenny Gain of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスの経験値、ジェニー獲得量が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6320
-Class กิจกรรม Burning
-EXP Gain, Zenny Gain of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスの経験値、ジェニー獲得量が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6401
-Class กิจกรรม Burning
-EXP Gain, Item Drop Rate of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスの経験値獲得量、アイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6402
-Class กิจกรรม Burning
-EXP Gain, Item Drop Rate of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスの経験値獲得量、アイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6403
-Class กิจกรรม Burning
-EXP Gain, Item Drop Rate of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスの経験値獲得量、アイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6404
-Class กิจกรรม Burning
-EXP Gain, Item Drop Rate of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスの経験値獲得量、アイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6405
-Class กิจกรรม Burning
-EXP Gain, Item Drop Rate of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスの経験値獲得量、アイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6406
-Class กิจกรรม Burning
-EXP Gain, Item Drop Rate of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスの経験値獲得量、アイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6407
-Class กิจกรรม Burning
-EXP Gain, Item Drop Rate of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスの経験値獲得量、アイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6408
-Class กิจกรรม Burning
-EXP Gain, Item Drop Rate of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスの経験値獲得量、アイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6409
-Class กิจกรรม Burning
-EXP Gain, Item Drop Rate of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスの経験値獲得量、アイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6410
-Class กิจกรรม Burning
-EXP Gain, Item Drop Rate of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスの経験値獲得量、アイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6411
-Class กิจกรรม Burning
-EXP Gain, Item Drop Rate of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスの経験値獲得量、アイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6412
-Class กิจกรรม Burning
-EXP Gain, Item Drop Rate of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスの経験値獲得量、アイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6413
-Class กิจกรรม Burning
-EXP Gain, Item Drop Rate of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスの経験値獲得量、アイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6414
-Class กิจกรรม Burning
-EXP Gain, Item Drop Rate of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスの経験値獲得量、アイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6415
-Class กิจกรรม Burning
-EXP Gain, Item Drop Rate of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスの経験値獲得量、アイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6416
-Class กิจกรรม Burning
-EXP Gain, Item Drop Rate of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスの経験値獲得量、アイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6417
-Class กิจกรรม Burning
-EXP Gain, Item Drop Rate of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスの経験値獲得量、アイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6418
-Class กิจกรรม Burning
-EXP Gain, Item Drop Rate of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスの経験値獲得量、アイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6419
-Class กิจกรรม Burning
-EXP Gain, Item Drop Rate of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスの経験値獲得量、アイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6420
-Class กิจกรรม Burning
-EXP Gain, Item Drop Rate of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスの経験値獲得量、アイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6421
-Class กิจกรรม Burning
-EXP Gain, Item Drop Rate of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスの経験値獲得量、アイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6422
-Class กิจกรรม Burning
-EXP Gain, Item Drop Rate of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスの経験値獲得量、アイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6501
-Class กิจกรรม Burning
-Zenny Gain, Item Drop Rate of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスのジェニー獲得量、アイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6502
-Class กิจกรรม Burning
-Zenny Gain, Item Drop Rate of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスのジェニー獲得量、アイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6503
-Class กิจกรรม Burning
-Zenny Gain, Item Drop Rate of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスのジェニー獲得量、アイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6504
-Class กิจกรรม Burning
-Zenny Gain, Item Drop Rate of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスのジェニー獲得量、アイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6505
-Class กิจกรรม Burning
-Zenny Gain, Item Drop Rate of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスのジェニー獲得量、アイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6506
-Class กิจกรรม Burning
-Zenny Gain, Item Drop Rate of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスのジェニー獲得量、アイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6507
-Class กิจกรรม Burning
-Zenny Gain, Item Drop Rate of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスのジェニー獲得量、アイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6508
-Class กิจกรรม Burning
-Zenny Gain, Item Drop Rate of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスのジェニー獲得量、アイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6509
-Class กิจกรรม Burning
-Zenny Gain, Item Drop Rate of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスのジェニー獲得量、アイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6510
-Class กิจกรรม Burning
-Zenny Gain, Item Drop Rate of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスのジェニー獲得量、アイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6511
-Class กิจกรรม Burning
-Zenny Gain, Item Drop Rate of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスのジェニー獲得量、アイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6512
-Class กิจกรรม Burning
-Zenny Gain, Item Drop Rate of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスのジェニー獲得量、アイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6513
-Class กิจกรรม Burning
-Zenny Gain, Item Drop Rate of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスのジェニー獲得量、アイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6514
-Class กิจกรรม Burning
-Zenny Gain, Item Drop Rate of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスのジェニー獲得量、アイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6515
-Class กิจกรรม Burning
-Zenny Gain, Item Drop Rate of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスのジェニー獲得量、アイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6516
-Class กิจกรรม Burning
-Zenny Gain, Item Drop Rate of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスのジェニー獲得量、アイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6517
-Class กิจกรรม Burning
-Zenny Gain, Item Drop Rate of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスのジェニー獲得量、アイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6518
-Class กิจกรรม Burning
-Zenny Gain, Item Drop Rate of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスのジェニー獲得量、アイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6519
-Class กิจกรรม Burning
-Zenny Gain, Item Drop Rate of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスのジェニー獲得量、アイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6520
-Class กิจกรรม Burning
-Zenny Gain, Item Drop Rate of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスのジェニー獲得量、アイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6601
-Class กิจกรรม Burning
-EXP Gain, Zenny Gain, Item Drop Rate of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスの経験値、ジェニー獲得量とアイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6602
-Class กิจกรรม Burning
-EXP Gain, Zenny Gain, Item Drop Rate of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスの経験値、ジェニー獲得量とアイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6603
-Class กิจกรรม Burning
-EXP Gain, Zenny Gain, Item Drop Rate of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスの経験値、ジェニー獲得量とアイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6604
-Class กิจกรรม Burning
-EXP Gain, Zenny Gain, Item Drop Rate of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスの経験値、ジェニー獲得量とアイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6605
-Class กิจกรรม Burning
-EXP Gain, Zenny Gain, Item Drop Rate of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスの経験値、ジェニー獲得量とアイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6606
-Class กิจกรรม Burning
-EXP Gain, Zenny Gain, Item Drop Rate of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスの経験値、ジェニー獲得量とアイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6607
-Class กิจกรรม Burning
-EXP Gain, Zenny Gain, Item Drop Rate of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスの経験値、ジェニー獲得量とアイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6608
-Class กิจกรรม Burning
-EXP Gain, Zenny Gain, Item Drop Rate of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスの経験値、ジェニー獲得量とアイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6609
-Class กิจกรรม Burning
-EXP Gain, Zenny Gain, Item Drop Rate of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスの経験値、ジェニー獲得量とアイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6610
-Class กิจกรรม Burning
-EXP Gain, Zenny Gain, Item Drop Rate of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスの経験値、ジェニー獲得量とアイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6611
-Class กิจกรรม Burning
-EXP Gain, Zenny Gain, Item Drop Rate of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスの経験値、ジェニー獲得量とアイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6612
-Class กิจกรรม Burning
-EXP Gain, Zenny Gain, Item Drop Rate of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスの経験値、ジェニー獲得量とアイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6613
-Class กิจกรรม Burning
-EXP Gain, Zenny Gain, Item Drop Rate of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスの経験値、ジェニー獲得量とアイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6614
-Class กิจกรรม Burning
-EXP Gain, Zenny Gain, Item Drop Rate of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスの経験値、ジェニー獲得量とアイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6615
-Class กิจกรรม Burning
-EXP Gain, Zenny Gain, Item Drop Rate of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスの経験値、ジェニー獲得量とアイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6616
-Class กิจกรรม Burning
-EXP Gain, Zenny Gain, Item Drop Rate of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスの経験値、ジェニー獲得量とアイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6617
-Class กิจกรรม Burning
-EXP Gain, Zenny Gain, Item Drop Rate of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスの経験値、ジェニー獲得量とアイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6618
-Class กิจกรรม Burning
-EXP Gain, Zenny Gain, Item Drop Rate of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスの経験値、ジェニー獲得量とアイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6619
-Class กิจกรรม Burning
-EXP Gain, Zenny Gain, Item Drop Rate of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスの経験値、ジェニー獲得量とアイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6620
-Class กิจกรรม Burning
-EXP Gain, Zenny Gain, Item Drop Rate of the event class targets are increased.
+クラスバーニングイベント
+イベント対象クラスの経験値、ジェニー獲得量とアイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1700
 กิจกรรม Burning
-EXP Gain, เพิ่มอัตราการดรอป Zenny , ไอเทม
+ค่าประสบการณ์ เงิน และอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1701
 กิจกรรม Burning
-EXP Gain, เพิ่มอัตราการดรอป Zenny , ไอเทม
+ค่าประสบการณ์ เงิน และอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1702
 กิจกรรม Burning
-EXP Gain, เพิ่มอัตราการดรอป Zenny , ไอเทม
+ค่าประสบการณ์ เงิน และอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1703
 กิจกรรม Burning
-EXP Gain, เพิ่มอัตราการดรอป Zenny , ไอเทม
+ค่าประสบการณ์ เงิน และอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1704
 กิจกรรม Burning
-EXP Gain, เพิ่มอัตราการดรอป Zenny , ไอเทม
+ค่าประสบการณ์ เงิน และอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1705
 กิจกรรม Burning
-EXP Gain, เพิ่มอัตราการดรอป Zenny , ไอเทม
+ค่าประสบการณ์ เงิน และอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1706
 กิจกรรม Burning
-EXP Gain, เพิ่มอัตราการดรอป Zenny , ไอเทม
+ค่าประสบการณ์ เงิน และอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1707
 กิจกรรม Burning
-EXP Gain, เพิ่มอัตราการดรอป Zenny , ไอเทม
+ค่าประสบการณ์ เงิน และอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1708
 กิจกรรม Burning
-EXP Gain, เพิ่มอัตราการดรอป Zenny , ไอเทม
+ค่าประสบการณ์ เงิน และอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1709
 กิจกรรม Burning
-EXP Gain, เพิ่มอัตราการดรอป Zenny , ไอเทม
+ค่าประสบการณ์ เงิน และอัตราการ Drop ของไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1710
 กิจกรรม Burning
-เพิ่มอัตราการดรอป EXP , ไอเทม
+経験値、アイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1711
 กิจกรรม Burning
-เพิ่มอัตราการดรอป EXP , ไอเทม
+経験値、アイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1712
 กิจกรรม Burning
-เพิ่มอัตราการดรอป EXP , ไอเทม
+経験値、アイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1713
 กิจกรรม Burning
-เพิ่มอัตราการดรอป EXP , ไอเทม
+経験値、アイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1714
 กิจกรรม Burning
-เพิ่มอัตราการดรอป EXP , ไอเทม
+経験値、アイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1715
 กิจกรรม Burning
-เพิ่มอัตราการดรอป EXP , ไอเทม
+経験値、アイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1716
 กิจกรรม Burning
-เพิ่มอัตราการดรอป EXP , ไอเทม
+経験値、アイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1717
 กิจกรรม Burning
-เพิ่มอัตราการดรอป EXP , ไอเทม
+経験値、アイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1718
 กิจกรรม Burning
-เพิ่มอัตราการดรอป EXP , ไอเทม
+経験値、アイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1719
 กิจกรรม Burning
-เพิ่มอัตราการดรอป EXP , ไอเทม
+経験値、アイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=7000
-Soccer Support Event World Booster!
-Zenny Gain, HP are increased.
+サッカー応援イベント World Booster!
+ジェニー獲得量とHPが上昇します。
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=7001
-Soccer Support Event World Booster!
-Zenny Gain, HP, Attack, Defense are increased.
+サッカー応援イベント World Booster!
+ジェニー獲得量とHP、攻撃力、防御力が上昇します。
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1810
 กิจกรรม Burning
-On kill EXP, Dungeon Clear EXP, Quest Clear EXP are increased.
+討伐時経験値、メイズクリア経験値、クエストクリア経験値が増加する。
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1811
 กิจกรรม Burning
-On kill EXP, Dungeon Clear EXP, Quest Clear EXP are increased.
+討伐時経験値、メイズクリア経験値、クエストクリア経験値が増加する。
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1812
 กิจกรรม Burning
-On kill EXP, Dungeon Clear EXP, Quest Clear EXP are increased.
+討伐時経験値、メイズクリア経験値、クエストクリア経験値が増加する。
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1813
 กิจกรรม Burning
-On kill EXP, Dungeon Clear EXP, Quest Clear EXP are increased.
+討伐時経験値、メイズクリア経験値、クエストクリア経験値が増加する。
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1814
 กิจกรรม Burning
-On kill EXP, Dungeon Clear EXP, Quest Clear EXP are increased.
+討伐時経験値、メイズクリア経験値、クエストクリア経験値が増加する。
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1815
 กิจกรรม Burning
-On kill EXP, Dungeon Clear EXP, Quest Clear EXP are increased.
+討伐時経験値、メイズクリア経験値、クエストクリア経験値が増加する。
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1816
 กิจกรรม Burning
-On kill EXP, Dungeon Clear EXP, Quest Clear EXP are increased.
+討伐時経験値、メイズクリア経験値、クエストクリア経験値が増加する。
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1817
 กิจกรรม Burning
-On kill EXP, Dungeon Clear EXP, Quest Clear EXP are increased.
+討伐時経験値、メイズクリア経験値、クエストクリア経験値が増加する。
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1818
 กิจกรรม Burning
-On kill EXP, Dungeon Clear EXP, Quest Clear EXP are increased.
+討伐時経験値、メイズクリア経験値、クエストクリア経験値が増加する。
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1819
 กิจกรรม Burning
-On kill EXP, Dungeon Clear EXP, Quest Clear EXP are increased.
+討伐時経験値、メイズクリア経験値、クエストクリア経験値が増加する。
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1820
 กิจกรรม Burning
-On kill EXP, Dungeon Clear EXP are increased.
+討伐時経験値、メイズクリア経験値が増加する。
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1821
 กิจกรรม Burning
-On kill EXP, Dungeon Clear EXP are increased.
+討伐時経験値、メイズクリア経験値が増加する。
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1822
 กิจกรรม Burning
-On kill EXP, Dungeon Clear EXP are increased.
+討伐時経験値、メイズクリア経験値が増加する。
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1823
 กิจกรรม Burning
-On kill EXP, Dungeon Clear EXP are increased.
+討伐時経験値、メイズクリア経験値が増加する。
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1824
 กิจกรรม Burning
-On kill EXP, Dungeon Clear EXP are increased.
+討伐時経験値、メイズクリア経験値が増加する。
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1825
 กิจกรรม Burning
-On kill EXP, Dungeon Clear EXP are increased.
+討伐時経験値、メイズクリア経験値が増加する。
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1826
 กิจกรรม Burning
-On kill EXP, Dungeon Clear EXP are increased.
+討伐時経験値、メイズクリア経験値が増加する。
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1827
 กิจกรรม Burning
-On kill EXP, Dungeon Clear EXP are increased.
+討伐時経験値、メイズクリア経験値が増加する。
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1828
 กิจกรรม Burning
-On kill EXP, Dungeon Clear EXP are increased.
+討伐時経験値、メイズクリア経験値が増加する。
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1829
 กิจกรรม Burning
-On kill EXP, Dungeon Clear EXP are increased.
+討伐時経験値、メイズクリア経験値が増加する。
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1830
 กิจกรรม Burning
-Dungeon Clear EXP is increased.
+メイズクリア経験値が増加する。
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1831
 กิจกรรม Burning
-Dungeon Clear EXP is increased.
+メイズクリア経験値が増加する。
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1832
 กิจกรรม Burning
-Dungeon Clear EXP is increased.
+メイズクリア経験値が増加する。
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1833
 กิจกรรม Burning
-Dungeon Clear EXP is increased.
+メイズクリア経験値が増加する。
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1834
 กิจกรรม Burning
-Dungeon Clear EXP is increased.
+メイズクリア経験値が増加する。
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1835
 กิจกรรม Burning
-Dungeon Clear EXP is increased.
+メイズクリア経験値が増加する。
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1836
 กิจกรรม Burning
-Dungeon Clear EXP is increased.
+メイズクリア経験値が増加する。
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1837
 กิจกรรม Burning
-Dungeon Clear EXP is increased.
+メイズクリア経験値が増加する。
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1838
 กิจกรรม Burning
-Dungeon Clear EXP is increased.
+メイズクリア経験値が増加する。
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1839
 กิจกรรม Burning
-Dungeon Clear EXP is increased.
+メイズクリア経験値が増加する。
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1840
 กิจกรรม Burning
-Quest Clear EXP is increased.
+クエストクリア経験値が増加する。
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1841
 กิจกรรม Burning
-Quest Clear EXP is increased.
+クエストクリア経験値が増加する。
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1842
 กิจกรรม Burning
-Quest Clear EXP is increased.
+クエストクリア経験値が増加する。
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1843
 กิจกรรม Burning
-Quest Clear EXP is increased.
+クエストクリア経験値が増加する。
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1844
 กิจกรรม Burning
-Quest Clear EXP is increased.
+クエストクリア経験値が増加する。
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1845
 กิจกรรม Burning
-Quest Clear EXP is increased.
+クエストクリア経験値が増加する。
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1846
 กิจกรรม Burning
-Quest Clear EXP is increased.
+クエストクリア経験値が増加する。
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1847
 กิจกรรม Burning
-Quest Clear EXP is increased.
+クエストクリア経験値が増加する。
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1848
 กิจกรรม Burning
-Quest Clear EXP is increased.
+クエストクリア経験値が増加する。
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1849
 กิจกรรม Burning
-Quest Clear EXP is increased.
+クエストクリア経験値が増加する。
 Icon/Booster/Icon_Booster_Event_Exp1
 
 ID=1850
 กิจกรรม Burning
-EXP Gain, Zenny Gain, and Enhancement Success Rate are increased.
+経験値、ジェニー獲得量と強化の成功率が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1851
 กิจกรรม Burning
-Enhancement Success Rate is increased.
+強化の成功率が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1852
 กิจกรรม Burning
-On kill EXP, Dungeon Clear EXP, Quest Clear EXP, เพิ่มอัตราการดรอป Zenny , ไอเทม
+討伐時経験値、メイズクリア経験値、クエストクリア経験値、ジェニー獲得量、アイテムドロップ率が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=2109
-Booster Event
-เพิ่มอัตราการดรอปไอเทม
+Booster ของขวัญจะได้รับค่าประสบการณ์เพิ่มขึ้น
+อัตรา Drop ไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_item_Item1
 
 ID=2110
-Booster Event
-เพิ่มอัตราการดรอปไอเทม
+Booster ของขวัญจะได้รับค่าประสบการณ์เพิ่มขึ้น
+อัตรา Drop ไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_item_Item1
 
 ID=2111
-Booster Event
-เพิ่มอัตราการดรอปไอเทม
+Booster ของขวัญจะได้รับค่าประสบการณ์เพิ่มขึ้น
+อัตรา Drop ไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_item_Item1
 
 ID=2112
-Booster Event
-เพิ่มอัตราการดรอปไอเทม
+Booster ของขวัญจะได้รับค่าประสบการณ์เพิ่มขึ้น
+อัตรา Drop ไอเทมเพิ่มขึ้น
 Icon/Booster/Icon_Booster_item_Item1
 
 ID=1853
 กิจกรรม Burning
-On kill EXP, Enhancement Success Rate are increased.
+討伐時経験値、強化の成功率が増加するが増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=1854
 กิจกรรม Burning
-On kill EXP, Dungeon Clear EXP, Quest Clear EXP, Zenny Gain, Item Drop Rate, Enhancement Success Rate are increased.
+討伐時経験値、メイズクリア経験値、クエストクリア経験値、ジェニー獲得量、アイテムドロップ、強化の成功率が増加する。
 Icon/Booster/Icon_Booster_Event_Burning1
 
 ID=6802
-Enhance Booster [Attack Power]
-Attack is increased.
+強化ブースト[攻撃力]
+攻撃力が増加する。
 Icon/Booster/Icon_Booster_BloodPerfume
 
 ID=6803
-Enhance Booster [Defense]
-Defense is increased.
+強化ブースト[防御力]
+防御度が増加する。
 Icon/Booster/Icon_Booster_IronPerfume
 
 ID=6804
-Enhance Booster [Attack Speed]
-Increase Attack Speed
+強化ブースト[攻撃速度]
+攻撃速度が増加する。
 Icon/Booster/Icon_Booster_FlashPerfume
 
 ID=6805
-Enhance Booster [Critical Rate]
-Increase Critical Rate
+強化ブースト[クリティカル確率]
+クリティカル確率が増加する。
 Icon/Booster/Icon_Booster_LightingPerfume
 
 ID=6806
-Enhance Booster [Movement Speed]
-Increase Movement Speed
+強化ブースト[移動速度]
+移動速度が増加する。
 Icon/Booster/Icon_Booster_FlashPerfume
 
 ID=3010
-The Thing Subjugation Bonus!
-+[20%] Item Drop Rate.
+โบนัสการปราบ The Thing
+アイテムドロップ率20％増加。
 Icon/Booster/Icon_Booster_Kill_TheXing
 
 ID=3011
-The Thing Subjugation Bonus!
-+[21%] Item Drop Rate.
+โบนัสการปราบ The Thing
+アイテムドロップ率21％増加。
 Icon/Booster/Icon_Booster_Kill_TheXing
 
 ID=3012
-The Thing Subjugation Bonus!
-+[22%] Item Drop Rate, +[5%] Kill EXP Gain.
+โบนัสการปราบ The Thing
+アイテムドロップ率22％、討伐経験値5％増加。
 Icon/Booster/Icon_Booster_Kill_TheXing
 
 ID=3013
-The Thing Subjugation Bonus!
-+[22%] Item Drop Rate, +[7%] Kill EXP Gain.
+โบนัสการปราบ The Thing
+アイテムドロップ率22％、討伐経験値7％増加。
 Icon/Booster/Icon_Booster_Kill_TheXing
 
 ID=3014
-The Thing Subjugation Bonus!
-+[22%] Item Drop Rate, +[10%] Kill EXP Gain.
+โบนัสการปราบ The Thing
+アイテムドロップ率22％、討伐経験値10％増加。
 Icon/Booster/Icon_Booster_Kill_TheXing
 
 ID=3015
-The Thing Subjugation Bonus!
-+[22%] Item Drop Rate, +[15%] Kill EXP Gain.
+โบนัสการปราบ The Thing
+アイテムドロップ率22％、討伐経験値15％増加。
 Icon/Booster/Icon_Booster_Kill_TheXing
 
 ID=3020
-โบนัสการกวาดล้าง Doom!
-+[20%] Item Drop Rate.
+ザ・ドゥーム討伐ボーナス！
+アイテムドロップ率20％増加。
 Icon/Booster/Icon_Booster_Kill_TheXing
 
 ID=3021
-โบนัสการกวาดล้าง Doom!
-+[21%] Item Drop Rate, +[5%] Kill EXP Gain.
+ザ・ドゥーム討伐ボーナス！
+アイテムドロップ率21％、討伐経験値5％増加。
 Icon/Booster/Icon_Booster_Kill_TheXing
 
 ID=3022
-โบนัสการกวาดล้าง Doom!
-+[22%] Item Drop Rate, +[10%] Kill EXP Gain.
+ザ・ドゥーム討伐ボーナス！
+アイテムドロップ率22％、討伐経験値10％増加。
 Icon/Booster/Icon_Booster_Kill_TheXing
 
 ID=3023
-โบนัสการกวาดล้าง Doom!
-+[23%] Item Drop Rate, +[10%] Kill EXP Gain, +[5%] Zenny Drop.
+ザ・ドゥーム討伐ボーナス！
+アイテムドロップ率23％、討伐経験値10％、ドロップジェニー5％増加。
 Icon/Booster/Icon_Booster_Kill_TheXing
 
 ID=3024
-โบนัสการกวาดล้าง Doom!
-+[24%] Item Drop Rate, +[15%] Kill EXP Gain, +[10%] Zenny Drop.
+ザ・ドゥーム討伐ボーナス！
+アイテムドロップ率24％、討伐経験値15％、ドロップジェニー10％増加。
 Icon/Booster/Icon_Booster_Kill_TheXing
 
 ID=3025
-โบนัสการกวาดล้าง Doom!
-+[25%] Item Drop Rate, +[15%] Kill EXP Gain, +[5%] Zenny Drop, +[10%] Clear EXP Gain.
+ザ・ドゥーム討伐ボーナス！
+アイテムドロップ率25％、討伐経験値15％、ドロップジェニー5％、クリア経験値10％増加。
 Icon/Booster/Icon_Booster_Kill_TheXing

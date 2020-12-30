@@ -18,19 +18,19 @@ Invincible
 
 ID=15
 Customer Benefits
-+20% Attack & Defense.
+攻撃力と防御度がそれぞれ20%上昇する。
 Icon/Buff/Icon_Common_Buff_Reg
 อัพเกรด
 
 ID=99
-Severed Flow
--100% Defense.
+断ち切られた流れ
+キャラクターステータスの防御度が100%減少する。
 Icon/Buff/Icon_Common_Debuff_Def
 防御度減少
 
 ID=100
 Breaker
-Ignore Super Armor for 3 seconds.
+3秒間、敵のスーパーアーマーを無視する。
 Icon/Buff/Icon_Common_Buff_SABreak
 0
 
@@ -48,7 +48,7 @@ Icon/Buff/Icon_Common_Buff_SG_Recovery
 
 ID=103
 เพิ่มพูน
-+10% Attack for 10 seconds.
+10秒間、攻撃力が10%上昇する。
 Icon/Buff/Icon_Common_Buff_ATK
 0
 
@@ -120,13 +120,13 @@ Icon/Buff/Icon_Common_Buff_HP_Recovery
 
 ID=302
 Guard Crash
-+10% Attack for 10 seconds.
+10秒間、攻撃力が10%上昇する。
 Icon/Buff/Icon_Common_Buff_ATK
 เพิ่มพลังโจมตี
 
 ID=303
 Defense Mode
-+10% Defense for 10 seconds.
+10秒間、防御度が10%上昇する。
 Icon/Buff/Icon_Common_Buff_Def
 เพิ่มระดับการป้องกัน
 
@@ -137,20 +137,20 @@ Icon/Buff/Icon_Common_Buff_ASR
 เพิ่มความเร็วในการโจมตี
 
 ID=500
-Loving Captive
+愛の虜
 หลอกหลอนให้เป็นที่น่าสนใจล่อลวงเป้าหมาย 4 วินาที
 Icon/Buff/Icon_Common_Debuff_Charm
 เสน่ห์
 
 ID=504
-The Queen's Majesty
-For 5 seconds, paralysis is inflicted.
+女王の威厳
+5秒間、麻痺状態になり動けなくなる。
 Icon/Buff/Icon_Common_Debuff_Paralysis
 อัมพาต
 
 ID=600
-Self-recover
-Immediately recover damage received.
+自己回復
+受けたダメージを即時に回復する。
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 ฟื้น HP
 
@@ -396,43 +396,43 @@ Icon/Buff/Icon_Common_Debuff_Bleed
 
 ID=1401
 มึนงง
-มึนงง
+気絶効果を受ける。
 Icon/Buff/Icon_Common_Debuff_Stun
 มึนงง
 
 ID=1501
 อัมพาต
-Can't move.
+キャラクターが動けなくなる。
 Icon/Buff/Icon_Common_Debuff_Paralysis
 อัมพาต
 
 ID=1601
 หลับ
-Status effect is removed when hit while asleep.
+キャラクターが睡眠状態になり、攻撃されると状態異常が解除される。
 Icon/Buff/Icon_Common_Debuff_Sleep
 หลับ
 
 ID=1701
 เสน่ห์
-Get charmed and follows the target.
+魅惑状態になり対象に付きまとう。
 Icon/Buff/Icon_Common_Debuff_Charm
 เสน่ห์
 
 ID=1801
-Confusion
-Get confused and can't do anythin
+混乱
+混乱状態になり何もできなくなります。
 Icon/Buff/Icon_Common_Debuff_Fear
 混乱
 
 ID=1901
-Silence
-Silenced and can't use skills.
+沈黙
+沈黙状態になりスキルが使用できなくなる。
 Icon/Buff/Icon_Common_Debuff_Silence
 沈黙
 
 ID=5000
-Awakening
-+15% Damage.<br>+25% Dmg Reduction.<br>+20% Movement Speed.<br>SA State.
+覚醒
+与えるダメージ量が15%増加する。\n受けるダメージ量が25%減少する。\n移動速度が20%増加する。\nSA状態になる。
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
@@ -594,13 +594,13 @@ Icon/Buff/Icon_Common_Buff_ST_Recovery
 
 ID=5060
 イロージョン
-ダメージ減少量が25%増加する。<br>移動速度が20%増加する。<br>スーパーアーマー状態になる。
+ダメージ減少量が25%増加する。\n移動速度が20%増加する。\nスーパーアーマー状態になる。
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
 ID=5500
 覚醒
-全ての攻撃が最大ダメージを与える。<br>攻撃速度が30%増加する。<br>移動速度が20%増加する。<br>SA状態になる。
+全ての攻撃が最大ダメージを与える。\n攻撃速度が30%増加する。\n移動速度が20%増加する。\nSA状態になる。
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
@@ -906,7 +906,7 @@ Icon/Buff/Icon_Common_Buff_Sarmor
 
 ID=5590
 イロージョン
-攻撃速度が15%増加する。<br>移動速度が20%増加する。<br>スーパーアーマー状態になる。
+攻撃速度が15%増加する。\n移動速度が20%増加する。\nスーパーアーマー状態になる。
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
@@ -918,7 +918,7 @@ Icon/Buff/Icon_Common_Buff_ASR
 
 ID=6000
 覚醒
-クリティカル攻撃力が300%増加する。<br>移動速度が20%増加する。<br>SA状態になる。
+クリティカル攻撃力が300%増加する。\n移動速度が20%増加する。\nSA状態になる。
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
@@ -1086,13 +1086,13 @@ Icon/Buff/Icon_Common_Debuff_Paralysis
 
 ID=6070
 イロージョン
-クリティカル攻撃力が150%上昇する。<br>移動速度が20%増加する。<br>スーパーアーマー状態になる。
+クリティカル攻撃力が150%上昇する。\n移動速度が20%増加する。\nスーパーアーマー状態になる。
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
 ID=6500
 覚醒
-SGを毎秒15%回復する。<br>攻撃速度が30%増加する。<br>移動速度が20%増加する。<br>SA状態になる。
+SGを毎秒15%回復する。\n攻撃速度が30%増加する。\n移動速度が20%増加する。\nSA状態になる。
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
@@ -1296,61 +1296,61 @@ Icon/Buff/Icon_Common_Buff_HP_Recovery
 
 ID=6541
 ベストテンポⅠ
-攻撃速度が5%増加する。<br>移動速度が10%増加します。
+攻撃速度が5%増加する。\n移動速度が10%増加します。
 Icon/Buff/Icon_Common_Buff_ATK
 ベストテンポ
 
 ID=6542
 ベストテンポⅡ
-攻撃速度が6%増加する。<br>移動速度が12%増加します。
+攻撃速度が6%増加する。\n移動速度が12%増加します。
 Icon/Buff/Icon_Common_Buff_ATK
 ベストテンポ
 
 ID=6543
 ベストテンポⅢ
-攻撃速度が8%増加する。<br>移動速度が16%増加します。
+攻撃速度が8%増加する。\n移動速度が16%増加します。
 Icon/Buff/Icon_Common_Buff_ATK
 ベストテンポ
 
 ID=6544
 ベストテンポⅣ
-攻撃速度が10%増加する。<br>移動速度が20%増加します。
+攻撃速度が10%増加する。\n移動速度が20%増加します。
 Icon/Buff/Icon_Common_Buff_ATK
 ベストテンポ
 
 ID=6545
 ベストテンポⅤ
-攻撃速度が15%増加する。<br>移動速度が30%増加します。
+攻撃速度が15%増加する。\n移動速度が30%増加します。
 Icon/Buff/Icon_Common_Buff_ATK
 ベストテンポ
 
 ID=6546
 ベストテンポⅠ
-攻撃速度が5%増加する。<br>移動速度が10%増加します。
+攻撃速度が5%増加する。\n移動速度が10%増加します。
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 ベストテンポ
 
 ID=6547
 ベストテンポⅡ
-攻撃速度が6%増加する。<br>移動速度が12%増加します。
+攻撃速度が6%増加する。\n移動速度が12%増加します。
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 ベストテンポ
 
 ID=6548
 ベストテンポⅢ
-攻撃速度が8%増加する。<br>移動速度が16%増加します。
+攻撃速度が8%増加する。\n移動速度が16%増加します。
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 ベストテンポ
 
 ID=6549
 ベストテンポⅣ
-攻撃速度が10%増加する。<br>移動速度が20%増加します。
+攻撃速度が10%増加する。\n移動速度が20%増加します。
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 ベストテンポ
 
 ID=6550
 ベストテンポⅤ
-攻撃速度が15%増加する。<br>移動速度が30%増加します。
+攻撃速度が15%増加する。\n移動速度が30%増加します。
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 ベストテンポ
 
@@ -1410,7 +1410,7 @@ Icon/Buff/Icon_Common_Buff_ATK
 
 ID=6600
 イロージョン
-SGを毎秒8%回復する。<br>攻撃速度が15%増加する。<br>移動速度が20%増加する。<br>スーパーアーマー状態になる。
+SGを毎秒8%回復する。\n攻撃速度が15%増加する。\n移動速度が20%増加する。\nスーパーアーマー状態になる。
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
@@ -1440,7 +1440,7 @@ Icon/Buff/Icon_Common_Buff_SG_Recovery
 
 ID=7000
 覚醒
-攻撃力が100%上昇する。<br>移動速度が20%増加する。<br>SA状態になる。
+攻撃力が100%上昇する。\n移動速度が20%増加する。\nSA状態になる。
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
@@ -1590,13 +1590,13 @@ ID=7075
 
 ID=7080
 イロージョン
-攻撃力が50%上昇する。<br>移動速度が20%増加する。<br>スーパーアーマー状態になる。
+攻撃力が50%上昇する。\n移動速度が20%増加する。\nスーパーアーマー状態になる。
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
 ID=7500
 覚醒
-与えるダメージ量が15%増加する。<br>SA破壊力が30%増加する。<br>移動速度が20%増加する。<br>SA状態になる。
+与えるダメージ量が15%増加する。\nSA破壊力が30%増加する。\n移動速度が20%増加する。\nSA状態になる。
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
@@ -1710,7 +1710,7 @@ Icon/Buff/Icon_Common_Debuff_Def
 
 ID=7530
 イロージョン
-SA破壊力が15%増加する。<br>移動速度が20%増加する。<br>スーパーアーマー状態になる。
+SA破壊力が15%増加する。\n移動速度が20%増加する。\nスーパーアーマー状態になる。
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
@@ -2880,7 +2880,7 @@ HP減少
 
 ID=35011
 ฟื้น HP
-1秒ごとにHP10%2秒間維持
+1秒ごとにHP10%回復2秒間維持
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 ฟื้น HP
 
@@ -5424,37 +5424,37 @@ Icon/Buff/Icon_Common_Buff_ASR
 
 ID=55088
 オイルショック！Ⅰ
-地面からオイルが噴き上がり、2秒間<br>敵の移動速度が30%減少する。(クールタイム90秒)
+地面からオイルが噴き上がり、2秒間\n敵の移動速度が30%減少する。(クールタイム90秒)
 Icon/Buff/Icon_Common_Debuff_MSR
 移動速度減少
 
 ID=55089
 オイルショック！Ⅱ
-地面からオイルが噴き上がり、4秒間<br>敵の移動速度が30%減少する。(クールタイム90秒)
+地面からオイルが噴き上がり、4秒間\n敵の移動速度が30%減少する。(クールタイム90秒)
 Icon/Buff/Icon_Common_Debuff_MSR
 移動速度減少
 
 ID=55090
 オイルショック！Ⅲ
-地面からオイルが噴き上がり、4秒間<br>敵の移動速度が50%減少する。(クールタイム90秒)
+地面からオイルが噴き上がり、4秒間\n敵の移動速度が50%減少する。(クールタイム90秒)
 Icon/Buff/Icon_Common_Debuff_MSR
 移動速度減少
 
 ID=55091
 オイルショック！Ⅰ
-地面からオイルが噴き上がり、3秒間<br>敵の移動速度が30%減少する。(クールタイム90秒)
+地面からオイルが噴き上がり、3秒間\n敵の移動速度が30%減少する。(クールタイム90秒)
 Icon/Buff/Icon_Common_Debuff_MSR
 移動速度減少
 
 ID=55092
 オイルショック！Ⅱ
-地面からオイルが噴き上がり、5秒間<br>敵の移動速度が30%減少する。(クールタイム90秒)
+地面からオイルが噴き上がり、5秒間\n敵の移動速度が30%減少する。(クールタイム90秒)
 Icon/Buff/Icon_Common_Debuff_MSR
 移動速度減少
 
 ID=55093
 オイルショック！Ⅲ
-地面からオイルが噴き上がり、7秒間<br>敵の移動速度が70%減少する。(クールタイム90秒)
+地面からオイルが噴き上がり、7秒間\n敵の移動速度が70%減少する。(クールタイム90秒)
 Icon/Buff/Icon_Common_Debuff_MSR
 移動速度減少
 
@@ -5814,7 +5814,7 @@ HP減少
 
 ID=63029
 ฟื้น HP
-HP10%
+HP10%回復
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 ฟื้น HP
 
@@ -7554,19 +7554,19 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=6570
 ビーズプレイⅠ
-攻撃力が50%増加する。<br>クリティカル確率が5%増加する。
+攻撃力が50%増加する。\nクリティカル確率が5%増加する。
 Icon/Buff/Icon_Common_Buff_ATK
 クリティカル確率増加
 
 ID=6571
 ビーズプレイⅡ
-攻撃力が70%増加する。<br>クリティカル確率が8%増加する。
+攻撃力が70%増加する。\nクリティカル確率が8%増加する。
 Icon/Buff/Icon_Common_Buff_ATK
 クリティカル確率増加
 
 ID=6572
 ビーズプレイⅢ
-攻撃力が100%増加する。<br>クリティカル確率が15%増加する。
+攻撃力が100%増加する。\nクリティカル確率が15%増加する。
 Icon/Buff/Icon_Common_Buff_ATK
 クリティカル確率増加
 
@@ -7638,13 +7638,13 @@ Icon/Buff/Icon_Common_Buff_MSR
 
 ID=8501
 イロージョン
-最大ダメージを固定する。<br>移動速度が20%増加する。<br>SA状態になる。
+最大ダメージを固定する。\n移動速度が20%増加する。\nSA状態になる。
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
 ID=8502
 覚醒
-最大ダメージを固定する。<br>受けるダメージ量が25%減少する。<br>移動速度が20%増加する。<br>SA状態になる。
+最大ダメージを固定する。\n受けるダメージ量が25%減少する。\n移動速度が20%増加する。\nSA状態になる。
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
@@ -8178,31 +8178,31 @@ Icon/Buff/Icon_Common_Buff_ATK
 
 ID=9021
 全体強化I
-受けるダメージ量が最大35％減少、攻撃速度が4％増加します。<br>4秒後現在の数値から受けるダメージ量が7％減少、攻撃速度が4％増加します。
+受けるダメージ量が最大35％減少、攻撃速度が4％増加します。\n4秒後現在の数値から受けるダメージ量が7％減少、攻撃速度が4％増加します。
 Icon/Buff/Icon_Common_Buff_Def
 受けるダメージ減少、攻撃速度増加
 
 ID=9022
 全体強化II
-受けるダメージ量が最大28％減少、攻撃速度が8％増加します。<br>4秒後現在の数値から受けるダメージ量が7％減少、攻撃速度は4％増加します。
+受けるダメージ量が最大28％減少、攻撃速度が8％増加します。\n4秒後現在の数値から受けるダメージ量が7％減少、攻撃速度は4％増加します。
 Icon/Buff/Icon_Common_Buff_Def
 受けるダメージ減少、攻撃速度増加
 
 ID=9023
 全体強化III
-受けるダメージ量が最大21％減少、攻撃速度が12％増加します。<br>4秒後現在数値から受けるダメージ量が7％減少、攻撃速度は4％増加します。
+受けるダメージ量が最大21％減少、攻撃速度が12％増加します。\n4秒後現在数値から受けるダメージ量が7％減少、攻撃速度は4％増加します。
 Icon/Buff/Icon_Common_Buff_Def
 受けるダメージ減少、攻撃速度増加
 
 ID=9024
 全体強化IV
-受けるダメージ量が最大14％減少、攻撃速度が16％増加します。<br>4秒後現在数値から受けるダメージ量が7％減少、攻撃速度は4％増加します。
+受けるダメージ量が最大14％減少、攻撃速度が16％増加します。\n4秒後現在数値から受けるダメージ量が7％減少、攻撃速度は4％増加します。
 Icon/Buff/Icon_Common_Buff_Def
 受けるダメージ減少、攻撃速度増加
 
 ID=9025
 全体強化V
-受けるダメージ量が最大7％減少、攻撃速度が20％増加します。<br>4秒後現在数値から受けるダメージ量が7％減少、攻撃速度は4％増加します。
+受けるダメージ量が最大7％減少、攻撃速度が20％増加します。\n4秒後現在数値から受けるダメージ量が7％減少、攻撃速度は4％増加します。
 Icon/Buff/Icon_Common_Buff_Def
 受けるダメージ減少、攻撃速度増加
 
@@ -8238,13 +8238,13 @@ SG消費量減少
 
 ID=9031
 イロージョン
-ダメージ量が15％増加します。<br>移動速度が20％増加します。<br>SA状態になります。
+ダメージ量が15％増加します。\n移動速度が20％増加します。\nSA状態になります。
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
 ID=9032
 覚醒
-ダメージ量が15％増加します。<br>SA破壊量が30％増加します。<br>移動速度が20％増加します。<br>SA状態になります。
+ダメージ量が15％増加します。\nSA破壊量が30％増加します。\n移動速度が20％増加します。\nSA状態になります。
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
@@ -8370,13 +8370,13 @@ Icon/Buff/Icon_Common_Buff_HP_Recovery
 
 ID=3060
 ランダムポータルHP回復バフ
-HP10%
+HP10%回復
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 ฟื้น HP
 
 ID=3061
 ランダムポータルHP回復バフ
-HP10%
+HP10%回復
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 ฟื้น HP
 
@@ -8526,13 +8526,13 @@ Icon/Buff/Icon_Common_Buff_HP_Recovery
 
 ID=3360
 ランダムポータルHP回復バフ
-HP10%
+HP10%回復
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 ฟื้น HP
 
 ID=3361
 ランダムポータルHP回復バフ
-HP10%
+HP10%回復
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 ฟื้น HP
 
@@ -8604,9 +8604,9 @@ HP30%減少
 
 ID=31103
 回復
-HP10%
+HP10%回復
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-回復：HP10%
+回復：HP10%回復
 
 ID=31104
 治癒

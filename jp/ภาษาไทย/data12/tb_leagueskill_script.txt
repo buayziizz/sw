@@ -2,173 +2,173 @@ ID=1
 Icon/League/Skill/Icon_League_Skill_MemberIncrease
 ขยายจำนวนสมาชิก 1
 League_Person_Extend_1
-ขยายจำนวนสูงสุดของสมาชิกในกิลด์ <br>จำนวนสมาชิกสูงสุด: 25 คน
-Additional members: 5 members<br>Maximum number: 30 members
+ขยายจำนวนสูงสุดของสมาชิกในกิลด์ \nจำนวนสมาชิกสูงสุด: 25 คน
+追加人数：5名\n最大人数：30名
 
 ID=2
 Icon/League/Skill/Icon_League_Skill_MemberIncrease
-Member Expansion 2
+メンバー拡張2
 League_Person_Extend_2
-Extends the maximum number of guild members.<br>Maximum number: 30 members
-Additional members: 5 members<br>Maximum number: 35 members
+ギルドメンバーの最大人数を拡張する。\n最大人数：30名
+追加人数：5名\n最大人数：35名
 
 ID=3
 Icon/League/Skill/Icon_League_Skill_MemberIncrease
-Member Expansion 3
+メンバー拡張3
 League_Person_Extend_3
-Extends the maximum number of guild members.<br>Maximum number: 35 members
-Additional members: 5 members<br>Maximum number: 40 members
+ギルドメンバーの最大人数を拡張する。\n最大人数：35名
+追加人数：5名\n最大人数：40名
 
 ID=4
 Icon/League/Skill/Icon_League_Skill_MemberIncrease
-Member Expansion 4
+メンバー拡張4
 League_Person_Extend_4
-Extends the maximum number of guild members.<br>Maximum number: 40 members
-Additional members: 5 members<br>Maximum number: 45 members
+ギルドメンバーの最大人数を拡張する。\n最大人数：40名
+追加人数：5名\n最大人数：45名
 
 ID=5
 Icon/League/Skill/Icon_League_Skill_MemberIncrease
-Member Expansion 5
+メンバー拡張5
 League_Person_Extend_5
-Extends the maximum number of guild members.<br>Maximum number: 45 members
-Additional members: 5 members<br>Maximum number: 50 members
+ギルドメンバーの最大人数を拡張する。\n最大人数：45名
+追加人数：5名\n最大人数：50名
 
 ID=6
 Icon/League/Skill/Icon_League_Skill_MemberIncrease
-Member Expansion 6
+メンバー拡張6
 League_Person_Extend_6
-Extends the maximum number of guild members.<br>Maximum number: 50 members
-Additional members: 5 members<br>Maximum number: 55 members
+ギルドメンバーの最大人数を拡張する。\n最大人数：50名
+追加人数：5名\n最大人数：55名
 
 ID=7
 Icon/League/Skill/Icon_League_Skill_MemberIncrease
-Member Expansion 7
+メンバー拡張7
 League_Person_Extend_7
-Extends the maximum number of guild members.<br>Maximum number: 55 members
-Additional members: 5 members<br>Maximum number: 60 members
+ギルドメンバーの最大人数を拡張する。\n最大人数：55名
+追加人数：5名\n最大人数：60名
 
 ID=8
 Icon/League/Skill/Icon_League_Skill_MemberIncrease
-Member Expansion 8
+メンバー拡張8
 League_Person_Extend_8
-Extends the maximum number of guild members.<br>Maximum number: 60 members
+ギルドメンバーの最大人数を拡張する。\n最大人数：60名
 LvMax
 
 ID=9
 Icon/League/Skill/Icon_League_Skill_StorageOpen
-Guild Storage 1
+ギルド倉庫1
 League_Storage_1
-Be able to use the Guild Storage.<br>Available storage slots: 48
-Additional slots: 48<br>Available slots: 96
+ギルド倉庫を利用できる。\n利用可能な倉庫スロット：48
+追加スロット数：48\n利用可能スロット数：96
 
 ID=10
 Icon/League/Skill/Icon_League_Skill_StorageOpen
-Guild Storage 2
+ギルド倉庫2
 League_Storage_2
-Be able to use the Guild Storage.<br>Available storage slots: 96
-Additional slots: 48<br>Available slots: 144
+ギルド倉庫を利用できる。\n利用可能な倉庫スロット：96
+追加スロット数：48\n利用可能スロット数：144
 
 ID=11
 Icon/League/Skill/Icon_League_Skill_StorageOpen
-Guild Storage 3
+ギルド倉庫3
 League_Storage_3
-Be able to use the Guild Storage.<br>Available storage slots: 144
+ギルド倉庫を利用できる。\n利用可能な倉庫スロット：144
 LvMax
 
 ID=12
 Icon/League/Skill/Icon_League_Skill_CreationEmblem
-Guild Mark
+ギルドマーク
 League_Mark
-Be able to assign a Guild Mark.
+ギルドマークを指定できる。
 LvMax
 
 ID=13
 Icon/League/Skill/Icon_League_Skill_SafeHouseOpen
-Secret Base
+アジト
 League_Agit
-Be able to construct a Secret Base.
+アジトを建設できる。
 LvMax
 
 ID=14
 Icon/League/Skill/Icon_League_Skill_LeagueExpUp
-EXP Increase 1
+経験値増加1
 Exp_Up_1
-Increases the amount of EXP acquired.<br>EXP Increase: 5%<br>Acquisition Cost: 350,000
-EXP Increase: 5%<br>Total Increase: 10%<br><br>Acquisition Cost: 2,700,000
+経験値獲得量が増加する。\n経験値増加量：5%\n習得費用：350,000
+経験値増加量：5%\n総増加量：10%\n\n習得費用：2,700,000
 
 ID=15
 Icon/League/Skill/Icon_League_Skill_LeagueExpUp
-EXP Increase 2
+経験値増加2
 Exp_Up_2
-Increases the amount of EXP acquired.<br>EXP Increase: 10%
-EXP Increase: 5%<br>Total Increase: 15%<br><br>Acquisition Cost: 7,500,000
+経験値獲得量が増加する。\n経験値増加量：10%
+経験値増加量：5%\n総増加量：15%\n\n習得費用：7,500,000
 
 ID=16
 Icon/League/Skill/Icon_League_Skill_LeagueExpUp
-EXP Increase 3
+経験値増加3
 Exp_Up_3
-Increases the amount of EXP acquired.<br>EXP Increase: 15%
+経験値獲得量が増加する。\n経験値増加量：15%
 LvMax
 
 ID=17
 Icon/League/Skill/Icon_League_Skill_CredibilityUp
-Favorability Increase 1
+好感度増加1
 CraditRating_Grow_1
-Increases the favorability acquired.<br>Maximum acquired favorability increase per day: 3<br><br>Acquisition Cost: 550,000
-Maximum acquired favorability increase per day: 3<br>Total maximum acquired favorability increase per day: 6<br><br>Acquisition Cost: 3,000,000
+好感度獲得量が増加する。\n一日の最大獲得好感度増加量：3\n\n習得費用：550,000
+一日の最大獲得好感度増加量：3\n一日の総最大獲得好感度増加量：6\n\n習得費用：3,000,000
 
 ID=18
 Icon/League/Skill/Icon_League_Skill_CredibilityUp
-Favorability Increase 2
+好感度増加2
 CraditRating_Grow_2
-Increases the favorability acquired.<br>Maximum acquired favorability increase per day: 6
-Maximum acquired favorability increase per day: 4<br>Total maximum acquired favorability increase per day: 10<br><br>Acquisition Cost: 10,500,000
+好感度獲得量が増加する。\n一日の最大獲得好感度増加量：6
+一日の最大獲得好感度増加量：4\n一日の総最大獲得好感度増加量：10\n\n習得費用：10,500,000
 
 ID=19
 Icon/League/Skill/Icon_League_Skill_CredibilityUp
-Favorability Increase 3
+好感度増加3
 CraditRating_Grow_3
-Increases the favorability acquired.<br>Maximum acquired favorability increase per day: 10
+好感度獲得量が増加する。\n一日の総最大獲得好感度増加量：10
 LvMax
 
 ID=20
 Icon/League/Skill/Icon_League_Skill_RepairDiscount
-Repair Cost Discount 1
+修理費割引1
 Repair_Cost_Discount_1
-Reduces the repair costs.<br>Repair cost reduction: 3%<br><br>Acquisition Cost: 1,950,000
-Increase in reduction fee: 3%<br>Total increase in reduction fee: 6%<br><br>Acquisition Cost: 6,500,000
+修理費を割引きする。\n修理費割引：3%\n\n習得費用：1,950,000
+増加割引料：3%\n総増加割引料：6%\n\n習得費用：6,500,000
 
 ID=21
 Icon/League/Skill/Icon_League_Skill_RepairDiscount
-Repair Cost Discount 2
+修理費割引2
 Repair_Cost_Discount_2
-Reduces the repair costs.<br>Repair cost reduction: 6%
-Increase in reduction fee: 4%<br>Total increase in reduction fee: 10%<br><br>Acquisition Cost: 18,000,000
+修理費を割引きする。\n修理費割引：6%
+増加割引料：4%\n総増加割引料：10%\n\n習得費用：18,000,000
 
 ID=22
 Icon/League/Skill/Icon_League_Skill_RepairDiscount
-Repair Cost Discount 3
+修理費割引3
 Repair_Cost_Discount_3
-Reduces the repair costs.<br>Repair cost reduction: 10%
+修理費を割引きする。\n総修理費割引：10%
 LvMax
 
 ID=23
 Icon/League/Skill/Icon_League_Skill_CommissionDiscount
-Exchange Market Sales Commission Discount 1
+取引所販売手数料割引1
 CommissionDiscount_1
-Reduces sales commission of the exchange market.<br>Commission reduction: 1%<br><br>Acquisition Cost: 1,950,000
-Increase in reduction fee: 1%<br>Total increase in reduction fee: 2%<br><br>Acquisition Cost: 9,000,000
+取引所の販売手数料を割引きする。\n手数料割引：1%\n\n習得費用：1,950,000
+増加割引料：1%\n総増加割引料：2%\n\n習得費用：9,000,000
 
 ID=24
 Icon/League/Skill/Icon_League_Skill_CommissionDiscount
-Exchange Market Sales Commission Discount 2
+取引所販売手数料割引2
 CommissionDiscount_2
-Reduces sales commission of the exchange market.<br>Commission reduction: 2%
-Increase in reduction fee: 1%<br>Total increase in reduction fee: 3%<br><br>Acquisition Cost: 20,000,000
+取引所の販売手数料を割引きする。\n手数料割引：2%
+増加割引料：1%\n総増加割引料：3%\n\n習得費用：20,000,000
 
 ID=25
 Icon/League/Skill/Icon_League_Skill_CommissionDiscount
-Exchange Market Sales Commission Discount 3
+取引所販売手数料割引3
 CommissionDiscount_3
-Reduces sales commission of the exchange market.<br>Commission reduction: 3%
+取引所の販売手数料を割引きする。\n手数料割引：3%
 LvMax
